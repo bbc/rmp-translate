@@ -1,0 +1,1054 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2);\n"
+"Language: en_GB\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.7.6\n"
+
+msgid "iplayer_listen_remaining_mins"
+msgstr ""
+
+msgid "iplayer_listen_remaining_secs"
+msgstr ""
+
+msgid "iplayer_play_remaining_mins"
+msgstr ""
+
+msgid "iplayer_play_remaining_secs"
+msgstr ""
+
+msgid "iplayer_watch_remaining_mins"
+msgstr ""
+
+msgid "iplayer_watch_remaining_secs"
+msgstr ""
+
+msgid "updated_oneoff"
+msgstr ""
+
+msgid "all"
+msgstr "All"
+
+msgid "all_episodes"
+msgstr "All episodes"
+
+msgid "all_episodes_iplayer"
+msgstr "All episodes available on BBC iPlayer"
+
+msgid "all_episodes_iplayer_radio"
+msgstr "All episodes available on BBC iPlayer Radio"
+
+msgid "all_previous_episodes"
+msgstr "All previous episodes"
+
+msgid "all_upcoming"
+msgstr "All upcoming"
+
+msgid "atoz_all"
+msgstr "All Programmes"
+
+msgid "atoz_current"
+msgstr "Available now & Coming soon"
+
+msgid "atoz_letters"
+msgstr "Programmes beginning with the letter %1"
+
+msgid "atoz_nocategory"
+msgstr "Sorry, there are no programmes in this category"
+
+msgid "atoz_nocontaining"
+msgstr "Sorry, there are no programmes with titles containing %1"
+
+msgid "atoz_noresults"
+msgstr "Sorry, there are no programmes with titles beginning with %1"
+
+msgid "atoz_note"
+msgstr "Use the A to Z to find a programme by name"
+
+msgid "atoz_numbers"
+msgstr "Programmes beginning with numbers or punctuation symbols"
+
+msgid "atoz_search"
+msgstr "Search"
+
+msgid "atoz_search_title"
+msgstr "Search results for ''%1''"
+
+msgid "atoz_title"
+msgstr "A to Z"
+
+msgid "atoz_title_full"
+msgstr "Programmes A to Z"
+
+msgid "atoz_tryall"
+msgstr "Try viewing %1all%2"
+
+msgid "atoz_trycurrent"
+msgstr "Try viewing %1current%2"
+
+msgid "audio_described"
+msgstr "Audio described"
+
+msgid "available_count"
+msgid_plural "available_count %1"
+msgstr[0] "There are currently no available episodes"
+msgstr[1] "There is currently %1 available episode"
+msgstr[2] "There are currently %1 available episodes"
+
+msgid "available_count_short"
+msgid_plural "available_count_short %1"
+msgstr[0] "There are currently no available episodes"
+msgstr[1] "1 available episode"
+msgstr[2] "%1 available episodes"
+
+msgid "available_now"
+msgstr "Available now"
+
+msgid "available_on_iplayer"
+msgstr "Available on BBC iPlayer"
+
+msgid "available_on_iplayer_short"
+msgstr "On iPlayer"
+
+msgid "available_shortly"
+msgstr "This programme will be available shortly after broadcast"
+
+msgid "back_to_top_of_page"
+msgstr "Back to top"
+
+msgid "back_up_to"
+msgstr "Back up to:"
+
+msgid "broadcast_except"
+msgstr "except %1"
+
+msgid "broadcast_only_on"
+msgstr "%1 only"
+
+msgid "broadcasts"
+msgid_plural "broadcasts %1"
+msgstr[0] "Broadcasts"
+msgstr[1] "Broadcast"
+msgstr[2] "Broadcasts"
+
+msgid "broadcasts_none"
+msgstr "There are no broadcasts"
+
+msgid "broadcasts_none_date"
+msgstr "There are no broadcasts for the month and year selected"
+
+msgid "broadcasts_none_upcoming"
+msgstr "There are no upcoming broadcasts of this programme"
+
+msgid "broadcasts_none_upcoming_debut"
+msgstr "There are no upcoming debut broadcasts"
+
+msgid "buy_desc"
+msgstr "Series and episodes available from online suppliers"
+
+msgid "buy_online"
+msgstr "Buy online"
+
+msgid "buy_where"
+msgstr "Where to buy"
+
+msgid "by_date"
+msgstr "By date"
+
+msgid "by_format"
+msgstr "By format"
+
+msgid "by_genre"
+msgstr "By genre"
+
+msgid "categories"
+msgid_plural "categories %1"
+msgstr[0] "Categories"
+msgstr[1] "Category"
+msgstr[2] "Categories"
+
+msgid "category_stations_note"
+msgstr "This category can be found on the stations highlighted below"
+
+msgid "category_title"
+msgstr "Programmes categorised as %1"
+
+msgid "chapter_context"
+msgstr "This chapter is from"
+
+msgid "chapters"
+msgid_plural "chapters %1"
+msgstr[0] "Chapters"
+msgstr[1] "Chapter"
+msgstr[2] "Chapters"
+
+msgid "clip_availability_future"
+msgstr "This clip will be available soon"
+
+msgid "clip_availability_none"
+msgstr "Sorry, this clip is not currently available"
+
+msgid "clip_availability_past"
+msgstr "Sorry, this clip is no longer available"
+
+msgid "clip_context"
+msgstr "This clip is from"
+
+msgid "clips"
+msgid_plural "clips %1"
+msgstr[0] "Clips"
+msgstr[1] "Clip"
+msgstr[2] "Clips"
+
+msgid "clips_count"
+msgid_plural "clips_count %1"
+msgstr[0] "There are currently no available clips"
+msgstr[1] "There is currently 1 available clip"
+msgstr[2] "There are currently %1 available clips"
+
+msgid "colon_available_on"
+msgstr "Available on"
+
+msgid "colon_from_suppliers"
+msgstr "From suppliers"
+
+msgid "coming_soon"
+msgstr "Coming soon"
+
+msgid "comments"
+msgid_plural "comments %1"
+msgstr[0] "Comments"
+msgstr[1] "Comment"
+msgstr[2] "Comments"
+
+msgid "contact_details"
+msgid_plural "contact_details %1"
+msgstr[0] "Contact details"
+msgstr[1] "Contact detail"
+msgstr[2] "Contact details"
+
+msgid "contact_form_field"
+msgstr "Please complete this field"
+
+msgid "contact_form_mandatory"
+msgstr "indicates mandatory fields"
+
+msgid "contact_form_submit"
+msgstr "Send message"
+
+msgid "contact_form_unavailable"
+msgstr "Sorry, the contact form is currently unavailable due to a technical problem."
+
+msgid "contact_prompt"
+msgstr "Form details"
+
+msgid "contact_prompt_note"
+msgstr "Please include the following details on your message:"
+
+msgid "contact_us"
+msgstr "Contact us"
+
+msgid "credits"
+msgid_plural "credits %1"
+msgstr[0] "Credits"
+msgstr[1] "Credit"
+msgstr[2] "Credits"
+
+msgid "credits_none"
+msgstr "This programme has no credits"
+
+msgid "decade"
+msgstr "%1s"
+
+msgid "downloads"
+msgid_plural "downloads %1"
+msgstr[0] "Downloads"
+msgstr[1] "Download"
+msgstr[2] "Downloads"
+
+msgid "duration"
+msgstr "Duration: %1"
+
+msgid "episode_availability_future"
+msgstr "This episode will be available soon"
+
+msgid "episode_availability_none"
+msgstr "Sorry, this episode is not currently available"
+
+msgid "episode_availability_none_radio"
+msgstr "Sorry, this episode is not currently available on BBC iPlayer Radio"
+
+msgid "episode_availability_past"
+msgstr "Sorry, this episode is no longer available"
+
+msgid "episode_availability_past_radio"
+msgstr "Sorry, this episode is no longer available on BBC iPlayer Radio"
+
+msgid "episode_guide"
+msgstr "Episode guide"
+
+msgid "episode_number"
+msgstr "Episode %1 of %2"
+
+msgid "episode_on_iplayer"
+msgid_plural "episode_on_iplayer %1"
+msgstr[0] "Sorry, no episodes available on BBC iPlayer"
+msgstr[1] "1 episode available on BBC iPlayer"
+msgstr[2] "%1 episodes available on BBC iPlayer"
+
+msgid "episodes"
+msgid_plural "episodes %1"
+msgstr[0] "Episodes"
+msgstr[1] "Episode"
+msgstr[2] "Episodes"
+
+msgid "episodes_available"
+msgstr "Episodes available:"
+
+msgid "episodes_more_soon"
+msgstr "There will be %1 episodes. More information coming soon"
+
+msgid "episodes_none"
+msgstr "There are no episodes"
+
+msgid "fault"
+msgstr "Sorry, we couldn't access this information. Please refresh to try again."
+
+msgid "featured"
+msgstr "Featured"
+
+msgid "featured_in"
+msgstr "Featured in..."
+
+msgid "features"
+msgstr "Features"
+
+msgid "filter_by"
+msgstr "Filter by"
+
+msgid "first_episode"
+msgstr "You are at the first episode"
+
+msgid "formats"
+msgid_plural "formats %1"
+msgstr[0] "Formats"
+msgstr[1] "Format"
+msgstr[2] "Formats"
+
+msgid "formats_note"
+msgstr "Pick a format to see %1 programmes"
+
+msgid "full_schedule"
+msgstr "Full schedule"
+
+msgid "galleries"
+msgid_plural "galleries %1"
+msgstr[0] "Galleries"
+msgstr[1] "Gallery"
+msgstr[2] "Galleries"
+
+msgid "galleries_context"
+msgstr "This gallery is from"
+
+msgid "galleries_count"
+msgid_plural "galleries_count %1"
+msgstr[0] "There are currently no galleries"
+msgstr[1] "There is currently 1 gallery"
+msgstr[2] "There are currently %1 galleries"
+
+msgid "genres"
+msgid_plural "genres %1"
+msgstr[0] "Genres"
+msgstr[1] "Genre"
+msgstr[2] "Genres"
+
+msgid "genres_note"
+msgstr "Pick a genre to see %1 programmes"
+
+msgid "hide_available_episodes"
+msgstr "Hide available episodes"
+
+msgid "home"
+msgstr "Home"
+
+msgid "iplayer_listen_from_start"
+msgstr "Listen from start"
+
+msgid "iplayer_listen_live"
+msgstr "Listen live"
+
+msgid "iplayer_listen_now"
+msgstr "Listen now"
+
+msgid "iplayer_listen_remaining_days"
+msgid_plural "iplayer_listen_remaining_days %1"
+msgstr[0] "0 days left to listen"
+msgstr[1] "1 day left to listen"
+msgstr[2] "%1 days left to listen"
+
+msgid "iplayer_listen_remaining_hours"
+msgid_plural "iplayer_listen_remaining_hours %1"
+msgstr[0] "0 hours left to listen"
+msgstr[1] "1 hour left to listen"
+msgstr[2] "%1 hours left to listen"
+
+msgid "iplayer_listen_remaining_minutes"
+msgid_plural "iplayer_listen_remaining_minutes %1"
+msgstr[0] "0 minutes left to listen"
+msgstr[1] "1 minute left to listen"
+msgstr[2] "%1 minutes left to listen"
+
+msgid "iplayer_listen_remaining_months"
+msgid_plural "iplayer_listen_remaining_months %1"
+msgstr[0] "0 months left to listen"
+msgstr[1] "1 month left to listen"
+msgstr[2] "%1 months left to listen"
+
+msgid "iplayer_listen_remaining_seconds"
+msgid_plural "iplayer_listen_remaining_seconds %1"
+msgstr[0] "0 seconds left to listen"
+msgstr[1] "1 second left to listen"
+msgstr[2] "%1 seconds left to listen"
+
+msgid "iplayer_listen_remaining_weeks"
+msgid_plural "iplayer_listen_remaining_weeks %1"
+msgstr[0] "0 weeks left to listen"
+msgstr[1] "1 week left to listen"
+msgstr[2] "%1 weeks left to listen"
+
+msgid "iplayer_listen_remaining_years"
+msgstr "over a year left to listen"
+
+msgid "iplayer_play_from_start"
+msgstr "Play from start"
+
+msgid "iplayer_play_live"
+msgstr "Play live"
+
+msgid "iplayer_play_now"
+msgstr "Play now"
+
+msgid "iplayer_play_remaining_days"
+msgid_plural "iplayer_play_remaining_days %1"
+msgstr[0] "0 days left to play"
+msgstr[1] "1 day left to play"
+msgstr[2] "%1 days left to play"
+
+msgid "iplayer_play_remaining_hours"
+msgid_plural "iplayer_play_remaining_hours %1"
+msgstr[0] "0 hours left to play"
+msgstr[1] "1 hour left to play"
+msgstr[2] "%1 hours left to play"
+
+msgid "iplayer_play_remaining_minutes"
+msgid_plural "iplayer_play_remaining_minutes %1"
+msgstr[0] "0 minutes left to play"
+msgstr[1] "1 minute left to play"
+msgstr[2] "%1 minutes left to play"
+
+msgid "iplayer_play_remaining_months"
+msgid_plural "iplayer_play_remaining_months %1"
+msgstr[0] "0 months left to play"
+msgstr[1] "1 month left to play"
+msgstr[2] "%1 months left to play"
+
+msgid "iplayer_play_remaining_seconds"
+msgid_plural "iplayer_play_remaining_seconds %1"
+msgstr[0] "0 seconds left to play"
+msgstr[1] "1 second left to play"
+msgstr[2] "%1 seconds left to play"
+
+msgid "iplayer_play_remaining_weeks"
+msgid_plural "iplayer_play_remaining_weeks %1"
+msgstr[0] "0 weeks left to play"
+msgstr[1] "1 week left to play"
+msgstr[2] "%1 weeks left to play"
+
+msgid "iplayer_play_remaining_years"
+msgstr "over a year left to play"
+
+msgid "iplayer_time_days"
+msgid_plural "iplayer_time_days %1"
+msgstr[0] "0 days"
+msgstr[1] "1 day"
+msgstr[2] "%1 days"
+
+msgid "iplayer_time_hours"
+msgid_plural "iplayer_time_hours %1"
+msgstr[0] "0 hours"
+msgstr[1] "1 hour"
+msgstr[2] "%1 hours"
+
+msgid "iplayer_time_indefinitely"
+msgstr "indefinitely"
+
+msgid "iplayer_time_mins"
+msgid_plural "iplayer_time_mins %1"
+msgstr[0] "0 mins"
+msgstr[1] "1 min"
+msgstr[2] "%1 mins"
+
+msgid "iplayer_time_minutes"
+msgid_plural "iplayer_time_minutes %1"
+msgstr[0] "0 minutes"
+msgstr[1] "1 minute"
+msgstr[2] "%1 minutes"
+
+msgid "iplayer_time_months"
+msgid_plural "iplayer_time_months %1"
+msgstr[0] "0 months"
+msgstr[1] "1 month"
+msgstr[2] "%1 months"
+
+msgid "iplayer_time_seconds"
+msgid_plural "iplayer_time_seconds %1"
+msgstr[0] "0 seconds"
+msgstr[1] "1 second"
+msgstr[2] "%1 seconds"
+
+msgid "iplayer_time_secs"
+msgid_plural "iplayer_time_secs %1"
+msgstr[0] "0 secs"
+msgstr[1] "1 sec"
+msgstr[2] "%1 secs"
+
+msgid "iplayer_time_weeks"
+msgid_plural "iplayer_time_weeks %1"
+msgstr[0] "0 weeks"
+msgstr[1] "1 week"
+msgstr[2] "%1 weeks"
+
+msgid "iplayer_time_years"
+msgstr "over a year"
+
+msgid "iplayer_watch_from_start"
+msgstr "Watch from start"
+
+msgid "iplayer_watch_live"
+msgstr "Watch live"
+
+msgid "iplayer_watch_now"
+msgstr "Watch now"
+
+msgid "iplayer_watch_remaining_days"
+msgid_plural "iplayer_watch_remaining_days %1"
+msgstr[0] "0 days left to watch"
+msgstr[1] "1 day left to watch"
+msgstr[2] "%1 days left to watch"
+
+msgid "iplayer_watch_remaining_hours"
+msgid_plural "iplayer_watch_remaining_hours %1"
+msgstr[0] "0 hours left to watch"
+msgstr[1] "1 hour left to watch"
+msgstr[2] "%1 hours left to watch"
+
+msgid "iplayer_watch_remaining_minutes"
+msgid_plural "iplayer_watch_remaining_minutes %1"
+msgstr[0] "0 minutes left to watch"
+msgstr[1] "1 minute left to watch"
+msgstr[2] "%1 minutes left to watch"
+
+msgid "iplayer_watch_remaining_months"
+msgid_plural "iplayer_watch_remaining_months %1"
+msgstr[0] "0 months left to watch"
+msgstr[1] "1 month left to watch"
+msgstr[2] "%1 months left to watch"
+
+msgid "iplayer_watch_remaining_seconds"
+msgid_plural "iplayer_watch_remaining_seconds %1"
+msgstr[0] "0 seconds left to watch"
+msgstr[1] "1 second left to watch"
+msgstr[2] "%1 seconds left to watch"
+
+msgid "iplayer_watch_remaining_weeks"
+msgid_plural "iplayer_watch_remaining_weeks %1"
+msgstr[0] "0 weeks left to watch"
+msgstr[1] "1 week left to watch"
+msgstr[2] "%1 weeks left to watch"
+
+msgid "iplayer_watch_remaining_years"
+msgstr "over a year left to watch"
+
+msgid "javascript_required"
+msgstr "You must enable JavaScript to play content"
+
+msgid "language_barlesque"
+msgstr "en-GB"
+
+msgid "language_barlesque_ws"
+msgstr "false"
+
+msgid "language_code"
+msgstr "en-GB"
+
+msgid "language_direction"
+msgstr "ltr"
+
+msgid "language_locale"
+msgstr "en_GB"
+
+msgid "language_name"
+msgstr "English (UK)"
+
+msgid "last"
+msgstr "Last"
+
+msgid "last_episode"
+msgstr "You are at the last episode"
+
+msgid "last_on"
+msgstr "Last on"
+
+msgid "latest"
+msgstr "Latest"
+
+msgid "listen_in_popout_player"
+msgstr "Listen in pop-out player"
+
+msgid "live"
+msgstr "Live"
+
+msgid "live_at"
+msgstr "Live at %1"
+
+msgid "live_context"
+msgstr "This is from"
+
+msgid "local_radio"
+msgstr "Local Radio"
+
+msgid "more"
+msgstr "More"
+
+msgid "more_clips_from"
+msgstr "More clips from %1"
+
+msgid "more_episodes"
+msgstr "More episodes"
+
+msgid "more_from_bbc"
+msgstr "More results for %1 from across the BBC"
+
+msgid "more_on_radio"
+msgstr "More on Radio"
+
+msgid "more_on_tv"
+msgstr "More on TV"
+
+msgid "music_and_featured"
+msgstr "Music and featured items"
+
+msgid "music_played"
+msgstr "Music Played"
+
+msgid "national_radio"
+msgstr "National Radio"
+
+msgid "nations_radio"
+msgstr "Nations Radio"
+
+msgid "new_series"
+msgstr "New series"
+
+msgid "next"
+msgstr "Next"
+
+msgid "next_on"
+msgstr "Next on"
+
+msgid "no_information"
+msgstr "Sorry there is currently no information"
+
+msgid "now_and_next"
+msgstr "Now and next"
+
+msgid "off_air"
+msgstr "Off air"
+
+msgid "on_air"
+msgstr "On air"
+
+msgid "on_demand"
+msgstr "On demand"
+
+msgid "on_now"
+msgstr "On now"
+
+msgid "on_radio"
+msgstr "On radio"
+
+msgid "on_tv"
+msgstr "On TV"
+
+msgid "outlets"
+msgid_plural "outlets %1"
+msgstr[0] "Outlets"
+msgstr[1] "Outlet"
+msgstr[2] "Outlets"
+
+msgid "page_not_found"
+msgstr "Page not found"
+
+msgid "page_not_found_note"
+msgstr "Please check the address and try again"
+
+msgid "page_not_found_title"
+msgstr "Sorry, that page was not found"
+
+msgid "pagination_link"
+msgstr "Page %1"
+
+msgid "playlister_tagline"
+msgstr "Add music you love and enjoy it with %1"
+
+msgid "podcast_belongs"
+msgstr "This podcast belongs to"
+
+msgid "podcasts"
+msgid_plural "podcasts %1"
+msgstr[0] "Podcasts"
+msgstr[1] "Podcast"
+msgstr[2] "Podcasts"
+
+msgid "podcasts_desc"
+msgstr "Episodes to download"
+
+msgid "podcasts_suggestions"
+msgstr "Other podcasts you may like"
+
+msgid "previous"
+msgstr "Previous"
+
+msgid "profiles"
+msgid_plural "profiles %1"
+msgstr[0] "Profiles"
+msgstr[1] "Profile"
+msgstr[2] "Profiles"
+
+msgid "profiles_key_fact_data"
+msgstr "Fact data"
+
+msgid "profiles_key_fact_summary"
+msgstr "Key facts for %1"
+
+msgid "profiles_key_fact_title"
+msgstr "Fact title"
+
+msgid "profiles_none"
+msgstr "Sorry there are no profiles for %1"
+
+msgid "programme_availability_none"
+msgstr "This programme is not currently available on BBC iPlayer"
+
+msgid "programme_availability_none_radio"
+msgstr "This programme is not currently available on BBC iPlayer Radio"
+
+msgid "programme_availability_past"
+msgstr "This programme is no longer available on BBC iPlayer"
+
+msgid "programme_availability_past_radio"
+msgstr "This programme is no longer available on BBC iPlayer Radio"
+
+msgid "programme_homepage"
+msgstr "%1 homepage"
+
+msgid "programmes"
+msgid_plural "programmes %1"
+msgstr[0] "Programmes"
+msgstr[1] "Programme"
+msgstr[2] "Programmes"
+
+msgid "programmes_count"
+msgid_plural "programmes_count %2"
+msgstr[0] "No programmes"
+msgstr[1] "1 programme"
+msgstr[2] "%1 programmes"
+
+msgid "programmes_homepage"
+msgstr "BBC Programmes homepage"
+
+msgid "programmes_resume_at"
+msgstr "Programmes will resume at %1"
+
+msgid "qr_code"
+msgstr "QR code"
+
+msgid "qr_description"
+msgstr "A %1QR code%2 is a type of barcode which can contain links to webpages. Mobile phones with a camera and an appropriate application are able to read these codes and take you to the address contained within it."
+
+msgid "qr_instruction"
+msgstr "You may save, print or share the image."
+
+msgid "qr_link"
+msgstr "This code will link to the page for %1 when read using a QR code reader."
+
+msgid "recommendations_noresults"
+msgstr "Sorry, there are no recommendations for this programme."
+
+msgid "related_links"
+msgid_plural "related_links %1"
+msgstr[0] "Related Links"
+msgstr[1] "Related Link"
+msgstr[2] "Related Links"
+
+msgid "release_date"
+msgstr "Release date: %1"
+
+msgid "repeat_abbr"
+msgstr "R"
+
+msgid "repeats"
+msgid_plural "repeats %1"
+msgstr[0] "Repeats"
+msgstr[1] "Repeat"
+msgstr[2] "Repeats"
+
+msgid "schedule_begins_on"
+msgstr "Schedule begins on %1"
+
+msgid "schedule_ended_on"
+msgstr "Schedule ended on %1"
+
+msgid "schedule_title"
+msgstr "%1 schedule"
+
+msgid "schedules"
+msgid_plural "schedules %1"
+msgstr[0] "Schedules"
+msgstr[1] "Schedule"
+msgstr[2] "Schedules"
+
+msgid "schedules_boxing_day"
+msgstr "Boxing Day"
+
+msgid "schedules_calendar"
+msgstr "Calendar"
+
+msgid "schedules_calendar_note"
+msgstr "Please choose a day from the calendar"
+
+msgid "schedules_christmas_day"
+msgstr "Christmas Day"
+
+msgid "schedules_christmas_eve"
+msgstr "Christmas Eve"
+
+msgid "schedules_last_weekday"
+msgstr "Last %1"
+
+msgid "schedules_new_years_day"
+msgstr "New Year's Day"
+
+msgid "schedules_next_weekday"
+msgstr "Next %1"
+
+msgid "schedules_no_result"
+msgstr "There is no schedule for today. Please choose another day from the calendar"
+
+msgid "schedules_period_afternoon"
+msgstr "Afternoon"
+
+msgid "schedules_period_early"
+msgstr "Early"
+
+msgid "schedules_period_evening"
+msgstr "Evening"
+
+msgid "schedules_period_late"
+msgstr "Late"
+
+msgid "schedules_period_morning"
+msgstr "Morning"
+
+msgid "schedules_regional"
+msgstr "See other regional %1 variations"
+
+msgid "schedules_regional_change"
+msgstr "View %1 schedule variations"
+
+msgid "schedules_regional_changeto"
+msgstr "View %1"
+
+msgid "schedules_regional_note"
+msgstr "Please choose a region for the appropriate schedule"
+
+msgid "schedules_regional_note_radio"
+msgstr "Please choose the appropriate schedule"
+
+msgid "schedules_regional_title"
+msgstr "Regional variations for %1"
+
+msgid "schedules_regional_title_radio"
+msgstr "Schedule variations for %1"
+
+msgid "schedules_this_week"
+msgstr "This week"
+
+msgid "schedules_this_year"
+msgstr "This year"
+
+msgid "schedules_today"
+msgstr "Today"
+
+msgid "schedules_tomorrow"
+msgstr "Tomorrow"
+
+msgid "schedules_week_disclaimer"
+msgstr "not ideal for small screens"
+
+msgid "schedules_week_show"
+msgstr "Show full week"
+
+msgid "schedules_yesterday"
+msgstr "Yesterday"
+
+msgid "see_all_available_from"
+msgstr "See all %1 episodes available on BBC iPlayer"
+
+msgid "see_all_available_from_radio"
+msgstr "See all %1 episodes available"
+
+msgid "see_all_broadcasts_of"
+msgstr "See all broadcasts of %1"
+
+msgid "see_all_clips_from"
+msgstr "See all clips from %1"
+
+msgid "see_all_credits_for"
+msgstr "See all credits for %1"
+
+msgid "see_all_episodes_from"
+msgstr "See all episodes from %1"
+
+msgid "see_all_from"
+msgstr "See all from %1"
+
+msgid "see_all_galleries_from"
+msgstr "See all galleries from %1"
+
+msgid "see_all_podcasts"
+msgstr "See all podcasts"
+
+msgid "see_all_podcasts_for"
+msgstr "See all podcasts for %1"
+
+msgid "see_all_previous_episodes_from"
+msgstr "See all previous episodes from %1"
+
+msgid "see_all_upcoming_of"
+msgstr "See all upcoming broadcasts of %1"
+
+msgid "series"
+msgid_plural "series %1"
+msgstr[0] "Series"
+msgstr[1] "Series"
+msgstr[2] "Series"
+
+msgid "service_introduction"
+msgstr "Explore the links below to find %1 programmes you're interested in"
+
+msgid "show_available_episodes"
+msgstr "Show available episodes"
+
+msgid "show_less"
+msgstr "Show less"
+
+msgid "show_more"
+msgstr "Show more"
+
+msgid "signed"
+msgstr "Signed"
+
+msgid "similar_programmes"
+msgstr "Similar programmes"
+
+msgid "skip_to"
+msgstr "Skip to"
+
+msgid "stations"
+msgstr "Stations"
+
+msgid "subscribe"
+msgstr "Subscribe"
+
+msgid "subscribe_to_podcast"
+msgstr "Subscribe to podcast"
+
+msgid "tagged_available"
+msgid_plural "tagged_available %2"
+msgstr[0] "There are currently no available episodes tagged with %1"
+msgstr[1] "There is currently 1 available episode tagged with %1"
+msgstr[2] "There are currently %2 available episodes tagged with %1"
+
+msgid "television_abbr"
+msgstr "TV"
+
+msgid "timings_start_of_day"
+msgstr "Timings (where shown) are the time of the day"
+
+msgid "timings_start_of_programme"
+msgstr "Timings (where shown) are from the start of the programme in hours and minutes"
+
+msgid "topics"
+msgid_plural "topics %1"
+msgstr[0] "Topics"
+msgstr[1] "Topic"
+msgstr[2] "Topics"
+
+msgid "updated"
+msgstr "Updated:"
+
+msgid "updated_daily"
+msgstr "daily"
+
+msgid "updated_monthly"
+msgstr "monthly"
+
+msgid "updated_occasionally"
+msgstr "occasionally"
+
+msgid "updated_weekly"
+msgstr "weekly"
+
+msgid "view_all"
+msgstr "View all"
+
+msgid "view_earlier_today"
+msgstr "View earlier today"
+
+msgid "view_episodes"
+msgstr "View episodes"
+
+msgid "x_more"
+msgid_plural "x_more %1"
+msgstr[0] "No more"
+msgstr[1] "1 more"
+msgstr[2] "%1 more"
+
+msgid "x_new"
+msgid_plural "x_new %1"
+msgstr[0] "%1 new"
+msgstr[1] "1 new"
+msgstr[2] "%1 new"
+
+msgid "x_new_and_repeats"
+msgid_plural "x_new_and_repeats %2"
+msgstr[0] "%1 new and no repeats"
+msgstr[1] "%1 new and 1 repeat"
+msgstr[2] "%1 new and %2 repeats"
+
+msgid "x_total"
+msgid_plural "x_total %2"
+msgstr[0] "None total"
+msgstr[1] "1 total"
+msgstr[2] "%1 total"
+
+msgid "you_might_also_like"
+msgstr "You may also like"
