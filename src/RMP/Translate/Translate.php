@@ -2,12 +2,17 @@
 
 namespace RMP\Translate;
 
-use RMP\Translate\TranslateEvent;
-use RMP\Translate\TranslateObserverInterface;
-use Symfony\Component\Translation\MessageSelector;
 use Symfony\Component\Translation\PluralizationRules;
 use Symfony\Component\Translation\Translator;
 
+/**
+ * Class Translate
+ *
+ * Handle translation of .po files according to the specific rules
+ * and needs of /programmes (and radio?)
+ *
+ * @package RMP\Translate
+ */
 class Translate
 {
     /**

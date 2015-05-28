@@ -2,13 +2,17 @@
 
 namespace RMP\Translate;
 
-use RMP\Translate\TranslateEvent;
-use RMP\Translate\TranslateObserverInterface;
 use Symfony\Component\Translation\Loader\PoFileLoader;
 use Symfony\Component\Translation\MessageSelector;
-use Symfony\Component\Translation\PluralizationRules;
 use Symfony\Component\Translation\Translator;
 
+/**
+ * Class TranslateFactory
+ *
+ * Create instances of RMP\Translate
+ *
+ * @package RMP\Translate
+ */
 class TranslateFactory
 {
     /**
