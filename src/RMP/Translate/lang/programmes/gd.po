@@ -2,8 +2,9 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 "Language: gd_GB\n"
+"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
+"X-Loco-Target-Locale: cy_GB\n"
 
 #.All episodes
 msgid "all_episodes"
@@ -74,19 +75,21 @@ msgid "atoz_trycurrent"
 msgstr ""
 
 #.0 : There are currently no available episodes
-#.1 : There is currently %1 available episode
-#.2 : There are currently %1 available episodes
+#.1 : There is currently %count% available episode
+#.2 : There are currently %count% available episodes
 msgid "available_count"
-msgid_plural "available_count %1"
+msgid_plural "available_count %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : There are currently no available episodes
 #.1 : 1 available episode
-#.2 : %1 available episodes
+#.2 : %count% available episodes
 msgid "available_count_short"
-msgid_plural "available_count_short %1"
+msgid_plural "available_count_short %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -115,7 +118,8 @@ msgstr ""
 #.1 : Broadcast
 #.2 : Broadcasts
 msgid "broadcasts"
-msgid_plural "broadcasts %1"
+msgid_plural "broadcasts %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -164,7 +168,8 @@ msgstr ""
 #.1 : Category
 #.2 : Categories
 msgid "categories"
-msgid_plural "categories %1"
+msgid_plural "categories %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -185,7 +190,8 @@ msgstr ""
 #.1 : Chapter
 #.2 : Chapters
 msgid "chapters"
-msgid_plural "chapters %1"
+msgid_plural "chapters %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -206,16 +212,18 @@ msgstr ""
 #.1 : Clip
 #.2 : Clips
 msgid "clips"
-msgid_plural "clips %1"
+msgid_plural "clips %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : There are currently no available clips
 #.1 : There is currently 1 available clip
-#.2 : There are currently %1 available clips
+#.2 : There are currently %count% available clips
 msgid "clips_count"
-msgid_plural "clips_count %1"
+msgid_plural "clips_count %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -232,7 +240,8 @@ msgstr ""
 #.1 : Comment
 #.2 : Comments
 msgid "comments"
-msgid_plural "comments %1"
+msgid_plural "comments %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -241,7 +250,8 @@ msgstr[2] ""
 #.1 : Contact detail
 #.2 : Contact details
 msgid "contact_details"
-msgid_plural "contact_details %1"
+msgid_plural "contact_details %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -278,7 +288,8 @@ msgstr ""
 #.1 : Credit
 #.2 : Credits
 msgid "credits"
-msgid_plural "credits %1"
+msgid_plural "credits %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -295,7 +306,8 @@ msgstr ""
 #.1 : Download
 #.2 : Downloads
 msgid "downloads"
-msgid_plural "downloads %1"
+msgid_plural "downloads %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -322,9 +334,10 @@ msgstr ""
 
 #.0 : Sorry, no episodes available on BBC iPlayer
 #.1 : 1 episode available on BBC iPlayer
-#.2 : %1 episodes available on BBC iPlayer
+#.2 : %count% episodes available on BBC iPlayer
 msgid "episode_on_iplayer"
-msgid_plural "episode_on_iplayer %1"
+msgid_plural "episode_on_iplayer %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -333,7 +346,8 @@ msgstr[2] ""
 #.1 : Episode
 #.2 : Episodes
 msgid "episodes"
-msgid_plural "episodes %1"
+msgid_plural "episodes %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -366,7 +380,8 @@ msgstr ""
 #.1 : Format
 #.2 : Formats
 msgid "formats"
-msgid_plural "formats %1"
+msgid_plural "formats %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -383,7 +398,8 @@ msgstr ""
 #.1 : Gallery
 #.2 : Galleries
 msgid "galleries"
-msgid_plural "galleries %1"
+msgid_plural "galleries %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -394,9 +410,10 @@ msgstr ""
 
 #.0 : There are currently no galleries
 #.1 : There is currently 1 gallery
-#.2 : There are currently %1 galleries
+#.2 : There are currently %count% galleries
 msgid "galleries_count"
-msgid_plural "galleries_count %1"
+msgid_plural "galleries_count %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -405,7 +422,8 @@ msgstr[2] ""
 #.1 : Genre
 #.2 : Genres
 msgid "genres"
-msgid_plural "genres %1"
+msgid_plural "genres %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -428,18 +446,20 @@ msgstr ""
 
 #.0 : 0 days left to listen
 #.1 : 1 day left to listen
-#.2 : %1 days left to listen
+#.2 : %count% days left to listen
 msgid "iplayer_listen_remaining_days"
-msgid_plural "iplayer_listen_remaining_days %1"
+msgid_plural "iplayer_listen_remaining_days %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 hours left to listen
 #.1 : 1 hour left to listen
-#.2 : %1 hours left to listen
+#.2 : %count% hours left to listen
 msgid "iplayer_listen_remaining_hours"
-msgid_plural "iplayer_listen_remaining_hours %1"
+msgid_plural "iplayer_listen_remaining_hours %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -450,27 +470,30 @@ msgstr ""
 
 #.0 : 0 minutes left to listen
 #.1 : 1 minute left to listen
-#.2 : %1 minutes left to listen
+#.2 : %count% minutes left to listen
 msgid "iplayer_listen_remaining_minutes"
-msgid_plural "iplayer_listen_remaining_minutes %1"
+msgid_plural "iplayer_listen_remaining_minutes %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 months left to listen
 #.1 : 1 month left to listen
-#.2 : %1 months left to listen
+#.2 : %count% months left to listen
 msgid "iplayer_listen_remaining_months"
-msgid_plural "iplayer_listen_remaining_months %1"
+msgid_plural "iplayer_listen_remaining_months %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 seconds left to listen
 #.1 : 1 second left to listen
-#.2 : %1 seconds left to listen
+#.2 : %count% seconds left to listen
 msgid "iplayer_listen_remaining_seconds"
-msgid_plural "iplayer_listen_remaining_seconds %1"
+msgid_plural "iplayer_listen_remaining_seconds %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -481,9 +504,10 @@ msgstr ""
 
 #.0 : 0 weeks left to listen
 #.1 : 1 week left to listen
-#.2 : %1 weeks left to listen
+#.2 : %count% weeks left to listen
 msgid "iplayer_listen_remaining_weeks"
-msgid_plural "iplayer_listen_remaining_weeks %1"
+msgid_plural "iplayer_listen_remaining_weeks %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -506,18 +530,20 @@ msgstr ""
 
 #.0 : 0 days left to play
 #.1 : 1 day left to play
-#.2 : %1 days left to play
+#.2 : %count% days left to play
 msgid "iplayer_play_remaining_days"
-msgid_plural "iplayer_play_remaining_days %1"
+msgid_plural "iplayer_play_remaining_days %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 hours left to play
 #.1 : 1 hour left to play
-#.2 : %1 hours left to play
+#.2 : %count% hours left to play
 msgid "iplayer_play_remaining_hours"
-msgid_plural "iplayer_play_remaining_hours %1"
+msgid_plural "iplayer_play_remaining_hours %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -528,27 +554,30 @@ msgstr ""
 
 #.0 : 0 minutes left to play
 #.1 : 1 minute left to play
-#.2 : %1 minutes left to play
+#.2 : %count% minutes left to play
 msgid "iplayer_play_remaining_minutes"
-msgid_plural "iplayer_play_remaining_minutes %1"
+msgid_plural "iplayer_play_remaining_minutes %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 months left to play
 #.1 : 1 month left to play
-#.2 : %1 months left to play
+#.2 : %count% months left to play
 msgid "iplayer_play_remaining_months"
-msgid_plural "iplayer_play_remaining_months %1"
+msgid_plural "iplayer_play_remaining_months %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 seconds left to play
 #.1 : 1 second left to play
-#.2 : %1 seconds left to play
+#.2 : %count% seconds left to play
 msgid "iplayer_play_remaining_seconds"
-msgid_plural "iplayer_play_remaining_seconds %1"
+msgid_plural "iplayer_play_remaining_seconds %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -559,9 +588,10 @@ msgstr ""
 
 #.0 : 0 weeks left to play
 #.1 : 1 week left to play
-#.2 : %1 weeks left to play
+#.2 : %count% weeks left to play
 msgid "iplayer_play_remaining_weeks"
-msgid_plural "iplayer_play_remaining_weeks %1"
+msgid_plural "iplayer_play_remaining_weeks %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -572,18 +602,20 @@ msgstr ""
 
 #.0 : 0 days
 #.1 : 1 day
-#.2 : %1 days
+#.2 : %count% days
 msgid "iplayer_time_days"
-msgid_plural "iplayer_time_days %1"
+msgid_plural "iplayer_time_days %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 hours
 #.1 : 1 hour
-#.2 : %1 hours
+#.2 : %count% hours
 msgid "iplayer_time_hours"
-msgid_plural "iplayer_time_hours %1"
+msgid_plural "iplayer_time_hours %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -594,54 +626,60 @@ msgstr ""
 
 #.0 : 0 mins
 #.1 : 1 min
-#.2 : %1 mins
+#.2 : %count% mins
 msgid "iplayer_time_mins"
-msgid_plural "iplayer_time_mins %1"
+msgid_plural "iplayer_time_mins %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 minutes
 #.1 : 1 minute
-#.2 : %1 minutes
+#.2 : %count% minutes
 msgid "iplayer_time_minutes"
-msgid_plural "iplayer_time_minutes %1"
+msgid_plural "iplayer_time_minutes %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 months
 #.1 : 1 month
-#.2 : %1 months
+#.2 : %count% months
 msgid "iplayer_time_months"
-msgid_plural "iplayer_time_months %1"
+msgid_plural "iplayer_time_months %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 seconds
 #.1 : 1 second
-#.2 : %1 seconds
+#.2 : %count% seconds
 msgid "iplayer_time_seconds"
-msgid_plural "iplayer_time_seconds %1"
+msgid_plural "iplayer_time_seconds %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 secs
 #.1 : 1 sec
-#.2 : %1 secs
+#.2 : %count% secs
 msgid "iplayer_time_secs"
-msgid_plural "iplayer_time_secs %1"
+msgid_plural "iplayer_time_secs %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 weeks
 #.1 : 1 week
-#.2 : %1 weeks
+#.2 : %count% weeks
 msgid "iplayer_time_weeks"
-msgid_plural "iplayer_time_weeks %1"
+msgid_plural "iplayer_time_weeks %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -660,18 +698,20 @@ msgstr ""
 
 #.0 : 0 days left to watch
 #.1 : 1 day left to watch
-#.2 : %1 days left to watch
+#.2 : %count% days left to watch
 msgid "iplayer_watch_remaining_days"
-msgid_plural "iplayer_watch_remaining_days %1"
+msgid_plural "iplayer_watch_remaining_days %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 hours left to watch
 #.1 : 1 hour left to watch
-#.2 : %1 hours left to watch
+#.2 : %count% hours left to watch
 msgid "iplayer_watch_remaining_hours"
-msgid_plural "iplayer_watch_remaining_hours %1"
+msgid_plural "iplayer_watch_remaining_hours %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -682,27 +722,30 @@ msgstr ""
 
 #.0 : 0 minutes left to watch
 #.1 : 1 minute left to watch
-#.2 : %1 minutes left to watch
+#.2 : %count% minutes left to watch
 msgid "iplayer_watch_remaining_minutes"
-msgid_plural "iplayer_watch_remaining_minutes %1"
+msgid_plural "iplayer_watch_remaining_minutes %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 months left to watch
 #.1 : 1 month left to watch
-#.2 : %1 months left to watch
+#.2 : %count% months left to watch
 msgid "iplayer_watch_remaining_months"
-msgid_plural "iplayer_watch_remaining_months %1"
+msgid_plural "iplayer_watch_remaining_months %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : 0 seconds left to watch
 #.1 : 1 second left to watch
-#.2 : %1 seconds left to watch
+#.2 : %count% seconds left to watch
 msgid "iplayer_watch_remaining_seconds"
-msgid_plural "iplayer_watch_remaining_seconds %1"
+msgid_plural "iplayer_watch_remaining_seconds %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -713,9 +756,10 @@ msgstr ""
 
 #.0 : 0 weeks left to watch
 #.1 : 1 week left to watch
-#.2 : %1 weeks left to watch
+#.2 : %count% weeks left to watch
 msgid "iplayer_watch_remaining_weeks"
-msgid_plural "iplayer_watch_remaining_weeks %1"
+msgid_plural "iplayer_watch_remaining_weeks %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -820,7 +864,8 @@ msgstr ""
 #.1 : Outlet
 #.2 : Outlets
 msgid "outlets"
-msgid_plural "outlets %1"
+msgid_plural "outlets %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -853,7 +898,8 @@ msgstr ""
 #.1 : Podcast
 #.2 : Podcasts
 msgid "podcasts"
-msgid_plural "podcasts %1"
+msgid_plural "podcasts %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -870,7 +916,8 @@ msgstr ""
 #.1 : Profile
 #.2 : Profiles
 msgid "profiles"
-msgid_plural "profiles %1"
+msgid_plural "profiles %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -915,7 +962,8 @@ msgstr ""
 #.1 : Programme
 #.2 : Programmes
 msgid "programmes"
-msgid_plural "programmes %1"
+msgid_plural "programmes %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -924,7 +972,8 @@ msgstr[2] ""
 #.1 : 1 programme
 #.2 : %1 programmes
 msgid "programmes_count"
-msgid_plural "programmes_count %1"
+msgid_plural "programmes_count %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -953,7 +1002,8 @@ msgstr ""
 #.1 : Related Link
 #.2 : Related Links
 msgid "related_links"
-msgid_plural "related_links %1"
+msgid_plural "related_links %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -970,7 +1020,8 @@ msgstr ""
 #.1 : Repeat
 #.2 : Repeats
 msgid "repeats"
-msgid_plural "repeats %1"
+msgid_plural "repeats %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -991,7 +1042,8 @@ msgstr ""
 #.1 : Schedule
 #.2 : Schedules
 msgid "schedules"
-msgid_plural "schedules %1"
+msgid_plural "schedules %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -1136,7 +1188,8 @@ msgstr ""
 #.1 : Series
 #.2 : Series
 msgid "series"
-msgid_plural "series %1"
+msgid_plural "series %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -1183,9 +1236,10 @@ msgstr ""
 
 #.0 : There are currently no available episodes tagged with %1
 #.1 : There is currently 1 available episode tagged with %1
-#.2 : There are currently %2 available episodes tagged with %1
+#.2 : There are currently %count% available episodes tagged with %1
 msgid "tagged_available"
-msgid_plural "tagged_available %2"
+msgid_plural "tagged_available %count%"
+#:Parameter 2 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -1206,7 +1260,8 @@ msgstr ""
 #.1 : Topic
 #.2 : Topics
 msgid "topics"
-msgid_plural "topics %1"
+msgid_plural "topics %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -1245,27 +1300,30 @@ msgstr ""
 
 #.0 : No more
 #.1 : 1 more
-#.2 : %1 more
+#.2 : %count% more
 msgid "x_more"
-msgid_plural "x_more %1"
+msgid_plural "x_more %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#.0 : %1 new
+#.0 : %count% new
 #.1 : 1 new
-#.2 : %1 new
+#.2 : %count% new
 msgid "x_new"
-msgid_plural "x_new %1"
+msgid_plural "x_new %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : %1 new and no repeats
 #.1 : %1 new and 1 repeat
-#.2 : %1 new and %2 repeats
+#.2 : %1 new and %count% repeats
 msgid "x_new_and_repeats"
-msgid_plural "x_new_and_repeats %2"
+msgid_plural "x_new_and_repeats %count%"
+#:Parameter 2 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -1274,7 +1332,8 @@ msgstr[2] ""
 #.1 : 1 total
 #.2 : %1 total
 msgid "x_total"
-msgid_plural "x_total %1"
+msgid_plural "x_total %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""

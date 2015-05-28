@@ -2,8 +2,9 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 "Language: ga_IE\n"
+"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
+"X-Loco-Target-Locale: cy_GB\n"
 
 #.All episodes
 msgid "all_episodes"
@@ -37,7 +38,8 @@ msgstr ""
 #.1 : Comment
 #.2 : Comments
 msgid "comments"
-msgid_plural "comments %1"
+msgid_plural "comments %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -206,20 +208,22 @@ msgstr ""
 msgid "view_earlier_today"
 msgstr ""
 
-#.0 : %1 new
+#.0 : %count% new
 #.1 : 1 new
-#.2 : %1 new
+#.2 : %count% new
 msgid "x_new"
-msgid_plural "x_new %1"
+msgid_plural "x_new %count%"
+#:Parameter 1 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #.0 : %1 new and no repeats
 #.1 : %1 new and 1 repeat
-#.2 : %1 new and %2 repeats
+#.2 : %1 new and %count% repeats
 msgid "x_new_and_repeats"
-msgid_plural "x_new_and_repeats %2"
+msgid_plural "x_new_and_repeats %count%"
+#:Parameter 2 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -228,7 +232,8 @@ msgstr[2] ""
 #.1 : 1 total
 #.2 : %1 total
 msgid "x_total"
-msgid_plural "x_total %2"
+msgid_plural "x_total %count%"
+#:Parameter 2 in source
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -298,22 +303,24 @@ msgid "audio_described"
 msgstr "Cloisthuairiscithe"
 
 #.0 : There are currently no available episodes
-#.1 : There is currently %1 available episode
-#.2 : There are currently %1 available episodes
+#.1 : There is currently %count% available episode
+#.2 : There are currently %count% available episodes
 msgid "available_count"
-msgid_plural "available_count %1"
+msgid_plural "available_count %count%"
+#:Parameter 1 in source
 msgstr[0] "Níl eagrán ar bith ar fáil faoi láthair"
-msgstr[1] "Faoi láthair tá %1 eagrán ar fáil"
-msgstr[2] "Faoi láthair tá %1 eagrán ar fáil"
+msgstr[1] "Faoi láthair tá %count% eagrán ar fáil"
+msgstr[2] "Faoi láthair tá %count% eagrán ar fáil"
 
 #.0 : There are currently no available episodes
 #.1 : 1 available episode
-#.2 : %1 available episodes
+#.2 : %count% available episodes
 msgid "available_count_short"
-msgid_plural "available_count_short %1"
+msgid_plural "available_count_short %count%"
+#:Parameter 1 in source
 msgstr[0] "Níl eagrán ar bith ar fáil faoi láthair"
-msgstr[1] "Faoi láthair tá %1 eagrán ar fáil"
-msgstr[2] "Faoi láthair tá %1 eagrán ar fáil"
+msgstr[1] "Faoi láthair tá %count% eagrán ar fáil"
+msgstr[2] "Faoi láthair tá %count% eagrán ar fáil"
 
 #.Available now
 msgid "available_now"
@@ -347,7 +354,8 @@ msgstr "ar fáil ar %1 "
 #.1 : Broadcast
 #.2 : Broadcasts
 msgid "broadcasts"
-msgid_plural "broadcasts %1"
+msgid_plural "broadcasts %count%"
+#:Parameter 1 in source
 msgstr[0] "Craoltaí"
 msgstr[1] "Chraoladh"
 msgstr[2] "Craoltaí"
@@ -392,7 +400,8 @@ msgstr "De réir seánra"
 #.1 : Category
 #.2 : Categories
 msgid "categories"
-msgid_plural "categories %1"
+msgid_plural "categories %count%"
+#:Parameter 1 in source
 msgstr[0] "Catagóir"
 msgstr[1] "Catagóir "
 msgstr[2] "Catagóirí"
@@ -413,7 +422,8 @@ msgstr "Seo caibidil ó"
 #.1 : Chapter
 #.2 : Chapters
 msgid "chapters"
-msgid_plural "chapters %1"
+msgid_plural "chapters %count%"
+#:Parameter 1 in source
 msgstr[0] "Chaibidil"
 msgstr[1] "Caibidil"
 msgstr[2] "Caibidlí"
@@ -438,19 +448,21 @@ msgstr "Seo gearrthóg ó"
 #.1 : Clip
 #.2 : Clips
 msgid "clips"
-msgid_plural "clips %1"
+msgid_plural "clips %count%"
+#:Parameter 1 in source
 msgstr[0] "Ghearrthóg"
 msgstr[1] "Gearrthóg"
 msgstr[2] "Gearrthóga"
 
 #.0 : There are currently no available clips
 #.1 : There is currently 1 available clip
-#.2 : There are currently %1 available clips
+#.2 : There are currently %count% available clips
 msgid "clips_count"
-msgid_plural "clips_count %1"
+msgid_plural "clips_count %count%"
+#:Parameter 1 in source
 msgstr[0] "Níl aon ghearrthóg ar fáil faoi láthair"
 msgstr[1] "Tá 1 ghearrthóg ar fáil faoi láthair"
-msgstr[2] "Tá %1 gearrthóg ar fáil faoi láthair"
+msgstr[2] "Tá %count% gearrthóg ar fáil faoi láthair"
 
 #.Available on
 msgid "colon_available_on"
@@ -468,7 +480,8 @@ msgstr "Le theacht gan mhoill"
 #.1 : Contact detail
 #.2 : Contact details
 msgid "contact_details"
-msgid_plural "contact_details %1"
+msgid_plural "contact_details %count%"
+#:Parameter 1 in source
 msgstr[0] "Sonra teagmhála"
 msgstr[1] "Sonra teagmhála"
 msgstr[2] "Sonra teagmhála"
@@ -505,7 +518,8 @@ msgstr "Déan teagmháil linn"
 #.1 : Credit
 #.2 : Credits
 msgid "credits"
-msgid_plural "credits %1"
+msgid_plural "credits %count%"
+#:Parameter 1 in source
 msgstr[0] "Teideal Creidiúna"
 msgstr[1] "Teideal Creidiúna"
 msgstr[2] "Teidiil Chreidiúna"
@@ -518,7 +532,8 @@ msgstr "Níl teidil chreidiúna leis an chlár seo"
 #.1 : Download
 #.2 : Downloads
 msgid "downloads"
-msgid_plural "downloads %1"
+msgid_plural "downloads %count%"
+#:Parameter 1 in source
 msgstr[0] "Íoslódáil"
 msgstr[1] "Íoslódáil"
 msgstr[2] " Íoslódálacha"
@@ -557,18 +572,20 @@ msgstr "Clár %1 de %2"
 
 #.0 : Sorry, no episodes available on BBC iPlayer
 #.1 : 1 episode available on BBC iPlayer
-#.2 : %1 episodes available on BBC iPlayer
+#.2 : %count% episodes available on BBC iPlayer
 msgid "episode_on_iplayer"
-msgid_plural "episode_on_iplayer %1"
+msgid_plural "episode_on_iplayer %count%"
+#:Parameter 1 in source
 msgstr[0] "Níl aon eagrán ar fáil ar BBC iPlayer"
 msgstr[1] "1 eagrán ar fáil ar BBC iPlayer"
-msgstr[2] "%1 eagrán ar fáil ar BBC iPlayer"
+msgstr[2] "%count% eagrán ar fáil ar BBC iPlayer"
 
 #.0 : Episodes
 #.1 : Episode
 #.2 : Episodes
 msgid "episodes"
-msgid_plural "episodes %1"
+msgid_plural "episodes %count%"
+#:Parameter 1 in source
 msgstr[0] "Eagrán"
 msgstr[1] "Eagrán"
 msgstr[2] "Eagráin"
@@ -601,7 +618,8 @@ msgstr "Seo an chéad eagrán"
 #.1 : Format
 #.2 : Formats
 msgid "formats"
-msgid_plural "formats %1"
+msgid_plural "formats %count%"
+#:Parameter 1 in source
 msgstr[0] "Formáid"
 msgstr[1] "Formáid"
 msgstr[2] "Formáid"
@@ -618,7 +636,8 @@ msgstr "Sceideal iomlán"
 #.1 : Gallery
 #.2 : Galleries
 msgid "galleries"
-msgid_plural "galleries %1"
+msgid_plural "galleries %count%"
+#:Parameter 1 in source
 msgstr[0] "Gailearaí"
 msgstr[1] "Gailearaí"
 msgstr[2] "Gailearaithe"
@@ -629,18 +648,20 @@ msgstr "Seo gailearaí ó"
 
 #.0 : There are currently no galleries
 #.1 : There is currently 1 gallery
-#.2 : There are currently %1 galleries
+#.2 : There are currently %count% galleries
 msgid "galleries_count"
-msgid_plural "galleries_count %1"
+msgid_plural "galleries_count %count%"
+#:Parameter 1 in source
 msgstr[0] "Níl aon ghailearaí ar fáil faoi láthair"
 msgstr[1] "Faoi láthair tá 1 ghailearaí ann"
-msgstr[2] "Faoi láthair tá %1 ghailearaí ann"
+msgstr[2] "Faoi láthair tá %count% ghailearaí ann"
 
 #.0 : Genres
 #.1 : Genre
 #.2 : Genres
 msgid "genres"
-msgid_plural "genres %1"
+msgid_plural "genres %count%"
+#:Parameter 1 in source
 msgstr[0] "Seánra"
 msgstr[1] "Seánra"
 msgstr[2] "Seánraí"
@@ -663,54 +684,59 @@ msgstr "Éist anois"
 
 #.0 : 0 days left to listen
 #.1 : 1 day left to listen
-#.2 : %1 days left to listen
+#.2 : %count% days left to listen
 msgid "iplayer_listen_remaining_days"
-msgid_plural "iplayer_listen_remaining_days %1"
+msgid_plural "iplayer_listen_remaining_days %count%"
+#:Parameter 1 in source
 msgstr[0] "0 lá fágtha le héisteacht"
 msgstr[1] "1 lá fágtha le héisteacht"
-msgstr[2] "%1 lá fágtha leis an chlár seo a sheinm"
+msgstr[2] "%count% lá fágtha leis an chlár seo a sheinm"
 
 #.0 : 0 hours left to listen
 #.1 : 1 hour left to listen
-#.2 : %1 hours left to listen
+#.2 : %count% hours left to listen
 msgid "iplayer_listen_remaining_hours"
-msgid_plural "iplayer_listen_remaining_hours %1"
+msgid_plural "iplayer_listen_remaining_hours %count%"
+#:Parameter 1 in source
 msgstr[0] "0 uair an chloig fágtha le héisteacht"
 msgstr[1] "1 uair an chloig fágtha le héisteacht"
-msgstr[2] "%1 uair an chloig fágtha leis an chlár seo a sheinm"
+msgstr[2] "%count% uair an chloig fágtha leis an chlár seo a sheinm"
 
 #.0 : 0 minutes left to listen
 #.1 : 1 minute left to listen
-#.2 : %1 minutes left to listen
+#.2 : %count% minutes left to listen
 msgid "iplayer_listen_remaining_minutes"
-msgid_plural "iplayer_listen_remaining_minutes %1"
+msgid_plural "iplayer_listen_remaining_minutes %count%"
+#:Parameter 1 in source
 msgstr[0] "0 nóiméad fágtha le héisteacht"
 msgstr[1] "1 nóiméad fágtha le héisteacht"
-msgstr[2] "%1 nóiméad fágtha leis an chlár seo a sheinm"
+msgstr[2] "%count% nóiméad fágtha leis an chlár seo a sheinm"
 
 #.0 : 0 months left to listen
 #.1 : 1 month left to listen
-#.2 : %1 months left to listen
+#.2 : %count% months left to listen
 msgid "iplayer_listen_remaining_months"
 msgstr "{0,choice,0#0 mí fágtha le héisteacht|1#1 mhí fágtha le héisteacht|1<%1 mhí fágtha leis an chlár seo a sheinm"
 
 #.0 : 0 seconds left to listen
 #.1 : 1 second left to listen
-#.2 : %1 seconds left to listen
+#.2 : %count% seconds left to listen
 msgid "iplayer_listen_remaining_seconds"
-msgid_plural "iplayer_listen_remaining_seconds %1"
+msgid_plural "iplayer_listen_remaining_seconds %count%"
+#:Parameter 1 in source
 msgstr[0] "0 soicind fágtha le héisteacht"
 msgstr[1] "1 soicind fágtha le héisteacht"
-msgstr[2] "%1 shoicind fágtha leis an chlár seo a sheinm"
+msgstr[2] "%count% shoicind fágtha leis an chlár seo a sheinm"
 
 #.0 : 0 weeks left to listen
 #.1 : 1 week left to listen
-#.2 : %1 weeks left to listen
+#.2 : %count% weeks left to listen
 msgid "iplayer_listen_remaining_weeks"
-msgid_plural "iplayer_listen_remaining_weeks %1"
+msgid_plural "iplayer_listen_remaining_weeks %count%"
+#:Parameter 1 in source
 msgstr[0] "0 seachtaine fágtha le héisteacht"
 msgstr[1] "1 seachtaine fágtha le héisteacht"
-msgstr[2] "%1 sheachtaine fágtha leis an chlár seo a sheinm"
+msgstr[2] "%count% sheachtaine fágtha leis an chlár seo a sheinm"
 
 #.over a year left to listen
 msgid "iplayer_listen_remaining_years"
@@ -726,57 +752,63 @@ msgstr "Seinn anois"
 
 #.0 : 0 days left to play
 #.1 : 1 day left to play
-#.2 : %1 days left to play
+#.2 : %count% days left to play
 msgid "iplayer_play_remaining_days"
-msgid_plural "iplayer_play_remaining_days %1"
+msgid_plural "iplayer_play_remaining_days %count%"
+#:Parameter 1 in source
 msgstr[0] "0 lá fágtha le seinm"
 msgstr[1] "1 lá fágtha le seinm"
-msgstr[2] "%1 lá fágtha le seinm"
+msgstr[2] "%count% lá fágtha le seinm"
 
 #.0 : 0 hours left to play
 #.1 : 1 hour left to play
-#.2 : %1 hours left to play
+#.2 : %count% hours left to play
 msgid "iplayer_play_remaining_hours"
-msgid_plural "iplayer_play_remaining_hours %1"
+msgid_plural "iplayer_play_remaining_hours %count%"
+#:Parameter 1 in source
 msgstr[0] "0 uair an chloig fágtha le seinm"
 msgstr[1] "1 uair an chloig fágtha le seinm"
-msgstr[2] "%1 uair an chloig fágtha le seinm"
+msgstr[2] "%count% uair an chloig fágtha le seinm"
 
 #.0 : 0 minutes left to play
 #.1 : 1 minute left to play
-#.2 : %1 minutes left to play
+#.2 : %count% minutes left to play
 msgid "iplayer_play_remaining_minutes"
-msgid_plural "iplayer_play_remaining_minutes %1"
+msgid_plural "iplayer_play_remaining_minutes %count%"
+#:Parameter 1 in source
 msgstr[0] "0 nóiméad fágtha le seinm"
 msgstr[1] "1 nóiméad fágtha le seinm"
-msgstr[2] "%1 nóiméad fágtha le seinm"
+msgstr[2] "%count% nóiméad fágtha le seinm"
 
 #.0 : 0 months left to play
 #.1 : 1 month left to play
-#.2 : %1 months left to play
+#.2 : %count% months left to play
 msgid "iplayer_play_remaining_months"
-msgid_plural "iplayer_play_remaining_months %1"
+msgid_plural "iplayer_play_remaining_months %count%"
+#:Parameter 1 in source
 msgstr[0] "0 mí fágtha le seinm"
 msgstr[1] "1 mhí fágtha le seinm"
-msgstr[2] "%1 mhí fágtha le seinm"
+msgstr[2] "%count% mhí fágtha le seinm"
 
 #.0 : 0 seconds left to play
 #.1 : 1 second left to play
-#.2 : %1 seconds left to play
+#.2 : %count% seconds left to play
 msgid "iplayer_play_remaining_seconds"
-msgid_plural "iplayer_play_remaining_seconds %1"
+msgid_plural "iplayer_play_remaining_seconds %count%"
+#:Parameter 1 in source
 msgstr[0] "0 soicind fágtha le seinm"
 msgstr[1] "1 soicind fágtha le seinm"
-msgstr[2] "%1 shoicind fágtha le seinm"
+msgstr[2] "%count% shoicind fágtha le seinm"
 
 #.0 : 0 weeks left to play
 #.1 : 1 week left to play
-#.2 : %1 weeks left to play
+#.2 : %count% weeks left to play
 msgid "iplayer_play_remaining_weeks"
-msgid_plural "iplayer_play_remaining_weeks %1"
+msgid_plural "iplayer_play_remaining_weeks %count%"
+#:Parameter 1 in source
 msgstr[0] "0 seachtaine fágtha le seinm"
 msgstr[1] "1 seachtaine fágtha le seinm"
-msgstr[2] "%1 sheachtaine fágtha le seinm"
+msgstr[2] "%count% sheachtaine fágtha le seinm"
 
 #.over a year left to play
 msgid "iplayer_play_remaining_years"
@@ -784,75 +816,83 @@ msgstr "níos mó na bliain fágtha le seinm"
 
 #.0 : 0 days
 #.1 : 1 day
-#.2 : %1 days
+#.2 : %count% days
 msgid "iplayer_time_days"
-msgid_plural "iplayer_time_days %1"
+msgid_plural "iplayer_time_days %count%"
+#:Parameter 1 in source
 msgstr[0] "0 lá"
 msgstr[1] "1 lá"
-msgstr[2] "%1 lá"
+msgstr[2] "%count% lá"
 
 #.0 : 0 hours
 #.1 : 1 hour
-#.2 : %1 hours
+#.2 : %count% hours
 msgid "iplayer_time_hours"
-msgid_plural "iplayer_time_hours %1"
+msgid_plural "iplayer_time_hours %count%"
+#:Parameter 1 in source
 msgstr[0] "0 uair"
 msgstr[1] "1 uair"
-msgstr[2] "%1 uair"
+msgstr[2] "%count% uair"
 
 #.0 : 0 mins
 #.1 : 1 min
-#.2 : %1 mins
+#.2 : %count% mins
 msgid "iplayer_time_mins"
-msgid_plural "iplayer_time_mins %1"
+msgid_plural "iplayer_time_mins %count%"
+#:Parameter 1 in source
 msgstr[0] "0 nóim"
 msgstr[1] "1 nóim"
-msgstr[2] "%1 nóim"
+msgstr[2] "%count% nóim"
 
 #.0 : 0 minutes
 #.1 : 1 minute
-#.2 : %1 minutes
+#.2 : %count% minutes
 msgid "iplayer_time_minutes"
-msgid_plural "iplayer_time_minutes %1"
+msgid_plural "iplayer_time_minutes %count%"
+#:Parameter 1 in source
 msgstr[0] "0 nóiméad"
 msgstr[1] "1 nóiméad"
-msgstr[2] "%1 nóiméad"
+msgstr[2] "%count% nóiméad"
 
 #.0 : 0 months
 #.1 : 1 month
-#.2 : %1 months
+#.2 : %count% months
 msgid "iplayer_time_months"
-msgid_plural "iplayer_time_months %1"
+msgid_plural "iplayer_time_months %count%"
+#:Parameter 1 in source
 msgstr[0] "0 mí"
 msgstr[1] "1 mhí"
-msgstr[2] "%1 mí"
+msgstr[2] "%count% mí"
 
 #.0 : 0 seconds
 #.1 : 1 second
-#.2 : %1 seconds
+#.2 : %count% seconds
 msgid "iplayer_time_seconds"
-msgid_plural "iplayer_time_seconds %1"
+msgid_plural "iplayer_time_seconds %count%"
+#:Parameter 1 in source
 msgstr[0] "0 soicind"
 msgstr[1] "1 soicind"
-msgstr[2] "%1 shoicind"
+msgstr[2] "%count% shoicind"
 
 #.0 : 0 secs
 #.1 : 1 sec
-#.2 : %1 secs
+#.2 : %count% secs
 msgid "iplayer_time_secs"
-msgid_plural "iplayer_time_secs %1"
+msgid_plural "iplayer_time_secs %count%"
+#:Parameter 1 in source
 msgstr[0] "0 soic"
 msgstr[1] "1 soic"
-msgstr[2] "%1 shoic"
+msgstr[2] "%count% shoic"
 
 #.0 : 0 weeks
 #.1 : 1 week
-#.2 : %1 weeks
+#.2 : %count% weeks
 msgid "iplayer_time_weeks"
-msgid_plural "iplayer_time_weeks %1"
+msgid_plural "iplayer_time_weeks %count%"
+#:Parameter 1 in source
 msgstr[0] "0 seachtaine"
 msgstr[1] "1 seachtaine"
-msgstr[2] "%1 seachtaine"
+msgstr[2] "%count% seachtaine"
 
 #.over a year
 msgid "iplayer_time_years"
@@ -872,57 +912,63 @@ msgstr "Coimhéad anois"
 
 #.0 : 0 days left to watch
 #.1 : 1 day left to watch
-#.2 : %1 days left to watch
+#.2 : %count% days left to watch
 msgid "iplayer_watch_remaining_days"
-msgid_plural "iplayer_watch_remaining_days %1"
+msgid_plural "iplayer_watch_remaining_days %count%"
+#:Parameter 1 in source
 msgstr[0] "0 lá fágtha le coimhéad"
 msgstr[1] "1 lá fágtha le coimhéad"
-msgstr[2] "%1 lá fágtha le coimhéad"
+msgstr[2] "%count% lá fágtha le coimhéad"
 
 #.0 : 0 hours left to watch
 #.1 : 1 hour left to watch
-#.2 : %1 hours left to watch
+#.2 : %count% hours left to watch
 msgid "iplayer_watch_remaining_hours"
-msgid_plural "iplayer_watch_remaining_hours %1"
+msgid_plural "iplayer_watch_remaining_hours %count%"
+#:Parameter 1 in source
 msgstr[0] "0 uair an chloig fágtha le coimhéad"
 msgstr[1] "1 uair an chloig fágtha le coimhéad"
-msgstr[2] "%1 uair an chloig fágtha le coimhéad"
+msgstr[2] "%count% uair an chloig fágtha le coimhéad"
 
 #.0 : 0 minutes left to watch
 #.1 : 1 minute left to watch
-#.2 : %1 minutes left to watch
+#.2 : %count% minutes left to watch
 msgid "iplayer_watch_remaining_minutes"
-msgid_plural "iplayer_watch_remaining_minutes %1"
+msgid_plural "iplayer_watch_remaining_minutes %count%"
+#:Parameter 1 in source
 msgstr[0] "0 nóiméad fágtha le coimhéad"
 msgstr[1] "1 nóiméad fágtha le coimhéad"
-msgstr[2] "%1 nóiméad fágtha le coimhéad"
+msgstr[2] "%count% nóiméad fágtha le coimhéad"
 
 #.0 : 0 months left to watch
 #.1 : 1 month left to watch
-#.2 : %1 months left to watch
+#.2 : %count% months left to watch
 msgid "iplayer_watch_remaining_months"
-msgid_plural "iplayer_watch_remaining_months %1"
+msgid_plural "iplayer_watch_remaining_months %count%"
+#:Parameter 1 in source
 msgstr[0] "0 mí fágtha le coimhéad"
 msgstr[1] "1 mhí fágtha le coimhéad"
-msgstr[2] "%1 mhí fágtha le coimhéad"
+msgstr[2] "%count% mhí fágtha le coimhéad"
 
 #.0 : 0 seconds left to watch
 #.1 : 1 second left to watch
-#.2 : %1 seconds left to watch
+#.2 : %count% seconds left to watch
 msgid "iplayer_watch_remaining_seconds"
-msgid_plural "iplayer_watch_remaining_seconds %1"
+msgid_plural "iplayer_watch_remaining_seconds %count%"
+#:Parameter 1 in source
 msgstr[0] "0 soicind fágtha le coimhéad"
 msgstr[1] "1 soicind fágtha le coimhéad"
-msgstr[2] "%1 shoicind fágtha le coimhéad"
+msgstr[2] "%count% shoicind fágtha le coimhéad"
 
 #.0 : 0 weeks left to watch
 #.1 : 1 week left to watch
-#.2 : %1 weeks left to watch
+#.2 : %count% weeks left to watch
 msgid "iplayer_watch_remaining_weeks"
-msgid_plural "iplayer_watch_remaining_weeks %1"
+msgid_plural "iplayer_watch_remaining_weeks %count%"
+#:Parameter 1 in source
 msgstr[0] "0 seachtaine fágtha le coimhéad"
 msgstr[1] "1 seachtaine fágtha le coimhéad"
-msgstr[2] "%1sheachtaine fágtha le coimhéad"
+msgstr[2] "%count%sheachtaine fágtha le coimhéad"
 
 #.over a year left to watch
 msgid "iplayer_watch_remaining_years"
@@ -1072,7 +1118,8 @@ msgstr "Ar Teilifís"
 #.1 : Outlet
 #.2 : Outlets
 msgid "outlets"
-msgid_plural "outlets %1"
+msgid_plural "outlets %count%"
+#:Parameter 1 in source
 msgstr[0] "Asraon"
 msgstr[1] "Asraon"
 msgstr[2] "Asraon"
@@ -1093,7 +1140,8 @@ msgstr "Níor aimsíodh an leathanach sin"
 #.1 : Podcast
 #.2 : Podcasts
 msgid "podcasts"
-msgid_plural "podcasts %1"
+msgid_plural "podcasts %count%"
+#:Parameter 1 in source
 msgstr[0] "Podchraoltaí"
 msgstr[1] "Podchraoladh"
 msgstr[2] "Podchraoltaí"
@@ -1110,7 +1158,8 @@ msgstr "Siar"
 #.1 : Profile
 #.2 : Profiles
 msgid "profiles"
-msgid_plural "profiles %1"
+msgid_plural "profiles %count%"
+#:Parameter 1 in source
 msgstr[0] "Próifíl"
 msgstr[1] "Phróifíl"
 msgstr[2] "Próifíll"
@@ -1143,7 +1192,8 @@ msgstr "%1 leathanach baile"
 #.1 : Programme
 #.2 : Programmes
 msgid "programmes"
-msgid_plural "programmes %1"
+msgid_plural "programmes %count%"
+#:Parameter 1 in source
 msgstr[0] "Clár"
 msgstr[1] "Chlár"
 msgstr[2] "Chlár"
@@ -1152,7 +1202,8 @@ msgstr[2] "Chlár"
 #.1 : 1 programme
 #.2 : %1 programmes
 msgid "programmes_count"
-msgid_plural "programmes_count %2"
+msgid_plural "programmes_count %count%"
+#:Parameter 2 in source
 msgstr[0] "Gan chlár"
 msgstr[1] "1 chlár"
 msgstr[2] "%1 cláir"
@@ -1185,7 +1236,8 @@ msgstr "Déanfaidh an cód seo nasc chuig an leathanach do %1 má bhíonn léith
 #.1 : Related Link
 #.2 : Related Links
 msgid "related_links"
-msgid_plural "related_links %1"
+msgid_plural "related_links %count%"
+#:Parameter 1 in source
 msgstr[0] "Naisc ghaolmhara"
 msgstr[1] "Nasc gaolmhar"
 msgstr[2] "Nasc gaolmhar"
@@ -1202,7 +1254,8 @@ msgstr "R"
 #.1 : Repeat
 #.2 : Repeats
 msgid "repeats"
-msgid_plural "repeats %1"
+msgid_plural "repeats %count%"
+#:Parameter 1 in source
 msgstr[0] "Athchraoladh"
 msgstr[1] "Athchraoladh"
 msgstr[2] "Athchraoltaí"
@@ -1223,7 +1276,8 @@ msgstr "Sceideal %1"
 #.1 : Schedule
 #.2 : Schedules
 msgid "schedules"
-msgid_plural "schedules %1"
+msgid_plural "schedules %count%"
+#:Parameter 1 in source
 msgstr[0] "Sceideal"
 msgstr[1] "Sceideal"
 msgstr[2] "Sceidil"
@@ -1364,7 +1418,8 @@ msgstr "Féach gach craoladh de %1 atá ag teacht aníos"
 #.1 : Series
 #.2 : Series
 msgid "series"
-msgid_plural "series %1"
+msgid_plural "series %count%"
+#:Parameter 1 in source
 msgstr[0] "Sraith"
 msgstr[1] "Sraith"
 msgstr[2] "Shraith"
@@ -1399,12 +1454,13 @@ msgstr "Stáisiúin"
 
 #.0 : There are currently no available episodes tagged with %1
 #.1 : There is currently 1 available episode tagged with %1
-#.2 : There are currently %2 available episodes tagged with %1
+#.2 : There are currently %count% available episodes tagged with %1
 msgid "tagged_available"
-msgid_plural "tagged_available %2"
+msgid_plural "tagged_available %count%"
+#:Parameter 2 in source
 msgstr[0] "Níl eagrán ar bith atá clibeáilte le %1 ar fáil faoi láthair"
-msgstr[1] "Tá %2 eagrán atá clibeáilte le %1 ar fáil faoi láthair"
-msgstr[2] "Tá %2 eagrán  atá clibeáilte le %1 ar fáil faoi láthair"
+msgstr[1] "Tá %count% eagrán atá clibeáilte le %1 ar fáil faoi láthair"
+msgstr[2] "Tá %count% eagrán  atá clibeáilte le %1 ar fáil faoi láthair"
 
 #.TV
 msgid "television_abbr"
@@ -1422,7 +1478,8 @@ msgstr "Tá na hamanna (nuair a léirítear iad) in uaireanta agus nóiméid ó 
 #.1 : Topic
 #.2 : Topics
 msgid "topics"
-msgid_plural "topics %1"
+msgid_plural "topics %count%"
+#:Parameter 1 in source
 msgstr[0] "Toipicí"
 msgstr[1] "Toipic"
 msgstr[2] "Toipicí"
@@ -1437,12 +1494,13 @@ msgstr "Féach eagráin"
 
 #.0 : No more
 #.1 : 1 more
-#.2 : %1 more
+#.2 : %count% more
 msgid "x_more"
-msgid_plural "x_more %1"
-msgstr[0] "%1 níos mó"
-msgstr[1] "%1 níos mó"
-msgstr[2] "%1 níos mó"
+msgid_plural "x_more %count%"
+#:Parameter 1 in source
+msgstr[0] "%count% níos mó"
+msgstr[1] "%count% níos mó"
+msgstr[2] "%count% níos mó"
 
 #.You may also like
 msgid "you_might_also_like"

@@ -40,15 +40,17 @@ class BBCPoFileDumper extends \Symfony\Component\Translation\Dumper\FileDumper
     /**
      * {@inheritdoc}
      */
-    public function format(MessageCatalogue $messages, $domain = 'messages', MessageCatalogue $defaultMessages = null)
+    public function format(MessageCatalogue $messages, $domain = 'messages', MessageCatalogue $defaultMessages = null, $createBlank = false)
     {
         $output = 'msgid ""'."\n";
         $output .= 'msgstr ""'."\n";
         $output .= '"Content-Type: text/plain; charset=UTF-8\n"'."\n";
         $output .= '"Content-Transfer-Encoding: 8bit\n"'."\n";
+        $output .= '"Language: '.$messages->getLocale().'\n"'."\n";
         // 3 Plural form. Some languages can have more than 3 plural forms, this may need tweaking for those
         $output .= '"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"'."\n";
-        $output .= '"Language: '.$messages->getLocale().'\n"'."\n";
+        // This makes https://localise.biz/free/poeditor accept 3 plural forms. Yay for hacks.
+        $output .= '"X-Loco-Target-Locale: cy_GB\n"'."\n";
         $output .= "\n";
 
         $newLine = false;
@@ -61,6 +63,8 @@ class BBCPoFileDumper extends \Symfony\Component\Translation\Dumper\FileDumper
             $blankTranslations = false;
             if (preg_match('/^UNTRANSLATED/', $source)) {
                 $source = preg_replace('/^UNTRANSLATED_?/', '', $source);
+                $blankTranslations = true;
+            } elseif ($createBlank) {
                 $blankTranslations = true;
             }
             $target = $this->fixPlaceHolders($target);
@@ -82,7 +86,8 @@ class BBCPoFileDumper extends \Symfony\Component\Translation\Dumper\FileDumper
             list($pluralVarIndex, $pluralMessages) = $this->getPluralisedForms($target);
             if (!empty($pluralMessages)) {
                 // Output plural ID
-                $output .= sprintf('msgid_plural "%s %%%d"'."\n", $this->escape($source), $pluralVarIndex);
+                $output .= sprintf('msgid_plural "%s %%count%%"'."\n", $this->escape($source));
+                $output .= sprintf('#:Parameter %d in source'."\n", $pluralVarIndex);
                 // Output plural forms
                 foreach ($pluralMessages as $index => $msg) {
                     if ($blankTranslations) {
@@ -135,6 +140,7 @@ class BBCPoFileDumper extends \Symfony\Component\Translation\Dumper\FileDumper
                 } else {
                     throw new RuntimeException("Invalid or unrecognised messageformat string ($plural) in $target");
                 }
+                $msg = strtr($msg, array('%'.$pluralVarIndex =>'%count%'));
                 $pluralMessages[$index] = $msg;
             }
             return array($pluralVarIndex, $pluralMessages);
@@ -157,13 +163,14 @@ class BBCPoFileDumper extends \Symfony\Component\Translation\Dumper\FileDumper
 }
 // MAIN
 if (empty($argv[1]) || empty($argv[2]) || empty($argv[3])) {
-    echo 'msgformat2po.php $locale $bundlePath $outputFilePath'."\n";
+    echo 'msgformat2po.php $locale $bundlePath $outputFilePath $createBlankTrFile'."\n";
     exit(1);
 }
 define('DEFAULT_LOCALE', 'en_GB');
 $locale = $argv[1];
 $bundlePath = $argv[2];
 $outPath = $argv[3];
+$createBlankTrFile = (!empty($argv[4]) && $argv[4] && $argv[4] != 'false') ? true : false;
 $outputHandle = fopen($outPath, 'w');
 if ($outputHandle === false) {
     echo "Error could not open file $outPath for writing\n";
@@ -180,6 +187,6 @@ if ($locale != DEFAULT_LOCALE) {
     $defaultCatalogue = $translate->getCatalogue(DEFAULT_LOCALE);
 }
 $dumper = new BBCPoFileDumper();
-fwrite($outputHandle, $dumper->format($translate->getCatalogue($locale), 'messages', $defaultCatalogue));
+fwrite($outputHandle, $dumper->format($translate->getCatalogue($locale), 'messages', $defaultCatalogue, $createBlankTrFile));
 fclose($outputHandle);
 echo "All done here. Output at $outPath\n";

@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
+"Language: en_GB\n"
+
+msgid "test_key_1"
+msgstr "Test Value 1(otherdomain, english)"
+
+msgid "test_plural_1"
+msgid_plural "test_plural_1 %count%"
+msgstr[0] "Current sanity level: None(otherdomain, english)"
+msgstr[1] "Current sanity level One Percent. Good work.(otherdomain, english)"
+msgstr[2] "Current sanity level %count%%%(otherdomain, english)"
+
+msgid "test_placeholder_1"
+msgstr "You have been replaced with %1(otherdomain, english)"
+
+msgid "test_englishonly_1"
+msgstr "This should always be in english(otherdomain, english)"
+
+msgid "test_otherdomain_only_1"
+msgstr "Some text(otherdomain, english)"

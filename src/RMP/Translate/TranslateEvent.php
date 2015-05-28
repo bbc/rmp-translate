@@ -20,7 +20,6 @@ class TranslateEvent
      */
     const FALLBACK = 'Fallback translation used';
     const MISSING = 'Missing translation';
-    const FILENOTFOUND = 'File not found';
 
     /**
      * @var string $eventTYpe
