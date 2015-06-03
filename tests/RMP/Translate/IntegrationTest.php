@@ -28,6 +28,7 @@ class IntegrationTest extends \PHPUnit_Framework_TestCase
     {
         $options = array(
             'basepath' => __DIR__ . DIRECTORY_SEPARATOR . 'lang',
+            'domains' => array('messages'),
         );
         $translate = $this->factory->create('en_GB', $options);
         $value = $translate->translate('test_key_1');
@@ -41,6 +42,7 @@ class IntegrationTest extends \PHPUnit_Framework_TestCase
     {
         $options = array(
             'basepath' => __DIR__ . DIRECTORY_SEPARATOR . 'lang',
+            'domains' => array('messages'),
         );
         $translate = $this->factory->create('en_GB', $options);
         $translation = $translate->translate($key, $subst, $num);
@@ -61,6 +63,7 @@ class IntegrationTest extends \PHPUnit_Framework_TestCase
     {
         $options = array(
             'basepath' => __DIR__ . DIRECTORY_SEPARATOR . 'lang',
+            'domains' => array('messages'),
         );
         $translate = $this->factory->create('en_GB', $options);
         $translation = $translate->translate('test_placeholder_1', array('%1'=>'a very small shell script'));
@@ -75,6 +78,7 @@ class IntegrationTest extends \PHPUnit_Framework_TestCase
         $options = array(
             'basepath' => __DIR__ . DIRECTORY_SEPARATOR . 'lang',
             'fallback_locale' => 'en_GB',
+            'domains' => array('messages'),
         );
         $translate = $this->factory->create('ru_RU', $options);
         $translation = $translate->translate($key, $subst, $num);

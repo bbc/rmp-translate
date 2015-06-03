@@ -36,9 +36,9 @@ class TranslateFactory
             // Set to true to enable cache invalidation by Symfony
             'debug' => false,
             // List all domains (translation sets) you want to load
-            'default_domain' => 'messages',
+            'default_domain' => 'programmes',
             // List all domains (translation sets) you want to load
-            'domains' => array('messages')
+            'domains' => array('programmes')
         );
         $options = array_merge($defaultOptions, $options);
 

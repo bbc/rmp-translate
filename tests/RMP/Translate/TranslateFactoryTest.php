@@ -37,6 +37,7 @@ class TranslateFactoryTest extends PHPUnit_Framework_TestCase
     {
         $options = array(
             'basepath' => __DIR__ . DIRECTORY_SEPARATOR . 'lang',
+            'domains' => array('messages'),
         );
         $poFilePath = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'en.po';
         $this->translator->expects($this->once())
@@ -51,6 +52,7 @@ class TranslateFactoryTest extends PHPUnit_Framework_TestCase
     {
         $options = array(
             'basepath' => __DIR__ . DIRECTORY_SEPARATOR . 'lang',
+            'domains' => array('messages'),
             'fallback_locale' => 'en-GB'
         );
         $poFilePath1 = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'ru.po';
