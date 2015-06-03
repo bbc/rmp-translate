@@ -125,3 +125,5 @@ The logger will recieve [TranslateEvent](https://github.com/bbc/rmp-translate/bl
 
 Currently the logger will be notified in the event of missing translations or fallback translations. 
 
+### Unit Tests
+There is a full suite of unit tests. Simply run PHPUnit in the project root. 
