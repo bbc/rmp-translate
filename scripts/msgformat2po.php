@@ -73,10 +73,16 @@ class BBCPoFileDumper extends \Symfony\Component\Translation\Dumper\FileDumper
                 // English in comments for translated languages
                 $englishTarget = $defaultMessages->get($source);
                 $englishTarget = $this->fixPlaceHolders($englishTarget);
+                if ($englishTarget == $source) {
+                    $englishTarget = "NO ENGLISH TRANSLATION AVAILABLE YET";
+                }
                 list($englishIdx, $englishPlurals) = $this->getPluralisedForms($englishTarget);
                 if (!empty($englishPlurals)) {
                     foreach ($englishPlurals as $idx => $msg) {
-                        $output .= '#.'.$idx.' : '. $this->escape($msg)."\n";
+                        if ($idx > 1) {
+                            $idx = $idx . "+";
+                        }
+                        $output .= '#.' . $idx . ': "' . $this->escape($msg) . "\". \n";
                     }
                 } else {
                     $output .= '#.'. $this->escape($englishTarget)."\n";
