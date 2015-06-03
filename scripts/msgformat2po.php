@@ -10,7 +10,7 @@
  * for sanity. Do no under any circumstances put this into a build script or anything
  * that actually matters.
  *
- * Use: msgformat2po.php (en_GB|cy_GB|gd_GB|ga_IE) $bundlePath $outputFile.po
+ * Use: msgformat2po.php $outputLocale $bundlePath $outputFile.po $createBlankTranslationFile
  *
  * Puts the correct locale and pluralisation type into the .po file.
  * Puts comments into the PO file indicating the english text for non-english
