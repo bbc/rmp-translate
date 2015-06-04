@@ -844,27 +844,27 @@ msgstr "dros flwyddyn ar ôl i wylio"
 msgid "javascript_required"
 msgstr "Rhaid i chi alluogi JavaScript er mwyn chwarae’r cynnwys"
 
-#.en-GB
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_barlesque"
 msgstr "cy-GB"
 
-#.false
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_barlesque_ws"
 msgstr "false"
 
-#.en-GB
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_code"
 msgstr "cy"
 
-#.ltr
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_direction"
 msgstr "ltr"
 
-#.en_GB
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_locale"
 msgstr "cy_GB"
 
-#.English (UK)
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_name"
 msgstr "Welsh"
 

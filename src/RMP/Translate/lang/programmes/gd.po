@@ -844,27 +844,27 @@ msgstr ""
 msgid "javascript_required"
 msgstr ""
 
-#.en-GB
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_barlesque"
 msgstr "gd"
 
-#.false
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_barlesque_ws"
 msgstr "false"
 
-#.en-GB
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_code"
 msgstr "gd"
 
-#.ltr
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_direction"
 msgstr "ltr"
 
-#.en_GB
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_locale"
 msgstr "gd_GB"
 
-#.English (UK)
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_name"
 msgstr "Gaelic (Scottish)"
 

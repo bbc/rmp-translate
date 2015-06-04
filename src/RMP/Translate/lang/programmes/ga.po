@@ -844,27 +844,27 @@ msgstr "níos mó na bliain fágtha le coimhéad "
 msgid "javascript_required"
 msgstr "Caithfidh tú JavaScript a chumasú le hábhar a sheinm"
 
-#.en-GB
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_barlesque"
 msgstr "ga"
 
-#.false
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_barlesque_ws"
 msgstr "false"
 
-#.en-GB
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_code"
 msgstr "ga"
 
-#.ltr
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_direction"
 msgstr "ltr"
 
-#.en_GB
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_locale"
 msgstr "ga"
 
-#.English (UK)
+#.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_name"
 msgstr "Irish Gaelic"
 
