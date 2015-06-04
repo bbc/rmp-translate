@@ -6,27 +6,6 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 "X-Loco-Target-Locale: cy_GB\n"
 
-msgid "iplayer_listen_remaining_mins"
-msgstr ""
-
-msgid "iplayer_listen_remaining_secs"
-msgstr ""
-
-msgid "iplayer_play_remaining_mins"
-msgstr ""
-
-msgid "iplayer_play_remaining_secs"
-msgstr ""
-
-msgid "iplayer_watch_remaining_mins"
-msgstr ""
-
-msgid "iplayer_watch_remaining_secs"
-msgstr ""
-
-msgid "updated_oneoff"
-msgstr ""
-
 msgid "all"
 msgstr "All"
 
@@ -412,6 +391,9 @@ msgstr[0] "0 hours left to listen"
 msgstr[1] "1 hour left to listen"
 msgstr[2] "%count% hours left to listen"
 
+msgid "iplayer_listen_remaining_mins"
+msgstr ""
+
 msgid "iplayer_listen_remaining_minutes"
 msgid_plural "iplayer_listen_remaining_minutes %count%"
 #:Parameter 1 in source
@@ -432,6 +414,9 @@ msgid_plural "iplayer_listen_remaining_seconds %count%"
 msgstr[0] "0 seconds left to listen"
 msgstr[1] "1 second left to listen"
 msgstr[2] "%count% seconds left to listen"
+
+msgid "iplayer_listen_remaining_secs"
+msgstr ""
 
 msgid "iplayer_listen_remaining_weeks"
 msgid_plural "iplayer_listen_remaining_weeks %count%"
@@ -466,6 +451,9 @@ msgstr[0] "0 hours left to play"
 msgstr[1] "1 hour left to play"
 msgstr[2] "%count% hours left to play"
 
+msgid "iplayer_play_remaining_mins"
+msgstr ""
+
 msgid "iplayer_play_remaining_minutes"
 msgid_plural "iplayer_play_remaining_minutes %count%"
 #:Parameter 1 in source
@@ -486,6 +474,9 @@ msgid_plural "iplayer_play_remaining_seconds %count%"
 msgstr[0] "0 seconds left to play"
 msgstr[1] "1 second left to play"
 msgstr[2] "%count% seconds left to play"
+
+msgid "iplayer_play_remaining_secs"
+msgstr ""
 
 msgid "iplayer_play_remaining_weeks"
 msgid_plural "iplayer_play_remaining_weeks %count%"
@@ -582,6 +573,9 @@ msgstr[0] "0 hours left to watch"
 msgstr[1] "1 hour left to watch"
 msgstr[2] "%count% hours left to watch"
 
+msgid "iplayer_watch_remaining_mins"
+msgstr ""
+
 msgid "iplayer_watch_remaining_minutes"
 msgid_plural "iplayer_watch_remaining_minutes %count%"
 #:Parameter 1 in source
@@ -602,6 +596,9 @@ msgid_plural "iplayer_watch_remaining_seconds %count%"
 msgstr[0] "0 seconds left to watch"
 msgstr[1] "1 second left to watch"
 msgstr[2] "%count% seconds left to watch"
+
+msgid "iplayer_watch_remaining_secs"
+msgstr ""
 
 msgid "iplayer_watch_remaining_weeks"
 msgid_plural "iplayer_watch_remaining_weeks %count%"
@@ -1062,6 +1059,9 @@ msgstr "monthly"
 msgid "updated_occasionally"
 msgstr "occasionally"
 
+msgid "updated_oneoff"
+msgstr ""
+
 msgid "updated_weekly"
 msgstr "weekly"
 
@@ -1104,3 +1104,4 @@ msgstr[2] "%1 total"
 
 msgid "you_might_also_like"
 msgstr "You may also like"
+

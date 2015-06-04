@@ -34,7 +34,7 @@ First you'll need to include the library in your composer.json like so:
 ### Instantiation
 
 You then need to set up the configuration and instantiate the translate class. A basic example follows. More details
-on the configuration options and recommended usage are included below(link?)
+on the configuration options and recommended usage are included below
 ```php
 use RMP\Translate\TranslateFactory;
 use RMP\Translate\Translate;

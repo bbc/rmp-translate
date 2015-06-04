@@ -5,6 +5,13 @@ namespace Test\RMP\Translate;
 use PHPUnit_Framework_TestCase;
 use RMP\Translate\Translate;
 
+/**
+ * Class TranslateTest
+ *
+ * Test the Translate class in isolation
+ *
+ * @package Test\RMP\Translate
+ */
 class TranslateTest extends PHPUnit_Framework_TestCase
 {
     public $translator;

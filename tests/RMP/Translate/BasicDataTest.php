@@ -8,8 +8,10 @@ use RMP\Translate\TranslateFactory;
  * Class BasicDataTest
  *
  * Test some basic things are present in all translation files.
- * This is esentially an error check to ensure translators don't remove or change
+ * This is essentially an error check to ensure translators don't remove or change
  * system information.
+ *
+ * Add new languages here when ready.
  *
  * @package Test\RMP\Translate
  */

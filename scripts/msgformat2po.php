@@ -32,14 +32,11 @@ use Symfony\Component\Translation\MessageCatalogue;
 require dirname(__DIR__) . '/vendor/autoload.php';
 
 /**
- * Handles our MessageFormater strings. Yay. Mostly stolen from Symfony. Also Yay. Probably will break on
- * many valid MessageFormater strings. Less yay, but fuck it, it parses all the ones we have.
+ * Handles our MessageFormater strings. Probably will break on many valid MessageFormater strings.
+ * it parses all the ones we have though.
  */
 class BBCPoFileDumper extends \Symfony\Component\Translation\Dumper\FileDumper
 {
-    /**
-     * {@inheritdoc}
-     */
     public function format(MessageCatalogue $messages, $domain = 'messages', MessageCatalogue $defaultMessages = null, $createBlank = false)
     {
         $output = 'msgid ""'."\n";
@@ -154,9 +151,6 @@ class BBCPoFileDumper extends \Symfony\Component\Translation\Dumper\FileDumper
         return array(null, null);
     }
 
-    /**
-     * {@inheritdoc}
-     */
     protected function getExtension()
     {
         return 'po';
