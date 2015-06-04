@@ -1340,6 +1340,10 @@ msgstr ""
 msgid "see_all_podcasts_for"
 msgstr "Gweld yr holl podlediadau ar gyfer %1"
 
+#.See all podcasts from %1
+msgid "see_all_podcasts_from"
+msgstr ""
+
 #.See all previous episodes from %1
 msgid "see_all_previous_episodes_from"
 msgstr "Gweld cyn benodau %1"
