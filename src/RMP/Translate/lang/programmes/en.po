@@ -756,6 +756,9 @@ msgstr[2] "Podcasts"
 msgid "podcasts_desc"
 msgstr "Episodes to download"
 
+msgid "podcasts_more"
+msgstr "More podcasts"
+
 msgid "podcasts_suggestions"
 msgstr "Other podcasts you may like"
 

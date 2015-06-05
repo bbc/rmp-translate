@@ -1036,6 +1036,10 @@ msgstr[2] "Podlediadau"
 msgid "podcasts_desc"
 msgstr "Penodau i’w lawrlwytho"
 
+#.More podcasts
+msgid "podcasts_more"
+msgstr ""
+
 #.Other podcasts you may like
 msgid "podcasts_suggestions"
 msgstr ""

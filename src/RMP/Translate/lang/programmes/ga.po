@@ -1036,6 +1036,10 @@ msgstr[2] "Podchraoltaí"
 msgid "podcasts_desc"
 msgstr "Eagráin le híoslódáil"
 
+#.More podcasts
+msgid "podcasts_more"
+msgstr ""
+
 #.Other podcasts you may like
 msgid "podcasts_suggestions"
 msgstr ""
