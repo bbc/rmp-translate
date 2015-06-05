@@ -104,4 +104,136 @@ class BasicDataTest extends \PHPUnit_Framework_TestCase
             array('language_locale', "gd_GB"),
         );
     }
+
+    /**
+     * @dataProvider testFrenchAfriqueProvider
+     */
+    public function testFrenchAfrique($key, $value)
+    {
+        $factory = new TranslateFactory();
+        $translate = $factory->create('fr-002', array('domains' => array('programmes')));
+        $this->assertEquals($value, $translate->translate($key));
+    }
+
+    public function testFrenchAfriqueProvider()
+    {
+        return array(
+            array('language_code', "fr"),
+            array('language_name', "French (Afrique)"),
+            array('language_direction', "ltr"),
+            array('language_barlesque', "fr-002"),
+            array('language_barlesque_ws', "true"),
+            array('language_locale', "fr_FR"),
+        );
+    }
+
+    /**
+     * @dataProvider testHausaProvider
+     */
+    public function testHausa($key, $value)
+    {
+        $factory = new TranslateFactory();
+        $translate = $factory->create('ha-GH', array('domains' => array('programmes')));
+        $this->assertEquals($value, $translate->translate($key));
+    }
+
+    public function testHausaProvider()
+    {
+        return array(
+            array('language_code', "ha"),
+            array('language_name', "Hausa"),
+            array('language_direction', "ltr"),
+            array('language_barlesque', "ha-GH"),
+            array('language_barlesque_ws', "true"),
+            array('language_locale', "ha_GH"),
+        );
+    }
+
+    /**
+     * @dataProvider testKinyarwandaProvider
+     */
+    public function testKinyarwanda($key, $value)
+    {
+        $factory = new TranslateFactory();
+        $translate = $factory->create('rw-RW', array('domains' => array('programmes')));
+        $this->assertEquals($value, $translate->translate($key));
+    }
+
+    public function testKinyarwandaProvider()
+    {
+        return array(
+            array('language_code', "rw"),
+            array('language_name', "Kinyarwanda"),
+            array('language_direction', "ltr"),
+            array('language_barlesque', "rw-RW"),
+            array('language_barlesque_ws', "true"),
+            array('language_locale', "rw_RW"),
+        );
+    }
+
+    /**
+     * @dataProvider testIndonesianProvider
+     */
+    public function testIndonesian($key, $value)
+    {
+        $factory = new TranslateFactory();
+        $translate = $factory->create('id-ID', array('domains' => array('programmes')));
+        $this->assertEquals($value, $translate->translate($key));
+    }
+
+    public function testIndonesianProvider()
+    {
+        return array(
+            array('language_code', "id"),
+            array('language_name', "Indonesian"),
+            array('language_direction', "ltr"),
+            array('language_barlesque', "id-ID"),
+            array('language_barlesque_ws', "true"),
+            array('language_locale', "id_ID"),
+        );
+    }
+
+    /**
+     * @dataProvider testSomaliProvider
+     */
+    public function testSomali($key, $value)
+    {
+        $factory = new TranslateFactory();
+        $translate = $factory->create('so-SO', array('domains' => array('programmes')));
+        $this->assertEquals($value, $translate->translate($key));
+    }
+
+    public function testSomaliProvider()
+    {
+        return array(
+            array('language_code', "so"),
+            array('language_name', "Somali"),
+            array('language_direction', "ltr"),
+            array('language_barlesque', "so-SO"),
+            array('language_barlesque_ws', "true"),
+            array('language_locale', "so_SO"),
+        );
+    }
+
+    /**
+     * @dataProvider testSomaliProvider
+     */
+    public function testSwahili($key, $value)
+    {
+        $factory = new TranslateFactory();
+        $translate = $factory->create('so-SO', array('domains' => array('programmes')));
+        $this->assertEquals($value, $translate->translate($key));
+    }
+
+    public function testSwahiliProvider()
+    {
+        return array(
+            array('language_code', "sw"),
+            array('language_name', "Swahili"),
+            array('language_direction', "ltr"),
+            array('language_barlesque', "sw-KE"),
+            array('language_barlesque_ws', "true"),
+            array('language_locale', "sw_KE"),
+        );
+    }
 }

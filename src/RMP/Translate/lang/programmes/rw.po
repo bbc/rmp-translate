@@ -866,7 +866,7 @@ msgstr "rw_RW"
 
 #.SYSTEM ENTRY. DO NOT EDIT.
 msgid "language_name"
-msgstr "Kinyarwanda (Rwanda)"
+msgstr "Kinyarwanda"
 
 #.Last
 msgid "last"
