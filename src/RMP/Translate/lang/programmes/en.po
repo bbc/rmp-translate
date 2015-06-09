@@ -6,1108 +6,1523 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 "X-Loco-Target-Locale: cy_GB\n"
 
+#. All
 msgid "all"
 msgstr "All"
 
+#. All episodes
 msgid "all_episodes"
 msgstr "All episodes"
 
+#. All episodes available on BBC iPlayer
 msgid "all_episodes_iplayer"
 msgstr "All episodes available on BBC iPlayer"
 
+#. All episodes available on BBC iPlayer Radio
 msgid "all_episodes_iplayer_radio"
 msgstr "All episodes available on BBC iPlayer Radio"
 
+#. All previous episodes
 msgid "all_previous_episodes"
 msgstr "All previous episodes"
 
+#. All upcoming
 msgid "all_upcoming"
 msgstr "All upcoming"
 
+#. All Programmes
 msgid "atoz_all"
 msgstr "All Programmes"
 
+#. Available now & Coming soon
 msgid "atoz_current"
 msgstr "Available now & Coming soon"
 
+#. Programmes beginning with the letter %1
 msgid "atoz_letters"
 msgstr "Programmes beginning with the letter %1"
 
+#. Sorry, there are no programmes in this category
 msgid "atoz_nocategory"
 msgstr "Sorry, there are no programmes in this category"
 
+#. Sorry, there are no programmes with titles containing %1
 msgid "atoz_nocontaining"
 msgstr "Sorry, there are no programmes with titles containing %1"
 
+#. Sorry, there are no programmes with titles beginning with %1
 msgid "atoz_noresults"
 msgstr "Sorry, there are no programmes with titles beginning with %1"
 
+#. Use the A to Z to find a programme by name
 msgid "atoz_note"
 msgstr "Use the A to Z to find a programme by name"
 
+#. Programmes beginning with numbers or punctuation symbols
 msgid "atoz_numbers"
 msgstr "Programmes beginning with numbers or punctuation symbols"
 
+#. Search
 msgid "atoz_search"
 msgstr "Search"
 
+#. Search results for ''%1''
 msgid "atoz_search_title"
 msgstr "Search results for ''%1''"
 
+#. A to Z
 msgid "atoz_title"
 msgstr "A to Z"
 
+#. Programmes A to Z
 msgid "atoz_title_full"
 msgstr "Programmes A to Z"
 
+#. Try viewing %1all%2
 msgid "atoz_tryall"
 msgstr "Try viewing %1all%2"
 
+#. Try viewing %1current%2
 msgid "atoz_trycurrent"
 msgstr "Try viewing %1current%2"
 
+#. Audio described
 msgid "audio_described"
 msgstr "Audio described"
 
+#. No items: "There are currently no available episodes".
+#. One item: "There is currently %count% available episode".
+#. 2+ items: "There are currently %count% available episodes".
+#: Parameter 1 in source
 msgid "available_count"
 msgid_plural "available_count %count%"
-#:Parameter 1 in source
 msgstr[0] "There are currently no available episodes"
 msgstr[1] "There is currently %count% available episode"
 msgstr[2] "There are currently %count% available episodes"
 
+#. No items: "There are currently no available episodes".
+#. One item: "1 available episode".
+#. 2+ items: "%count% available episodes".
+#: Parameter 1 in source
 msgid "available_count_short"
 msgid_plural "available_count_short %count%"
-#:Parameter 1 in source
 msgstr[0] "There are currently no available episodes"
 msgstr[1] "1 available episode"
 msgstr[2] "%count% available episodes"
 
+#. Available now
 msgid "available_now"
 msgstr "Available now"
 
+#. Available on BBC iPlayer
 msgid "available_on_iplayer"
 msgstr "Available on BBC iPlayer"
 
+#. On iPlayer
 msgid "available_on_iplayer_short"
 msgstr "On iPlayer"
 
+#. This programme will be available shortly after broadcast
 msgid "available_shortly"
 msgstr "This programme will be available shortly after broadcast"
 
+#. Back to top
 msgid "back_to_top_of_page"
 msgstr "Back to top"
 
+#. Back up to:
 msgid "back_up_to"
 msgstr "Back up to:"
 
+#. except %1
 msgid "broadcast_except"
 msgstr "except %1"
 
+#. %1 only
 msgid "broadcast_only_on"
 msgstr "%1 only"
 
+#. No items: "Broadcasts".
+#. One item: "Broadcast".
+#. 2+ items: "Broadcasts".
+#: Parameter 1 in source
 msgid "broadcasts"
 msgid_plural "broadcasts %count%"
-#:Parameter 1 in source
 msgstr[0] "Broadcasts"
 msgstr[1] "Broadcast"
 msgstr[2] "Broadcasts"
 
+#. There are no broadcasts
 msgid "broadcasts_none"
 msgstr "There are no broadcasts"
 
+#. There are no broadcasts for the month and year selected
 msgid "broadcasts_none_date"
 msgstr "There are no broadcasts for the month and year selected"
 
+#. There are no upcoming broadcasts of this programme
 msgid "broadcasts_none_upcoming"
 msgstr "There are no upcoming broadcasts of this programme"
 
+#. There are no upcoming debut broadcasts
 msgid "broadcasts_none_upcoming_debut"
 msgstr "There are no upcoming debut broadcasts"
 
+#. Series and episodes available from online suppliers
 msgid "buy_desc"
 msgstr "Series and episodes available from online suppliers"
 
+#. Buy online
 msgid "buy_online"
 msgstr "Buy online"
 
+#. Where to buy
 msgid "buy_where"
 msgstr "Where to buy"
 
+#. By date
 msgid "by_date"
 msgstr "By date"
 
+#. By format
 msgid "by_format"
 msgstr "By format"
 
+#. By genre
 msgid "by_genre"
 msgstr "By genre"
 
+#. No items: "Categories".
+#. One item: "Category".
+#. 2+ items: "Categories".
+#: Parameter 1 in source
 msgid "categories"
 msgid_plural "categories %count%"
-#:Parameter 1 in source
 msgstr[0] "Categories"
 msgstr[1] "Category"
 msgstr[2] "Categories"
 
+#. This category can be found on the stations highlighted below
 msgid "category_stations_note"
 msgstr "This category can be found on the stations highlighted below"
 
+#. Programmes categorised as %1
 msgid "category_title"
 msgstr "Programmes categorised as %1"
 
+#. This chapter is from
 msgid "chapter_context"
 msgstr "This chapter is from"
 
+#. No items: "Chapters".
+#. One item: "Chapter".
+#. 2+ items: "Chapters".
+#: Parameter 1 in source
 msgid "chapters"
 msgid_plural "chapters %count%"
-#:Parameter 1 in source
 msgstr[0] "Chapters"
 msgstr[1] "Chapter"
 msgstr[2] "Chapters"
 
+#. This clip will be available soon
 msgid "clip_availability_future"
 msgstr "This clip will be available soon"
 
+#. Sorry, this clip is not currently available
 msgid "clip_availability_none"
 msgstr "Sorry, this clip is not currently available"
 
+#. Sorry, this clip is no longer available
 msgid "clip_availability_past"
 msgstr "Sorry, this clip is no longer available"
 
+#. This clip is from
 msgid "clip_context"
 msgstr "This clip is from"
 
+#. No items: "Clips".
+#. One item: "Clip".
+#. 2+ items: "Clips".
+#: Parameter 1 in source
 msgid "clips"
 msgid_plural "clips %count%"
-#:Parameter 1 in source
 msgstr[0] "Clips"
 msgstr[1] "Clip"
 msgstr[2] "Clips"
 
+#. No items: "There are currently no available clips".
+#. One item: "There is currently 1 available clip".
+#. 2+ items: "There are currently %count% available clips".
+#: Parameter 1 in source
 msgid "clips_count"
 msgid_plural "clips_count %count%"
-#:Parameter 1 in source
 msgstr[0] "There are currently no available clips"
 msgstr[1] "There is currently 1 available clip"
 msgstr[2] "There are currently %count% available clips"
 
+#. Available on
 msgid "colon_available_on"
 msgstr "Available on"
 
+#. From suppliers
 msgid "colon_from_suppliers"
 msgstr "From suppliers"
 
+#. Coming soon
 msgid "coming_soon"
 msgstr "Coming soon"
 
+#. No items: "Comments".
+#. One item: "Comment".
+#. 2+ items: "Comments".
+#: Parameter 1 in source
 msgid "comments"
 msgid_plural "comments %count%"
-#:Parameter 1 in source
 msgstr[0] "Comments"
 msgstr[1] "Comment"
 msgstr[2] "Comments"
 
+#. No items: "Contact details".
+#. One item: "Contact detail".
+#. 2+ items: "Contact details".
+#: Parameter 1 in source
 msgid "contact_details"
 msgid_plural "contact_details %count%"
-#:Parameter 1 in source
 msgstr[0] "Contact details"
 msgstr[1] "Contact detail"
 msgstr[2] "Contact details"
 
+#. Please complete this field
 msgid "contact_form_field"
 msgstr "Please complete this field"
 
+#. indicates mandatory fields
 msgid "contact_form_mandatory"
 msgstr "indicates mandatory fields"
 
+#. Send message
 msgid "contact_form_submit"
 msgstr "Send message"
 
+#. Sorry, the contact form is currently unavailable due to a technical problem.
 msgid "contact_form_unavailable"
-msgstr "Sorry, the contact form is currently unavailable due to a technical problem."
+msgstr ""
+"Sorry, the contact form is currently unavailable due to a technical problem."
 
+#. Form details
 msgid "contact_prompt"
 msgstr "Form details"
 
+#. Please include the following details on your message:
 msgid "contact_prompt_note"
 msgstr "Please include the following details on your message:"
 
+#. Contact us
 msgid "contact_us"
 msgstr "Contact us"
 
+#. No items: "Credits".
+#. One item: "Credit".
+#. 2+ items: "Credits".
+#: Parameter 1 in source
 msgid "credits"
 msgid_plural "credits %count%"
-#:Parameter 1 in source
 msgstr[0] "Credits"
 msgstr[1] "Credit"
 msgstr[2] "Credits"
 
+#. This programme has no credits
 msgid "credits_none"
 msgstr "This programme has no credits"
 
+#. %1s
 msgid "decade"
 msgstr "%1s"
 
+#. No items: "Downloads".
+#. One item: "Download".
+#. 2+ items: "Downloads".
+#: Parameter 1 in source
 msgid "downloads"
 msgid_plural "downloads %count%"
-#:Parameter 1 in source
 msgstr[0] "Downloads"
 msgstr[1] "Download"
 msgstr[2] "Downloads"
 
+#. Duration: %1
 msgid "duration"
 msgstr "Duration: %1"
 
+#. This episode will be available soon
 msgid "episode_availability_future"
 msgstr "This episode will be available soon"
 
+#. Sorry, this episode is not currently available
 msgid "episode_availability_none"
 msgstr "Sorry, this episode is not currently available"
 
+#. Sorry, this episode is not currently available on BBC iPlayer Radio
 msgid "episode_availability_none_radio"
 msgstr "Sorry, this episode is not currently available on BBC iPlayer Radio"
 
+#. Sorry, this episode is no longer available
 msgid "episode_availability_past"
 msgstr "Sorry, this episode is no longer available"
 
+#. Sorry, this episode is no longer available on BBC iPlayer Radio
 msgid "episode_availability_past_radio"
 msgstr "Sorry, this episode is no longer available on BBC iPlayer Radio"
 
+#. Episode guide
 msgid "episode_guide"
 msgstr "Episode guide"
 
+#. Episode %1 of %2
 msgid "episode_number"
 msgstr "Episode %1 of %2"
 
+#. No items: "Sorry, no episodes available on BBC iPlayer".
+#. One item: "1 episode available on BBC iPlayer".
+#. 2+ items: "%count% episodes available on BBC iPlayer".
+#: Parameter 1 in source
 msgid "episode_on_iplayer"
 msgid_plural "episode_on_iplayer %count%"
-#:Parameter 1 in source
 msgstr[0] "Sorry, no episodes available on BBC iPlayer"
 msgstr[1] "1 episode available on BBC iPlayer"
 msgstr[2] "%count% episodes available on BBC iPlayer"
 
+#. No items: "Episodes".
+#. One item: "Episode".
+#. 2+ items: "Episodes".
+#: Parameter 1 in source
 msgid "episodes"
 msgid_plural "episodes %count%"
-#:Parameter 1 in source
 msgstr[0] "Episodes"
 msgstr[1] "Episode"
 msgstr[2] "Episodes"
 
+#. Episodes available:
 msgid "episodes_available"
 msgstr "Episodes available:"
 
+#. There will be %1 episodes. More information coming soon
 msgid "episodes_more_soon"
 msgstr "There will be %1 episodes. More information coming soon"
 
+#. There are no episodes
 msgid "episodes_none"
 msgstr "There are no episodes"
 
+#. Sorry, we couldn't access this information. Please refresh to try again.
 msgid "fault"
-msgstr "Sorry, we couldn't access this information. Please refresh to try again."
+msgstr ""
+"Sorry, we couldn't access this information. Please refresh to try again."
 
+#. Featured
 msgid "featured"
 msgstr "Featured"
 
+#. Featured in...
 msgid "featured_in"
 msgstr "Featured in..."
 
+#. Features
 msgid "features"
 msgstr "Features"
 
+#. Filter by
 msgid "filter_by"
 msgstr "Filter by"
 
+#. You are at the first episode
 msgid "first_episode"
 msgstr "You are at the first episode"
 
+#. No items: "Formats".
+#. One item: "Format".
+#. 2+ items: "Formats".
+#: Parameter 1 in source
 msgid "formats"
 msgid_plural "formats %count%"
-#:Parameter 1 in source
 msgstr[0] "Formats"
 msgstr[1] "Format"
 msgstr[2] "Formats"
 
+#. Pick a format to see %1 programmes
 msgid "formats_note"
 msgstr "Pick a format to see %1 programmes"
 
+#. Full schedule
 msgid "full_schedule"
 msgstr "Full schedule"
 
+#. No items: "Galleries".
+#. One item: "Gallery".
+#. 2+ items: "Galleries".
+#: Parameter 1 in source
 msgid "galleries"
 msgid_plural "galleries %count%"
-#:Parameter 1 in source
 msgstr[0] "Galleries"
 msgstr[1] "Gallery"
 msgstr[2] "Galleries"
 
+#. This gallery is from
 msgid "galleries_context"
 msgstr "This gallery is from"
 
+#. No items: "There are currently no galleries".
+#. One item: "There is currently 1 gallery".
+#. 2+ items: "There are currently %count% galleries".
+#: Parameter 1 in source
 msgid "galleries_count"
 msgid_plural "galleries_count %count%"
-#:Parameter 1 in source
 msgstr[0] "There are currently no galleries"
 msgstr[1] "There is currently 1 gallery"
 msgstr[2] "There are currently %count% galleries"
 
+#. No items: "Genres".
+#. One item: "Genre".
+#. 2+ items: "Genres".
+#: Parameter 1 in source
 msgid "genres"
 msgid_plural "genres %count%"
-#:Parameter 1 in source
 msgstr[0] "Genres"
 msgstr[1] "Genre"
 msgstr[2] "Genres"
 
+#. Pick a genre to see %1 programmes
 msgid "genres_note"
 msgstr "Pick a genre to see %1 programmes"
 
+#. Hide available episodes
 msgid "hide_available_episodes"
 msgstr "Hide available episodes"
 
+#. Home
 msgid "home"
 msgstr "Home"
 
+#. Listen from start
 msgid "iplayer_listen_from_start"
 msgstr "Listen from start"
 
+#. Listen live
 msgid "iplayer_listen_live"
 msgstr "Listen live"
 
+#. Listen now
 msgid "iplayer_listen_now"
 msgstr "Listen now"
 
+#. No items: "0 days left to listen".
+#. One item: "1 day left to listen".
+#. 2+ items: "%count% days left to listen".
+#: Parameter 1 in source
 msgid "iplayer_listen_remaining_days"
 msgid_plural "iplayer_listen_remaining_days %count%"
-#:Parameter 1 in source
 msgstr[0] "0 days left to listen"
 msgstr[1] "1 day left to listen"
 msgstr[2] "%count% days left to listen"
 
+#. No items: "0 hours left to listen".
+#. One item: "1 hour left to listen".
+#. 2+ items: "%count% hours left to listen".
+#: Parameter 1 in source
 msgid "iplayer_listen_remaining_hours"
 msgid_plural "iplayer_listen_remaining_hours %count%"
-#:Parameter 1 in source
 msgstr[0] "0 hours left to listen"
 msgstr[1] "1 hour left to listen"
 msgstr[2] "%count% hours left to listen"
 
+#. NO ENGLISH TRANSLATION AVAILABLE YET
 msgid "iplayer_listen_remaining_mins"
 msgstr ""
 
+#. No items: "0 minutes left to listen".
+#. One item: "1 minute left to listen".
+#. 2+ items: "%count% minutes left to listen".
+#: Parameter 1 in source
 msgid "iplayer_listen_remaining_minutes"
 msgid_plural "iplayer_listen_remaining_minutes %count%"
-#:Parameter 1 in source
 msgstr[0] "0 minutes left to listen"
 msgstr[1] "1 minute left to listen"
 msgstr[2] "%count% minutes left to listen"
 
+#. No items: "0 months left to listen".
+#. One item: "1 month left to listen".
+#. 2+ items: "%count% months left to listen".
+#: Parameter 1 in source
 msgid "iplayer_listen_remaining_months"
 msgid_plural "iplayer_listen_remaining_months %count%"
-#:Parameter 1 in source
 msgstr[0] "0 months left to listen"
 msgstr[1] "1 month left to listen"
 msgstr[2] "%count% months left to listen"
 
+#. No items: "0 seconds left to listen".
+#. One item: "1 second left to listen".
+#. 2+ items: "%count% seconds left to listen".
+#: Parameter 1 in source
 msgid "iplayer_listen_remaining_seconds"
 msgid_plural "iplayer_listen_remaining_seconds %count%"
-#:Parameter 1 in source
 msgstr[0] "0 seconds left to listen"
 msgstr[1] "1 second left to listen"
 msgstr[2] "%count% seconds left to listen"
 
+#. NO ENGLISH TRANSLATION AVAILABLE YET
 msgid "iplayer_listen_remaining_secs"
 msgstr ""
 
+#. No items: "0 weeks left to listen".
+#. One item: "1 week left to listen".
+#. 2+ items: "%count% weeks left to listen".
+#: Parameter 1 in source
 msgid "iplayer_listen_remaining_weeks"
 msgid_plural "iplayer_listen_remaining_weeks %count%"
-#:Parameter 1 in source
 msgstr[0] "0 weeks left to listen"
 msgstr[1] "1 week left to listen"
 msgstr[2] "%count% weeks left to listen"
 
+#. over a year left to listen
 msgid "iplayer_listen_remaining_years"
 msgstr "over a year left to listen"
 
+#. Play from start
 msgid "iplayer_play_from_start"
 msgstr "Play from start"
 
+#. Play live
 msgid "iplayer_play_live"
 msgstr "Play live"
 
+#. Play now
 msgid "iplayer_play_now"
 msgstr "Play now"
 
+#. No items: "0 days left to play".
+#. One item: "1 day left to play".
+#. 2+ items: "%count% days left to play".
+#: Parameter 1 in source
 msgid "iplayer_play_remaining_days"
 msgid_plural "iplayer_play_remaining_days %count%"
-#:Parameter 1 in source
 msgstr[0] "0 days left to play"
 msgstr[1] "1 day left to play"
 msgstr[2] "%count% days left to play"
 
+#. No items: "0 hours left to play".
+#. One item: "1 hour left to play".
+#. 2+ items: "%count% hours left to play".
+#: Parameter 1 in source
 msgid "iplayer_play_remaining_hours"
 msgid_plural "iplayer_play_remaining_hours %count%"
-#:Parameter 1 in source
 msgstr[0] "0 hours left to play"
 msgstr[1] "1 hour left to play"
 msgstr[2] "%count% hours left to play"
 
+#. NO ENGLISH TRANSLATION AVAILABLE YET
 msgid "iplayer_play_remaining_mins"
 msgstr ""
 
+#. No items: "0 minutes left to play".
+#. One item: "1 minute left to play".
+#. 2+ items: "%count% minutes left to play".
+#: Parameter 1 in source
 msgid "iplayer_play_remaining_minutes"
 msgid_plural "iplayer_play_remaining_minutes %count%"
-#:Parameter 1 in source
 msgstr[0] "0 minutes left to play"
 msgstr[1] "1 minute left to play"
 msgstr[2] "%count% minutes left to play"
 
+#. No items: "0 months left to play".
+#. One item: "1 month left to play".
+#. 2+ items: "%count% months left to play".
+#: Parameter 1 in source
 msgid "iplayer_play_remaining_months"
 msgid_plural "iplayer_play_remaining_months %count%"
-#:Parameter 1 in source
 msgstr[0] "0 months left to play"
 msgstr[1] "1 month left to play"
 msgstr[2] "%count% months left to play"
 
+#. No items: "0 seconds left to play".
+#. One item: "1 second left to play".
+#. 2+ items: "%count% seconds left to play".
+#: Parameter 1 in source
 msgid "iplayer_play_remaining_seconds"
 msgid_plural "iplayer_play_remaining_seconds %count%"
-#:Parameter 1 in source
 msgstr[0] "0 seconds left to play"
 msgstr[1] "1 second left to play"
 msgstr[2] "%count% seconds left to play"
 
+#. NO ENGLISH TRANSLATION AVAILABLE YET
 msgid "iplayer_play_remaining_secs"
 msgstr ""
 
+#. No items: "0 weeks left to play".
+#. One item: "1 week left to play".
+#. 2+ items: "%count% weeks left to play".
+#: Parameter 1 in source
 msgid "iplayer_play_remaining_weeks"
 msgid_plural "iplayer_play_remaining_weeks %count%"
-#:Parameter 1 in source
 msgstr[0] "0 weeks left to play"
 msgstr[1] "1 week left to play"
 msgstr[2] "%count% weeks left to play"
 
+#. over a year left to play
 msgid "iplayer_play_remaining_years"
 msgstr "over a year left to play"
 
+#. No items: "0 days".
+#. One item: "1 day".
+#. 2+ items: "%count% days".
+#: Parameter 1 in source
 msgid "iplayer_time_days"
 msgid_plural "iplayer_time_days %count%"
-#:Parameter 1 in source
 msgstr[0] "0 days"
 msgstr[1] "1 day"
 msgstr[2] "%count% days"
 
+#. No items: "0 hours".
+#. One item: "1 hour".
+#. 2+ items: "%count% hours".
+#: Parameter 1 in source
 msgid "iplayer_time_hours"
 msgid_plural "iplayer_time_hours %count%"
-#:Parameter 1 in source
 msgstr[0] "0 hours"
 msgstr[1] "1 hour"
 msgstr[2] "%count% hours"
 
+#. indefinitely
 msgid "iplayer_time_indefinitely"
 msgstr "indefinitely"
 
+#. No items: "0 mins".
+#. One item: "1 min".
+#. 2+ items: "%count% mins".
+#: Parameter 1 in source
 msgid "iplayer_time_mins"
 msgid_plural "iplayer_time_mins %count%"
-#:Parameter 1 in source
 msgstr[0] "0 mins"
 msgstr[1] "1 min"
 msgstr[2] "%count% mins"
 
+#. No items: "0 minutes".
+#. One item: "1 minute".
+#. 2+ items: "%count% minutes".
+#: Parameter 1 in source
 msgid "iplayer_time_minutes"
 msgid_plural "iplayer_time_minutes %count%"
-#:Parameter 1 in source
 msgstr[0] "0 minutes"
 msgstr[1] "1 minute"
 msgstr[2] "%count% minutes"
 
+#. No items: "0 months".
+#. One item: "1 month".
+#. 2+ items: "%count% months".
+#: Parameter 1 in source
 msgid "iplayer_time_months"
 msgid_plural "iplayer_time_months %count%"
-#:Parameter 1 in source
 msgstr[0] "0 months"
 msgstr[1] "1 month"
 msgstr[2] "%count% months"
 
+#. No items: "0 seconds".
+#. One item: "1 second".
+#. 2+ items: "%count% seconds".
+#: Parameter 1 in source
 msgid "iplayer_time_seconds"
 msgid_plural "iplayer_time_seconds %count%"
-#:Parameter 1 in source
 msgstr[0] "0 seconds"
 msgstr[1] "1 second"
 msgstr[2] "%count% seconds"
 
+#. No items: "0 secs".
+#. One item: "1 sec".
+#. 2+ items: "%count% secs".
+#: Parameter 1 in source
 msgid "iplayer_time_secs"
 msgid_plural "iplayer_time_secs %count%"
-#:Parameter 1 in source
 msgstr[0] "0 secs"
 msgstr[1] "1 sec"
 msgstr[2] "%count% secs"
 
+#. No items: "0 weeks".
+#. One item: "1 week".
+#. 2+ items: "%count% weeks".
+#: Parameter 1 in source
 msgid "iplayer_time_weeks"
 msgid_plural "iplayer_time_weeks %count%"
-#:Parameter 1 in source
 msgstr[0] "0 weeks"
 msgstr[1] "1 week"
 msgstr[2] "%count% weeks"
 
+#. over a year
 msgid "iplayer_time_years"
 msgstr "over a year"
 
+#. Watch from start
 msgid "iplayer_watch_from_start"
 msgstr "Watch from start"
 
+#. Watch live
 msgid "iplayer_watch_live"
 msgstr "Watch live"
 
+#. Watch now
 msgid "iplayer_watch_now"
 msgstr "Watch now"
 
+#. No items: "0 days left to watch".
+#. One item: "1 day left to watch".
+#. 2+ items: "%count% days left to watch".
+#: Parameter 1 in source
 msgid "iplayer_watch_remaining_days"
 msgid_plural "iplayer_watch_remaining_days %count%"
-#:Parameter 1 in source
 msgstr[0] "0 days left to watch"
 msgstr[1] "1 day left to watch"
 msgstr[2] "%count% days left to watch"
 
+#. No items: "0 hours left to watch".
+#. One item: "1 hour left to watch".
+#. 2+ items: "%count% hours left to watch".
+#: Parameter 1 in source
 msgid "iplayer_watch_remaining_hours"
 msgid_plural "iplayer_watch_remaining_hours %count%"
-#:Parameter 1 in source
 msgstr[0] "0 hours left to watch"
 msgstr[1] "1 hour left to watch"
 msgstr[2] "%count% hours left to watch"
 
+#. NO ENGLISH TRANSLATION AVAILABLE YET
 msgid "iplayer_watch_remaining_mins"
 msgstr ""
 
+#. No items: "0 minutes left to watch".
+#. One item: "1 minute left to watch".
+#. 2+ items: "%count% minutes left to watch".
+#: Parameter 1 in source
 msgid "iplayer_watch_remaining_minutes"
 msgid_plural "iplayer_watch_remaining_minutes %count%"
-#:Parameter 1 in source
 msgstr[0] "0 minutes left to watch"
 msgstr[1] "1 minute left to watch"
 msgstr[2] "%count% minutes left to watch"
 
+#. No items: "0 months left to watch".
+#. One item: "1 month left to watch".
+#. 2+ items: "%count% months left to watch".
+#: Parameter 1 in source
 msgid "iplayer_watch_remaining_months"
 msgid_plural "iplayer_watch_remaining_months %count%"
-#:Parameter 1 in source
 msgstr[0] "0 months left to watch"
 msgstr[1] "1 month left to watch"
 msgstr[2] "%count% months left to watch"
 
+#. No items: "0 seconds left to watch".
+#. One item: "1 second left to watch".
+#. 2+ items: "%count% seconds left to watch".
+#: Parameter 1 in source
 msgid "iplayer_watch_remaining_seconds"
 msgid_plural "iplayer_watch_remaining_seconds %count%"
-#:Parameter 1 in source
 msgstr[0] "0 seconds left to watch"
 msgstr[1] "1 second left to watch"
 msgstr[2] "%count% seconds left to watch"
 
+#. NO ENGLISH TRANSLATION AVAILABLE YET
 msgid "iplayer_watch_remaining_secs"
 msgstr ""
 
+#. No items: "0 weeks left to watch".
+#. One item: "1 week left to watch".
+#. 2+ items: "%count% weeks left to watch".
+#: Parameter 1 in source
 msgid "iplayer_watch_remaining_weeks"
 msgid_plural "iplayer_watch_remaining_weeks %count%"
-#:Parameter 1 in source
 msgstr[0] "0 weeks left to watch"
 msgstr[1] "1 week left to watch"
 msgstr[2] "%count% weeks left to watch"
 
+#. over a year left to watch
 msgid "iplayer_watch_remaining_years"
 msgstr "over a year left to watch"
 
+#. You must enable JavaScript to play content
 msgid "javascript_required"
 msgstr "You must enable JavaScript to play content"
 
+#. en-GB
 msgid "language_barlesque"
 msgstr "en-GB"
 
+#. false
 msgid "language_barlesque_ws"
 msgstr "false"
 
+#. en
 msgid "language_code"
 msgstr "en-GB"
 
+#. ltr
 msgid "language_direction"
 msgstr "ltr"
 
+#. en_GB
 msgid "language_locale"
 msgstr "en_GB"
 
+#. English (UK)
 msgid "language_name"
 msgstr "English (UK)"
 
+#. Last
 msgid "last"
 msgstr "Last"
 
+#. You are at the last episode
 msgid "last_episode"
 msgstr "You are at the last episode"
 
+#. Last on
 msgid "last_on"
 msgstr "Last on"
 
+#. Latest
 msgid "latest"
 msgstr "Latest"
 
+#. Listen in pop-out player
 msgid "listen_in_popout_player"
 msgstr "Listen in pop-out player"
 
+#. Live
 msgid "live"
 msgstr "Live"
 
+#. Live at %1
 msgid "live_at"
 msgstr "Live at %1"
 
+#. This is from
 msgid "live_context"
 msgstr "This is from"
 
+#. Local Radio
 msgid "local_radio"
 msgstr "Local Radio"
 
+#. More
 msgid "more"
 msgstr "More"
 
+#. More clips from %1
 msgid "more_clips_from"
 msgstr "More clips from %1"
 
+#. More episodes
 msgid "more_episodes"
 msgstr "More episodes"
 
+#. More results for %1 from across the BBC
 msgid "more_from_bbc"
 msgstr "More results for %1 from across the BBC"
 
+#. More on Radio
 msgid "more_on_radio"
 msgstr "More on Radio"
 
+#. More on TV
 msgid "more_on_tv"
 msgstr "More on TV"
 
+#. Music and featured items
 msgid "music_and_featured"
 msgstr "Music and featured items"
 
+#. Music Played
 msgid "music_played"
 msgstr "Music Played"
 
+#. National Radio
 msgid "national_radio"
 msgstr "National Radio"
 
+#. Nations Radio
 msgid "nations_radio"
 msgstr "Nations Radio"
 
+#. New series
 msgid "new_series"
 msgstr "New series"
 
+#. Next
 msgid "next"
 msgstr "Next"
 
+#. Next on
 msgid "next_on"
 msgstr "Next on"
 
+#. Sorry there is currently no information
 msgid "no_information"
 msgstr "Sorry there is currently no information"
 
+#. Now and next
 msgid "now_and_next"
 msgstr "Now and next"
 
+#. Off air
 msgid "off_air"
 msgstr "Off air"
 
+#. On air
 msgid "on_air"
 msgstr "On air"
 
+#. On demand
 msgid "on_demand"
 msgstr "On demand"
 
+#. On now
 msgid "on_now"
 msgstr "On now"
 
+#. On radio
 msgid "on_radio"
 msgstr "On radio"
 
+#. On TV
 msgid "on_tv"
 msgstr "On TV"
 
+#. No items: "Outlets".
+#. One item: "Outlet".
+#. 2+ items: "Outlets".
+#: Parameter 1 in source
 msgid "outlets"
 msgid_plural "outlets %count%"
-#:Parameter 1 in source
 msgstr[0] "Outlets"
 msgstr[1] "Outlet"
 msgstr[2] "Outlets"
 
+#. Page not found
 msgid "page_not_found"
 msgstr "Page not found"
 
+#. Please check the address and try again
 msgid "page_not_found_note"
 msgstr "Please check the address and try again"
 
+#. Sorry, that page was not found
 msgid "page_not_found_title"
 msgstr "Sorry, that page was not found"
 
+#. Page %1
 msgid "pagination_link"
 msgstr "Page %1"
 
+#. Add music you love and enjoy it with %1
 msgid "playlister_tagline"
 msgstr "Add music you love and enjoy it with %1"
 
+#. This podcast belongs to
 msgid "podcast_belongs"
 msgstr "This podcast belongs to"
 
+#. No items: "Podcasts".
+#. One item: "Podcast".
+#. 2+ items: "Podcasts".
+#: Parameter 1 in source
 msgid "podcasts"
 msgid_plural "podcasts %count%"
-#:Parameter 1 in source
 msgstr[0] "Podcasts"
 msgstr[1] "Podcast"
 msgstr[2] "Podcasts"
 
+#. Episodes to download
 msgid "podcasts_desc"
 msgstr "Episodes to download"
 
+#. More podcasts
 msgid "podcasts_more"
 msgstr "More podcasts"
 
+#. Other podcasts you may like
 msgid "podcasts_suggestions"
 msgstr "Other podcasts you may like"
 
+#. Previous
 msgid "previous"
 msgstr "Previous"
 
+#. No items: "Profiles".
+#. One item: "Profile".
+#. 2+ items: "Profiles".
+#: Parameter 1 in source
 msgid "profiles"
 msgid_plural "profiles %count%"
-#:Parameter 1 in source
 msgstr[0] "Profiles"
 msgstr[1] "Profile"
 msgstr[2] "Profiles"
 
+#. Fact data
 msgid "profiles_key_fact_data"
 msgstr "Fact data"
 
+#. Key facts for %1
 msgid "profiles_key_fact_summary"
 msgstr "Key facts for %1"
 
+#. Fact title
 msgid "profiles_key_fact_title"
 msgstr "Fact title"
 
+#. Sorry there are no profiles for %1
 msgid "profiles_none"
 msgstr "Sorry there are no profiles for %1"
 
+#. This programme is not currently available on BBC iPlayer
 msgid "programme_availability_none"
 msgstr "This programme is not currently available on BBC iPlayer"
 
+#. This programme is not currently available on BBC iPlayer Radio
 msgid "programme_availability_none_radio"
 msgstr "This programme is not currently available on BBC iPlayer Radio"
 
+#. This programme is no longer available on BBC iPlayer
 msgid "programme_availability_past"
 msgstr "This programme is no longer available on BBC iPlayer"
 
+#. This programme is no longer available on BBC iPlayer Radio
 msgid "programme_availability_past_radio"
 msgstr "This programme is no longer available on BBC iPlayer Radio"
 
+#. %1 homepage
 msgid "programme_homepage"
 msgstr "%1 homepage"
 
+#. No items: "Programmes".
+#. One item: "Programme".
+#. 2+ items: "Programmes".
+#: Parameter 1 in source
 msgid "programmes"
 msgid_plural "programmes %count%"
-#:Parameter 1 in source
 msgstr[0] "Programmes"
 msgstr[1] "Programme"
 msgstr[2] "Programmes"
 
+#. No items: "No programmes".
+#. One item: "1 programme".
+#. 2+ items: "%1 programmes".
+#: Parameter 2 in source
 msgid "programmes_count"
 msgid_plural "programmes_count %count%"
-#:Parameter 2 in source
 msgstr[0] "No programmes"
 msgstr[1] "1 programme"
 msgstr[2] "%1 programmes"
 
+#. BBC Programmes homepage
 msgid "programmes_homepage"
 msgstr "BBC Programmes homepage"
 
+#. Programmes will resume at %1
 msgid "programmes_resume_at"
 msgstr "Programmes will resume at %1"
 
+#. QR code
 msgid "qr_code"
 msgstr "QR code"
 
+#. A %1QR code%2 is a type of barcode which can contain links to webpages. Mobile phones with a camera and an appropriate application are able to read these codes and take you to the address contained within it.
 msgid "qr_description"
-msgstr "A %1QR code%2 is a type of barcode which can contain links to webpages. Mobile phones with a camera and an appropriate application are able to read these codes and take you to the address contained within it."
+msgstr ""
+"A %1QR code%2 is a type of barcode which can contain links to webpages. "
+"Mobile phones with a camera and an appropriate application are able to read "
+"these codes and take you to the address contained within it."
 
+#. You may save, print or share the image.
 msgid "qr_instruction"
 msgstr "You may save, print or share the image."
 
+#. This code will link to the page for %1 when read using a QR code reader.
 msgid "qr_link"
-msgstr "This code will link to the page for %1 when read using a QR code reader."
+msgstr ""
+"This code will link to the page for %1 when read using a QR code reader."
 
+#. Sorry, there are no recommendations for this programme.
 msgid "recommendations_noresults"
 msgstr "Sorry, there are no recommendations for this programme."
 
+#. No items: "Related Links".
+#. One item: "Related Link".
+#. 2+ items: "Related Links".
+#: Parameter 1 in source
 msgid "related_links"
 msgid_plural "related_links %count%"
-#:Parameter 1 in source
 msgstr[0] "Related Links"
 msgstr[1] "Related Link"
 msgstr[2] "Related Links"
 
+#. Release date: %1
 msgid "release_date"
 msgstr "Release date: %1"
 
+#. R
 msgid "repeat_abbr"
 msgstr "R"
 
+#. No items: "Repeats".
+#. One item: "Repeat".
+#. 2+ items: "Repeats".
+#: Parameter 1 in source
 msgid "repeats"
 msgid_plural "repeats %count%"
-#:Parameter 1 in source
 msgstr[0] "Repeats"
 msgstr[1] "Repeat"
 msgstr[2] "Repeats"
 
+#. Schedule begins on %1
 msgid "schedule_begins_on"
 msgstr "Schedule begins on %1"
 
+#. Schedule ended on %1
 msgid "schedule_ended_on"
 msgstr "Schedule ended on %1"
 
+#. %1 schedule
 msgid "schedule_title"
 msgstr "%1 schedule"
 
+#. No items: "Schedules".
+#. One item: "Schedule".
+#. 2+ items: "Schedules".
+#: Parameter 1 in source
 msgid "schedules"
 msgid_plural "schedules %count%"
-#:Parameter 1 in source
 msgstr[0] "Schedules"
 msgstr[1] "Schedule"
 msgstr[2] "Schedules"
 
+#. Boxing Day
 msgid "schedules_boxing_day"
 msgstr "Boxing Day"
 
+#. Calendar
 msgid "schedules_calendar"
 msgstr "Calendar"
 
+#. Please choose a day from the calendar
 msgid "schedules_calendar_note"
 msgstr "Please choose a day from the calendar"
 
+#. Christmas Day
 msgid "schedules_christmas_day"
 msgstr "Christmas Day"
 
+#. Christmas Eve
 msgid "schedules_christmas_eve"
 msgstr "Christmas Eve"
 
+#. Last %1
 msgid "schedules_last_weekday"
 msgstr "Last %1"
 
+#. New Year's Day
 msgid "schedules_new_years_day"
 msgstr "New Year's Day"
 
+#. Next %1
 msgid "schedules_next_weekday"
 msgstr "Next %1"
 
+#. There is no schedule for today. Please choose another day from the calendar
 msgid "schedules_no_result"
-msgstr "There is no schedule for today. Please choose another day from the calendar"
+msgstr ""
+"There is no schedule for today. Please choose another day from the calendar"
 
+#. Afternoon
 msgid "schedules_period_afternoon"
 msgstr "Afternoon"
 
+#. Early
 msgid "schedules_period_early"
 msgstr "Early"
 
+#. Evening
 msgid "schedules_period_evening"
 msgstr "Evening"
 
+#. Late
 msgid "schedules_period_late"
 msgstr "Late"
 
+#. Morning
 msgid "schedules_period_morning"
 msgstr "Morning"
 
+#. See other regional %1 variations
 msgid "schedules_regional"
 msgstr "See other regional %1 variations"
 
+#. View %1 schedule variations
 msgid "schedules_regional_change"
 msgstr "View %1 schedule variations"
 
+#. View %1
 msgid "schedules_regional_changeto"
 msgstr "View %1"
 
+#. Please choose a region for the appropriate schedule
 msgid "schedules_regional_note"
 msgstr "Please choose a region for the appropriate schedule"
 
+#. Please choose the appropriate schedule
 msgid "schedules_regional_note_radio"
 msgstr "Please choose the appropriate schedule"
 
+#. Regional variations for %1
 msgid "schedules_regional_title"
 msgstr "Regional variations for %1"
 
+#. Schedule variations for %1
 msgid "schedules_regional_title_radio"
 msgstr "Schedule variations for %1"
 
+#. This week
 msgid "schedules_this_week"
 msgstr "This week"
 
+#. This year
 msgid "schedules_this_year"
 msgstr "This year"
 
+#. Today
 msgid "schedules_today"
 msgstr "Today"
 
+#. Tomorrow
 msgid "schedules_tomorrow"
 msgstr "Tomorrow"
 
+#. not ideal for small screens
 msgid "schedules_week_disclaimer"
 msgstr "not ideal for small screens"
 
+#. Show full week
 msgid "schedules_week_show"
 msgstr "Show full week"
 
+#. Yesterday
 msgid "schedules_yesterday"
 msgstr "Yesterday"
 
+#. See all %1 episodes available on BBC iPlayer
 msgid "see_all_available_from"
 msgstr "See all %1 episodes available on BBC iPlayer"
 
+#. See all %1 episodes available
 msgid "see_all_available_from_radio"
 msgstr "See all %1 episodes available"
 
+#. See all broadcasts of %1
 msgid "see_all_broadcasts_of"
 msgstr "See all broadcasts of %1"
 
+#. See all clips from %1
 msgid "see_all_clips_from"
 msgstr "See all clips from %1"
 
+#. See all credits for %1
 msgid "see_all_credits_for"
 msgstr "See all credits for %1"
 
+#. See all episodes from %1
 msgid "see_all_episodes_from"
 msgstr "See all episodes from %1"
 
+#. See all from %1
 msgid "see_all_from"
 msgstr "See all from %1"
 
+#. See all galleries from %1
 msgid "see_all_galleries_from"
 msgstr "See all galleries from %1"
 
+#. See all podcasts
 msgid "see_all_podcasts"
 msgstr "See all podcasts"
 
+#. See all podcasts for %1
 msgid "see_all_podcasts_for"
 msgstr "See all podcasts for %1"
 
+#. See all podcasts from %1
 msgid "see_all_podcasts_from"
-msgstr "See all podcasts from %1"
+msgstr ""
 
+#. See all previous episodes from %1
 msgid "see_all_previous_episodes_from"
 msgstr "See all previous episodes from %1"
 
+#. See all upcoming broadcasts of %1
 msgid "see_all_upcoming_of"
 msgstr "See all upcoming broadcasts of %1"
 
+#. No items: "Series".
+#. One item: "Series".
+#. 2+ items: "Series".
+#: Parameter 1 in source
 msgid "series"
 msgid_plural "series %count%"
-#:Parameter 1 in source
 msgstr[0] "Series"
 msgstr[1] "Series"
 msgstr[2] "Series"
 
+#. Explore the links below to find %1 programmes you're interested in
 msgid "service_introduction"
 msgstr "Explore the links below to find %1 programmes you're interested in"
 
+#. Show available episodes
 msgid "show_available_episodes"
 msgstr "Show available episodes"
 
+#. Show less
 msgid "show_less"
 msgstr "Show less"
 
+#. Show more
 msgid "show_more"
 msgstr "Show more"
 
+#. Signed
 msgid "signed"
 msgstr "Signed"
 
+#. Similar programmes
 msgid "similar_programmes"
 msgstr "Similar programmes"
 
+#. Skip to
 msgid "skip_to"
 msgstr "Skip to"
 
+#. Stations
 msgid "stations"
 msgstr "Stations"
 
+#. Subscribe
 msgid "subscribe"
 msgstr "Subscribe"
 
+#. Subscribe to podcast
 msgid "subscribe_to_podcast"
 msgstr "Subscribe to podcast"
 
+#. No items: "There are currently no available episodes tagged with %1".
+#. One item: "There is currently 1 available episode tagged with %1".
+#. 2+ items: "There are currently %count% available episodes tagged with %1".
+#: Parameter 2 in source
 msgid "tagged_available"
 msgid_plural "tagged_available %count%"
-#:Parameter 2 in source
 msgstr[0] "There are currently no available episodes tagged with %1"
 msgstr[1] "There is currently 1 available episode tagged with %1"
 msgstr[2] "There are currently %count% available episodes tagged with %1"
 
+#. TV
 msgid "television_abbr"
 msgstr "TV"
 
+#. Timings (where shown) are the time of the day
 msgid "timings_start_of_day"
 msgstr "Timings (where shown) are the time of the day"
 
+#. Timings (where shown) are from the start of the programme in hours and minutes
 msgid "timings_start_of_programme"
-msgstr "Timings (where shown) are from the start of the programme in hours and minutes"
+msgstr ""
+"Timings (where shown) are from the start of the programme in hours and "
+"minutes"
 
+#. No items: "Topics".
+#. One item: "Topic".
+#. 2+ items: "Topics".
+#: Parameter 1 in source
 msgid "topics"
 msgid_plural "topics %count%"
-#:Parameter 1 in source
 msgstr[0] "Topics"
 msgstr[1] "Topic"
 msgstr[2] "Topics"
 
+#. Updated:
 msgid "updated"
 msgstr "Updated:"
 
+#. daily
 msgid "updated_daily"
 msgstr "daily"
 
+#. monthly
 msgid "updated_monthly"
 msgstr "monthly"
 
+#. occasionally
 msgid "updated_occasionally"
 msgstr "occasionally"
 
+#. NO ENGLISH TRANSLATION AVAILABLE YET
 msgid "updated_oneoff"
 msgstr ""
 
+#. weekly
 msgid "updated_weekly"
 msgstr "weekly"
 
+#. View all
 msgid "view_all"
 msgstr "View all"
 
+#. View earlier today
 msgid "view_earlier_today"
 msgstr "View earlier today"
 
+#. View episodes
 msgid "view_episodes"
 msgstr "View episodes"
 
+#. No items: "No more".
+#. One item: "1 more".
+#. 2+ items: "%count% more".
+#: Parameter 1 in source
 msgid "x_more"
 msgid_plural "x_more %count%"
-#:Parameter 1 in source
 msgstr[0] "No more"
 msgstr[1] "1 more"
 msgstr[2] "%count% more"
 
+#. No items: "%count% new".
+#. One item: "1 new".
+#. 2+ items: "%count% new".
+#: Parameter 1 in source
 msgid "x_new"
 msgid_plural "x_new %count%"
-#:Parameter 1 in source
 msgstr[0] "%count% new"
 msgstr[1] "1 new"
 msgstr[2] "%count% new"
 
+#. No items: "%1 new and no repeats".
+#. One item: "%1 new and 1 repeat".
+#. 2+ items: "%1 new and %count% repeats".
+#: Parameter 2 in source
 msgid "x_new_and_repeats"
 msgid_plural "x_new_and_repeats %count%"
-#:Parameter 2 in source
 msgstr[0] "%1 new and no repeats"
 msgstr[1] "%1 new and 1 repeat"
 msgstr[2] "%1 new and %count% repeats"
 
+#. No items: "None total".
+#. One item: "1 total".
+#. 2+ items: "%1 total".
+#: Parameter 2 in source
 msgid "x_total"
 msgid_plural "x_total %count%"
-#:Parameter 2 in source
 msgstr[0] "None total"
 msgstr[1] "1 total"
 msgstr[2] "%1 total"
 
+#. You may also like
 msgid "you_might_also_like"
 msgstr "You may also like"
-

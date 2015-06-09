@@ -84,6 +84,36 @@ $noItemsText = $translate->translate($placeholder, array('%count%' => 0), 0);
 $someItemsText = $translate->translate($placeholder, array('%count%' => 3), 3);
 // $someItemsText = 'There are currently 3 available episodes'
 ```
+
+### Updating translation files
+
+This is a two step process. You need to update both the programmes.pot template and the English translation file. 
+Sorry, but that's the way GetText expects you to work.
+ 
+**To add an entry:**
+
+Open src/RMP/Translate/lang/programmes/programmes.pot. Add your new entry
+```
+#.The English translation
+msgid "my_shiny_new_entry"
+msgstr ""
+```
+The comment should contain the full english translation and is needed as guidance for translators in other languages.
+
+Save. Run scripts/updateTranslationsFromTemplate.sh to add the new entry to all translation files.
+Then edit the en.po file and Add your english translation
+```
+#.Put English Text here as guidance for translators in other languages
+msgid "my_shiny_new_entry"
+msgstr "The English translation"
+```
+
+Finally commit and run a composer update in your target application.
+
+**To remove an entry:**
+
+Simply remove the entry from the programmes.pot template and run  scripts/updateTranslationsFromTemplate.sh 
+
 ## Technical Detail
 
 ### Features
