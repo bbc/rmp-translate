@@ -1016,6 +1016,11 @@ msgstr "Sorry, that page was not found"
 msgid "pagination_link"
 msgstr "Page %1"
 
+#. Page %1 of %2
+#: Amen only!
+msgid "pagination_page"
+msgstr "Page %1 of %2"
+
 #. Add music you love and enjoy it with %1
 msgid "playlister_tagline"
 msgstr "Add music you love and enjoy it with %1"

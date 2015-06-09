@@ -1014,6 +1014,11 @@ msgstr ""
 msgid "pagination_link"
 msgstr ""
 
+#. Page %1 of %2
+#: Amen only!
+msgid "pagination_page"
+msgstr ""
+
 #. Add music you love and enjoy it with %1
 msgid "playlister_tagline"
 msgstr ""

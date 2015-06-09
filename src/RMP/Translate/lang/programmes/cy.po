@@ -1021,6 +1021,11 @@ msgstr "Yn anffodus nid yw’r dudalen ar gael"
 msgid "pagination_link"
 msgstr ""
 
+#. Page %1 of %2
+#: Amen only!
+msgid "pagination_page"
+msgstr ""
+
 #. Add music you love and enjoy it with %1
 msgid "playlister_tagline"
 msgstr "Ychwanegwch eich hoff gerddoriaeth a’i fwynhau gyda %1"
