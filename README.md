@@ -103,7 +103,7 @@ The comment should contain the full english translation and is needed as guidanc
 Save. Run scripts/updateTranslationsFromTemplate.sh to add the new entry to all translation files.
 Then edit the en.po file and Add your english translation
 ```
-#.Put English Text here as guidance for translators in other languages
+#.The English translation
 msgid "my_shiny_new_entry"
 msgstr "The English translation"
 ```
