@@ -1373,6 +1373,11 @@ msgstr[2] ""
 msgid "service_introduction"
 msgstr ""
 
+#. Sort by
+#. See http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player
+msgid "sort_by"
+msgstr ""
+
 #. Show available episodes
 msgid "show_available_episodes"
 msgstr ""
@@ -1425,6 +1430,21 @@ msgstr ""
 
 #. Timings (where shown) are the time of the day
 msgid "timings_start_of_day"
+msgstr ""
+
+#. %1h
+#. e.g. "2h" for 2 hours
+msgid "time_hours_short"
+msgstr ""
+
+#. %1m
+#. e.g. "17m" for 17 minutes
+msgid "time_minutes_short"
+msgstr ""
+
+#. %1s
+#. e.g. "12s" for 12 seconds
+msgid "time_seconds_short"
 msgstr ""
 
 #. Timings (where shown) are from the start of the programme in hours and minutes
