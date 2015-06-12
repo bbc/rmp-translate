@@ -110,6 +110,15 @@ msgstr[0] "Níl eagrán ar bith ar fáil faoi láthair"
 msgstr[1] "Faoi láthair tá %count% eagrán ar fáil"
 msgstr[2] "Faoi láthair tá %count% eagrán ar fáil"
 
+#. No items: "There are no available items"
+#. One item: "There is one available item"
+#. 2+ items: "There are %count% available items"
+msgid "available_items_count"
+msgid_plural "available_items_count %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #. Available now
 msgid "available_now"
 msgstr "Ar fáil anois"
@@ -842,6 +851,15 @@ msgstr[2] "%count%sheachtaine fágtha le coimhéad"
 msgid "iplayer_watch_remaining_years"
 msgstr "níos mó na bliain fágtha le coimhéad "
 
+#. No items: "There are no items"
+#. One item: "There is one item"
+#. 2+ items: "There are %count% items"
+msgid "items_count"
+msgid_plural "items_count %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #. You must enable JavaScript to play content
 msgid "javascript_required"
 msgstr "Caithfidh tú JavaScript a chumasú le hábhar a sheinm"
@@ -1347,6 +1365,10 @@ msgstr "Féach gach rud ó %1"
 #. See all galleries from %1
 msgid "see_all_galleries_from"
 msgstr "Féach gach gailearaí ó %1"
+
+#. See all items
+msgid "see_all_items"
+msgstr ""
 
 #. See all podcasts
 msgid "see_all_podcasts"

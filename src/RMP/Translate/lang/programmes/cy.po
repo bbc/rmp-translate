@@ -111,6 +111,15 @@ msgstr[0] "Does dim penodau i''w dangos"
 msgstr[1] "Ar hyn o bryd mae yna %count% bennod ar gael "
 msgstr[2] "Ar hyn o bryd mae yna %count% bennod ar gael"
 
+#. No items: "There are no available items"
+#. One item: "There is one available item"
+#. 2+ items: "There are %count% available items"
+msgid "available_items_count"
+msgid_plural "available_items_count %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #. Available now
 msgid "available_now"
 msgstr "Ar gael nawr"
@@ -847,6 +856,15 @@ msgstr[2] "%count% wythnos ar ôl i wylio"
 msgid "iplayer_watch_remaining_years"
 msgstr "dros flwyddyn ar ôl i wylio"
 
+#. No items: "There are no items"
+#. One item: "There is one item"
+#. 2+ items: "There are %count% items"
+msgid "items_count"
+msgid_plural "items_count %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #. You must enable JavaScript to play content
 msgid "javascript_required"
 msgstr "Rhaid i chi alluogi JavaScript er mwyn chwarae’r cynnwys"
@@ -1351,6 +1369,10 @@ msgstr "Gweld popeth %1"
 #. See all galleries from %1
 msgid "see_all_galleries_from"
 msgstr "Gweld holl orielau %1"
+
+#. See all items
+msgid "see_all_items"
+msgstr ""
 
 #. See all podcasts
 msgid "see_all_podcasts"

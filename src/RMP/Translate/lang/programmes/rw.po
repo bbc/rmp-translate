@@ -110,6 +110,15 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
+#. No items: "There are no available items"
+#. One item: "There is one available item"
+#. 2+ items: "There are %count% available items"
+msgid "available_items_count"
+msgid_plural "available_items_count %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #. Available now
 msgid "available_now"
 msgstr ""
@@ -840,6 +849,15 @@ msgstr[2] ""
 msgid "iplayer_watch_remaining_years"
 msgstr ""
 
+#. No items: "There are no items"
+#. One item: "There is one item"
+#. 2+ items: "There are %count% items"
+msgid "items_count"
+msgid_plural "items_count %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #. You must enable JavaScript to play content
 msgid "javascript_required"
 msgstr ""
@@ -1339,6 +1357,10 @@ msgstr ""
 
 #. See all galleries from %1
 msgid "see_all_galleries_from"
+msgstr ""
+
+#. See all items
+msgid "see_all_items"
 msgstr ""
 
 #. See all podcasts

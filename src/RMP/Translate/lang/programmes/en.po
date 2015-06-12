@@ -110,6 +110,15 @@ msgstr[0] "There are currently no available episodes"
 msgstr[1] "1 available episode"
 msgstr[2] "%count% available episodes"
 
+#. No items: "There are no available items"
+#. One item: "There is one available item"
+#. 2+ items: "There are %count% available items"
+msgid "available_items_count"
+msgid_plural "available_items_count %count%"
+msgstr[0] "There are no available items"
+msgstr[1] "There is one available item"
+msgstr[2] "There are %count% available items"
+
 #. Available now
 msgid "available_now"
 msgstr "Available now"
@@ -842,6 +851,15 @@ msgstr[2] "%count% weeks left to watch"
 msgid "iplayer_watch_remaining_years"
 msgstr "over a year left to watch"
 
+#. No items: "There are no items"
+#. One item: "There is one item"
+#. 2+ items: "There are %count% items"
+msgid "items_count"
+msgid_plural "items_count %count%"
+msgstr[0] "There are no items"
+msgstr[1] "There is one item"
+msgstr[2] "There are %count% items"
+
 #. You must enable JavaScript to play content
 msgid "javascript_required"
 msgstr "You must enable JavaScript to play content"
@@ -1347,6 +1365,10 @@ msgstr "See all from %1"
 #. See all galleries from %1
 msgid "see_all_galleries_from"
 msgstr "See all galleries from %1"
+
+#. See all items
+msgid "see_all_items"
+msgstr "See all items"
 
 #. See all podcasts
 msgid "see_all_podcasts"
