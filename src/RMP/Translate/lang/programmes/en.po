@@ -66,9 +66,9 @@ msgstr "Programmes beginning with numbers or punctuation symbols"
 msgid "atoz_search"
 msgstr "Search"
 
-#. Search results for ''%1''
+#. Search results for '%1'
 msgid "atoz_search_title"
-msgstr "Search results for ''%1''"
+msgstr "Search results for '%1'"
 
 #. A to Z
 msgid "atoz_title"
