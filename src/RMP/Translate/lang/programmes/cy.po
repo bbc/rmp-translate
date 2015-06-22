@@ -446,7 +446,7 @@ msgstr "Dan Sylw"
 
 #. Filter by
 msgid "filter_by"
-msgstr ""
+msgstr "Hidlo yn ôl"
 
 #. You are at the first episode
 msgid "first_episode"
@@ -465,6 +465,7 @@ msgstr[2] "Fformatau"
 #. Pick a format to see %1 programmes
 msgid "formats_note"
 msgstr "Dewiswch fformat i weld %1 o raglenni"
+msgstr "Dewiswch fformat i weld rhaglenni %1"
 
 #. Full schedule
 msgid "full_schedule"
@@ -506,7 +507,7 @@ msgstr[2] "Genre"
 
 #. Pick a genre to see %1 programmes
 msgid "genres_note"
-msgstr "Dewiswch genre i weld %1 o raglenni"
+msgstr "Dewiswch genre i weld rhaglenni %1"
 
 #. Hide available episodes
 msgid "hide_available_episodes"
@@ -1412,7 +1413,7 @@ msgstr ""
 #. Sort by
 #. See http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player
 msgid "sort_by"
-msgstr ""
+msgstr "Trefnu yn ôl"
 
 #. Show available episodes
 msgid "show_available_episodes"
