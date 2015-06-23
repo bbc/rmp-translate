@@ -85,7 +85,7 @@ $someItemsText = $translate->translate($placeholder, array('%count%' => 3), 3);
 // $someItemsText = 'There are currently 3 available episodes'
 ```
 
-### Updating translation files
+### Updating translation files with new placeholders
 
 This is a two step process. You need to update both the programmes.pot template and the English translation file. 
 Sorry, but that's the way GetText expects you to work.
@@ -112,7 +112,19 @@ Finally commit and run a composer update in your target application.
 
 **To remove an entry:**
 
-Simply remove the entry from the programmes.pot template and run  scripts/updateTranslationsFromTemplate.sh 
+Simply remove the entry from the programmes.pot template and run  scripts/updateTranslationsFromTemplate.sh
+ 
+### Updating translation files with new translations (supplied by a translator in .po format)
+There's a script that does most of this for you "updateLanguageFromSuppliedPO.sh". 
+For example, to update the Welsh translation file (language code "cy") from a new file supplied
+by a translator, you would run
+```
+./scripts/updateLanguageFromSuppliedPO.sh ~/Downloads/new-translations-cy_GB.po cy
+```
+
+Once you've done that, you'll probably want to run a diff to check everything's OK and remove any superfluous 
+headers added by the .po editor by hand. But the script should take care of any changes in ordering or new/wrong 
+entires that may have been added by the translator's .po editor. It uses msgmerge from the command line internally. 
 
 ## Technical Detail
 

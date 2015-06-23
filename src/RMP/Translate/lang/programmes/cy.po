@@ -52,7 +52,8 @@ msgstr "Mae’n ddrwg gennym ond does dim rhaglenni gyda theitlau yn cynnwys %1"
 
 #. Sorry, there are no programmes with titles beginning with %1
 msgid "atoz_noresults"
-msgstr "Mae’n ddrwg gennym ond does dim rhaglenni gyda theitlau yn dechrau gyda %1"
+msgstr ""
+"Mae’n ddrwg gennym ond does dim rhaglenni gyda theitlau yn dechrau gyda %1"
 
 #. Use the A to Z to find a programme by name
 msgid "atoz_note"
@@ -1168,7 +1169,8 @@ msgstr "Gallwch arbed, argraffu neu rannu'r llun."
 
 #. This code will link to the page for %1 when read using a QR code reader.
 msgid "qr_link"
-msgstr "Bydd y côd yn cysylltu â thudalen %1 trwy ddefnyddio darllenydd côd QR."
+msgstr ""
+"Bydd y côd yn cysylltu â thudalen %1 trwy ddefnyddio darllenydd côd QR."
 
 #. Sorry, there are no recommendations for this programme.
 msgid "recommendations_noresults"
@@ -1404,7 +1406,13 @@ msgstr[2] "Cyfresi"
 
 #. Explore the links below to find %1 programmes you're interested in
 msgid "service_introduction"
-msgstr "Dilynwch y dolenni isod i ddod o hyd i raglenni %1 sydd o ddiddordeb i chi"
+msgstr ""
+"Dilynwch y dolenni isod i ddod o hyd i raglenni %1 sydd o ddiddordeb i chi"
+
+#. Sort by
+#. See http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player
+msgid "sort_by"
+msgstr "Trefnu yn ôl"
 
 #. Show available episodes
 msgid "show_available_episodes"
@@ -1429,11 +1437,6 @@ msgstr "Rhaglenni tebyg"
 #. Skip to
 msgid "skip_to"
 msgstr "Neidio i"
-
-#. Sort by
-#. See http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player
-msgid "sort_by"
-msgstr "Trefnu yn ôl"
 
 #. Stations
 msgid "stations"
@@ -1461,6 +1464,10 @@ msgstr[2] "Mae yna %count% o benodau ar gael %1"
 msgid "television_abbr"
 msgstr "Teledu"
 
+#. Timings (where shown) are the time of the day
+msgid "timings_start_of_day"
+msgstr "Yr amseroedd (os yw’n ymddangos) yw amser y dydd"
+
 # There is no convention for abbreviating this in Welsh
 #. %1h
 #. e.g. "2h" for 2 hours
@@ -1478,10 +1485,6 @@ msgstr "%1 mun"
 #. e.g. "12s" for 12 seconds
 msgid "time_seconds_short"
 msgstr "%1 eiliad"
-
-#. Timings (where shown) are the time of the day
-msgid "timings_start_of_day"
-msgstr "Yr amseroedd (os yw’n ymddangos) yw amser y dydd"
 
 #. Timings (where shown) are from the start of the programme in hours and minutes
 msgid "timings_start_of_programme"
