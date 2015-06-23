@@ -52,8 +52,7 @@ msgstr "Mae’n ddrwg gennym ond does dim rhaglenni gyda theitlau yn cynnwys %1"
 
 #. Sorry, there are no programmes with titles beginning with %1
 msgid "atoz_noresults"
-msgstr ""
-"Mae’n ddrwg gennym ond does dim rhaglenni gyda theitlau yn dechrau gyda %1"
+msgstr "Mae’n ddrwg gennym ond does dim rhaglenni gyda theitlau yn dechrau gyda %1"
 
 #. Use the A to Z to find a programme by name
 msgid "atoz_note"
@@ -116,9 +115,9 @@ msgstr[2] "Ar hyn o bryd mae yna %count% bennod ar gael"
 #. 2+ items: "There are %count% available items"
 msgid "available_items_count"
 msgid_plural "available_items_count %count%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Does yna ddim eitemau ar gael"
+msgstr[1] "Mae yna un eitem ar gael"
+msgstr[2] "Mae yna %count% eitem ar gael"
 
 #. Available now
 msgid "available_now"
@@ -464,7 +463,6 @@ msgstr[2] "Fformatau"
 
 #. Pick a format to see %1 programmes
 msgid "formats_note"
-msgstr "Dewiswch fformat i weld %1 o raglenni"
 msgstr "Dewiswch fformat i weld rhaglenni %1"
 
 #. Full schedule
@@ -862,9 +860,9 @@ msgstr "dros flwyddyn ar ôl i wylio"
 #. 2+ items: "There are %count% items"
 msgid "items_count"
 msgid_plural "items_count %count%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Does yna ddim eitem"
+msgstr[1] "Mae yna un eitem"
+msgstr[2] "Mae yna %count% eitem ar gael"
 
 #. You must enable JavaScript to play content
 msgid "javascript_required"
@@ -1170,8 +1168,7 @@ msgstr "Gallwch arbed, argraffu neu rannu'r llun."
 
 #. This code will link to the page for %1 when read using a QR code reader.
 msgid "qr_link"
-msgstr ""
-"Bydd y côd yn cysylltu â thudalen %1 trwy ddefnyddio darllenydd côd QR."
+msgstr "Bydd y côd yn cysylltu â thudalen %1 trwy ddefnyddio darllenydd côd QR."
 
 #. Sorry, there are no recommendations for this programme.
 msgid "recommendations_noresults"
@@ -1373,7 +1370,7 @@ msgstr "Gweld holl orielau %1"
 
 #. See all items
 msgid "see_all_items"
-msgstr ""
+msgstr "Gweld pob eitem"
 
 #. See all podcasts
 msgid "see_all_podcasts"
@@ -1407,13 +1404,7 @@ msgstr[2] "Cyfresi"
 
 #. Explore the links below to find %1 programmes you're interested in
 msgid "service_introduction"
-msgstr ""
-"Dilynwch y dolenni isod i ddod o hyd i raglenni %1 sydd o ddiddordeb i chi"
-
-#. Sort by
-#. See http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player
-msgid "sort_by"
-msgstr "Trefnu yn ôl"
+msgstr "Dilynwch y dolenni isod i ddod o hyd i raglenni %1 sydd o ddiddordeb i chi"
 
 #. Show available episodes
 msgid "show_available_episodes"
@@ -1438,6 +1429,11 @@ msgstr "Rhaglenni tebyg"
 #. Skip to
 msgid "skip_to"
 msgstr "Neidio i"
+
+#. Sort by
+#. See http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player
+msgid "sort_by"
+msgstr "Trefnu yn ôl"
 
 #. Stations
 msgid "stations"
@@ -1465,24 +1461,27 @@ msgstr[2] "Mae yna %count% o benodau ar gael %1"
 msgid "television_abbr"
 msgstr "Teledu"
 
-#. Timings (where shown) are the time of the day
-msgid "timings_start_of_day"
-msgstr "Yr amseroedd (os yw’n ymddangos) yw amser y dydd"
-
+# There is no convention for abbreviating this in Welsh
 #. %1h
 #. e.g. "2h" for 2 hours
 msgid "time_hours_short"
-msgstr ""
+msgstr "%1 awr"
 
+# There is no convention for abbreviating this in Welsh
 #. %1m
 #. e.g. "17m" for 17 minutes
 msgid "time_minutes_short"
-msgstr ""
+msgstr "%1 mun"
 
+# There is no convention for abbreviating this in Welsh
 #. %1s
 #. e.g. "12s" for 12 seconds
 msgid "time_seconds_short"
-msgstr ""
+msgstr "%1 eiliad"
+
+#. Timings (where shown) are the time of the day
+msgid "timings_start_of_day"
+msgstr "Yr amseroedd (os yw’n ymddangos) yw amser y dydd"
 
 #. Timings (where shown) are from the start of the programme in hours and minutes
 msgid "timings_start_of_programme"
