@@ -345,6 +345,7 @@ msgid "credits_none"
 msgstr "This programme has no credits"
 
 #. %1s
+#. e.g. "1990s" or "2000s"
 msgid "decade"
 msgstr "%1s"
 
@@ -1148,10 +1149,12 @@ msgid "programmes_resume_at"
 msgstr "Programmes will resume at %1"
 
 #. QR code
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
 msgid "qr_code"
 msgstr "QR code"
 
 #. A %1QR code%2 is a type of barcode which can contain links to webpages. Mobile phones with a camera and an appropriate application are able to read these codes and take you to the address contained within it.
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
 msgid "qr_description"
 msgstr ""
 "A %1QR code%2 is a type of barcode which can contain links to webpages. "
@@ -1159,10 +1162,12 @@ msgstr ""
 "these codes and take you to the address contained within it."
 
 #. You may save, print or share the image.
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
 msgid "qr_instruction"
 msgstr "You may save, print or share the image."
 
 #. This code will link to the page for %1 when read using a QR code reader.
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
 msgid "qr_link"
 msgstr ""
 "This code will link to the page for %1 when read using a QR code reader."

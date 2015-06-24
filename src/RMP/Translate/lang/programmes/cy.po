@@ -347,6 +347,7 @@ msgid "credits_none"
 msgstr "Nid oes gan y rhaglen yma restr cyfranwyr"
 
 #. %1s
+#. e.g. "1990s" or "2000s"
 msgid "decade"
 msgstr "%1au"
 
@@ -1153,10 +1154,12 @@ msgid "programmes_resume_at"
 msgstr "Rhaglenni yn ailddechrau am %1"
 
 #. QR code
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
 msgid "qr_code"
 msgstr "Côd QR"
 
 #. A %1QR code%2 is a type of barcode which can contain links to webpages. Mobile phones with a camera and an appropriate application are able to read these codes and take you to the address contained within it.
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
 msgid "qr_description"
 msgstr ""
 "Mae %1Côd QR%2 yn fath o gôd bar a all gynnwys dolenni i dudalennau gwe. Mae "
@@ -1164,10 +1167,12 @@ msgstr ""
 "â chi i'r cyfeiriad sydd wedi ei gynnwys ynddo."
 
 #. You may save, print or share the image.
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
 msgid "qr_instruction"
 msgstr "Gallwch arbed, argraffu neu rannu'r llun."
 
 #. This code will link to the page for %1 when read using a QR code reader.
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
 msgid "qr_link"
 msgstr ""
 "Bydd y côd yn cysylltu â thudalen %1 trwy ddefnyddio darllenydd côd QR."
