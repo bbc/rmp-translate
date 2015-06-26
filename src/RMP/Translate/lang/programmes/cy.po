@@ -613,6 +613,14 @@ msgstr "Chwarae’n fyw"
 msgid "iplayer_play_now"
 msgstr "Chwarae nawr"
 
+#. Play episode
+msgid "iplayer_play_episode"
+msgstr ""
+
+#. Play episode
+msgid "iplayer_play_clip"
+msgstr ""
+
 #. No items: "0 days left to play"
 #. One item: "1 day left to play"
 #. 2+ items: "%count% days left to play"
@@ -1479,17 +1487,44 @@ msgstr "Yr amseroedd (os yw’n ymddangos) yw amser y dydd"
 msgid "time_hours_short"
 msgstr "%1 awr"
 
+#. No items: "0 hours"
+#. One item: "1 hour"
+#. 2+ items: "2 hours"
+msgid "time_hours_long"
+msgid_plural "time_hours_long %count%"
+msgstr[0] "%1 awr"
+msgstr[1] "%1 awr"
+msgstr[2] "%1 awr"
+
 # There is no convention for abbreviating this in Welsh
 #. %1m
 #. e.g. "17m" for 17 minutes
 msgid "time_minutes_short"
 msgstr "%1 mun"
 
+#. No items: "0 minutes"
+#. One item: "1 minute"
+#. 2+ items: "2 minutes"
+msgid "time_minutes_long"
+msgid_plural "time_minutes_long %count%"
+msgstr[0] "%1 munud"
+msgstr[1] "%1 munud"
+msgstr[2] "%1 munud"
+
 # There is no convention for abbreviating this in Welsh
 #. %1s
 #. e.g. "12s" for 12 seconds
 msgid "time_seconds_short"
 msgstr "%1 eiliad"
+
+#. No items: "0 seconds"
+#. One item: "1 second"
+#. 2+ items: "2 seconds"
+msgid "time_seconds_long"
+msgid_plural "time_seconds_long %count%"
+msgstr[0] "%1 eiliad"
+msgstr[1] "%1 eiliad"
+msgstr[2] "%1 eiliad"
 
 #. Timings (where shown) are from the start of the programme in hours and minutes
 msgid "timings_start_of_programme"

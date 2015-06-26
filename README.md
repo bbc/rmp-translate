@@ -2,15 +2,15 @@ RMP\Translate
 =============
 A small composer library to load .po (GetText) translation files and provide a simple API for translations in /programmes and Amen.
 
-This is esentially a wrapper that simplifies the use of Symfony\Translation.  
+This is essentially a wrapper that simplifies the use of Symfony\Translation.
 
 ## Why?
 
-/programmes is currently being translated into a wide variety of languages for BBC World Serivce. This requires a translation file format that non-technical users can safely handle. GetText is about the only widely supported format with fully featured editors (including a [web based one](https://localise.biz/free/poeditor/demo)).
+/programmes is currently being translated into a wide variety of languages for BBC World Service. This requires a translation file format that non-technical users can safely handle. GetText is about the only widely supported format with fully featured editors (including a [web based one](https://localise.biz/free/poeditor/demo)).
 
 GetText is based around feeding strings in a source language to a translation layer, and having those translated into a target language. BBC localisation generally uses placeholder strings which are replaced with a localised string at run time. 
 
-RMP\Translate simplifes the usage of this translation format with Symfony translate, provides a script to convert existing msgformat (BBC_Localisation) files to .po files, and works around some of the bugs that crop up using Symfony translate. 
+RMP\Translate simplifies the usage of this translation format with Symfony translate, provides a script to convert existing msgformat (BBC_Localisation) files to .po files, and works around some of the bugs that crop up using Symfony translate.
 
 
 ## Basic Usage
