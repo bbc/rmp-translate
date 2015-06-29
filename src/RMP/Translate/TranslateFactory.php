@@ -49,6 +49,10 @@ class TranslateFactory
             $options['default_domain'] = reset($options['domains']);
         }
 
+        if (empty($options['cachepath'])) {
+            $options['cachepath'] = null;
+        }
+
         $translator = $this->getTranslator(
             $locale,
             null,
