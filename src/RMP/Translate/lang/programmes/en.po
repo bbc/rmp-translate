@@ -269,6 +269,16 @@ msgstr[0] "There are currently no available clips"
 msgstr[1] "There is currently 1 available clip"
 msgstr[2] "There are currently %count% available clips"
 
+#. No items: "Collections"
+#. One item: "Collection"
+#. 2+ items: "Collections"
+#: Parameter 1 in source
+msgid "collections"
+msgid_plural "collections %count%"
+msgstr[0] "Collections"
+msgstr[1] "Collection"
+msgstr[2] "Collections"
+
 #. Available on
 msgid "colon_available_on"
 msgstr "Available on"
