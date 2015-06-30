@@ -270,6 +270,16 @@ msgstr[0] "Ar hyn o bryd, does dim clipiau ar gael"
 msgstr[1] "Ar hyn o bryd mae yna 1 clip ar gael"
 msgstr[2] "Ar hyn o bryd mae yna %count% o glipiau ar gael"
 
+#. No items: "Collections"
+#. One item: "Collection"
+#. 2+ items: "Collections"
+#: Parameter 1 in source
+msgid "collections"
+msgid_plural "collections %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #. Available on
 msgid "colon_available_on"
 msgstr "Ar gael ar"

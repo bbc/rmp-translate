@@ -269,6 +269,16 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
+#. No items: "Collections"
+#. One item: "Collection"
+#. 2+ items: "Collections"
+#: Parameter 1 in source
+msgid "collections"
+msgid_plural "collections %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #. Available on
 msgid "colon_available_on"
 msgstr ""

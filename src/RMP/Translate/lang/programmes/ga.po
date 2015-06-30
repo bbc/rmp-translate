@@ -269,6 +269,16 @@ msgstr[0] "Níl aon ghearrthóg ar fáil faoi láthair"
 msgstr[1] "Tá 1 ghearrthóg ar fáil faoi láthair"
 msgstr[2] "Tá %count% gearrthóg ar fáil faoi láthair"
 
+#. No items: "Collections"
+#. One item: "Collection"
+#. 2+ items: "Collections"
+#: Parameter 1 in source
+msgid "collections"
+msgid_plural "collections %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #. Available on
 msgid "colon_available_on"
 msgstr "Ar fáil ar"
