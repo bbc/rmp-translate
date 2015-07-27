@@ -1,1505 +1,1459 @@
 msgid ""
 msgstr ""
+"Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cy_GB\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 "X-Loco-Target-Locale: cy_GB\n"
 
-#. All
+#. English: "All".
 msgid "all"
 msgstr "Pob un"
 
-#. All episodes
+#. English: "All episodes".
 msgid "all_episodes"
 msgstr "Pob pennod"
 
-#. All episodes available on BBC iPlayer
+#. English: "All episodes available on BBC iPlayer".
 msgid "all_episodes_iplayer"
 msgstr "Pob pennod sydd ar gael ar BBC iPlayer"
 
-#. All episodes available on BBC iPlayer Radio
+#. English: "All episodes available on BBC iPlayer Radio".
 msgid "all_episodes_iplayer_radio"
 msgstr "Pob pennod sydd ar gael ar BBC iPlayer Radio"
 
-#. All previous episodes
+#. English: "All previous episodes".
 msgid "all_previous_episodes"
 msgstr "Pob pennod blaenorol"
 
-#. All upcoming
+#. English: "All upcoming".
 msgid "all_upcoming"
 msgstr "Popeth i ddod"
 
-#. All Programmes
+#. English: "All Programmes".
 msgid "atoz_all"
 msgstr "Pob Rhaglen"
 
-#. Available now & Coming soon
+#. English: "Available now & Coming soon".
 msgid "atoz_current"
 msgstr "Ar gael nawr ac yn dod yn fuan"
 
-#. Programmes beginning with the letter %1
+#. English: "Programmes beginning with the letter %1".
 msgid "atoz_letters"
 msgstr "Rhaglenni'n dechrau gyda'r lythyren %1"
 
-#. Sorry, there are no programmes in this category
+#. English: "Sorry, there are no programmes in this category".
 msgid "atoz_nocategory"
 msgstr "Mae'n ddrwg gennym ond does dim rhaglenni yn y categori yma."
 
-#. Sorry, there are no programmes with titles containing %1
+#. English: "Sorry, there are no programmes with titles containing %1".
+#. Example URL: http://www.bbc.co.uk/bbcone/programmes/a-z/by/thisisnotarealword .
+#. Type: Body text
+#: { "varible_examples": "%1" : "thisisnotarealword" }
 msgid "atoz_nocontaining"
 msgstr "Mae’n ddrwg gennym ond does dim rhaglenni gyda theitlau yn cynnwys %1"
 
-#. Sorry, there are no programmes with titles beginning with %1
+#. English: "Sorry, there are no programmes with titles beginning with %1".
 msgid "atoz_noresults"
 msgstr ""
 "Mae’n ddrwg gennym ond does dim rhaglenni gyda theitlau yn dechrau gyda %1"
 
-#. Use the A to Z to find a programme by name
+#. English: "Use the A to Z to find a programme by name".
 msgid "atoz_note"
 msgstr "Defnyddiwch yr A-Z i chwilio am raglen yn ôl enw"
 
-#. Programmes beginning with numbers or punctuation symbols
+#. English: "Programmes beginning with numbers or punctuation symbols".
 msgid "atoz_numbers"
 msgstr "Rhaglenni'n dechrau gyda rhifau neu symbolau"
 
-#. Search
+#. English: "Search".
 msgid "atoz_search"
 msgstr "Chwilio"
 
-#. Search results for '%1'
+#. English: "Search results for '%1'".
+#. Example URL: http://www.bbc.co.uk/bbcone/programmes/a-z/by/thisisnotarealword .
+#. Type: Title
+#: { "varible_examples": "%1" : "thisisnotarealword" }
 msgid "atoz_search_title"
 msgstr "Canlyniadau chwilio ar gyfer '%1'"
 
-#. A to Z
+#. English: "A to Z".
 msgid "atoz_title"
 msgstr "A-Z"
 
-#. Programmes A to Z
+#. English: "Programmes A to Z".
 msgid "atoz_title_full"
 msgstr "A-Z Rhaglenni"
 
-#. Try viewing %1all%2
+#. English: "Try viewing %1all%2".
 msgid "atoz_tryall"
 msgstr "Triwch %1pob dim%2"
 
-#. Try viewing %1current%2
+#. English: "Try viewing %1current%2".
 msgid "atoz_trycurrent"
 msgstr "Triwch %1y diweddaraf%2"
 
-#. Audio described
+#. English: "Audio described".
 msgid "audio_described"
 msgstr "Sain-Ddisgrifio"
 
-#. No items: "There are currently no available episodes"
-#. One item: "There is currently %count% available episode"
-#. 2+ items: "There are currently %count% available episodes"
-#: Parameter 1 in source
+#. English (no items): "There are currently no available episodes".
+#. English (one item): "There is currently %count% available episode".
+#. English (2+ items): "There are currently %count% available episodes".
+#. Example URL: http://www.bbc.co.uk/programmes/b007wds5/episodes/player .
+#. Type: Body text
+#: { "varible_examples": "%count" : "3" }
 msgid "available_count"
 msgid_plural "available_count %count%"
 msgstr[0] "Ar hyn o bryd, does dim penodau ar gael"
 msgstr[1] "Ar hyn o bryd mae yna %count% bennod ar gael "
 msgstr[2] "Ar hyn o bryd mae yna %count% o benodau ar gael"
 
-#. No items: "There are currently no available episodes"
-#. One item: "1 available episode"
-#. 2+ items: "%count% available episodes"
-#: Parameter 1 in source
+#. English (no items): "There are currently no available episodes".
+#. English (one item): "1 available episode".
+#. English (2+ items): "%count% available episodes".
 msgid "available_count_short"
 msgid_plural "available_count_short %count%"
 msgstr[0] "Does dim penodau i''w dangos"
 msgstr[1] "Ar hyn o bryd mae yna %count% bennod ar gael "
 msgstr[2] "Ar hyn o bryd mae yna %count% bennod ar gael"
 
-#. No items: "There are no available items"
-#. One item: "There is one available item"
-#. 2+ items: "There are %count% available items"
+#. English (no items): "There are no available items".
+#. English (one item): "There is one available item".
+#. English (2+ items): "There are %count% available items".
 msgid "available_items_count"
 msgid_plural "available_items_count %count%"
 msgstr[0] "Does yna ddim eitemau ar gael"
 msgstr[1] "Mae yna un eitem ar gael"
 msgstr[2] "Mae yna %count% eitem ar gael"
 
-#. Available now
+#. English: "Available now".
 msgid "available_now"
 msgstr "Ar gael nawr"
 
-#. Available on BBC iPlayer
+#. English: "Available on BBC iPlayer".
 msgid "available_on_iplayer"
 msgstr "Ar gael ar BBC iPlayer"
 
-#. On iPlayer
+#. English: "On iPlayer".
 msgid "available_on_iplayer_short"
 msgstr "Ar iPlayer"
 
-#. This programme will be available shortly after broadcast
+#. English: "This programme will be available shortly after broadcast".
 msgid "available_shortly"
 msgstr "Bydd y rhaglen yma ar gael yn fuan ar ôl cael ei darlledu"
 
-#. Back to top
+#. English: "Back to top".
 msgid "back_to_top_of_page"
 msgstr "Yn ôl i’r brig"
 
-#. Back up to:
+#. English: "Back up to:".
 msgid "back_up_to"
 msgstr "Yn ôl i:"
 
-#. except %1
+#. English: "except %1".
 msgid "broadcast_except"
 msgstr "heblaw %1"
 
-#. %1 only
+#. English: "%1 only".
 msgid "broadcast_only_on"
 msgstr "dim ond ar %1"
 
-#. No items: "Broadcasts"
-#. One item: "Broadcast"
-#. 2+ items: "Broadcasts"
-#: Parameter 1 in source
+#. English (no items): "Broadcasts".
+#. English (one item): "Broadcast".
+#. English (2+ items): "Broadcasts".
 msgid "broadcasts"
 msgid_plural "broadcasts %count%"
 msgstr[0] "Darllediadau"
 msgstr[1] "Darllediad"
 msgstr[2] "Darllediadau"
 
-#. There are no broadcasts
+#. English: "There are no broadcasts".
 msgid "broadcasts_none"
 msgstr "Dim darllediadau"
 
-#. There are no broadcasts for the month and year selected
+#. English: "There are no broadcasts for the month and year selected".
 msgid "broadcasts_none_date"
 msgstr "Dim darllediadau ar gyfer y mis a’r flwyddyn a ddewiswyd"
 
-#. There are no upcoming broadcasts of this programme
+#. English: "There are no upcoming broadcasts of this programme".
 msgid "broadcasts_none_upcoming"
 msgstr "Dim darllediadau i ddod"
 
-#. There are no upcoming debut broadcasts
+#. English: "There are no upcoming debut broadcasts".
 msgid "broadcasts_none_upcoming_debut"
 msgstr "Dim darllediadau cyntaf i ddod"
 
-#. Series and episodes available from online suppliers
+#. English: "Series and episodes available from online suppliers".
 msgid "buy_desc"
 msgstr "Cyfresi a phenodau sydd ar gael gan werthwyr ar-lein"
 
-#. Buy online
+#. English: "Buy online".
 msgid "buy_online"
 msgstr "Prynu ar lein"
 
-#. Where to buy
+#. English: "Where to buy".
 msgid "buy_where"
 msgstr "Ble i brynu"
 
-#. By date
+#. English: "By date".
 msgid "by_date"
 msgstr "Yn ôl dyddiad"
 
-#. By format
+#. English: "By format".
 msgid "by_format"
 msgstr "Yn ôl fformat"
 
-#. By genre
+#. English: "By genre".
 msgid "by_genre"
 msgstr "Yn ôl genre"
 
-#. No items: "Categories"
-#. One item: "Category"
-#. 2+ items: "Categories"
-#: Parameter 1 in source
+#. English (no items): "Categories".
+#. English (one item): "Category".
+#. English (2+ items): "Categories".
 msgid "categories"
 msgid_plural "categories %count%"
 msgstr[0] "Categorïau"
 msgstr[1] "Categori"
 msgstr[2] "Categorïau"
 
-#. This category can be found on the stations highlighted below
+#. English: "This category can be found on the stations highlighted below".
 msgid "category_stations_note"
 msgstr "Gallwch ddod o hyd i'r categori hwn ar y gorsafoedd isod"
 
-#. Programmes categorised as %1
+#. English: "Programmes categorised as %1".
 msgid "category_title"
 msgstr "Rhaglenni yng nghategori '%1"
 
-#. This chapter is from
+#. English: "This chapter is from".
 msgid "chapter_context"
 msgstr "Mae’r bennod yma o"
 
-#. No items: "Chapters"
-#. One item: "Chapter"
-#. 2+ items: "Chapters"
-#: Parameter 1 in source
+#. English (no items): "Chapters".
+#. English (one item): "Chapter".
+#. English (2+ items): "Chapters".
 msgid "chapters"
 msgid_plural "chapters %count%"
 msgstr[0] "Penodau"
 msgstr[1] "Pennod"
 msgstr[2] "Penodau"
 
-#. This clip will be available soon
+#. English: "This clip will be available soon".
 msgid "clip_availability_future"
 msgstr "Bydd y clip yma ar gael yn fuan"
 
-#. Sorry, this clip is not currently available
+#. English: "Sorry, this clip is not currently available".
 msgid "clip_availability_none"
 msgstr "Mae’n ddrwg gennym, ‘dyw’r clip yma ddim ar gael ar hyn o bryd"
 
-#. Sorry, this clip is no longer available
+#. English: "Sorry, this clip is no longer available".
 msgid "clip_availability_past"
 msgstr "Mae’n ddrwg gennym, ‘dyw’r clip yma ddim ar gael bellach"
 
-#. This clip is from
+#. English: "This clip is from".
 msgid "clip_context"
 msgstr "Daw'r clip hwn o"
 
-#. No items: "Clips"
-#. One item: "Clip"
-#. 2+ items: "Clips"
-#: Parameter 1 in source
+#. English (no items): "Clips".
+#. English (one item): "Clip".
+#. English (2+ items): "Clips".
 msgid "clips"
 msgid_plural "clips %count%"
 msgstr[0] "Clipiau"
 msgstr[1] "Clip"
 msgstr[2] "Clipiau"
 
-#. No items: "There are currently no available clips"
-#. One item: "There is currently 1 available clip"
-#. 2+ items: "There are currently %count% available clips"
-#: Parameter 1 in source
+#. English (no items): "There are currently no available clips".
+#. English (one item): "There is currently 1 available clip".
+#. English (2+ items): "There are currently %count% available clips".
 msgid "clips_count"
 msgid_plural "clips_count %count%"
 msgstr[0] "Ar hyn o bryd, does dim clipiau ar gael"
 msgstr[1] "Ar hyn o bryd mae yna 1 clip ar gael"
 msgstr[2] "Ar hyn o bryd mae yna %count% o glipiau ar gael"
 
-#. No items: "Collections"
-#. One item: "Collection"
-#. 2+ items: "Collections"
-#: Parameter 1 in source
+#. English (no items): "Collections".
+#. English (one item): "Collection".
+#. English (2+ items): "Collections".
 msgid "collections"
 msgid_plural "collections %count%"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#. Available on
+#. English: "Available on".
 msgid "colon_available_on"
 msgstr "Ar gael ar"
 
-#. From suppliers
+#. English: "From suppliers".
 msgid "colon_from_suppliers"
 msgstr "Gan werthwyr"
 
-#. Coming soon
+#. English: "Coming soon".
 msgid "coming_soon"
 msgstr "Yn dod yn fuan"
 
-#. No items: "Comments"
-#. One item: "Comment"
-#. 2+ items: "Comments"
-#: Parameter 1 in source
+#. English (no items): "Comments".
+#. English (one item): "Comment".
+#. English (2+ items): "Comments".
 msgid "comments"
 msgid_plural "comments %count%"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#. No items: "Contact details"
-#. One item: "Contact detail"
-#. 2+ items: "Contact details"
-#: Parameter 1 in source
+#. English (no items): "Contact details".
+#. English (one item): "Contact detail".
+#. English (2+ items): "Contact details".
 msgid "contact_details"
 msgid_plural "contact_details %count%"
 msgstr[0] "Manylion cyswllt"
 msgstr[1] "Manylion cyswllt"
 msgstr[2] "Manylion cyswllt"
 
-#. Please complete this field
+#. English: "Please complete this field".
 msgid "contact_form_field"
 msgstr "Rhaid llenwi’r blwch yma"
 
-#. indicates mandatory fields
+#. English: "indicates mandatory fields".
 msgid "contact_form_mandatory"
 msgstr "Blwch hanfodol"
 
-#. Send message
+#. English: "Send message".
 msgid "contact_form_submit"
 msgstr "Anfon neges"
 
-#. Sorry, the contact form is currently unavailable due to a technical problem.
+#. English: "Sorry, the contact form is currently unavailable due to a technical problem.".
 msgid "contact_form_unavailable"
 msgstr ""
 "Mae’n ddrwg gennym ond nid yw’r ffurflen ar gael oherwydd problemau "
 "technegol."
 
-#. Form details
+#. English: "Form details".
 msgid "contact_prompt"
 msgstr "Manylion y ffurflen"
 
-#. Please include the following details on your message:
+#. English: "Please include the following details on your message:".
 msgid "contact_prompt_note"
 msgstr "Rhaid cynnwys y manylion isod yn eich neges:"
 
-#. Contact us
+#. English: "Contact us".
 msgid "contact_us"
 msgstr "Cysylltu â ni"
 
-#. No items: "Credits"
-#. One item: "Credit"
-#. 2+ items: "Credits"
-#: Parameter 1 in source
+#. English (no items): "Credits".
+#. English (one item): "Credit".
+#. English (2+ items): "Credits".
 msgid "credits"
 msgid_plural "credits %count%"
 msgstr[0] "Cydnabyddiaeth "
 msgstr[1] "Cydnabyddiaeth "
 msgstr[2] "Cydnabyddiaeth"
 
-#. This programme has no credits
+#. English: "This programme has no credits".
 msgid "credits_none"
 msgstr "Nid oes gan y rhaglen yma restr cyfranwyr"
 
-#. %1s
-#. e.g. "1990s" or "2000s"
+#. English: "%1s".
+#. English: "e.g. "1990s" or "2000s"".
 msgid "decade"
 msgstr "%1au"
 
-#. No items: "Downloads"
-#. One item: "Download"
-#. 2+ items: "Downloads"
-#: Parameter 1 in source
+#. English (no items): "Downloads".
+#. English (one item): "Download".
+#. English (2+ items): "Downloads".
 msgid "downloads"
 msgid_plural "downloads %count%"
 msgstr[0] "Lawrlwythiad"
 msgstr[1] "Lawrlwythiad"
 msgstr[2] "Lawrlwythiad"
 
-#. Duration: %1
+#. English: "Duration: %1".
 msgid "duration"
 msgstr "Hyd: %1"
 
-#. This episode will be available soon
+#. English: "This episode will be available soon".
 msgid "episode_availability_future"
 msgstr "Bydd y bennod yma ar gael yn fuan"
 
-#. Sorry, this episode is not currently available
+#. English: "Sorry, this episode is not currently available".
 msgid "episode_availability_none"
 msgstr "Mae’n ddrwg gennym ‘dyw’r bennod yma ddim ar gael ar hyn o bryd"
 
-#. Sorry, this episode is not currently available on BBC iPlayer Radio
+#. English: "Sorry, this episode is not currently available on BBC iPlayer Radio".
 msgid "episode_availability_none_radio"
 msgstr ""
 "Mae’n ddrwg gennym ‘dyw’r bennod yma ddim ar gael ar BBC iPlayer Radio ar "
 "hyn o bryd"
 
-#. Sorry, this episode is no longer available
+#. English: "Sorry, this episode is no longer available".
 msgid "episode_availability_past"
 msgstr "Mae’n ddrwg gennym, ‘dyw’r bennod yma ddim ar gael bellach"
 
-#. Sorry, this episode is no longer available on BBC iPlayer Radio
+#. English: "Sorry, this episode is no longer available on BBC iPlayer Radio".
 msgid "episode_availability_past_radio"
 msgstr ""
 "Mae’n ddrwg gennym, ‘dyw’r bennod yma ddim ar gael ar BBC iPlayer Radio "
 "bellach"
 
-#. Episode guide
+#. English: "Episode guide".
 msgid "episode_guide"
 msgstr "Canllaw penodau"
 
-#. Episode %1 of %2
+#. English: "Episode %1 of %2".
 msgid "episode_number"
 msgstr "Pennod %1 o %2"
 
-#. No items: "Sorry, no episodes available on BBC iPlayer"
-#. One item: "1 episode available on BBC iPlayer"
-#. 2+ items: "%count% episodes available on BBC iPlayer"
-#: Parameter 1 in source
+#. English (no items): "Sorry, no episodes available on BBC iPlayer".
+#. English (one item): "1 episode available on BBC iPlayer".
+#. English (2+ items): "%count% episodes available on BBC iPlayer".
 msgid "episode_on_iplayer"
 msgid_plural "episode_on_iplayer %count%"
 msgstr[0] "Mae'n ddrwg gennym ond does dim penodau ar gael ar BBC iPlayer"
 msgstr[1] "1 bennod ar gael ar BBC iPlayer"
 msgstr[2] "%count% o benodau ar gael ar BBC iPlayer"
 
-#. No items: "Episodes"
-#. One item: "Episode"
-#. 2+ items: "Episodes"
-#: Parameter 1 in source
+#. English (no items): "Episodes".
+#. English (one item): "Episode".
+#. English (2+ items): "Episodes".
 msgid "episodes"
 msgid_plural "episodes %count%"
 msgstr[0] "Penodau"
 msgstr[1] "Pennod"
 msgstr[2] "Penodau"
 
-#. Episodes available:
+#. English: "Episodes available:".
 msgid "episodes_available"
 msgstr "Penodau sydd ar gael:"
 
-#. There will be %1 episodes. More information coming soon
+#. English: "There will be %1 episodes. More information coming soon".
 msgid "episodes_more_soon"
 msgstr "Bydd yna %1 o benodau. Rhagor o wybodaeth i ddod yn fuan"
 
-#. There are no episodes
+#. English: "There are no episodes".
 msgid "episodes_none"
 msgstr "Does dim penodau"
 
-#. Sorry, we couldn't access this information. Please refresh to try again.
+#. English: "Sorry, we couldn't access this information. Please refresh to try again.".
 msgid "fault"
 msgstr ""
 
-#. Featured
+#. English: "Featured".
 msgid "featured"
 msgstr "Dan Sylw"
 
-#. Featured in...
+#. English: "Featured in...".
 msgid "featured_in"
 msgstr "Dan sylw yn..."
 
-#. Features
+#. English: "Features".
 msgid "features"
 msgstr "Dan Sylw"
 
-#. Filter by
+#. English: "Filter by".
 msgid "filter_by"
 msgstr "Hidlo yn ôl"
 
-#. You are at the first episode
+#. English: "You are at the first episode".
 msgid "first_episode"
 msgstr "Dyma'r rhifyn cyntaf"
 
-#. No items: "Formats"
-#. One item: "Format"
-#. 2+ items: "Formats"
-#: Parameter 1 in source
+#. English (no items): "Formats".
+#. English (one item): "Format".
+#. English (2+ items): "Formats".
 msgid "formats"
 msgid_plural "formats %count%"
 msgstr[0] "Fformatau"
 msgstr[1] "Fformat"
 msgstr[2] "Fformatau"
 
-#. Pick a format to see %1 programmes
+#. English: "Pick a format to see %1 programmes".
 msgid "formats_note"
 msgstr "Dewiswch fformat i weld rhaglenni %1"
 
-#. Full schedule
+#. English: "Full schedule".
 msgid "full_schedule"
 msgstr "Amserlen lawn"
 
-#. No items: "Galleries"
-#. One item: "Gallery"
-#. 2+ items: "Galleries"
-#: Parameter 1 in source
+#. English (no items): "Galleries".
+#. English (one item): "Gallery".
+#. English (2+ items): "Galleries".
 msgid "galleries"
 msgid_plural "galleries %count%"
 msgstr[0] "Orielau"
 msgstr[1] "Oriel"
 msgstr[2] "Orielau"
 
-#. This gallery is from
+#. English: "This gallery is from".
 msgid "galleries_context"
 msgstr "Mae'r oriel yma o"
 
-#. No items: "There are currently no galleries"
-#. One item: "There is currently 1 gallery"
-#. 2+ items: "There are currently %count% galleries"
-#: Parameter 1 in source
+#. English (no items): "There are currently no galleries".
+#. English (one item): "There is currently 1 gallery".
+#. English (2+ items): "There are currently %count% galleries".
 msgid "galleries_count"
 msgid_plural "galleries_count %count%"
 msgstr[0] "Does dim oriel ar hyn o bryd"
 msgstr[1] "Ar hyn o bryd mae yna 1 oriel"
 msgstr[2] "Ar hyn o bryd mae yna %count% oriel"
 
-#. No items: "Genres"
-#. One item: "Genre"
-#. 2+ items: "Genres"
-#: Parameter 1 in source
+#. English (no items): "Genres".
+#. English (one item): "Genre".
+#. English (2+ items): "Genres".
 msgid "genres"
 msgid_plural "genres %count%"
 msgstr[0] "Genre"
 msgstr[1] "Genre"
 msgstr[2] "Genre"
 
-#. Pick a genre to see %1 programmes
+#. English: "Pick a genre to see %1 programmes".
 msgid "genres_note"
 msgstr "Dewiswch genre i weld rhaglenni %1"
 
-#. Hide available episodes
+#. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr "Cuddio’r penodau sydd ar gael"
 
-#. Home
+#. English: "Home".
 msgid "home"
 msgstr "Hafan"
 
-#. Listen from start
+#. English: "Listen from start".
 msgid "iplayer_listen_from_start"
 msgstr "Gwrando o’r dechrau"
 
-#. Listen live
+#. English: "Listen live".
 msgid "iplayer_listen_live"
 msgstr "Gwrando’n fyw"
 
-#. Listen now
+#. English: "Listen now".
 msgid "iplayer_listen_now"
 msgstr "Gwrando nawr"
 
-#. No items: "0 days left to listen"
-#. One item: "1 day left to listen"
-#. 2+ items: "%count% days left to listen"
-#: Parameter 1 in source
+#. English (no items): "0 days left to listen".
+#. English (one item): "1 day left to listen".
+#. English (2+ items): "%count% days left to listen".
 msgid "iplayer_listen_remaining_days"
 msgid_plural "iplayer_listen_remaining_days %count%"
 msgstr[0] "0 dydd ar ôl i wrando"
 msgstr[1] "1 dydd ar ôl i wrando"
 msgstr[2] "%count% o ddyddiau ar ôl i wrando"
 
-#. No items: "0 hours left to listen"
-#. One item: "1 hour left to listen"
-#. 2+ items: "%count% hours left to listen"
-#: Parameter 1 in source
+#. English (no items): "0 hours left to listen".
+#. English (one item): "1 hour left to listen".
+#. English (2+ items): "%count% hours left to listen".
 msgid "iplayer_listen_remaining_hours"
 msgid_plural "iplayer_listen_remaining_hours %count%"
 msgstr[0] "0 awr ar ôl i wrando"
 msgstr[1] "1 awr ar ôl i wrando"
 msgstr[2] "%count% awr ar ôl i wrando"
 
-#. NO ENGLISH TRANSLATION AVAILABLE YET
+#. English: "NO ENGLISH TRANSLATION AVAILABLE YET".
 msgid "iplayer_listen_remaining_mins"
 msgstr ""
 
-#. No items: "0 minutes left to listen"
-#. One item: "1 minute left to listen"
-#. 2+ items: "%count% minutes left to listen"
-#: Parameter 1 in source
+#. English (no items): "0 minutes left to listen".
+#. English (one item): "1 minute left to listen".
+#. English (2+ items): "%count% minutes left to listen".
 msgid "iplayer_listen_remaining_minutes"
 msgid_plural "iplayer_listen_remaining_minutes %count%"
 msgstr[0] "0 munud ar ôl i wrando"
 msgstr[1] "1 funud ar ôl i wrando"
 msgstr[2] "%count% o funudau ar ôl i wrando"
 
-#. No items: "0 months left to listen"
-#. One item: "1 month left to listen"
-#. 2+ items: "%count% months left to listen"
-#: Parameter 1 in source
+#. English (no items): "0 months left to listen".
+#. English (one item): "1 month left to listen".
+#. English (2+ items): "%count% months left to listen".
 msgid "iplayer_listen_remaining_months"
 msgid_plural "iplayer_listen_remaining_months %count%"
 msgstr[0] "0 mis ar ôl i wrando"
 msgstr[1] "1 mis ar ôl i wrando"
 msgstr[2] "%count% o fisoedd ar ôl i wrando"
 
-#. No items: "0 seconds left to listen"
-#. One item: "1 second left to listen"
-#. 2+ items: "%count% seconds left to listen"
-#: Parameter 1 in source
+#. English (no items): "0 seconds left to listen".
+#. English (one item): "1 second left to listen".
+#. English (2+ items): "%count% seconds left to listen".
 msgid "iplayer_listen_remaining_seconds"
 msgid_plural "iplayer_listen_remaining_seconds %count%"
 msgstr[0] "0 eiliad ar ôl i wrando"
 msgstr[1] "1 eiliad ar ôl i wrando"
 msgstr[2] "%count% eiliad ar ôl i wrando"
 
-#. NO ENGLISH TRANSLATION AVAILABLE YET
+#. English: "NO ENGLISH TRANSLATION AVAILABLE YET".
 msgid "iplayer_listen_remaining_secs"
 msgstr ""
 
-#. No items: "0 weeks left to listen"
-#. One item: "1 week left to listen"
-#. 2+ items: "%count% weeks left to listen"
-#: Parameter 1 in source
+#. English (no items): "0 weeks left to listen".
+#. English (one item): "1 week left to listen".
+#. English (2+ items): "%count% weeks left to listen".
 msgid "iplayer_listen_remaining_weeks"
 msgid_plural "iplayer_listen_remaining_weeks %count%"
 msgstr[0] "0 wythnos ar ôl i wrando"
 msgstr[1] "1 wythnos ar ôl i wrando"
 msgstr[2] "%count% wythnos ar ôl i wrando"
 
-#. over a year left to listen
+#. English: "over a year left to listen".
 msgid "iplayer_listen_remaining_years"
 msgstr "Dros flwyddyn ar ôl i wrando"
 
-#. Play from start
+#. English: "Play from start".
 msgid "iplayer_play_from_start"
 msgstr "Chwarae o’r dechrau"
 
-#. Play live
+#. English: "Play live".
 msgid "iplayer_play_live"
 msgstr "Chwarae’n fyw"
 
-#. Play now
+#. English: "Play now".
 msgid "iplayer_play_now"
 msgstr "Chwarae nawr"
 
-#. Play episode
+#. English: "Play episode".
 msgid "iplayer_play_episode"
 msgstr ""
 
-#. Play episode
+#. English: "Play episode".
 msgid "iplayer_play_clip"
 msgstr ""
 
-#. No items: "0 days left to play"
-#. One item: "1 day left to play"
-#. 2+ items: "%count% days left to play"
-#: Parameter 1 in source
+#. English (no items): "0 days left to play".
+#. English (one item): "1 day left to play".
+#. English (2+ items): "%count% days left to play".
 msgid "iplayer_play_remaining_days"
 msgid_plural "iplayer_play_remaining_days %count%"
 msgstr[0] "0 dydd ar ôl i chwarae"
 msgstr[1] "1 dydd ar ôl i chwarae"
 msgstr[2] "%count% o ddyddiau ar ôl i chwarae"
 
-#. No items: "0 hours left to play"
-#. One item: "1 hour left to play"
-#. 2+ items: "%count% hours left to play"
-#: Parameter 1 in source
+#. English (no items): "0 hours left to play".
+#. English (one item): "1 hour left to play".
+#. English (2+ items): "%count% hours left to play".
 msgid "iplayer_play_remaining_hours"
 msgid_plural "iplayer_play_remaining_hours %count%"
 msgstr[0] "0 awr ar ôl i chwarae"
 msgstr[1] "1 awr ar ôl i chwarae"
 msgstr[2] "%count% awr ar ôl i chwarae"
 
-#. NO ENGLISH TRANSLATION AVAILABLE YET
+#. English: "NO ENGLISH TRANSLATION AVAILABLE YET".
 msgid "iplayer_play_remaining_mins"
 msgstr ""
 
-#. No items: "0 minutes left to play"
-#. One item: "1 minute left to play"
-#. 2+ items: "%count% minutes left to play"
-#: Parameter 1 in source
+#. English (no items): "0 minutes left to play".
+#. English (one item): "1 minute left to play".
+#. English (2+ items): "%count% minutes left to play".
 msgid "iplayer_play_remaining_minutes"
 msgid_plural "iplayer_play_remaining_minutes %count%"
 msgstr[0] "0 munud ar ôl i chwarae"
 msgstr[1] "1 funud ar ôl i chwarae"
 msgstr[2] "%count% o funudau ar ôl i chwarae"
 
-#. No items: "0 months left to play"
-#. One item: "1 month left to play"
-#. 2+ items: "%count% months left to play"
-#: Parameter 1 in source
+#. English (no items): "0 months left to play".
+#. English (one item): "1 month left to play".
+#. English (2+ items): "%count% months left to play".
 msgid "iplayer_play_remaining_months"
 msgid_plural "iplayer_play_remaining_months %count%"
 msgstr[0] "0 mis ar ôl i chwarae"
 msgstr[1] "1 mis ar ôl i chwarae"
 msgstr[2] "%count% o fisoedd ar ôl i chwarae"
 
-#. No items: "0 seconds left to play"
-#. One item: "1 second left to play"
-#. 2+ items: "%count% seconds left to play"
-#: Parameter 1 in source
+#. English (no items): "0 seconds left to play".
+#. English (one item): "1 second left to play".
+#. English (2+ items): "%count% seconds left to play".
 msgid "iplayer_play_remaining_seconds"
 msgid_plural "iplayer_play_remaining_seconds %count%"
 msgstr[0] "0 eiliad ar ôl i chwarae"
 msgstr[1] "1 eiliad ar ôl i chwarae"
 msgstr[2] "%count% eiliad ar ôl i chwarae"
 
-#. NO ENGLISH TRANSLATION AVAILABLE YET
+#. English: "NO ENGLISH TRANSLATION AVAILABLE YET".
 msgid "iplayer_play_remaining_secs"
 msgstr ""
 
-#. No items: "0 weeks left to play"
-#. One item: "1 week left to play"
-#. 2+ items: "%count% weeks left to play"
-#: Parameter 1 in source
+#. English (no items): "0 weeks left to play".
+#. English (one item): "1 week left to play".
+#. English (2+ items): "%count% weeks left to play".
 msgid "iplayer_play_remaining_weeks"
 msgid_plural "iplayer_play_remaining_weeks %count%"
 msgstr[0] "0 wythnos ar ôl i chwarae"
 msgstr[1] "1 wythnos ar ôl i chwarae"
 msgstr[2] "%count% wythnos ar ôl i chwarae"
 
-#. over a year left to play
+#. English: "over a year left to play".
 msgid "iplayer_play_remaining_years"
 msgstr "Dros flwyddyn ar ôl i chwarae"
 
-#. No items: "0 days"
-#. One item: "1 day"
-#. 2+ items: "%count% days"
-#: Parameter 1 in source
+#. English (no items): "0 days".
+#. English (one item): "1 day".
+#. English (2+ items): "%count% days".
 msgid "iplayer_time_days"
 msgid_plural "iplayer_time_days %count%"
 msgstr[0] "0 dydd"
 msgstr[1] "1 dydd"
 msgstr[2] "%count% o ddyddiau"
 
-#. No items: "0 hours"
-#. One item: "1 hour"
-#. 2+ items: "%count% hours"
-#: Parameter 1 in source
+#. English (no items): "0 hours".
+#. English (one item): "1 hour".
+#. English (2+ items): "%count% hours".
 msgid "iplayer_time_hours"
 msgid_plural "iplayer_time_hours %count%"
 msgstr[0] "0 awr"
 msgstr[1] "1 awr"
 msgstr[2] "%count% awr"
 
-#. indefinitely
+#. English: "indefinitely".
 msgid "iplayer_time_indefinitely"
 msgstr "am gyfnod amhenodol"
 
-#. No items: "0 mins"
-#. One item: "1 min"
-#. 2+ items: "%count% mins"
-#: Parameter 1 in source
+#. English (no items): "0 mins".
+#. English (one item): "1 min".
+#. English (2+ items): "%count% mins".
 msgid "iplayer_time_mins"
 msgid_plural "iplayer_time_mins %count%"
 msgstr[0] "0 munud"
 msgstr[1] "1 funud"
 msgstr[2] "%count% o funudau"
 
-#. No items: "0 minutes"
-#. One item: "1 minute"
-#. 2+ items: "%count% minutes"
-#: Parameter 1 in source
+#. English (no items): "0 minutes".
+#. English (one item): "1 minute".
+#. English (2+ items): "%count% minutes".
 msgid "iplayer_time_minutes"
 msgid_plural "iplayer_time_minutes %count%"
 msgstr[0] "0 munud"
 msgstr[1] "1 funud"
 msgstr[2] "%count% o funudau"
 
-#. No items: "0 months"
-#. One item: "1 month"
-#. 2+ items: "%count% months"
-#: Parameter 1 in source
+#. English (no items): "0 months".
+#. English (one item): "1 month".
+#. English (2+ items): "%count% months".
 msgid "iplayer_time_months"
 msgid_plural "iplayer_time_months %count%"
 msgstr[0] "0 mis"
 msgstr[1] "1 mis"
 msgstr[2] "%count% o fisoedd"
 
-#. No items: "0 seconds"
-#. One item: "1 second"
-#. 2+ items: "%count% seconds"
-#: Parameter 1 in source
+#. English (no items): "0 seconds".
+#. English (one item): "1 second".
+#. English (2+ items): "%count% seconds".
 msgid "iplayer_time_seconds"
 msgid_plural "iplayer_time_seconds %count%"
 msgstr[0] "0 eiliad"
 msgstr[1] "1 eiliad"
 msgstr[2] "%count% eiliad"
 
-#. No items: "0 secs"
-#. One item: "1 sec"
-#. 2+ items: "%count% secs"
-#: Parameter 1 in source
+#. English (no items): "0 secs".
+#. English (one item): "1 sec".
+#. English (2+ items): "%count% secs".
 msgid "iplayer_time_secs"
 msgid_plural "iplayer_time_secs %count%"
 msgstr[0] "0 eiliad"
 msgstr[1] "1 eiliad"
 msgstr[2] "%count% eiliad"
 
-#. No items: "0 weeks"
-#. One item: "1 week"
-#. 2+ items: "%count% weeks"
-#: Parameter 1 in source
+#. English (no items): "0 weeks".
+#. English (one item): "1 week".
+#. English (2+ items): "%count% weeks".
 msgid "iplayer_time_weeks"
 msgid_plural "iplayer_time_weeks %count%"
 msgstr[0] "0 wythnos"
 msgstr[1] "1 wythnos"
 msgstr[2] "%count% wythnos"
 
-#. over a year
+#. English: "over a year".
 msgid "iplayer_time_years"
 msgstr "Dros flwyddyn"
 
-#. Watch from start
+#. English: "Watch from start".
 msgid "iplayer_watch_from_start"
 msgstr "Gwylio o’r dechrau"
 
-#. Watch live
+#. English: "Watch live".
 msgid "iplayer_watch_live"
 msgstr "Gwylio’n fyw"
 
-#. Watch now
+#. English: "Watch now".
 msgid "iplayer_watch_now"
 msgstr "Gwylio nawr"
 
-#. No items: "0 days left to watch"
-#. One item: "1 day left to watch"
-#. 2+ items: "%count% days left to watch"
-#: Parameter 1 in source
+#. English (no items): "0 days left to watch".
+#. English (one item): "1 day left to watch".
+#. English (2+ items): "%count% days left to watch".
 msgid "iplayer_watch_remaining_days"
 msgid_plural "iplayer_watch_remaining_days %count%"
 msgstr[0] "0 dydd ar ôl i wylio"
 msgstr[1] "1 dydd ar ôl i wylio"
 msgstr[2] "%count% o ddyddiau ar ôl i wylio"
 
-#. No items: "0 hours left to watch"
-#. One item: "1 hour left to watch"
-#. 2+ items: "%count% hours left to watch"
-#: Parameter 1 in source
+#. English (no items): "0 hours left to watch".
+#. English (one item): "1 hour left to watch".
+#. English (2+ items): "%count% hours left to watch".
 msgid "iplayer_watch_remaining_hours"
 msgid_plural "iplayer_watch_remaining_hours %count%"
 msgstr[0] "0 awr ar ôl i wylio"
 msgstr[1] "1 awr ar ôl i wylio"
 msgstr[2] "%count% awr ar ôl i wylio"
 
-#. NO ENGLISH TRANSLATION AVAILABLE YET
+#. English: "NO ENGLISH TRANSLATION AVAILABLE YET".
 msgid "iplayer_watch_remaining_mins"
 msgstr ""
 
-#. No items: "0 minutes left to watch"
-#. One item: "1 minute left to watch"
-#. 2+ items: "%count% minutes left to watch"
-#: Parameter 1 in source
+#. English (no items): "0 minutes left to watch".
+#. English (one item): "1 minute left to watch".
+#. English (2+ items): "%count% minutes left to watch".
 msgid "iplayer_watch_remaining_minutes"
 msgid_plural "iplayer_watch_remaining_minutes %count%"
 msgstr[0] "0 munud ar ôl i wylio"
 msgstr[1] "1 funud ar ôl i wylio"
 msgstr[2] "%count% o funudau ar ôl i wylio"
 
-#. No items: "0 months left to watch"
-#. One item: "1 month left to watch"
-#. 2+ items: "%count% months left to watch"
-#: Parameter 1 in source
+#. English (no items): "0 months left to watch".
+#. English (one item): "1 month left to watch".
+#. English (2+ items): "%count% months left to watch".
 msgid "iplayer_watch_remaining_months"
 msgid_plural "iplayer_watch_remaining_months %count%"
 msgstr[0] "0 mis ar ôl i wylio"
 msgstr[1] "1 mis ar ôl i wylio"
 msgstr[2] "%count% o fisoedd ar ôl i wylio"
 
-#. No items: "0 seconds left to watch"
-#. One item: "1 second left to watch"
-#. 2+ items: "%count% seconds left to watch"
-#: Parameter 1 in source
+#. English (no items): "0 seconds left to watch".
+#. English (one item): "1 second left to watch".
+#. English (2+ items): "%count% seconds left to watch".
 msgid "iplayer_watch_remaining_seconds"
 msgid_plural "iplayer_watch_remaining_seconds %count%"
 msgstr[0] "0 eiliad ar ôl i wylio"
 msgstr[1] "1 eiliad ar ôl i wylio"
 msgstr[2] "%count% eiliad ar ôl i wylio"
 
-#. NO ENGLISH TRANSLATION AVAILABLE YET
+#. English: "NO ENGLISH TRANSLATION AVAILABLE YET".
 msgid "iplayer_watch_remaining_secs"
 msgstr ""
 
-#. No items: "0 weeks left to watch"
-#. One item: "1 week left to watch"
-#. 2+ items: "%count% weeks left to watch"
-#: Parameter 1 in source
+#. English (no items): "0 weeks left to watch".
+#. English (one item): "1 week left to watch".
+#. English (2+ items): "%count% weeks left to watch".
 msgid "iplayer_watch_remaining_weeks"
 msgid_plural "iplayer_watch_remaining_weeks %count%"
 msgstr[0] "0 wythnos ar ôl i wylio"
 msgstr[1] "1 wythnos ar ôl i wylio"
 msgstr[2] "%count% wythnos ar ôl i wylio"
 
-#. over a year left to watch
+#. English: "over a year left to watch".
 msgid "iplayer_watch_remaining_years"
 msgstr "dros flwyddyn ar ôl i wylio"
 
-#. No items: "There are no items"
-#. One item: "There is one item"
-#. 2+ items: "There are %count% items"
+#. English (no items): "There are no items".
+#. English (one item): "There is one item".
+#. English (2+ items): "There are %count% items".
 msgid "items_count"
 msgid_plural "items_count %count%"
 msgstr[0] "Does yna ddim eitem"
 msgstr[1] "Mae yna un eitem"
 msgstr[2] "Mae yna %count% eitem ar gael"
 
-#. You must enable JavaScript to play content
+#. English: "You must enable JavaScript to play content".
 msgid "javascript_required"
 msgstr "Rhaid i chi alluogi JavaScript er mwyn chwarae’r cynnwys"
 
-#. en-GB
+#. English: "en-GB".
 msgid "language_barlesque"
 msgstr "cy-GB"
 
-#. false
+#. English: "false".
 msgid "language_barlesque_ws"
 msgstr "false"
 
-#. en
+#. English: "en".
 msgid "language_code"
 msgstr "cy"
 
-#. ltr
+#. English: "ltr".
 msgid "language_direction"
 msgstr "ltr"
 
-#. en_GB
+#. English: "en_GB".
 msgid "language_locale"
 msgstr "cy_GB"
 
-#. English (UK)
+#. English: "English (UK)".
 msgid "language_name"
 msgstr "Welsh"
 
-#. Last
+#. English: "Last".
 msgid "last"
 msgstr "Diwethaf"
 
-#. You are at the last episode
+#. English: "You are at the last episode".
 msgid "last_episode"
 msgstr "Dyma'r rhifyn diwethaf"
 
-#. Last on
+#. English: "Last on".
 msgid "last_on"
 msgstr "Darllediad diwethaf"
 
-#. Latest
+#. English: "Latest".
 msgid "latest"
 msgstr "Diweddaraf"
 
-#. Listen in pop-out player
+#. English: "Listen in pop-out player".
 msgid "listen_in_popout_player"
 msgstr "Chwaraewr mewn ffenest fach"
 
-#. Live
+#. English: "Live".
 msgid "live"
 msgstr "Yn fyw"
 
-#. Live at %1
+#. English: "Live at %1".
 msgid "live_at"
 msgstr "Yn fyw am %1"
 
-#. This is from
+#. English: "This is from".
 msgid "live_context"
 msgstr "Mae hwn yn dod o"
 
-#. Local Radio
+#. English: "Local Radio".
 msgid "local_radio"
 msgstr "Radio Lleol"
 
-#. More
+#. English: "More".
 msgid "more"
 msgstr "Mwy"
 
-#. More clips from %1
+#. English: "More clips from %1".
 msgid "more_clips_from"
 msgstr "Mwy o glipiau %1"
 
-#. More episodes
+#. English: "More episodes".
 msgid "more_episodes"
 msgstr "Rhagor o benodau"
 
-#. More results for %1 from across the BBC
+#. English: "More results for %1 from across the BBC".
 msgid "more_from_bbc"
 msgstr "Mwy o ganlyniadau ar gyfer %1 ar draws y BBC."
 
-#. More on Radio
+#. English: "More on Radio".
 msgid "more_on_radio"
 msgstr "Mwy ar y Radio"
 
-#. More on TV
+#. English: "More on TV".
 msgid "more_on_tv"
 msgstr "Mwy ar y Teledu"
 
-#. Music and featured items
+#. English: "Music and featured items".
 msgid "music_and_featured"
 msgstr "Cerddoriaeth ac eitemau dan sylw"
 
-#. Music Played
+#. English: "Music Played".
 msgid "music_played"
 msgstr "Cerddoriaeth a chwaraewyd"
 
-#. National Radio
+#. English: "National Radio".
 msgid "national_radio"
 msgstr "Radio Cenedlaethol"
 
-#. Nations Radio
+#. English: "Nations Radio".
 msgid "nations_radio"
 msgstr "Radio’r Cenhedloedd"
 
-#. New series
+#. English: "New series".
 msgid "new_series"
 msgstr "cyfres newydd"
 
-#. Next
+#. English: "Next".
 msgid "next"
 msgstr "Nesaf"
 
-#. Next on
+#. English: "Next on".
 msgid "next_on"
 msgstr "Nesaf"
 
-#. Sorry there is currently no information
+#. English: "Sorry there is currently no information".
 msgid "no_information"
 msgstr "Yn anffodus, nid oes unrhyw wybodaeth"
 
-#. Now and next
+#. English: "Now and next".
 msgid "now_and_next"
 msgstr "Nawr a nesaf"
 
-#. Off air
+#. English: "Off air".
 msgid "off_air"
 msgstr "Oddi ar yr awyr"
 
-#. On air
+#. English: "On air".
 msgid "on_air"
 msgstr "Ar yr Awyr"
 
-#. On demand
+#. English: "On demand".
 msgid "on_demand"
 msgstr "Ar gais"
 
-#. On now
+#. English: "On now".
 msgid "on_now"
 msgstr "Yn Fyw"
 
-#. On radio
+#. English: "On radio".
 msgid "on_radio"
 msgstr "Ar y Radio"
 
-#. On TV
+#. English: "On TV".
 msgid "on_tv"
 msgstr "Ar y Teledu"
 
-#. No items: "Outlets"
-#. One item: "Outlet"
-#. 2+ items: "Outlets"
-#: Parameter 1 in source
+#. English (no items): "Outlets".
+#. English (one item): "Outlet".
+#. English (2+ items): "Outlets".
 msgid "outlets"
 msgid_plural "outlets %count%"
 msgstr[0] "Sianeli/Gorsafoedd"
 msgstr[1] "Sianel/Gorsaf"
 msgstr[2] "Sianeli/Gorsafoedd"
 
-#. Page not found
+#. English: "Page not found".
 msgid "page_not_found"
 msgstr "Methu dod o hyd i'r dudalen"
 
-#. Please check the address and try again
+#. English: "Please check the address and try again".
 msgid "page_not_found_note"
 msgstr "Gwiriwch y cyfeiriad os gwelwch yn dda a cheisio eto."
 
-#. Sorry, that page was not found
+#. English: "Sorry, that page was not found".
 msgid "page_not_found_title"
 msgstr "Yn anffodus nid yw’r dudalen ar gael"
 
-#. Page %1
+#. English: "Page %1".
 msgid "pagination_link"
 msgstr ""
 
-#. Page %1 of %2
-#: Amen only!
+#. English: "Page %1 of %2".
 msgid "pagination_page"
 msgstr ""
 
-#. Add music you love and enjoy it with %1
+#. English: "Add music you love and enjoy it with %1".
 msgid "playlister_tagline"
 msgstr "Ychwanegwch eich hoff gerddoriaeth a’i fwynhau gyda %1"
 
-#. This podcast belongs to
+#. English: "This podcast belongs to".
 msgid "podcast_belongs"
 msgstr ""
 
-#. No items: "Podcasts"
-#. One item: "Podcast"
-#. 2+ items: "Podcasts"
-#: Parameter 1 in source
+#. English (no items): "Podcasts".
+#. English (one item): "Podcast".
+#. English (2+ items): "Podcasts".
 msgid "podcasts"
 msgid_plural "podcasts %count%"
 msgstr[0] "Podlediadau"
 msgstr[1] "Podlediad"
 msgstr[2] "Podlediadau"
 
-#. Episodes to download
+#. English: "Episodes to download".
 msgid "podcasts_desc"
 msgstr "Penodau i’w lawrlwytho"
 
-#. More podcasts
+#. English: "More podcasts".
 msgid "podcasts_more"
 msgstr ""
 
-#. Other podcasts you may like
+#. English: "Other podcasts you may like".
 msgid "podcasts_suggestions"
 msgstr ""
 
-#. Previous
+#. English: "Previous".
 msgid "previous"
 msgstr "Blaenorol"
 
-#. No items: "Profiles"
-#. One item: "Profile"
-#. 2+ items: "Profiles"
-#: Parameter 1 in source
+#. English (no items): "Profiles".
+#. English (one item): "Profile".
+#. English (2+ items): "Profiles".
 msgid "profiles"
 msgid_plural "profiles %count%"
 msgstr[0] "Proffiliau"
 msgstr[1] "Proffil"
 msgstr[2] "Proffiliau"
 
-#. Fact data
+#. English: "Fact data".
 msgid "profiles_key_fact_data"
 msgstr "Data ffaith"
 
-#. Key facts for %1
+#. English: "Key facts for %1".
 msgid "profiles_key_fact_summary"
 msgstr "Ffeithiau allweddol am %1"
 
-#. Fact title
+#. English: "Fact title".
 msgid "profiles_key_fact_title"
 msgstr "Teitl ffaith"
 
-#. Sorry there are no profiles for %1
+#. English: "Sorry there are no profiles for %1".
 msgid "profiles_none"
 msgstr "Mae’n ddrwg gennym ond does dim proffil ar gyfer %1"
 
-#. This programme is not currently available on BBC iPlayer
+#. English: "This programme is not currently available on BBC iPlayer".
 msgid "programme_availability_none"
 msgstr "’Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer ar hyn o bryd"
 
-#. This programme is not currently available on BBC iPlayer Radio
+#. English: "This programme is not currently available on BBC iPlayer Radio".
 msgid "programme_availability_none_radio"
 msgstr "Nid yw’r rhaglen yma ar gael ar BBC iPlayer Radio ar hyn o bryd"
 
-#. This programme is no longer available on BBC iPlayer
+#. English: "This programme is no longer available on BBC iPlayer".
 msgid "programme_availability_past"
 msgstr "’Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer bellach"
 
-#. This programme is no longer available on BBC iPlayer Radio
+#. English: "This programme is no longer available on BBC iPlayer Radio".
 msgid "programme_availability_past_radio"
 msgstr "T‘Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer Radio bellach"
 
-#. %1 homepage
+#. English: "%1 homepage".
 msgid "programme_homepage"
 msgstr "Hafan %1"
 
-#. No items: "Programmes"
-#. One item: "Programme"
-#. 2+ items: "Programmes"
-#: Parameter 1 in source
+#. English (no items): "Programmes".
+#. English (one item): "Programme".
+#. English (2+ items): "Programmes".
 msgid "programmes"
 msgid_plural "programmes %count%"
 msgstr[0] "Rhaglenni"
 msgstr[1] "Rhaglen"
 msgstr[2] "Rhaglenni"
 
-#. No items: "No programmes"
-#. One item: "1 programme"
-#. 2+ items: "%1 programmes"
-#: Parameter 2 in source
+#. English (no items): "No programmes".
+#. English (one item): "1 programme".
+#. English (2+ items): "%1 programmes".
 msgid "programmes_count"
 msgid_plural "programmes_count %count%"
 msgstr[0] "Dim rhaglenni"
 msgstr[1] "1 rhaglen"
 msgstr[2] "%1 o raglenni"
 
-#. BBC Programmes homepage
+#. English: "BBC Programmes homepage".
 msgid "programmes_homepage"
 msgstr "Hafan Rhaglenni’r BBC"
 
-#. Programmes will resume at %1
+#. English: "Programmes will resume at %1".
 msgid "programmes_resume_at"
 msgstr "Rhaglenni yn ailddechrau am %1"
 
-#. QR code
-#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
+#. English: "QR code".
+#. Example URL: "http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_code"
 msgstr "Côd QR"
 
-#. A %1QR code%2 is a type of barcode which can contain links to webpages. Mobile phones with a camera and an appropriate application are able to read these codes and take you to the address contained within it.
-#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
+#. English: "A %1QR code%2 is a type of barcode which can contain links to webpages. Mobile phones with a camera and an appropriate application are able to read these codes and take you to the address contained within it.".
+#. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_description"
 msgstr ""
 "Mae %1Côd QR%2 yn fath o gôd bar a all gynnwys dolenni i dudalennau gwe. Mae "
 "ffonau symudol sydd gyda chamera a’r gallu i ddarllen y codau yn medru mynd "
 "â chi i'r cyfeiriad sydd wedi ei gynnwys ynddo."
 
-#. You may save, print or share the image.
-#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
+#. English: "You may save, print or share the image.".
+#. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_instruction"
 msgstr "Gallwch arbed, argraffu neu rannu'r llun."
 
-#. This code will link to the page for %1 when read using a QR code reader.
-#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
+#. English: "This code will link to the page for %1 when read using a QR code reader.".
+#. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_link"
 msgstr ""
 "Bydd y côd yn cysylltu â thudalen %1 trwy ddefnyddio darllenydd côd QR."
 
-#. Sorry, there are no recommendations for this programme.
+#. English: "Sorry, there are no recommendations for this programme.".
 msgid "recommendations_noresults"
 msgstr "Mae’n ddrwg gennym, does dim argymhellion ar gyfer y rhaglen yma."
 
-#. No items: "Related Links"
-#. One item: "Related Link"
-#. 2+ items: "Related Links"
-#: Parameter 1 in source
+#. English (no items): "Related Links".
+#. English (one item): "Related Link".
+#. English (2+ items): "Related Links".
 msgid "related_links"
 msgid_plural "related_links %count%"
 msgstr[0] "Dolenni Perthnasol"
 msgstr[1] "Dolen Perthnasol"
 msgstr[2] "Dolenni Perthnasol"
 
-#. Release date: %1
+#. English: "Release date: %1".
 msgid "release_date"
 msgstr "Dyddiad Rhyddhau: %1"
 
-#. R
+#. English: "R".
 msgid "repeat_abbr"
 msgstr "A"
 
-#. No items: "Repeats"
-#. One item: "Repeat"
-#. 2+ items: "Repeats"
-#: Parameter 1 in source
+#. English (no items): "Repeats".
+#. English (one item): "Repeat".
+#. English (2+ items): "Repeats".
 msgid "repeats"
 msgid_plural "repeats %count%"
 msgstr[0] "Ailddarllediad"
 msgstr[1] "Ailddarllediad"
 msgstr[2] "Ailddarllediad"
 
-#. Schedule begins on %1
+#. English: "Schedule begins on %1".
 msgid "schedule_begins_on"
 msgstr "Amserlen yn dechrau ar %1"
 
-#. Schedule ended on %1
+#. English: "Schedule ended on %1".
 msgid "schedule_ended_on"
 msgstr "Amserlen wedi gorffen ar %1"
 
-#. %1 schedule
+#. English: "%1 schedule".
 msgid "schedule_title"
 msgstr "%1 amserlen"
 
-#. No items: "Schedules"
-#. One item: "Schedule"
-#. 2+ items: "Schedules"
-#: Parameter 1 in source
+#. English (no items): "Schedules".
+#. English (one item): "Schedule".
+#. English (2+ items): "Schedules".
 msgid "schedules"
 msgid_plural "schedules %count%"
 msgstr[0] "Amserlen"
 msgstr[1] "Amserlen"
 msgstr[2] "Amserlen"
 
-#. Boxing Day
+#. English: "Boxing Day".
 msgid "schedules_boxing_day"
 msgstr "Gŵyl San Steffan"
 
-#. Calendar
+#. English: "Calendar".
 msgid "schedules_calendar"
 msgstr "Calendr"
 
-#. Please choose a day from the calendar
+#. English: "Please choose a day from the calendar".
 msgid "schedules_calendar_note"
 msgstr "Dewiswch ddiwrnod o'r calendr"
 
-#. Christmas Day
+#. English: "Christmas Day".
 msgid "schedules_christmas_day"
 msgstr "Dydd Nadolig"
 
-#. Christmas Eve
+#. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "Noswyl Nadolig"
 
-#. Last %1
+#. English: "Last %1".
 msgid "schedules_last_weekday"
 msgstr "%1 Diwethaf"
 
-#. New Year's Day
+#. English: "New Year's Day".
 msgid "schedules_new_years_day"
 msgstr "Dydd Calan"
 
-#. Next %1
+#. English: "Next %1".
 msgid "schedules_next_weekday"
 msgstr "%1 Nesaf"
 
-#. There is no schedule for today. Please choose another day from the calendar
+#. English: "There is no schedule for today. Please choose another day from the calendar".
 msgid "schedules_no_result"
 msgstr "Nid oes amserlen ar gyfer heddiw. Dewiswch ddiwrnod arall o'r calendr"
 
-#. Afternoon
+#. English: "Afternoon".
 msgid "schedules_period_afternoon"
 msgstr "Prynhawn"
 
-#. Early
+#. English: "Early".
 msgid "schedules_period_early"
 msgstr "Cynnar"
 
-#. Evening
+#. English: "Evening".
 msgid "schedules_period_evening"
 msgstr "Hwyr"
 
-#. Late
+#. English: "Late".
 msgid "schedules_period_late"
 msgstr "Nos"
 
-#. Morning
+#. English: "Morning".
 msgid "schedules_period_morning"
 msgstr "Bore"
 
-#. See other regional %1 variations
+#. English: "See other regional %1 variations".
 msgid "schedules_regional"
 msgstr "Gweld %1 amrywiadau rhanbarthol eraill"
 
-#. View %1 schedule variations
+#. English: "View %1 schedule variations".
 msgid "schedules_regional_change"
 msgstr "Gweld amrywiadau rhanbarthol"
 
-#. View %1
+#. English: "View %1".
 msgid "schedules_regional_changeto"
 msgstr "Newid i %1"
 
-#. Please choose a region for the appropriate schedule
+#. English: "Please choose a region for the appropriate schedule".
 msgid "schedules_regional_note"
 msgstr "Dewiswch ranbarth ar gyfer yr amserlen berthnasol"
 
-#. Please choose the appropriate schedule
+#. English: "Please choose the appropriate schedule".
 msgid "schedules_regional_note_radio"
 msgstr "Dewiswch yr amserlen berthnasol"
 
-#. Regional variations for %1
+#. English: "Regional variations for %1".
 msgid "schedules_regional_title"
 msgstr "Amrywiadau rhanbarthol ar gyfer %1"
 
-#. Schedule variations for %1
+#. English: "Schedule variations for %1".
 msgid "schedules_regional_title_radio"
 msgstr "Amrywiadau i’r amserlen ar gyfer %1"
 
-#. This week
+#. English: "This week".
 msgid "schedules_this_week"
 msgstr "Yr wythnos hon"
 
-#. This year
+#. English: "This year".
 msgid "schedules_this_year"
 msgstr "Eleni"
 
-#. Today
+#. English: "Today".
 msgid "schedules_today"
 msgstr "Heddiw"
 
-#. Tomorrow
+#. English: "Tomorrow".
 msgid "schedules_tomorrow"
 msgstr "Yfory"
 
-#. not ideal for small screens
+#. English: "not ideal for small screens".
 msgid "schedules_week_disclaimer"
 msgstr "Ddim yn addas ar gyfer sgriniau bach"
 
-#. Show full week
+#. English: "Show full week".
 msgid "schedules_week_show"
 msgstr "Dangos wythnos lawn"
 
-#. Yesterday
+#. English: "Yesterday".
 msgid "schedules_yesterday"
 msgstr "Ddoe"
 
-#. See all %1 episodes available on BBC iPlayer
+#. English: "See all %1 episodes available on BBC iPlayer".
 msgid "see_all_available_from"
 msgstr "Gweld holl benodau %1 sydd ar gael ar BBC iPlayer"
 
-#. See all %1 episodes available
+#. English: "See all %1 episodes available".
 msgid "see_all_available_from_radio"
 msgstr "Gweld holl benodau %1 sydd ar gael ar BBC iPlayer Radio"
 
-#. See all broadcasts of %1
+#. English: "See all broadcasts of %1".
 msgid "see_all_broadcasts_of"
 msgstr "Gweld holl ddarllediadau %1"
 
-#. See all clips from %1
+#. English: "See all clips from %1".
 msgid "see_all_clips_from"
 msgstr "Gweld holl glipiau %1"
 
-#. See all credits for %1
+#. English: "See all credits for %1".
 msgid "see_all_credits_for"
 msgstr "Gweld yr holl cydnabyddiaeth ar gyfer %1"
 
-#. See all episodes from %1
+#. English: "See all episodes from %1".
 msgid "see_all_episodes_from"
 msgstr "Gweld holl benodau %1"
 
-#. See all from %1
+#. English: "See all from %1".
 msgid "see_all_from"
 msgstr "Gweld popeth %1"
 
-#. See all galleries from %1
+#. English: "See all galleries from %1".
 msgid "see_all_galleries_from"
 msgstr "Gweld holl orielau %1"
 
-#. See all items
+#. English: "See all items".
 msgid "see_all_items"
 msgstr "Gweld pob eitem"
 
-#. See all podcasts
+#. English: "See all podcasts".
 msgid "see_all_podcasts"
 msgstr ""
 
-#. See all podcasts for %1
+#. English: "See all podcasts for %1".
 msgid "see_all_podcasts_for"
 msgstr "Gweld yr holl podlediadau ar gyfer %1"
 
-#. See all podcasts from %1
+#. English: "See all podcasts from %1".
 msgid "see_all_podcasts_from"
 msgstr ""
 
-#. See all previous episodes from %1
+#. English: "See all previous episodes from %1".
 msgid "see_all_previous_episodes_from"
 msgstr "Gweld cyn benodau %1"
 
-#. See all upcoming broadcasts of %1
+#. English: "See all upcoming broadcasts of %1".
 msgid "see_all_upcoming_of"
 msgstr "Gweld holl darllediadau o %1 sydd i ddod"
 
-#. No items: "Series"
-#. One item: "Series"
-#. 2+ items: "Series"
-#: Parameter 1 in source
+#. English (no items): "Series".
+#. English (one item): "Series".
+#. English (2+ items): "Series".
 msgid "series"
 msgid_plural "series %count%"
 msgstr[0] "Cyfresi"
 msgstr[1] "Cyfres"
 msgstr[2] "Cyfresi"
 
-#. Explore the links below to find %1 programmes you're interested in
+#. English: "Explore the links below to find %1 programmes you're interested in".
 msgid "service_introduction"
 msgstr ""
 "Dilynwch y dolenni isod i ddod o hyd i raglenni %1 sydd o ddiddordeb i chi"
 
-#. Sort by
-#. See http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player
+#. English: "Sort by".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
 msgid "sort_by"
 msgstr "Trefnu yn ôl"
 
-#. Show available episodes
+#. English: "Show available episodes".
 msgid "show_available_episodes"
 msgstr "Dangos y penodau sydd ar gael"
 
-#. Show less
+#. English: "Show less".
 msgid "show_less"
 msgstr "Llai"
 
-#. Show more
+#. English: "Show more".
 msgid "show_more"
 msgstr "Mwy"
 
-#. Signed
+#. English: "Signed".
 msgid "signed"
 msgstr "Iaith Arwyddion"
 
-#. Similar programmes
+#. English: "Similar programmes".
 msgid "similar_programmes"
 msgstr "Rhaglenni tebyg"
 
-#. Skip to
+#. English: "Skip to".
 msgid "skip_to"
 msgstr "Neidio i"
 
-#. Stations
+#. English: "Stations".
 msgid "stations"
 msgstr "Gorsafoedd"
 
-#. Subscribe
+#. English: "Subscribe".
 msgid "subscribe"
 msgstr "Tanysgrifio"
 
-#. Subscribe to podcast
+#. English: "Subscribe to podcast".
 msgid "subscribe_to_podcast"
 msgstr "Tanysgrifio i bodlediad"
 
-#. No items: "There are currently no available episodes tagged with %1"
-#. One item: "There is currently 1 available episode tagged with %1"
-#. 2+ items: "There are currently %count% available episodes tagged with %1"
-#: Parameter 2 in source
+#. English (no items): "There are currently no available episodes tagged with %1".
+#. English (one item): "There is currently 1 available episode tagged with %1".
+#. English (2+ items): "There are currently %count% available episodes tagged with %1".
 msgid "tagged_available"
 msgid_plural "tagged_available %count%"
 msgstr[0] "Does yna ddim penodau ar gael wedi eu tagio gyda %1"
 msgstr[1] "Mae yna un bennod ar gael wedi ei dagio gyda %1"
 msgstr[2] "Mae yna %count% o benodau ar gael %1"
 
-#. TV
+#. English: "TV".
 msgid "television_abbr"
 msgstr "Teledu"
 
-#. Timings (where shown) are the time of the day
+#. English: "Timings (where shown) are the time of the day".
 msgid "timings_start_of_day"
 msgstr "Yr amseroedd (os yw’n ymddangos) yw amser y dydd"
 
 # There is no convention for abbreviating this in Welsh
-#. %1h
-#. e.g. "2h" for 2 hours
+#. English: "%1h".
+#. English: "e.g. "2h" for 2 hours".
 msgid "time_hours_short"
 msgstr "%1 awr"
 
-#. No items: "0 hours"
-#. One item: "1 hour"
-#. 2+ items: "2 hours"
+#. English (no items): "0 hours".
+#. English (one item): "1 hour".
+#. English (2+ items): "2 hours".
 msgid "time_hours_long"
 msgid_plural "time_hours_long %count%"
 msgstr[0] "%1 awr"
@@ -1507,14 +1461,14 @@ msgstr[1] "%1 awr"
 msgstr[2] "%1 awr"
 
 # There is no convention for abbreviating this in Welsh
-#. %1m
-#. e.g. "17m" for 17 minutes
+#. English: "%1m".
+#. English: "e.g. "17m" for 17 minutes".
 msgid "time_minutes_short"
 msgstr "%1 mun"
 
-#. No items: "0 minutes"
-#. One item: "1 minute"
-#. 2+ items: "2 minutes"
+#. English (no items): "0 minutes".
+#. English (one item): "1 minute".
+#. English (2+ items): "2 minutes".
 msgid "time_minutes_long"
 msgid_plural "time_minutes_long %count%"
 msgstr[0] "%1 munud"
@@ -1522,112 +1476,110 @@ msgstr[1] "%1 munud"
 msgstr[2] "%1 munud"
 
 # There is no convention for abbreviating this in Welsh
-#. %1s
-#. e.g. "12s" for 12 seconds
+#. English: "%1s".
+#. English: "e.g. "12s" for 12 seconds".
 msgid "time_seconds_short"
 msgstr "%1 eiliad"
 
-#. No items: "0 seconds"
-#. One item: "1 second"
-#. 2+ items: "2 seconds"
+#. English (no items): "0 seconds".
+#. English (one item): "1 second".
+#. English (2+ items): "2 seconds".
 msgid "time_seconds_long"
 msgid_plural "time_seconds_long %count%"
 msgstr[0] "%1 eiliad"
 msgstr[1] "%1 eiliad"
 msgstr[2] "%1 eiliad"
 
-#. Timings (where shown) are from the start of the programme in hours and minutes
+#. English: "Timings (where shown) are from the start of the programme in hours and minutes".
 msgid "timings_start_of_programme"
 msgstr ""
 "Yr amseroedd (os yw’n ymddangos) yw amser dechrau'r rhaglen mewn oriau a "
 "munudau"
 
-#. No items: "Topics"
-#. One item: "Topic"
-#. 2+ items: "Topics"
-#: Parameter 1 in source
+#. English (no items): "Topics".
+#. English (one item): "Topic".
+#. English (2+ items): "Topics".
 msgid "topics"
 msgid_plural "topics %count%"
 msgstr[0] "Pynciau"
 msgstr[1] "Pwnc"
 msgstr[2] "Pynciau"
 
-#. Updated:
+#. English: "Updated:".
 msgid "updated"
 msgstr "Diweddarwyd:"
 
-#. daily
+#. English: "daily".
 msgid "updated_daily"
 msgstr "bob dydd"
 
-#. monthly
+#. English: "monthly".
 msgid "updated_monthly"
 msgstr "misol"
 
-#. occasionally
+#. English: "occasionally".
 msgid "updated_occasionally"
 msgstr "weithiau"
 
-#. NO ENGLISH TRANSLATION AVAILABLE YET
+#. English: "NO ENGLISH TRANSLATION AVAILABLE YET".
 msgid "updated_oneoff"
 msgstr ""
 
-#. weekly
+#. English: "weekly".
 msgid "updated_weekly"
 msgstr "wythnosol"
 
-#. View all
+#. English: "View all".
 msgid "view_all"
 msgstr "Gweld pob un"
 
-#. View earlier today
+#. English: "View earlier today".
 msgid "view_earlier_today"
 msgstr "Yn gynharach heddiw"
 
-#. View episodes
+#. English: "View episodes".
 msgid "view_episodes"
 msgstr "Gweld penodau"
 
-#. No items: "No more"
-#. One item: "1 more"
-#. 2+ items: "%count% more"
-#: Parameter 1 in source
+#. English (no items): "No more".
+#. English (one item): "1 more".
+#. English (2+ items): "%count% more".
 msgid "x_more"
 msgid_plural "x_more %count%"
 msgstr[0] "%count% mwy"
 msgstr[1] "%count% mwy"
 msgstr[2] "%count% mwy"
 
-#. No items: "%count% new"
-#. One item: "1 new"
-#. 2+ items: "%count% new"
-#: Parameter 1 in source
+#. English (no items): "%count% new".
+#. English (one item): "1 new".
+#. English (2+ items): "%count% new".
+#. Example URL: http://www.bbc.co.uk/programmes/b006m86d .
+#. Type: Body text
+#: { "varible_examples": "%count%" : "4" }
 msgid "x_new"
 msgid_plural "x_new %count%"
 msgstr[0] "%count% newydd"
 msgstr[1] "1 newydd"
 msgstr[2] "%count% newydd"
 
-#. No items: "%1 new and no repeats"
-#. One item: "%1 new and 1 repeat"
-#. 2+ items: "%1 new and %count% repeats"
-#: Parameter 2 in source
+#. English (no items): "%1 new and no repeats".
+#. English (one item): "%1 new and 1 repeat".
+#. English (2+ items): "%1 new and %count% repeats".
 msgid "x_new_and_repeats"
 msgid_plural "x_new_and_repeats %count%"
 msgstr[0] "%1 newydd a dim ailddarllediad"
 msgstr[1] "%1 newydd ac 1 ailddarllediad"
 msgstr[2] "%1 newydd a %count% ailddarllediad"
 
-#. No items: "None total"
-#. One item: "1 total"
-#. 2+ items: "%1 total"
-#: Parameter 2 in source
+#. English (no items): "None total".
+#. English (one item): "1 total".
+#. English (2+ items): "%1 total".
 msgid "x_total"
 msgid_plural "x_total %count%"
 msgstr[0] "0 ar gael"
 msgstr[1] "1 ar gael"
 msgstr[2] "%1 ar gael"
 
-#. You may also like
+#. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "Mwy o raglenni i chi"
