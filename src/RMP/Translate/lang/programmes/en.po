@@ -48,8 +48,8 @@ msgstr "Sorry, there are no programmes in this category"
 
 #. English: "Sorry, there are no programmes with titles containing %1".
 #. Example URL: http://www.bbc.co.uk/bbcone/programmes/a-z/by/thisisnotarealword .
+#. %1 is a variable, example contents: "thisisnotarealword"
 #. Type: Body text
-#: { "varible_examples": "%1" : "thisisnotarealword" }
 msgid "atoz_nocontaining"
 msgstr "Sorry, there are no programmes with titles containing %1"
 
@@ -71,8 +71,8 @@ msgstr "Search"
 
 #. English: "Search results for '%1'".
 #. Example URL: http://www.bbc.co.uk/bbcone/programmes/a-z/by/thisisnotarealword .
+#. %1 is a variable, example contents: "thisisnotarealword"
 #. Type: Title
-#: { "varible_examples": "%1" : "thisisnotarealword" }
 msgid "atoz_search_title"
 msgstr "Search results for '%1'"
 
@@ -99,9 +99,9 @@ msgstr "Audio described"
 #. English (no items): "There are currently no available episodes".
 #. English (one item): "There is currently %count% available episode".
 #. English (2+ items): "There are currently %count% available episodes".
+#. %count% is a variable, example contents: "3"
 #. Example URL: http://www.bbc.co.uk/programmes/b007wds5/episodes/player .
 #. Type: Body text
-#: { "varible_examples": "%count" : "3" }
 msgid "available_count"
 msgid_plural "available_count %count%"
 msgstr[0] "There are currently no available episodes"
@@ -1545,9 +1545,9 @@ msgstr[2] "%count% more"
 #. English (no items): "%count% new".
 #. English (one item): "1 new".
 #. English (2+ items): "%count% new".
+#. %count% is a variable, example contents: "3"
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d .
 #. Type: Body text
-#: { "varible_examples": "%count%" : "4" }
 msgid "x_new"
 msgid_plural "x_new %count%"
 msgstr[0] "%count% new"
