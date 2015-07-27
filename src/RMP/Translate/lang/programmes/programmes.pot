@@ -46,7 +46,7 @@ msgstr ""
 
 #. English: "Sorry, there are no programmes with titles containing %1".
 #. Example URL: http://www.bbc.co.uk/bbcone/programmes/a-z/by/thisisnotarealword .
-#. %1 is a variable, example contents: "thisisnotarealword"
+#. %1 is a variable, which may contain the value: "thisisnotarealword".
 #. Type: Body text
 msgid "atoz_nocontaining"
 msgstr ""
@@ -69,7 +69,7 @@ msgstr ""
 
 #. English: "Search results for '%1'".
 #. Example URL: http://www.bbc.co.uk/bbcone/programmes/a-z/by/thisisnotarealword .
-#. %1 is a variable, example contents: "thisisnotarealword"
+#. %1 is a variable, which may contain the value: "thisisnotarealword".
 #. Type: Title
 
 msgid "atoz_search_title"
@@ -98,7 +98,7 @@ msgstr ""
 #. English (no items): "There are currently no available episodes".
 #. English (one item): "There is currently %count% available episode".
 #. English (2+ items): "There are currently %count% available episodes".
-#. %count% is a variable, example contents: "3"
+#. %count% is a variable, which may contain the value: "3".
 #. Example URL: http://www.bbc.co.uk/programmes/b007wds5/episodes/player .
 #. Type: Body text
 msgid "available_count"
@@ -1535,7 +1535,7 @@ msgstr[2] ""
 #. English (no items): "%count% new".
 #. English (one item): "1 new".
 #. English (2+ items): "%count% new".
-#. %count% is a variable, example contents: "3"
+#. %count% is a variable, which may contain the value: "3".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d .
 #. Type: Body text
 
