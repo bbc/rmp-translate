@@ -1,5 +1,6 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: rmp\translate programmes v1.0"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en_GB\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
