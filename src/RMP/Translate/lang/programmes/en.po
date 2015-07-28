@@ -1,11 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: rmp\translate programmes v1.0"
-"Language: en_GB\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
-"X-Loco-Target-Locale: cy_GB\n"
+"Project-Id-Version: rmp\translate programmes v1.0\n"
+"PO-Revision-Date:27-07-14\n"
+"MIME-Version:2.704\n"
 
 #. English: "All".
 msgid "all"
