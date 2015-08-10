@@ -1,0 +1,1626 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
+"X-Loco-Target-Locale: cy_GB\n"
+
+#. All
+msgid "all"
+msgstr "كل"
+
+#. All episodes
+msgid "all_episodes"
+msgstr "جميع الحلقات"
+
+#. All episodes available on BBC iPlayer
+msgid "all_episodes_iplayer"
+msgstr "جميع الحلقات متاحة على بي بي سي أي بلير"
+
+#. All episodes available on BBC iPlayer Radio
+msgid "all_episodes_iplayer_radio"
+msgstr "جميع الحلقات متاحة على راديو بي بي سي أي بلير"
+
+#. All previous episodes
+msgid "all_previous_episodes"
+msgstr "جميع الحلقات السابقة"
+
+#. All upcoming
+msgid "all_upcoming"
+msgstr "جميع الحلقات القادمة"
+
+#. All Programmes
+msgid "atoz_all"
+msgstr "جميع البرامج"
+
+#. Available now & Coming soon
+msgid "atoz_current"
+msgstr "متاح الان و قادم قريباً"
+
+#. Programmes beginning with the letter %1
+msgid "atoz_letters"
+msgstr "برامج تبدأ بحرف %1"
+
+#. Sorry, there are no programmes in this category
+msgid "atoz_nocategory"
+msgstr "عذراً، ليس هناك برامج في هذا القسم "
+
+#. Sorry, there are no programmes with titles containing %1
+msgid "atoz_nocontaining"
+msgstr " عذراً، ليس هناك برامج بعناوين تحتوي على%1"
+
+#. Sorry, there are no programmes with titles beginning with %1
+msgid "atoz_noresults"
+msgstr " عذراً، ليس هناك برامج بعناوين تبدا بي%1"
+
+#. Use the A to Z to find a programme by name
+msgid "atoz_note"
+msgstr " A إلى Z لإيجاد برنامج بالاسم، استخدام الاحرف من"
+
+#. Programmes beginning with numbers or punctuation symbols
+msgid "atoz_numbers"
+msgstr "برامج تبدأ بالأرقام أو رموز الترقيم"
+
+#. Search
+msgid "atoz_search"
+msgstr "بحث"
+
+#. Search results for '%1'
+msgid "atoz_search_title"
+msgstr " نتائج البحث بالنسبة ل'%1'"
+
+#. A to Z
+msgid "atoz_title"
+msgstr "Z إلى A من"
+
+#. Programmes A to Z
+msgid "atoz_title_full"
+msgstr "Z إلى A البرامج من"
+
+#. Try viewing %1all%2
+msgid "atoz_tryall"
+msgstr "جرب مشاهدة  % كل %2"
+
+#. Try viewing %1current%2
+msgid "atoz_trycurrent"
+msgstr "جرب مشاهدة  %الحالي %2"
+
+#. Audio described
+msgid "audio_described"
+msgstr "شرح الصوت"
+
+#. No items: "There are currently no available episodes"
+#. One item: "There is currently %count% available episode"
+#. 2+ items: "There are currently %count% available episodes"
+#: Parameter 1 in source
+msgid "available_count"
+msgid_plural "available_count %count%"
+msgstr[0] "حاليا لا توجه أية حلقات"
+msgstr[1] "يوجد حاليا  %count% حلقة متاحة"
+msgstr[2] "يوجد حاليا  %count% حلقات متاحة"
+
+#. No items: "There are currently no available episodes"
+#. One item: "1 available episode"
+#. 2+ items: "%count% available episodes"
+#: Parameter 1 in source
+msgid "available_count_short"
+msgid_plural "available_count_short %count%"
+msgstr[0] "حاليا لا توجد أي حلقات"
+msgstr[1] "1 حلقة متاحة"
+msgstr[2] "%count% حلقات متاحة"
+
+#. No items: "There are no available items"
+#. One item: "There is one available item"
+#. 2+ items: "There are %count% available items"
+msgid "available_items_count"
+msgid_plural "available_items_count %count%"
+msgstr[0] "لا يوجد أي شيء "
+msgstr[1] "توجد مادة واحدة"
+msgstr[2] "يوجد  %count% مواد متاحة"
+
+#. Available now
+msgid "available_now"
+msgstr "متاح حاليا"
+
+#. Available on BBC iPlayer
+msgid "available_on_iplayer"
+msgstr "متوفر في  BBC iPlayer"
+
+#. On iPlayer
+msgid "available_on_iplayer_short"
+msgstr "على iPlayer"
+
+#. This programme will be available shortly after broadcast
+msgid "available_shortly"
+msgstr "هذا البرنامج سوف يكون متوفرا قريبا بعد الإذاعةt"
+
+#. Back to top
+msgid "back_to_top_of_page"
+msgstr "عودة للأعلى"
+
+#. Back up to:
+msgid "back_up_to"
+msgstr "عودة للأعلى:"
+
+#. except %1
+msgid "broadcast_except"
+msgstr "يستثنى %1"
+
+#. %1 only
+msgid "broadcast_only_on"
+msgstr "%1 فقط"
+
+#. No items: "Broadcasts"
+#. One item: "Broadcast"
+#. 2+ items: "Broadcasts"
+#: Parameter 1 in source
+msgid "broadcasts"
+msgid_plural "broadcasts %count%"
+msgstr[0] "Broadcasts"
+msgstr[1] "Broadcast"
+msgstr[2] "Broadcasts"
+
+#. There are no broadcasts
+msgid "broadcasts_none"
+msgstr "لا يوجد بث حاليا"
+
+#. There are no broadcasts for the month and year selected
+msgid "broadcasts_none_date"
+msgstr "لا يوجد أي بث للشهر الذي تم اختياره"
+
+#. There are no upcoming broadcasts of this programme
+msgid "broadcasts_none_upcoming"
+msgstr "لا يوجد أي بث قادم للبرنامج المختار"
+
+#. There are no upcoming debut broadcasts
+msgid "broadcasts_none_upcoming_debut"
+msgstr "There are no upcoming debut broadcasts"
+
+#. Series and episodes available from online suppliers
+msgid "buy_desc"
+msgstr "المسلسل والحلقات متاحة من الموزع المعتمد على الانترنت"
+
+#. Buy online
+msgid "buy_online"
+msgstr "شراء إلكترونيا"
+
+#. Where to buy
+msgid "buy_where"
+msgstr "أين يمكن شراءه"
+
+#. By date
+msgid "by_date"
+msgstr "حسب اليوم"
+
+#. By format
+msgid "by_format"
+msgstr "حسب الصيغة"
+
+#. By genre
+msgid "by_genre"
+msgstr "تصنيف أدبي"
+
+#. No items: "Categories"
+#. One item: "Category"
+#. 2+ items: "Categories"
+#: Parameter 1 in source
+msgid "categories"
+msgid_plural "categories %count%"
+msgstr[0] "فئات"
+msgstr[1] "فئة"
+msgstr[2] "فئات"
+
+#. This category can be found on the stations highlighted below
+msgid "category_stations_note"
+msgstr "الفئة متاحة ومظللة بالأسفل"
+
+#. Programmes categorised as %1
+msgid "category_title"
+msgstr "البرامج مصنفة بناء على %1"
+
+#. This chapter is from
+msgid "chapter_context"
+msgstr "هذا الفصل من"
+
+#. No items: "Chapters"
+#. One item: "Chapter"
+#. 2+ items: "Chapters"
+#: Parameter 1 in source
+msgid "chapters"
+msgid_plural "chapters %count%"
+msgstr[0] "فصول"
+msgstr[1] "فصل"
+msgstr[2] "فصول"
+
+#. This clip will be available soon
+msgid "clip_availability_future"
+msgstr "هذا الكليب سوف يكون متاحا قريبا"
+
+#. Sorry, this clip is not currently available
+msgid "clip_availability_none"
+msgstr "عفوا، الكليب ليس متوفرا حاليا"
+
+#. Sorry, this clip is no longer available
+msgid "clip_availability_past"
+msgstr "عفوا، الكليب ليس متوفرا"
+
+#. This clip is from
+msgid "clip_context"
+msgstr "هذا الكليب من"
+
+#. No items: "Clips"
+#. One item: "Clip"
+#. 2+ items: "Clips"
+#: Parameter 1 in source
+msgid "clips"
+msgid_plural "clips %count%"
+msgstr[0] "كليبات"
+msgstr[1] "كليب"
+msgstr[2] "كليبات"
+
+#. No items: "There are currently no available clips"
+#. One item: "There is currently 1 available clip"
+#. 2+ items: "يوجد حاليا %count% كليبات متوفرة"
+#: Parameter 1 in source
+msgid "clips_count"
+msgid_plural "clips_count %count%"
+msgstr[0] "حاليا، لا يوجد أي كليب"
+msgstr[1] "يوجدا حاليا 1 كليب متوفر"
+msgstr[2] "يوجد حاليا %count% كليبات متوفرة"
+
+#. No items: "Collections"
+#. One item: "Collection"
+#. 2+ items: "Collections"
+#: Parameter 1 in source
+msgid "collections"
+msgid_plural "collections %count%"
+msgstr[0] "مجموعات"
+msgstr[1] "مجموعة"
+msgstr[2] "مجموعات"
+
+#. Available on
+msgid "colon_available_on"
+msgstr "متاحة على"
+
+#. From suppliers
+msgid "colon_from_suppliers"
+msgstr "من الموزع"
+
+#. Coming soon
+msgid "coming_soon"
+msgstr "متاحة قريبا"
+
+#. No items: "Comments"
+#. One item: "Comment"
+#. 2+ items: "Comments"
+#: Parameter 1 in source
+msgid "comments"
+msgid_plural "ملاحظات %count%"
+msgstr[0] "ملاحظات"
+msgstr[1] "ملاحظة"
+msgstr[2] "ملاحظات"
+
+#. No items: "Contact details"
+#. One item: "Contact detail"
+#. 2+ items: "Contact details"
+#: Parameter 1 in source
+msgid "contact_details"
+msgid_plural "contact_details %count%"
+msgstr[0] "معلومات التواصل"
+msgstr[1] "معلومة التواصل"
+msgstr[2] "معلومات التواصل"
+
+#. Please complete this field
+msgid "contact_form_field"
+msgstr "يرجى إكمال هذا الحقل"
+
+#. indicates mandatory fields
+msgid "contact_form_mandatory"
+msgstr "indicates mandatory fields"
+
+#. Send message
+msgid "contact_form_submit"
+msgstr "إرسال رسالة"
+
+#. Sorry, the contact form is currently unavailable due to a technical problem.
+msgid "contact_form_unavailable"
+msgstr ""
+"عذرا، فورم التواصل غير متاح حاليا نظرا لمشكلات تقنية."
+
+#. Form details
+msgid "contact_prompt"
+msgstr "تفاصيل الفورم"
+
+#. Please include the following details on your message:
+msgid "contact_prompt_note"
+msgstr "يرحى إضافة هذه المعلومات عند إرسال الرسالة:"
+
+#. Contact us
+msgid "contact_us"
+msgstr "تواصل معنا"
+
+#. No items: "Credits"
+#. One item: "Credit"
+#. 2+ items: "Credits"
+#: Parameter 1 in source
+msgid "credits"
+msgid_plural "credits %count%"
+msgstr[0] "نقاط"
+msgstr[1] "نقطة"
+msgstr[2] "نقاط"
+
+#. This programme has no credits
+msgid "credits_none"
+msgstr "هذا البرنامج ليس لديه رصيد"
+
+#. %1s
+#. e.g. "1990s" or "2000s"
+msgid "decade"
+msgstr "%1s"
+
+#. No items: "Downloads"
+#. One item: "Download"
+#. 2+ items: "Downloads"
+#: Parameter 1 in source
+msgid "downloads"
+msgid_plural "downloads %count%"
+msgstr[0] "تنزيلات"
+msgstr[1] "تنزيل"
+msgstr[2] "تنزيلات"
+
+#. Duration: %1
+msgid "duration"
+msgstr "Duration: %1"
+
+#. This episode will be available soon
+msgid "episode_availability_future"
+msgstr "هذه الحلقة سوف تكون متوفرة قريبا"
+
+#. Sorry, this episode is not currently available
+msgid "episode_availability_none"
+msgstr "عذرا، هذه الحلقة غير متاحة حاليا"
+
+#. Sorry, this episode is not currently available on BBC iPlayer Radio
+msgid "episode_availability_none_radio"
+msgstr "عذرا، هذه الحلقة غير متاحة حاليا على BBC iPlayer Radio"
+
+#. Sorry, this episode is no longer available
+msgid "episode_availability_past"
+msgstr "عذرا، هذه الحلقة لم تعد متاحة"
+
+#. Sorry, this episode is no longer available on BBC iPlayer Radio
+msgid "episode_availability_past_radio"
+msgstr "عذرا، هذه الحلقة لم تعد متاحة على BBC iPlayer Radio"
+
+#. Episode guide
+msgid "episode_guide"
+msgstr "مرشد الحلقات"
+
+#. Episode %1 of %2
+msgid "episode_number"
+msgstr "الحلقة %1 من %2"
+
+#. No items: "Sorry, no episodes available on BBC iPlayer"
+#. One item: "1 episode available on BBC iPlayer"
+#. 2+ items: "%count% episodes available on BBC iPlayer"
+#: Parameter 1 in source
+msgid "episode_on_iplayer"
+msgid_plural "episode_on_iplayer %count%"
+msgstr[0] "عذرا، لاتوجد حلقات متاحة علىon BBC iPlayer"
+msgstr[1] "1 حلقة متاحة علىBBC iPlayer"
+msgstr[2] "%count% حلقة متاحة على BBC iPlayer"
+
+#. No items: "Episodes"
+#. One item: "Episode"
+#. 2+ items: "Episodes"
+#: Parameter 1 in source
+msgid "episodes"
+msgid_plural "episodes %count%"
+msgstr[0] "حلقات"
+msgstr[1] "حلقة"
+msgstr[2] "حلقات"
+
+#. Episodes available:
+msgid "episodes_available"
+msgstr "حلقات متاحة:"
+
+#. There will be %1 episodes. More information coming soon
+msgid "episodes_more_soon"
+msgstr "سوف يكون %1 حلقة. المعلومات سوف تتوفر قريبا"
+
+#. There are no episodes
+msgid "episodes_none"
+msgstr "لا يوجد أي حلقة"
+
+#. Sorry, we couldn't access this information. Please refresh to try again.
+msgid "fault"
+msgstr ""
+"عذرا، لم نستطع الحصول على المعلومات، برجاء التحديث والمحاولة مرة أخرى."
+
+#. Featured
+msgid "featured"
+msgstr "خاصية"
+
+#. Featured in...
+msgid "featured_in"
+msgstr "الخاصية في ..."
+
+#. Features
+msgid "features"
+msgstr "خواص"
+
+#. Filter by
+msgid "filter_by"
+msgstr "تصنيف حسب"
+
+#. You are at the first episode
+msgid "first_episode"
+msgstr "أنت في أول الحلقة"
+
+#. No items: "Formats"
+#. One item: "Format"
+#. 2+ items: "Formats"
+#: Parameter 1 in source
+msgid "formats"
+msgid_plural "formats %count%"
+msgstr[0] "Formats"
+msgstr[1] "Format"
+msgstr[2] "Formats"
+
+#. Pick a format to see %1 programmes
+msgid "formats_note"
+msgstr "Pick a format to see %1 programmes"
+
+#. Full schedule
+msgid "full_schedule"
+msgstr "جدول كامل "
+
+#. No items: "Galleries"
+#. One item: "Gallery"
+#. 2+ items: "Galleries"
+#: Parameter 1 in source
+msgid "معارض"
+msgid_plural "galleries %count%"
+msgstr[0] "معارض"
+msgstr[1] "معرض"
+msgstr[2] "معارض"
+
+#. This gallery is from
+msgid "galleries_context"
+msgstr "المعرض من"
+
+#. No items: "There are currently no galleries"
+#. One item: "There is currently 1 gallery"
+#. 2+ items: "There are currently %count% galleries"
+#: Parameter 1 in source
+msgid "galleries_count"
+msgid_plural "galleries_count %count%"
+msgstr[0] "لا يوجد حاليا أي معرض"
+msgstr[1] "يوجد حاليا 1 معرض"
+msgstr[2] "يوجد حاليا %count% معرض"
+
+#. No items: "Genres"
+#. One item: "Genre"
+#. 2+ items: "Genres"
+#: Parameter 1 in source
+msgid "genres"
+msgid_plural "genres %count%"
+msgstr[0] "Genres"
+msgstr[1] "Genre"
+msgstr[2] "Genres"
+
+#. Pick a genre to see %1 programmes
+msgid "genres_note"
+msgstr "Pick a genre to see %1 programmes"
+
+#. Hide available episodes
+msgid "hide_available_episodes"
+msgstr "Hide available episodes"
+
+#. Home
+msgid "home"
+msgstr "المنزل"
+
+#. Listen from start
+msgid "iplayer_listen_from_start"
+msgstr "الاستماع من البداية"
+
+#. Listen live
+msgid "iplayer_listen_live"
+msgstr "الاستماع مباشرة"
+
+#. Listen now
+msgid "iplayer_listen_now"
+msgstr "استماع الان"
+
+#. No items: "0 days left to listen"
+#. One item: "1 day left to listen"
+#. 2+ items: "%count% days left to listen"
+#: Parameter 1 in source
+msgid "iplayer_listen_remaining_days"
+msgid_plural "iplayer_listen_remaining_days %count%"
+msgstr[0] "0 يوم متبقي على الاستماع"
+msgstr[1] "1 يوم متبقي للاستماع"
+msgstr[2] "%count% يوم متبقية للاستماع"
+
+#. No items: "0 hours left to listen"
+#. One item: "1 hour left to listen"
+#. 2+ items: "%count% hours left to listen"
+#: Parameter 1 in source
+msgid "iplayer_listen_remaining_hours"
+msgid_plural "iplayer_listen_remaining_hours %count%"
+msgstr[0] "0 ساعة متبقية للإستماع"
+msgstr[1] "1 ساعة متبقية للإستماع"
+msgstr[2] "%count% ساعة متبقية للإستماع"
+
+#. NO ENGLISH TRANSLATION AVAILABLE YET
+msgid "iplayer_listen_remaining_mins"
+msgstr ""
+
+#. No items: "0 minutes left to listen"
+#. One item: "1 minute left to listen"
+#. 2+ items: "%count% minutes left to listen"
+#: Parameter 1 in source
+msgid "iplayer_listen_remaining_minutes"
+msgid_plural "iplayer_listen_remaining_minutes %count%"
+msgstr[0] "0 دقيقة متبقية للإستماع"
+msgstr[1] "1 دقيقة متبقية للإستماع"
+msgstr[2] "%count% دقيقة متبقية للإستماع"
+
+#. No items: "0 months left to listen"
+#. One item: "1 month left to listen"
+#. 2+ items: "%count% months left to listen"
+#: Parameter 1 in source
+msgid "iplayer_listen_remaining_months"
+msgid_plural "iplayer_listen_remaining_months %count%"
+msgstr[0] "0 شهر متبقي للإستماع"
+msgstr[1] "1 شهر متبقي للإستماع"
+msgstr[2] "%count% شهر متبقي للإستماع"
+
+#. No items: "0 seconds left to listen"
+#. One item: "1 second left to listen"
+#. 2+ items: "%count% seconds left to listen"
+#: Parameter 1 in source
+msgid "iplayer_listen_remaining_seconds"
+msgid_plural "iplayer_listen_remaining_seconds %count%"
+msgstr[0] "0 ثانية متبقية للإستماع"
+msgstr[1] "1 ثانية متبقية للإستماع"
+msgstr[2] "%count% ثانية متبقية للإستماع"
+
+#. NO ENGLISH TRANSLATION AVAILABLE YET
+msgid "iplayer_listen_remaining_secs"
+msgstr ""
+
+#. No items: "0 weeks left to listen"
+#. One item: "1 week left to listen"
+#. 2+ items: "%count% weeks left to listen"
+#: Parameter 1 in source
+msgid "iplayer_listen_remaining_weeks"
+msgid_plural "iplayer_listen_remaining_weeks %count%"
+msgstr[0] "0 اسبوع متبقي للإستماع"
+msgstr[1] "1 اسبوع متبقي للاستماع"
+msgstr[2] "%count% اسبوع متبقي للاستماع"
+
+#. over a year left to listen
+msgid "iplayer_listen_remaining_years"
+msgstr "over a year left to listen"
+
+#. Play from start
+msgid "iplayer_play_from_start"
+msgstr "تشغيل من البداية"
+
+#. Play live
+msgid "iplayer_play_live"
+msgstr "تشغيل حي"
+
+#. Play now
+msgid "iplayer_play_now"
+msgstr "تشغيل الآن"
+
+#. Play episode
+msgid "iplayer_play_episode"
+msgstr "تشغيل الحلقة"
+
+#. Play episode
+msgid "iplayer_play_clip"
+msgstr "تشغيل الكليب"
+
+#. No items: "0 days left to play"
+#. One item: "1 day left to play"
+#. 2+ items: "%count% days left to play"
+#: Parameter 1 in source
+msgid "iplayer_play_remaining_days"
+msgid_plural "iplayer_play_remaining_days %count%"
+msgstr[0] "0 أيام متبقية على الاستماع"
+msgstr[1] "1 يوم متبقي على الاستماع"
+msgstr[2] "%count% يوم متبقي على الاستماع"
+
+#. No items: "0 hours left to play"
+#. One item: "1 hour left to play"
+#. 2+ items: "%count% hours left to play"
+#: Parameter 1 in source
+msgid "iplayer_play_remaining_hours"
+msgid_plural "iplayer_play_remaining_hours %count%"
+msgstr[0] "0 ساعة متبقية على التشغيل"
+msgstr[1] "1 ساعة متبقية على التشغيل"
+msgstr[2] "%count% ساعة متبقية على التشغيل"
+
+#. NO ENGLISH TRANSLATION AVAILABLE YET
+msgid "iplayer_play_remaining_mins"
+msgstr ""
+
+#. No items: "0 minutes left to play"
+#. One item: "1 minute left to play"
+#. 2+ items: "%count% minutes left to play"
+#: Parameter 1 in source
+msgid "iplayer_play_remaining_minutes"
+msgid_plural "iplayer_play_remaining_minutes %count%"
+msgstr[0] "0 دقيقة متبقية على التشغيل"
+msgstr[1] "1 دقيقة متبقية على التشغيل"
+msgstr[2] "%count% minutes left to play"
+
+#. No items: "0 months left to play"
+#. One item: "1 month left to play"
+#. 2+ items: "%count% months left to play"
+#: Parameter 1 in source
+msgid "iplayer_play_remaining_months"
+msgid_plural "iplayer_play_remaining_months %count%"
+msgstr[0] "0 شهر متبقي على التشغيل"
+msgstr[1] "1 شهر متبقي على التشغيل"
+msgstr[2] "%count% شهر متبقي على التشغيل"
+
+#. No items: "0 seconds left to play"
+#. One item: "1 second left to play"
+#. 2+ items: "%count% seconds left to play"
+#: Parameter 1 in source
+msgid "iplayer_play_remaining_seconds"
+msgid_plural "iplayer_play_remaining_seconds %count%"
+msgstr[0] "0 ثانية متبقية على التشغيل"
+msgstr[1] "1 ثانية متبقية على التشغيل
+msgstr[2] "%count% ثانية متبقية على التشغيل"
+
+#. NO ENGLISH TRANSLATION AVAILABLE YET
+msgid "iplayer_play_remaining_secs"
+msgstr ""
+
+#. No items: "0 weeks left to play"
+#. One item: "1 week left to play"
+#. 2+ items: "%count% weeks left to play"
+#: Parameter 1 in source
+msgid "iplayer_play_remaining_weeks"
+msgid_plural "iplayer_play_remaining_weeks %count%"
+msgstr[0] "0 اسبوع متبقي على التشغيل"
+msgstr[1] "1 اسبوع متبقي على التشغيل"
+msgstr[2] "%count% اسبوع متبقي على التشغيل"
+
+#. over a year left to play
+msgid "iplayer_play_remaining_years"
+msgstr "over a year left to play"
+
+#. No items: "0 days"
+#. One item: "1 day"
+#. 2+ items: "%count% days"
+#: Parameter 1 in source
+msgid "iplayer_time_days"
+msgid_plural "iplayer_time_days %count%"
+msgstr[0] "0 أيام"
+msgstr[1] "1 يوم"
+msgstr[2] "%count% يوم"
+
+#. No items: "0 hours"
+#. One item: "1 hour"
+#. 2+ items: "%count% hours"
+#: Parameter 1 in source
+msgid "iplayer_time_hours"
+msgid_plural "iplayer_time_hours %count%"
+msgstr[0] "0 ساعات"
+msgstr[1] "1 ساعة"
+msgstr[2] "%count% ساعات"
+
+#. indefinitely
+msgid "iplayer_time_indefinitely"
+msgstr "indefinitely"
+
+#. No items: "0 mins"
+#. One item: "1 min"
+#. 2+ items: "%count% mins"
+#: Parameter 1 in source
+msgid "iplayer_time_mins"
+msgid_plural "iplayer_time_mins %count%"
+msgstr[0] "0 mins"
+msgstr[1] "1 min"
+msgstr[2] "%count% mins"
+
+#. No items: "0 minutes"
+#. One item: "1 minute"
+#. 2+ items: "%count% minutes"
+#: Parameter 1 in source
+msgid "iplayer_time_minutes"
+msgid_plural "iplayer_time_minutes %count%"
+msgstr[0] "0 دقائق"
+msgstr[1] "1 دقيقة"
+msgstr[2] "%count% دقائق"
+
+#. No items: "0 months"
+#. One item: "1 month"
+#. 2+ items: "%count% months"
+#: Parameter 1 in source
+msgid "iplayer_time_months"
+msgid_plural "iplayer_time_months %count%"
+msgstr[0] "0 شهور"
+msgstr[1] "1 شهر"
+msgstr[2] "%count% شهور"
+
+#. No items: "0 seconds"
+#. One item: "1 second"
+#. 2+ items: "%count% seconds"
+#: Parameter 1 in source
+msgid "iplayer_time_seconds"
+msgid_plural "iplayer_time_seconds %count%"
+msgstr[0] "0 ثواني"
+msgstr[1] "1 ثانية"
+msgstr[2] "%count% ثواني"
+
+#. No items: "0 secs"
+#. One item: "1 sec"
+#. 2+ items: "%count% secs"
+#: Parameter 1 in source
+msgid "iplayer_time_secs"
+msgid_plural "iplayer_time_secs %count%"
+msgstr[0] "0 secs"
+msgstr[1] "1 sec"
+msgstr[2] "%count% secs"
+
+#. No items: "0 weeks"
+#. One item: "1 week"
+#. 2+ items: "%count% weeks"
+#: Parameter 1 in source
+msgid "iplayer_time_weeks"
+msgid_plural "iplayer_time_weeks %count%"
+msgstr[0] "0 أسابيع"
+msgstr[1] "1 أسبوع"
+msgstr[2] "%count% أسابيع"
+
+#. over a year
+msgid "iplayer_time_years"
+msgstr "over a year"
+
+#. Watch from start
+msgid "iplayer_watch_from_start"
+msgstr "شاهد من البداية"
+
+#. Watch live
+msgid "iplayer_watch_live"
+msgstr "شاهد مباشرة"
+
+#. Watch now
+msgid "iplayer_watch_now"
+msgstr "شاهد حاليا"
+
+#. No items: "0 days left to watch"
+#. One item: "1 day left to watch"
+#. 2+ items: "%count% days left to watch"
+#: Parameter 1 in source
+msgid "iplayer_watch_remaining_days"
+msgid_plural "iplayer_watch_remaining_days %count%"
+msgstr[0] "0 أيام متبقية للمشاهدة"
+msgstr[1] "1 يوم متبقي للمشاهدة"
+msgstr[2] "%count% أيام متبقية للمشاهدة"
+
+#. No items: "0 hours left to watch"
+#. One item: "1 hour left to watch"
+#. 2+ items: "%count% hours left to watch"
+#: Parameter 1 in source
+msgid "iplayer_watch_remaining_hours"
+msgid_plural "iplayer_watch_remaining_hours %count%"
+msgstr[0] "0 ساعات متبقية للمشاهدة"
+msgstr[1] "1 ساعة متبقية للمشاهدة"
+msgstr[2] "%count% ساعات متبقية للمشاهدة"
+
+#. NO ENGLISH TRANSLATION AVAILABLE YET
+msgid "iplayer_watch_remaining_mins"
+msgstr ""
+
+#. No items: "0 minutes left to watch"
+#. One item: "1 minute left to watch"
+#. 2+ items: "%count% minutes left to watch"
+#: Parameter 1 in source
+msgid "iplayer_watch_remaining_minutes"
+msgid_plural "iplayer_watch_remaining_minutes %count%"
+msgstr[0] "0 دقائق متبقية للمشاهدة"
+msgstr[1] "1 دقيقة متبقية للمشاهدة"
+msgstr[2] "%count% دقائق متبقية للمشاهدة"
+
+#. No items: "0 months left to watch"
+#. One item: "1 month left to watch"
+#. 2+ items: "%count% months left to watch"
+#: Parameter 1 in source
+msgid "iplayer_watch_remaining_months"
+msgid_plural "iplayer_watch_remaining_months %count%"
+msgstr[0] "0 شهر متبقي للمشاهدة "
+msgstr[1] "1 شهر متبقي للمشاهدة"
+msgstr[2] "%count% شهور متبقية للمشاهدة"
+
+#. No items: "0 seconds left to watch"
+#. One item: "1 second left to watch"
+#. 2+ items: "%count% seconds left to watch"
+#: Parameter 1 in source
+msgid "iplayer_watch_remaining_seconds"
+msgid_plural "iplayer_watch_remaining_seconds %count%"
+msgstr[0] "0 ثواني متبقية للمشاهدة"
+msgstr[1] "1 ثانية متبقية للمشاهدة"
+msgstr[2] "%count% ثواني متبقية للمشاهدة"
+
+#. NO ENGLISH TRANSLATION AVAILABLE YET
+msgid "iplayer_watch_remaining_secs"
+msgstr ""
+
+#. No items: "0 weeks left to watch"
+#. One item: "1 week left to watch"
+#. 2+ items: "%count% weeks left to watch"
+#: Parameter 1 in source
+msgid "iplayer_watch_remaining_weeks"
+msgid_plural "iplayer_watch_remaining_weeks %count%"
+msgstr[0] "0 أسابيع متبقية للمشاهدة"
+msgstr[1] "1 اسبوع متبقي للمشاهدة"
+msgstr[2] "%count%أسابيع متبقية للمشاهدة "
+
+#. over a year left to watch
+msgid "iplayer_watch_remaining_years"
+msgstr "over a year left to watch"
+
+#. No items: "There are no items"
+#. One item: "There is one item"
+#. 2+ items: "There are %count% items"
+msgid "items_count"
+msgid_plural "items_count %count%"
+msgstr[0] "لا يوجد أي مكونات"
+msgstr[1] "يوجد مكون واحد"
+msgstr[2] "يوجد %count% مكونات"
+
+#. You must enable JavaScript to play content
+msgid "javascript_required"
+msgstr "You must enable JavaScript to play content"
+
+#. en-GB
+msgid "language_barlesque"
+msgstr "en-GB"
+
+#. false
+msgid "language_barlesque_ws"
+msgstr "خاطئ"
+
+#. en
+msgid "language_code"
+msgstr "en-GB"
+
+#. ltr
+msgid "language_direction"
+msgstr "ltr"
+
+#. en_GB
+msgid "language_locale"
+msgstr "en_GB"
+
+#. English (UK)
+msgid "language_name"
+msgstr "English (UK)"
+
+#. Last
+msgid "last"
+msgstr "الأخير"
+
+#. You are at the last episode
+msgid "last_episode"
+msgstr "أنت في آخر حلقة"
+
+#. Last on
+msgid "last_on"
+msgstr "Last on"
+
+#. Latest
+msgid "latest"
+msgstr "الأخير"
+
+#. Listen in pop-out player
+msgid "listen_in_popout_player"
+msgstr "Listen in pop-out player"
+
+#. Live
+msgid "live"
+msgstr "مباشر"
+
+#. Live at %1
+msgid "live_at"
+msgstr "مباشر على %1"
+
+#. This is from
+msgid "live_context"
+msgstr "هذا من"
+
+#. Local Radio
+msgid "local_radio"
+msgstr "الراديو المحلي"
+
+#. More
+msgid "more"
+msgstr "أخرى"
+
+#. More clips from %1
+msgid "more_clips_from"
+msgstr "كليبات أخرى من %1"
+
+#. More episodes
+msgid "more_episodes"
+msgstr "حلقات أكثر"
+
+#. More results for %1 from across the BBC
+msgid "more_from_bbc"
+msgstr "نتائج أخرى لـ %1 from across the BBC"
+
+#. More on Radio
+msgid "more_on_radio"
+msgstr "المزيد من الراديو"
+
+#. More on TV
+msgid "more_on_tv"
+msgstr "المزيد على التلفاز"
+
+#. Music and featured items
+msgid "music_and_featured"
+msgstr "Music and featured items"
+
+#. Music Played
+msgid "music_played"
+msgstr "موسيقى مسموعة"
+
+#. National Radio
+msgid "national_radio"
+msgstr "National Radio"
+
+#. Nations Radio
+msgid "nations_radio"
+msgstr "Nations Radio"
+
+#. New series
+msgid "new_series"
+msgstr "سلسلة جديدة "
+
+#. Next
+msgid "next"
+msgstr "التالي"
+
+#. Next on
+msgid "next_on"
+msgstr "التالي على "
+
+#. Sorry there is currently no information
+msgid "no_information"
+msgstr "عذرا، لا يوجد حاليا أي معلومات"
+
+#. Now and next
+msgid "now_and_next"
+msgstr "الآن والتالي"
+
+#. Off air
+msgid "off_air"
+msgstr "Off air"
+
+#. On air
+msgid "on_air"
+msgstr "On air"
+
+#. On demand
+msgid "on_demand"
+msgstr "On demand"
+
+#. On now
+msgid "on_now"
+msgstr "On now"
+
+#. On radio
+msgid "on_radio"
+msgstr "On radio"
+
+#. On TV
+msgid "on_tv"
+msgstr "On TV"
+
+#. No items: "Outlets"
+#. One item: "Outlet"
+#. 2+ items: "Outlets"
+#: Parameter 1 in source
+msgid "outlets"
+msgid_plural "outlets %count%"
+msgstr[0] "Outlets"
+msgstr[1] "Outlet"
+msgstr[2] "Outlets"
+
+#. Page not found
+msgid "page_not_found"
+msgstr "لا يمكن العثور على الصفحة"
+
+#. Please check the address and try again
+msgid "page_not_found_note"
+msgstr "الرجاء التأكد من العنوان"
+
+#. Sorry, that page was not found
+msgid "page_not_found_title"
+msgstr "عذرا، الصفحة ليست متاحة"
+
+#. Page %1
+msgid "pagination_link"
+msgstr "صفحة %1"
+
+#. Page %1 of %2
+#: Amen only!
+msgid "pagination_page"
+msgstr "صفحة %1 من %2"
+
+#. Add music you love and enjoy it with %1
+msgid "playlister_tagline"
+msgstr " إضافة أغنية يمكنك الاستمتاع بها مع %1"
+
+#. This podcast belongs to
+msgid "podcast_belongs"
+msgstr "This podcast belongs to"
+
+#. No items: "Podcasts"
+#. One item: "Podcast"
+#. 2+ items: "Podcasts"
+#: Parameter 1 in source
+msgid "podcasts"
+msgid_plural "podcasts %count%"
+msgstr[0] "Podcasts"
+msgstr[1] "Podcast"
+msgstr[2] "Podcasts"
+
+#. Episodes to download
+msgid "podcasts_desc"
+msgstr "Episodes to download"
+
+#. More podcasts
+msgid "podcasts_more"
+msgstr "More podcasts"
+
+#. Other podcasts you may like
+msgid "podcasts_suggestions"
+msgstr "Other podcasts you may like"
+
+#. Previous
+msgid "previous"
+msgstr "السابق"
+
+#. No items: "Profiles"
+#. One item: "Profile"
+#. 2+ items: "Profiles"
+#: Parameter 1 in source
+msgid "profiles"
+msgid_plural "profiles %count%"
+msgstr[0] "Profiles"
+msgstr[1] "Profile"
+msgstr[2] "Profiles"
+
+#. Fact data
+msgid "profiles_key_fact_data"
+msgstr "Fact data"
+
+#. Key facts for %1
+msgid "profiles_key_fact_summary"
+msgstr "Key facts for %1"
+
+#. Fact title
+msgid "profiles_key_fact_title"
+msgstr "Fact title"
+
+#. Sorry there are no profiles for %1
+msgid "profiles_none"
+msgstr "Sorry there are no profiles for %1"
+
+#. This programme is not currently available on BBC iPlayer
+msgid "programme_availability_none"
+msgstr "هذا البرنامج حاليا ليسا متاحا على BBC iPlayer"
+
+#. This programme is not currently available on BBC iPlayer Radio
+msgid "programme_availability_none_radio"
+msgstr "هذا البرنامج ليس متاحا حاليا على BBC iPlayer Radio"
+
+#. This programme is no longer available on BBC iPlayer
+msgid "programme_availability_past"
+msgstr "هذا البرنامج لم يعد متوفرا على BBC iPlayer"
+
+#. This programme is no longer available on BBC iPlayer Radio
+msgid "programme_availability_past_radio"
+msgstr "هذا البرنامج لم يعد متوفرا على BBC iPlayer راديو"
+
+#. %1 homepage
+msgid "programme_homepage"
+msgstr "%1 الصفحة الرئيسية"
+
+#. No items: "Programmes"
+#. One item: "Programme"
+#. 2+ items: "Programmes"
+#: Parameter 1 in source
+msgid "programmes"
+msgid_plural "programmes %count%"
+msgstr[0] "البرامج"
+msgstr[1] "البرنامج"
+msgstr[2] "البرامج"
+
+#. No items: "No programmes"
+#. One item: "1 programme"
+#. 2+ items: "%1 programmes"
+#: Parameter 2 in source
+msgid "programmes_count"
+msgid_plural "programmes_count %count%"
+msgstr[0] "لايوجد برامج"
+msgstr[1] "1 برنامج"
+msgstr[2] "%1 برامج"
+
+#. BBC Programmes homepage
+msgid "programmes_homepage"
+msgstr "BBC الصفحة الرئيسية لبرامج"
+
+#. Programmes will resume at %1
+msgid "programmes_resume_at"
+msgstr "Programmes will resume at %1"
+
+#. QR code
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
+msgid "qr_code"
+msgstr "QR code"
+
+#. A %1QR code%2 is a type of barcode which can contain links to webpages. Mobile phones with a camera and an appropriate application are able to read these codes and take you to the address contained within it.
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
+msgid "qr_description"
+msgstr ""
+"A %1QR code%2 is a type of barcode which can contain links to webpages. "
+"Mobile phones with a camera and an appropriate application are able to read "
+"these codes and take you to the address contained within it."
+
+#. You may save, print or share the image.
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
+msgid "qr_instruction"
+msgstr "يمكنك حفظ، طباعة ومشاركة الصورة"
+
+#. This code will link to the page for %1 when read using a QR code reader.
+#. See http://www.bbc.co.uk/programmes/b006q2x0/qrcode
+msgid "qr_link"
+msgstr ""
+"This code will link to the page for %1 when read using a QR code reader."
+
+#. Sorry, there are no recommendations for this programme.
+msgid "recommendations_noresults"
+msgstr "عذرا، لا يوجد توصيات على هذا البرنامج."
+
+#. No items: "Related Links"
+#. One item: "Related Link"
+#. 2+ items: "Related Links"
+#: Parameter 1 in source
+msgid "related_links"
+msgid_plural "related_links %count%"
+msgstr[0] "روابط ذات علاقة"
+msgstr[1] "رابط ذو علاقة "
+msgstr[2] "روابط ذات علاقة "
+
+#. Release date: %1
+msgid "release_date"
+msgstr "Release date: %1"
+
+#. R
+msgid "repeat_abbr"
+msgstr "ر"
+
+#. No items: "Repeats"
+#. One item: "Repeat"
+#. 2+ items: "Repeats"
+#: Parameter 1 in source
+msgid "repeats"
+msgid_plural "repeats %count%"
+msgstr[0] "إعادات"
+msgstr[1] "إعادة"
+msgstr[2] "إعادات"
+
+#. Schedule begins on %1
+msgid "schedule_begins_on"
+msgstr "الجدول يبدأ في %1"
+
+#. Schedule ended on %1
+msgid "schedule_ended_on"
+msgstr "الجدول ينتهي في %1"
+
+#. %1 schedule
+msgid "schedule_title"
+msgstr "%1 جدول"
+
+#. No items: "Schedules"
+#. One item: "Schedule"
+#. 2+ items: "Schedules"
+#: Parameter 1 in source
+msgid "schedules"
+msgid_plural "schedules %count%"
+msgstr[0] "جداول"
+msgstr[1] "جدول"
+msgstr[2] "جداول"
+
+#. Boxing Day
+msgid "schedules_boxing_day"
+msgstr "Boxing Day"
+
+#. Calendar
+msgid "schedules_calendar"
+msgstr "التقويم"
+
+#. Please choose a day from the calendar
+msgid "schedules_calendar_note"
+msgstr "الرجاء اختيار يوم من التقويم"
+
+#. Christmas Day
+msgid "schedules_christmas_day"
+msgstr "يوم الكريسمس"
+
+#. Christmas Eve
+msgid "schedules_christmas_eve"
+msgstr "Christmas Eve"
+
+#. Last %1
+msgid "schedules_last_weekday"
+msgstr "آخر %1"
+
+#. New Year's Day
+msgid "schedules_new_years_day"
+msgstr "يوم السنة الجديدة"
+
+#. Next %1
+msgid "schedules_next_weekday"
+msgstr "التالي %1"
+
+#. There is no schedule for today. Please choose another day from the calendar
+msgid "schedules_no_result"
+msgstr ""
+"لا يوجد جدول لليوم، برجاء اختيار يوم آخر من التقويم"
+
+#. Afternoon
+msgid "schedules_period_afternoon"
+msgstr "مساء"
+
+#. Early
+msgid "schedules_period_early"
+msgstr "باكرا"
+
+#. Evening
+msgid "schedules_period_evening"
+msgstr "ليلا"
+
+#. Late
+msgid "schedules_period_late"
+msgstr "متأخر"
+
+#. Morning
+msgid "schedules_period_morning"
+msgstr "صباحا"
+
+#. See other regional %1 variations
+msgid "schedules_regional"
+msgstr "See other regional %1 variations"
+
+#. View %1 schedule variations
+msgid "schedules_regional_change"
+msgstr "عرض %1 جداول متفرقة"
+
+#. View %1
+msgid "schedules_regional_changeto"
+msgstr "عرض %1"
+
+#. Please choose a region for the appropriate schedule
+msgid "schedules_regional_note"
+msgstr "Please choose a region for the appropriate schedule"
+
+#. Please choose the appropriate schedule
+msgid "schedules_regional_note_radio"
+msgstr "الرجاء اختيار الجدول المناسب"
+
+#. Regional variations for %1
+msgid "schedules_regional_title"
+msgstr "Regional variations for %1"
+
+#. Schedule variations for %1
+msgid "schedules_regional_title_radio"
+msgstr "جداول متفرقة من %1"
+
+#. This week
+msgid "schedules_this_week"
+msgstr "هذا الاسبوع"
+
+#. This year
+msgid "schedules_this_year"
+msgstr "هذه السنة "
+
+#. Today
+msgid "schedules_today"
+msgstr "اليوم"
+
+#. Tomorrow
+msgid "schedules_tomorrow"
+msgstr "غدا"
+
+#. not ideal for small screens
+msgid "schedules_week_disclaimer"
+msgstr "ليس مناسبا للشاشات الصغيرة"
+
+#. Show full week
+msgid "schedules_week_show"
+msgstr "مشاهدة الاسبوع كاملا"
+
+#. Yesterday
+msgid "schedules_yesterday"
+msgstr "أمس"
+
+#. See all %1 episodes available on BBC iPlayer
+msgid "see_all_available_from"
+msgstr "شاهد جميع %1 الحلقات المتاحة على BBC iPlayer"
+
+#. See all %1 episodes available
+msgid "see_all_available_from_radio"
+msgstr "شاهد جميع %1 الحلقات المتاحة"
+
+#. See all broadcasts of %1
+msgid "see_all_broadcasts_of"
+msgstr "See all broadcasts of %1"
+
+#. See all clips from %1
+msgid "see_all_clips_from"
+msgstr "شاهد جميع الكليبات %1"
+
+#. See all credits for %1
+msgid "see_all_credits_for"
+msgstr "شاهد جميع النقاط %1"
+
+#. See all episodes from %1
+msgid "see_all_episodes_from"
+msgstr "شاهد جميع الحلقات من %1"
+
+#. See all from %1
+msgid "see_all_from"
+msgstr "شاهد الكل من %1"
+
+#. See all galleries from %1
+msgid "see_all_galleries_from"
+msgstr "شاهد جميع المعارض من %1"
+
+#. See all items
+msgid "see_all_items"
+msgstr "شاهد جميع المواد"
+
+#. See all podcasts
+msgid "see_all_podcasts"
+msgstr "See all podcasts"
+
+#. See all podcasts for %1
+msgid "see_all_podcasts_for"
+msgstr "See all podcasts for %1"
+
+#. See all podcasts from %1
+msgid "see_all_podcasts_from"
+msgstr ""
+
+#. See all previous episodes from %1
+msgid "see_all_previous_episodes_from"
+msgstr "شاهد جميع الحلقات السابقة من %1"
+
+#. See all upcoming broadcasts of %1
+msgid "see_all_upcoming_of"
+msgstr "See all upcoming broadcasts of %1"
+
+#. No items: "Series"
+#. One item: "Series"
+#. 2+ items: "Series"
+#: Parameter 1 in source
+msgid "series"
+msgid_plural "series %count%"
+msgstr[0] "سلسلة"
+msgstr[1] "سلسلة"
+msgstr[2] "سلسلة"
+
+#. Explore the links below to find %1 programmes you're interested in
+msgid "service_introduction"
+msgstr "تصفح الروابط بالأسفل للبحث عن %1 البرامج التي ترغب بها"
+
+#. Sort by
+#. See http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player
+msgid "sort_by"
+msgstr "تصنيف حسب "
+
+#. Show available episodes
+msgid "show_available_episodes"
+msgstr "عرض الحلقات المتاحة"
+
+#. Show less
+msgid "show_less"
+msgstr "عرض أقل"
+
+#. Show more
+msgid "show_more"
+msgstr "عرض أكثر "
+
+#. Signed
+msgid "signed"
+msgstr "الموقعة"
+
+#. Similar programmes
+msgid "similar_programmes"
+msgstr "Similar programmes"
+
+#. Skip to
+msgid "skip_to"
+msgstr "تجاهل إلى"
+
+#. Stations
+msgid "stations"
+msgstr "Stations"
+
+#. Subscribe
+msgid "subscribe"
+msgstr "اشتراك"
+
+#. Subscribe to podcast
+msgid "subscribe_to_podcast"
+msgstr "Subscribe to podcast"
+
+#. No items: "There are currently no available episodes tagged with %1"
+#. One item: "There is currently 1 available episode tagged with %1"
+#. 2+ items: "There are currently %count% available episodes tagged with %1"
+#: Parameter 2 in source
+msgid "tagged_available"
+msgid_plural "tagged_available %count%"
+msgstr[0] "لاتوجد حاليا حلقات متاحة مرتبطة مع %1"
+msgstr[1] "يوجد حاليا 1 حلقات متاحة مرتبطة مع %1"
+msgstr[2] "يوجد حاليا %count% حلقات متاحة مرتبطة مع%1"
+
+#. TV
+msgid "television_abbr"
+msgstr "تلفاز"
+
+#. Timings (where shown) are the time of the day
+msgid "timings_start_of_day"
+msgstr "Timings (where shown) are the time of the day"
+
+#. %1h
+#. e.g. "2h" for 2 hours
+msgid "time_hours_short"
+msgstr "%1h"
+
+#. No items: "0 ساعات"
+#. One item: "1 hour"
+#. 2+ items: "2 hours"
+msgid "time_hours_long"
+msgid_plural "time_hours_long %count%"
+msgstr[0] "%1 ساعات"
+msgstr[1] "%1 ساعة"
+msgstr[2] "%1 ساعات"
+
+#. %1m
+#. e.g. "17m" for 17 minutes
+msgid "time_minutes_short"
+msgstr "%1m"
+
+#. No items: "0 minutes"
+#. One item: "1 minute"
+#. 2+ items: "2 minutes"
+msgid "time_minutes_long"
+msgid_plural "time_minutes_long %count%"
+msgstr[0] "%1 دقائق"
+msgstr[1] "%1 دقيقة"
+msgstr[2] "%1 دقائق"
+
+#. %1s
+#. e.g. "12s" for 12 seconds
+msgid "time_seconds_short"
+msgstr "%1s"
+
+#. No items: "0 seconds"
+#. One item: "1 second"
+#. 2+ items: "2 seconds"
+msgid "time_seconds_long"
+msgid_plural "time_seconds_long %count%"
+msgstr[0] "%1 ثواني"
+msgstr[1] "%1 ثانية"
+msgstr[2] "%1 ثواني"
+
+#. Timings (where shown) are from the start of the programme in hours and minutes
+msgid "timings_start_of_programme"
+msgstr ""
+"Timings (where shown) are from the start of the programme in hours and "
+"minutes"
+
+#. No items: "Topics"
+#. One item: "Topic"
+#. 2+ items: "Topics"
+#: Parameter 1 in source
+msgid "topics"
+msgid_plural "topics %count%"
+msgstr[0] "مواضيع"
+msgstr[1] "موضوع"
+msgstr[2] "مواضيع"
+
+#. Updated:
+msgid "updated"
+msgstr "محدثة:"
+
+#. daily
+msgid "updated_daily"
+msgstr "يوميا"
+
+#. monthly
+msgid "updated_monthly"
+msgstr "شهريا"
+
+#. occasionally
+msgid "updated_occasionally"
+msgstr "موسميا"
+
+#. NO ENGLISH TRANSLATION AVAILABLE YET
+msgid "updated_oneoff"
+msgstr ""
+
+#. weekly
+msgid "updated_weekly"
+msgstr "اسبوعيا"
+
+#. View all
+msgid "view_all"
+msgstr "عرض الكل"
+
+#. View earlier today
+msgid "view_earlier_today"
+msgstr "View earlier today"
+
+#. View episodes
+msgid "view_episodes"
+msgstr "عرض الحلقات "
+
+#. No items: "No more"
+#. One item: "1 more"
+#. 2+ items: "%count% more"
+#: Parameter 1 in source
+msgid "x_more"
+msgid_plural "x_more %count%"
+msgstr[0] "لا اكثر"
+msgstr[1] "1 أكثر"
+msgstr[2] "%count% أكثر"
+
+#. No items: "%count% new"
+#. One item: "1 new"
+#. 2+ items: "%count% new"
+#: Parameter 1 in source
+msgid "x_new"
+msgid_plural "x_new %count%"
+msgstr[0] "%count% جديد"
+msgstr[1] "1 جديد"
+msgstr[2] "%count% جديد"
+
+#. No items: "%1 new and no repeats"
+#. One item: "%1 new and 1 repeat"
+#. 2+ items: "%1 new and %count% repeats"
+#: Parameter 2 in source
+msgid "x_new_and_repeats"
+msgid_plural "x_new_and_repeats %count%"
+msgstr[0] "%1 جديد ولم يعاد"
+msgstr[1] "%1 جديد و 1 معاد"
+msgstr[2] "%1 جديد و %count% معاد"
+
+#. No items: "None total"
+#. One item: "1 total"
+#. 2+ items: "%1 total"
+#: Parameter 2 in source
+msgid "x_total"
+msgid_plural "x_total %count%"
+msgstr[0] "لامجموع "
+msgstr[1] "1 مجموع"
+msgstr[2] "%1 مجموع"
+
+#. You may also like
+msgid "you_might_also_like"
+msgstr "ربما يعجبك أيضا"
+
