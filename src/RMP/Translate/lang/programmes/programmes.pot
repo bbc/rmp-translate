@@ -10,23 +10,27 @@ msgid "all"
 msgstr ""
 
 #. English: "All episodes".
-#. Priority: High
+#. Priority for: Programmes
 msgid "all_episodes"
 msgstr ""
 
 #. English: "All episodes available on BBC iPlayer".
+#. Priority for: Programmes
 msgid "all_episodes_iplayer"
 msgstr ""
 
 #. English: "All episodes available on BBC iPlayer Radio".
+#. Priority for: Programmes
 msgid "all_episodes_iplayer_radio"
 msgstr ""
 
 #. English: "All previous episodes".
+#. Priority for: Programmes
 msgid "all_previous_episodes"
 msgstr ""
 
 #. English: "All upcoming".
+#. Priority for: Programmes
 msgid "all_upcoming"
 msgstr ""
 
@@ -93,6 +97,7 @@ msgid "atoz_trycurrent"
 msgstr ""
 
 #. English: "Audio described".
+#. Priority for: Programmes
 msgid "audio_described"
 msgstr ""
 
@@ -128,6 +133,7 @@ msgstr[1] ""
 msgstr[2] ""
 
 #. English: "Available now".
+#. Priority for: Programmes
 msgid "available_now"
 msgstr ""
 
@@ -136,14 +142,17 @@ msgid "available_on_iplayer"
 msgstr ""
 
 #. English: "On iPlayer".
+#. Priority for: Programmes
 msgid "available_on_iplayer_short"
 msgstr ""
 
 #. English: "This programme will be available shortly after broadcast".
+#. Priority for: Programmes
 msgid "available_shortly"
 msgstr ""
 
 #. English: "Back to top".
+#. Priority for: Schedules
 msgid "back_to_top_of_page"
 msgstr ""
 
@@ -169,6 +178,7 @@ msgstr[1] ""
 msgstr[2] ""
 
 #. English: "There are no broadcasts".
+#. Priority for: Programmes
 msgid "broadcasts_none"
 msgstr ""
 
@@ -177,6 +187,7 @@ msgid "broadcasts_none_date"
 msgstr ""
 
 #. English: "There are no upcoming broadcasts of this programme".
+#. Priority for: Programmes
 msgid "broadcasts_none_upcoming"
 msgstr ""
 
@@ -185,14 +196,17 @@ msgid "broadcasts_none_upcoming_debut"
 msgstr ""
 
 #. English: "Series and episodes available from online suppliers".
+#. Priority for: Programmes
 msgid "buy_desc"
 msgstr ""
 
 #. English: "Buy online".
+#. Priority for: Programmes
 msgid "buy_online"
 msgstr ""
 
 #. English: "Where to buy".
+#. Priority for: Programmes
 msgid "buy_where"
 msgstr ""
 
@@ -201,10 +215,12 @@ msgid "by_date"
 msgstr ""
 
 #. English: "By format".
+#. Priority for: Programmes
 msgid "by_format"
 msgstr ""
 
 #. English: "By genre".
+#. Priority for: Programmes
 msgid "by_genre"
 msgstr ""
 
@@ -226,6 +242,7 @@ msgid "category_title"
 msgstr ""
 
 #. English: "This chapter is from".
+#. Priority for: Programmes
 msgid "chapter_context"
 msgstr ""
 
@@ -239,24 +256,29 @@ msgstr[1] ""
 msgstr[2] ""
 
 #. English: "This clip will be available soon".
+#. Priority for: Programmes
 msgid "clip_availability_future"
 msgstr ""
 
 #. English: "Sorry, this clip is not currently available".
+#. Priority for: Programmes
 msgid "clip_availability_none"
 msgstr ""
 
 #. English: "Sorry, this clip is no longer available".
+#. Priority for: Programmes
 msgid "clip_availability_past"
 msgstr ""
 
 #. English: "This clip is from".
+#. Priority for: Programmes
 msgid "clip_context"
 msgstr ""
 
 #. English (no items): "Clips".
 #. English (one item): "Clip".
 #. English (2+ items): "Clips".
+#. Priority for: Programmes
 msgid "clips"
 msgid_plural "clips %count%"
 msgstr[0] ""
@@ -282,20 +304,24 @@ msgstr[1] ""
 msgstr[2] ""
 
 #. English: "Available on".
+#. Priority for: Programmes
 msgid "colon_available_on"
 msgstr ""
 
 #. English: "From suppliers".
+#. Priority for: Programmes
 msgid "colon_from_suppliers"
 msgstr ""
 
 #. English: "Coming soon".
+#. Priority for: Programmes
 msgid "coming_soon"
 msgstr ""
 
 #. English (no items): "Comments".
 #. English (one item): "Comment".
 #. English (2+ items): "Comments".
+#. Priority for: Programmes
 msgid "comments"
 msgid_plural "comments %count%"
 msgstr[0] ""
@@ -342,6 +368,7 @@ msgstr ""
 #. English (no items): "Credits".
 #. English (one item): "Credit".
 #. English (2+ items): "Credits".
+#. Priority for: Programmes
 msgid "credits"
 msgid_plural "credits %count%"
 msgstr[0] ""
@@ -360,6 +387,7 @@ msgstr ""
 #. English (no items): "Downloads".
 #. English (one item): "Download".
 #. English (2+ items): "Downloads".
+#. Priority for: Programmes
 msgid "downloads"
 msgid_plural "downloads %count%"
 msgstr[0] ""
@@ -371,22 +399,27 @@ msgid "duration"
 msgstr ""
 
 #. English: "This episode will be available soon".
+#. Priority for: Programmes
 msgid "episode_availability_future"
 msgstr ""
 
 #. English: "Sorry, this episode is not currently available".
+#. Priority for: Programmes
 msgid "episode_availability_none"
 msgstr ""
 
 #. English: "Sorry, this episode is not currently available on BBC iPlayer Radio".
+#. Priority for: Programmes
 msgid "episode_availability_none_radio"
 msgstr ""
 
 #. English: "Sorry, this episode is no longer available".
+#. Priority for: Programmes
 msgid "episode_availability_past"
 msgstr ""
 
 #. English: "Sorry, this episode is no longer available on BBC iPlayer Radio".
+#. Priority for: Programmes
 msgid "episode_availability_past_radio"
 msgstr ""
 
@@ -395,6 +428,7 @@ msgid "episode_guide"
 msgstr ""
 
 #. English: "Episode %1 of %2".
+#. Priority for: Programmes
 msgid "episode_number"
 msgstr ""
 
@@ -410,6 +444,7 @@ msgstr[2] ""
 #. English (no items): "Episodes".
 #. English (one item): "Episode".
 #. English (2+ items): "Episodes".
+#. Priority for: Programmes
 msgid "episodes"
 msgid_plural "episodes %count%"
 msgstr[0] ""
@@ -429,6 +464,7 @@ msgid "episodes_none"
 msgstr ""
 
 #. English: "Sorry, we couldn't access this information. Please refresh to try again.".
+#. Priority for: Programmes
 msgid "fault"
 msgstr ""
 
@@ -449,6 +485,7 @@ msgid "filter_by"
 msgstr ""
 
 #. English: "You are at the first episode".
+#. Priority for: Programmes
 msgid "first_episode"
 msgstr ""
 
@@ -509,6 +546,7 @@ msgid "hide_available_episodes"
 msgstr ""
 
 #. English: "Home".
+#. Priority for: Programmes
 msgid "home"
 msgstr ""
 
@@ -517,10 +555,13 @@ msgid "iplayer_listen_from_start"
 msgstr ""
 
 #. English: "Listen live".
+#. Priority for: Programmes
+#. Priority for: Schedules
 msgid "iplayer_listen_live"
 msgstr ""
 
 #. English: "Listen now".
+#. Priority for: Programmes
 msgid "iplayer_listen_now"
 msgstr ""
 
@@ -595,6 +636,7 @@ msgid "iplayer_play_from_start"
 msgstr ""
 
 #. English: "Play live".
+#. Priority for: Schedules
 msgid "iplayer_play_live"
 msgstr ""
 
@@ -701,6 +743,7 @@ msgstr ""
 #. English (no items): "0 mins".
 #. English (one item): "1 min".
 #. English (2+ items): "%count% mins".
+#. Priority for: Programmes
 msgid "iplayer_time_mins"
 msgid_plural "iplayer_time_mins %count%"
 msgstr[0] ""
@@ -757,14 +800,18 @@ msgid "iplayer_time_years"
 msgstr ""
 
 #. English: "Watch from start".
+#. Priority for: Programmes
 msgid "iplayer_watch_from_start"
 msgstr ""
 
 #. English: "Watch live".
+#. Priority for: Programmes
+#. Priority for: Schedules
 msgid "iplayer_watch_live"
 msgstr ""
 
 #. English: "Watch now".
+#. Priority for: Programmes
 msgid "iplayer_watch_now"
 msgstr ""
 
@@ -844,6 +891,7 @@ msgstr[1] ""
 msgstr[2] ""
 
 #. English: "You must enable JavaScript to play content".
+#. Priority for: Programmes
 msgid "javascript_required"
 msgstr ""
 
@@ -876,10 +924,12 @@ msgid "last"
 msgstr ""
 
 #. English: "You are at the last episode".
+#. Priority for: Programmes
 msgid "last_episode"
 msgstr ""
 
 #. English: "Last on".
+#. Priority for: Programmes
 msgid "last_on"
 msgstr ""
 
@@ -888,10 +938,12 @@ msgid "latest"
 msgstr ""
 
 #. English: "Listen in pop-out player".
+#. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr ""
 
 #. English: "Live".
+#. Priority for: Programmes
 msgid "live"
 msgstr ""
 
@@ -908,6 +960,7 @@ msgid "local_radio"
 msgstr ""
 
 #. English: "More".
+#. Priority for: Programmes
 msgid "more"
 msgstr ""
 
@@ -916,6 +969,7 @@ msgid "more_clips_from"
 msgstr ""
 
 #. English: "More episodes".
+#. Priority for: Programmes
 msgid "more_episodes"
 msgstr ""
 
@@ -924,10 +978,12 @@ msgid "more_from_bbc"
 msgstr ""
 
 #. English: "More on Radio".
+#. Priority for: Programmes
 msgid "more_on_radio"
 msgstr ""
 
 #. English: "More on TV".
+#. Priority for: Programmes
 msgid "more_on_tv"
 msgstr ""
 
@@ -948,14 +1004,17 @@ msgid "nations_radio"
 msgstr ""
 
 #. English: "New series".
+#. Priority for: Programmes
 msgid "new_series"
 msgstr ""
 
 #. English: "Next".
+#. Priority for: Programmes
 msgid "next"
 msgstr ""
 
 #. English: "Next on".
+#. Priority for: Programmes
 msgid "next_on"
 msgstr ""
 
@@ -968,32 +1027,41 @@ msgid "now_and_next"
 msgstr ""
 
 #. English: "Off air".
+#. Priority for: Programmes
 msgid "off_air"
 msgstr ""
 
 #. English: "On air".
+#. Priority for: Programmes
+#. Priority for: Schedules
 msgid "on_air"
 msgstr ""
 
 #. English: "On demand".
+#. Priority for: Programmes
 msgid "on_demand"
 msgstr ""
 
 #. English: "On now".
+#. Priority for: Programmes
+#. Priority for: Schedules
 msgid "on_now"
 msgstr ""
 
 #. English: "On radio".
+#. Priority for: Programmes
 msgid "on_radio"
 msgstr ""
 
 #. English: "On TV".
+#. Priority for: Programmes
 msgid "on_tv"
 msgstr ""
 
 #. English (no items): "Outlets".
 #. English (one item): "Outlet".
 #. English (2+ items): "Outlets".
+#. Priority for: Schedules
 msgid "outlets"
 msgid_plural "outlets %count%"
 msgstr[0] ""
@@ -1031,6 +1099,7 @@ msgstr ""
 #. English (no items): "Podcasts".
 #. English (one item): "Podcast".
 #. English (2+ items): "Podcasts".
+#. Priority for: Programmes
 msgid "podcasts"
 msgid_plural "podcasts %count%"
 msgstr[0] ""
@@ -1038,6 +1107,7 @@ msgstr[1] ""
 msgstr[2] ""
 
 #. English: "Episodes to download".
+#. Priority for: Programmes
 msgid "podcasts_desc"
 msgstr ""
 
@@ -1050,6 +1120,7 @@ msgid "podcasts_suggestions"
 msgstr ""
 
 #. English: "Previous".
+#. Priority for: Programmes
 msgid "previous"
 msgstr ""
 
@@ -1079,18 +1150,22 @@ msgid "profiles_none"
 msgstr ""
 
 #. English: "This programme is not currently available on BBC iPlayer".
+#. Priority for: Programmes
 msgid "programme_availability_none"
 msgstr ""
 
 #. English: "This programme is not currently available on BBC iPlayer Radio".
+#. Priority for: Programmes
 msgid "programme_availability_none_radio"
 msgstr ""
 
 #. English: "This programme is no longer available on BBC iPlayer".
+#. Priority for: Programmes
 msgid "programme_availability_past"
 msgstr ""
 
 #. English: "This programme is no longer available on BBC iPlayer Radio".
+#. Priority for: Programmes
 msgid "programme_availability_past_radio"
 msgstr ""
 
@@ -1151,6 +1226,7 @@ msgstr ""
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".
+#. Priority for: Programmes
 msgid "related_links"
 msgid_plural "related_links %count%"
 msgstr[0] ""
@@ -1158,6 +1234,7 @@ msgstr[1] ""
 msgstr[2] ""
 
 #. English: "Release date: %1".
+#. Priority for: Programmes
 msgid "release_date"
 msgstr ""
 
@@ -1175,20 +1252,24 @@ msgstr[1] ""
 msgstr[2] ""
 
 #. English: "Schedule begins on %1".
+#. Priority for: Schedules
 msgid "schedule_begins_on"
 msgstr ""
 
 #. English: "Schedule ended on %1".
+#. Priority for: Schedules
 msgid "schedule_ended_on"
 msgstr ""
 
 #. English: "%1 schedule".
+#. Priority for: Schedules
 msgid "schedule_title"
 msgstr ""
 
 #. English (no items): "Schedules".
 #. English (one item): "Schedule".
 #. English (2+ items): "Schedules".
+#. Priority for: Schedules
 msgid "schedules"
 msgid_plural "schedules %count%"
 msgstr[0] ""
@@ -1200,10 +1281,12 @@ msgid "schedules_boxing_day"
 msgstr ""
 
 #. English: "Calendar".
+#. Priority for: Schedules
 msgid "schedules_calendar"
 msgstr ""
 
 #. English: "Please choose a day from the calendar".
+#. Priority for: Schedules
 msgid "schedules_calendar_note"
 msgstr ""
 
@@ -1232,22 +1315,27 @@ msgid "schedules_no_result"
 msgstr ""
 
 #. English: "Afternoon".
+#. Priority for: Schedules
 msgid "schedules_period_afternoon"
 msgstr ""
 
 #. English: "Early".
+#. Priority for: Schedules
 msgid "schedules_period_early"
 msgstr ""
 
 #. English: "Evening".
+#. Priority for: Schedules
 msgid "schedules_period_evening"
 msgstr ""
 
 #. English: "Late".
+#. Priority for: Schedules
 msgid "schedules_period_late"
 msgstr ""
 
 #. English: "Morning".
+#. Priority for: Schedules
 msgid "schedules_period_morning"
 msgstr ""
 
@@ -1264,30 +1352,37 @@ msgid "schedules_regional_changeto"
 msgstr ""
 
 #. English: "Please choose a region for the appropriate schedule".
+#. Priority for: Schedules
 msgid "schedules_regional_note"
 msgstr ""
 
 #. English: "Please choose the appropriate schedule".
+#. Priority for: Schedules
 msgid "schedules_regional_note_radio"
 msgstr ""
 
 #. English: "Regional variations for %1".
+#. Priority for: Schedules
 msgid "schedules_regional_title"
 msgstr ""
 
 #. English: "Schedule variations for %1".
+#. Priority for: Schedules
 msgid "schedules_regional_title_radio"
 msgstr ""
 
 #. English: "This week".
+#. Priority for: Schedules
 msgid "schedules_this_week"
 msgstr ""
 
 #. English: "This year".
+#. Priority for: Schedules
 msgid "schedules_this_year"
 msgstr ""
 
 #. English: "Today".
+#. Priority for: Schedules
 msgid "schedules_today"
 msgstr ""
 
@@ -1296,22 +1391,27 @@ msgid "schedules_tomorrow"
 msgstr ""
 
 #. English: "not ideal for small screens".
+#. Priority for: Schedules
 msgid "schedules_week_disclaimer"
 msgstr ""
 
 #. English: "Show full week".
+#. Priority for: Schedules
 msgid "schedules_week_show"
 msgstr ""
 
 #. English: "Yesterday".
+#. Priority for: Schedules
 msgid "schedules_yesterday"
 msgstr ""
 
 #. English: "See all %1 episodes available on BBC iPlayer".
+#. Priority for: Programmes
 msgid "see_all_available_from"
 msgstr ""
 
 #. English: "See all %1 episodes available".
+#. Priority for: Programmes
 msgid "see_all_available_from_radio"
 msgstr ""
 
@@ -1328,6 +1428,7 @@ msgid "see_all_credits_for"
 msgstr ""
 
 #. English: "See all episodes from %1".
+#. Priority for: Programmes
 msgid "see_all_episodes_from"
 msgstr ""
 
@@ -1356,10 +1457,12 @@ msgid "see_all_podcasts_from"
 msgstr ""
 
 #. English: "See all previous episodes from %1".
+#. Priority for: Programmes
 msgid "see_all_previous_episodes_from"
 msgstr ""
 
 #. English: "See all upcoming broadcasts of %1".
+#. Priority for: Programmes
 msgid "see_all_upcoming_of"
 msgstr ""
 
@@ -1394,14 +1497,17 @@ msgid "show_more"
 msgstr ""
 
 #. English: "Signed".
+#. Priority for: Programmes
 msgid "signed"
 msgstr ""
 
 #. English: "Similar programmes".
+#. Priority for: Programmes
 msgid "similar_programmes"
 msgstr ""
 
 #. English: "Skip to".
+#. Priority for: Schedules
 msgid "skip_to"
 msgstr ""
 
@@ -1528,6 +1634,7 @@ msgstr ""
 #. English (no items): "No more".
 #. English (one item): "1 more".
 #. English (2+ items): "%count% more".
+#. Priority for: Programmes
 msgid "x_more"
 msgid_plural "x_more %count%"
 msgstr[0] ""
@@ -1541,6 +1648,7 @@ msgstr[2] ""
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d .
 #. Type: Body text
 
+#. Priority for: Programmes
 msgid "x_new"
 msgid_plural "x_new %count%"
 msgstr[0] ""
@@ -1550,6 +1658,7 @@ msgstr[2] ""
 #. English (no items): "%1 new and no repeats".
 #. English (one item): "%1 new and 1 repeat".
 #. English (2+ items): "%1 new and %count% repeats".
+#. Priority for: Programmes
 msgid "x_new_and_repeats"
 msgid_plural "x_new_and_repeats %count%"
 msgstr[0] ""
@@ -1559,6 +1668,7 @@ msgstr[2] ""
 #. English (no items): "None total".
 #. English (one item): "1 total".
 #. English (2+ items): "%1 total".
+#. Priority for: Programmes
 msgid "x_total"
 msgid_plural "x_total %count%"
 msgstr[0] ""

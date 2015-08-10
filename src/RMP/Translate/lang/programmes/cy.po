@@ -12,23 +12,27 @@ msgid "all"
 msgstr "Pob un"
 
 #. English: "All episodes".
-#. Priority: High
+#. Priority for: Programmes
 msgid "all_episodes"
 msgstr "Pob pennod"
 
 #. English: "All episodes available on BBC iPlayer".
+#. Priority for: Programmes
 msgid "all_episodes_iplayer"
 msgstr "Pob pennod sydd ar gael ar BBC iPlayer"
 
 #. English: "All episodes available on BBC iPlayer Radio".
+#. Priority for: Programmes
 msgid "all_episodes_iplayer_radio"
 msgstr "Pob pennod sydd ar gael ar BBC iPlayer Radio"
 
 #. English: "All previous episodes".
+#. Priority for: Programmes
 msgid "all_previous_episodes"
 msgstr "Pob pennod blaenorol"
 
 #. English: "All upcoming".
+#. Priority for: Programmes
 msgid "all_upcoming"
 msgstr "Popeth i ddod"
 
@@ -96,6 +100,7 @@ msgid "atoz_trycurrent"
 msgstr "Triwch %1y diweddaraf%2"
 
 #. English: "Audio described".
+#. Priority for: Programmes
 msgid "audio_described"
 msgstr "Sain-Ddisgrifio"
 
@@ -130,6 +135,7 @@ msgstr[1] "Mae yna un eitem ar gael"
 msgstr[2] "Mae yna %count% eitem ar gael"
 
 #. English: "Available now".
+#. Priority for: Programmes
 msgid "available_now"
 msgstr "Ar gael nawr"
 
@@ -138,14 +144,17 @@ msgid "available_on_iplayer"
 msgstr "Ar gael ar BBC iPlayer"
 
 #. English: "On iPlayer".
+#. Priority for: Programmes
 msgid "available_on_iplayer_short"
 msgstr "Ar iPlayer"
 
 #. English: "This programme will be available shortly after broadcast".
+#. Priority for: Programmes
 msgid "available_shortly"
 msgstr "Bydd y rhaglen yma ar gael yn fuan ar ôl cael ei darlledu"
 
 #. English: "Back to top".
+#. Priority for: Schedules
 msgid "back_to_top_of_page"
 msgstr "Yn ôl i’r brig"
 
@@ -171,6 +180,7 @@ msgstr[1] "Darllediad"
 msgstr[2] "Darllediadau"
 
 #. English: "There are no broadcasts".
+#. Priority for: Programmes
 msgid "broadcasts_none"
 msgstr "Dim darllediadau"
 
@@ -179,6 +189,7 @@ msgid "broadcasts_none_date"
 msgstr "Dim darllediadau ar gyfer y mis a’r flwyddyn a ddewiswyd"
 
 #. English: "There are no upcoming broadcasts of this programme".
+#. Priority for: Programmes
 msgid "broadcasts_none_upcoming"
 msgstr "Dim darllediadau i ddod"
 
@@ -187,14 +198,17 @@ msgid "broadcasts_none_upcoming_debut"
 msgstr "Dim darllediadau cyntaf i ddod"
 
 #. English: "Series and episodes available from online suppliers".
+#. Priority for: Programmes
 msgid "buy_desc"
 msgstr "Cyfresi a phenodau sydd ar gael gan werthwyr ar-lein"
 
 #. English: "Buy online".
+#. Priority for: Programmes
 msgid "buy_online"
 msgstr "Prynu ar lein"
 
 #. English: "Where to buy".
+#. Priority for: Programmes
 msgid "buy_where"
 msgstr "Ble i brynu"
 
@@ -203,10 +217,12 @@ msgid "by_date"
 msgstr "Yn ôl dyddiad"
 
 #. English: "By format".
+#. Priority for: Programmes
 msgid "by_format"
 msgstr "Yn ôl fformat"
 
 #. English: "By genre".
+#. Priority for: Programmes
 msgid "by_genre"
 msgstr "Yn ôl genre"
 
@@ -228,6 +244,7 @@ msgid "category_title"
 msgstr "Rhaglenni yng nghategori '%1"
 
 #. English: "This chapter is from".
+#. Priority for: Programmes
 msgid "chapter_context"
 msgstr "Mae’r bennod yma o"
 
@@ -241,24 +258,29 @@ msgstr[1] "Pennod"
 msgstr[2] "Penodau"
 
 #. English: "This clip will be available soon".
+#. Priority for: Programmes
 msgid "clip_availability_future"
 msgstr "Bydd y clip yma ar gael yn fuan"
 
 #. English: "Sorry, this clip is not currently available".
+#. Priority for: Programmes
 msgid "clip_availability_none"
 msgstr "Mae’n ddrwg gennym, ‘dyw’r clip yma ddim ar gael ar hyn o bryd"
 
 #. English: "Sorry, this clip is no longer available".
+#. Priority for: Programmes
 msgid "clip_availability_past"
 msgstr "Mae’n ddrwg gennym, ‘dyw’r clip yma ddim ar gael bellach"
 
 #. English: "This clip is from".
+#. Priority for: Programmes
 msgid "clip_context"
 msgstr "Daw'r clip hwn o"
 
 #. English (no items): "Clips".
 #. English (one item): "Clip".
 #. English (2+ items): "Clips".
+#. Priority for: Programmes
 msgid "clips"
 msgid_plural "clips %count%"
 msgstr[0] "Clipiau"
@@ -284,20 +306,24 @@ msgstr[1] ""
 msgstr[2] ""
 
 #. English: "Available on".
+#. Priority for: Programmes
 msgid "colon_available_on"
 msgstr "Ar gael ar"
 
 #. English: "From suppliers".
+#. Priority for: Programmes
 msgid "colon_from_suppliers"
 msgstr "Gan werthwyr"
 
 #. English: "Coming soon".
+#. Priority for: Programmes
 msgid "coming_soon"
 msgstr "Yn dod yn fuan"
 
 #. English (no items): "Comments".
 #. English (one item): "Comment".
 #. English (2+ items): "Comments".
+#. Priority for: Programmes
 msgid "comments"
 msgid_plural "comments %count%"
 msgstr[0] ""
@@ -346,6 +372,7 @@ msgstr "Cysylltu â ni"
 #. English (no items): "Credits".
 #. English (one item): "Credit".
 #. English (2+ items): "Credits".
+#. Priority for: Programmes
 msgid "credits"
 msgid_plural "credits %count%"
 msgstr[0] "Cydnabyddiaeth "
@@ -364,6 +391,7 @@ msgstr "%1au"
 #. English (no items): "Downloads".
 #. English (one item): "Download".
 #. English (2+ items): "Downloads".
+#. Priority for: Programmes
 msgid "downloads"
 msgid_plural "downloads %count%"
 msgstr[0] "Lawrlwythiad"
@@ -375,24 +403,29 @@ msgid "duration"
 msgstr "Hyd: %1"
 
 #. English: "This episode will be available soon".
+#. Priority for: Programmes
 msgid "episode_availability_future"
 msgstr "Bydd y bennod yma ar gael yn fuan"
 
 #. English: "Sorry, this episode is not currently available".
+#. Priority for: Programmes
 msgid "episode_availability_none"
 msgstr "Mae’n ddrwg gennym ‘dyw’r bennod yma ddim ar gael ar hyn o bryd"
 
 #. English: "Sorry, this episode is not currently available on BBC iPlayer Radio".
+#. Priority for: Programmes
 msgid "episode_availability_none_radio"
 msgstr ""
 "Mae’n ddrwg gennym ‘dyw’r bennod yma ddim ar gael ar BBC iPlayer Radio ar "
 "hyn o bryd"
 
 #. English: "Sorry, this episode is no longer available".
+#. Priority for: Programmes
 msgid "episode_availability_past"
 msgstr "Mae’n ddrwg gennym, ‘dyw’r bennod yma ddim ar gael bellach"
 
 #. English: "Sorry, this episode is no longer available on BBC iPlayer Radio".
+#. Priority for: Programmes
 msgid "episode_availability_past_radio"
 msgstr ""
 "Mae’n ddrwg gennym, ‘dyw’r bennod yma ddim ar gael ar BBC iPlayer Radio "
@@ -403,6 +436,7 @@ msgid "episode_guide"
 msgstr "Canllaw penodau"
 
 #. English: "Episode %1 of %2".
+#. Priority for: Programmes
 msgid "episode_number"
 msgstr "Pennod %1 o %2"
 
@@ -418,6 +452,7 @@ msgstr[2] "%count% o benodau ar gael ar BBC iPlayer"
 #. English (no items): "Episodes".
 #. English (one item): "Episode".
 #. English (2+ items): "Episodes".
+#. Priority for: Programmes
 msgid "episodes"
 msgid_plural "episodes %count%"
 msgstr[0] "Penodau"
@@ -437,6 +472,7 @@ msgid "episodes_none"
 msgstr "Does dim penodau"
 
 #. English: "Sorry, we couldn't access this information. Please refresh to try again.".
+#. Priority for: Programmes
 msgid "fault"
 msgstr ""
 
@@ -457,6 +493,7 @@ msgid "filter_by"
 msgstr "Hidlo yn ôl"
 
 #. English: "You are at the first episode".
+#. Priority for: Programmes
 msgid "first_episode"
 msgstr "Dyma'r rhifyn cyntaf"
 
@@ -517,6 +554,7 @@ msgid "hide_available_episodes"
 msgstr "Cuddio’r penodau sydd ar gael"
 
 #. English: "Home".
+#. Priority for: Programmes
 msgid "home"
 msgstr "Hafan"
 
@@ -525,10 +563,13 @@ msgid "iplayer_listen_from_start"
 msgstr "Gwrando o’r dechrau"
 
 #. English: "Listen live".
+#. Priority for: Programmes
+#. Priority for: Schedules
 msgid "iplayer_listen_live"
 msgstr "Gwrando’n fyw"
 
 #. English: "Listen now".
+#. Priority for: Programmes
 msgid "iplayer_listen_now"
 msgstr "Gwrando nawr"
 
@@ -603,6 +644,7 @@ msgid "iplayer_play_from_start"
 msgstr "Chwarae o’r dechrau"
 
 #. English: "Play live".
+#. Priority for: Schedules
 msgid "iplayer_play_live"
 msgstr "Chwarae’n fyw"
 
@@ -709,6 +751,7 @@ msgstr "am gyfnod amhenodol"
 #. English (no items): "0 mins".
 #. English (one item): "1 min".
 #. English (2+ items): "%count% mins".
+#. Priority for: Programmes
 msgid "iplayer_time_mins"
 msgid_plural "iplayer_time_mins %count%"
 msgstr[0] "0 munud"
@@ -765,14 +808,18 @@ msgid "iplayer_time_years"
 msgstr "Dros flwyddyn"
 
 #. English: "Watch from start".
+#. Priority for: Programmes
 msgid "iplayer_watch_from_start"
 msgstr "Gwylio o’r dechrau"
 
 #. English: "Watch live".
+#. Priority for: Programmes
+#. Priority for: Schedules
 msgid "iplayer_watch_live"
 msgstr "Gwylio’n fyw"
 
 #. English: "Watch now".
+#. Priority for: Programmes
 msgid "iplayer_watch_now"
 msgstr "Gwylio nawr"
 
@@ -852,6 +899,7 @@ msgstr[1] "Mae yna un eitem"
 msgstr[2] "Mae yna %count% eitem ar gael"
 
 #. English: "You must enable JavaScript to play content".
+#. Priority for: Programmes
 msgid "javascript_required"
 msgstr "Rhaid i chi alluogi JavaScript er mwyn chwarae’r cynnwys"
 
@@ -884,10 +932,12 @@ msgid "last"
 msgstr "Diwethaf"
 
 #. English: "You are at the last episode".
+#. Priority for: Programmes
 msgid "last_episode"
 msgstr "Dyma'r rhifyn diwethaf"
 
 #. English: "Last on".
+#. Priority for: Programmes
 msgid "last_on"
 msgstr "Darllediad diwethaf"
 
@@ -896,10 +946,12 @@ msgid "latest"
 msgstr "Diweddaraf"
 
 #. English: "Listen in pop-out player".
+#. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr "Chwaraewr mewn ffenest fach"
 
 #. English: "Live".
+#. Priority for: Programmes
 msgid "live"
 msgstr "Yn fyw"
 
@@ -916,6 +968,7 @@ msgid "local_radio"
 msgstr "Radio Lleol"
 
 #. English: "More".
+#. Priority for: Programmes
 msgid "more"
 msgstr "Mwy"
 
@@ -924,6 +977,7 @@ msgid "more_clips_from"
 msgstr "Mwy o glipiau %1"
 
 #. English: "More episodes".
+#. Priority for: Programmes
 msgid "more_episodes"
 msgstr "Rhagor o benodau"
 
@@ -932,10 +986,12 @@ msgid "more_from_bbc"
 msgstr "Mwy o ganlyniadau ar gyfer %1 ar draws y BBC."
 
 #. English: "More on Radio".
+#. Priority for: Programmes
 msgid "more_on_radio"
 msgstr "Mwy ar y Radio"
 
 #. English: "More on TV".
+#. Priority for: Programmes
 msgid "more_on_tv"
 msgstr "Mwy ar y Teledu"
 
@@ -956,14 +1012,17 @@ msgid "nations_radio"
 msgstr "Radio’r Cenhedloedd"
 
 #. English: "New series".
+#. Priority for: Programmes
 msgid "new_series"
 msgstr "cyfres newydd"
 
 #. English: "Next".
+#. Priority for: Programmes
 msgid "next"
 msgstr "Nesaf"
 
 #. English: "Next on".
+#. Priority for: Programmes
 msgid "next_on"
 msgstr "Nesaf"
 
@@ -976,32 +1035,41 @@ msgid "now_and_next"
 msgstr "Nawr a nesaf"
 
 #. English: "Off air".
+#. Priority for: Programmes
 msgid "off_air"
 msgstr "Oddi ar yr awyr"
 
 #. English: "On air".
+#. Priority for: Programmes
+#. Priority for: Schedules
 msgid "on_air"
 msgstr "Ar yr Awyr"
 
 #. English: "On demand".
+#. Priority for: Programmes
 msgid "on_demand"
 msgstr "Ar gais"
 
 #. English: "On now".
+#. Priority for: Programmes
+#. Priority for: Schedules
 msgid "on_now"
 msgstr "Yn Fyw"
 
 #. English: "On radio".
+#. Priority for: Programmes
 msgid "on_radio"
 msgstr "Ar y Radio"
 
 #. English: "On TV".
+#. Priority for: Programmes
 msgid "on_tv"
 msgstr "Ar y Teledu"
 
 #. English (no items): "Outlets".
 #. English (one item): "Outlet".
 #. English (2+ items): "Outlets".
+#. Priority for: Schedules
 msgid "outlets"
 msgid_plural "outlets %count%"
 msgstr[0] "Sianeli/Gorsafoedd"
@@ -1039,6 +1107,7 @@ msgstr ""
 #. English (no items): "Podcasts".
 #. English (one item): "Podcast".
 #. English (2+ items): "Podcasts".
+#. Priority for: Programmes
 msgid "podcasts"
 msgid_plural "podcasts %count%"
 msgstr[0] "Podlediadau"
@@ -1046,6 +1115,7 @@ msgstr[1] "Podlediad"
 msgstr[2] "Podlediadau"
 
 #. English: "Episodes to download".
+#. Priority for: Programmes
 msgid "podcasts_desc"
 msgstr "Penodau i’w lawrlwytho"
 
@@ -1058,6 +1128,7 @@ msgid "podcasts_suggestions"
 msgstr ""
 
 #. English: "Previous".
+#. Priority for: Programmes
 msgid "previous"
 msgstr "Blaenorol"
 
@@ -1087,18 +1158,22 @@ msgid "profiles_none"
 msgstr "Mae’n ddrwg gennym ond does dim proffil ar gyfer %1"
 
 #. English: "This programme is not currently available on BBC iPlayer".
+#. Priority for: Programmes
 msgid "programme_availability_none"
 msgstr "’Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer ar hyn o bryd"
 
 #. English: "This programme is not currently available on BBC iPlayer Radio".
+#. Priority for: Programmes
 msgid "programme_availability_none_radio"
 msgstr "Nid yw’r rhaglen yma ar gael ar BBC iPlayer Radio ar hyn o bryd"
 
 #. English: "This programme is no longer available on BBC iPlayer".
+#. Priority for: Programmes
 msgid "programme_availability_past"
 msgstr "’Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer bellach"
 
 #. English: "This programme is no longer available on BBC iPlayer Radio".
+#. Priority for: Programmes
 msgid "programme_availability_past_radio"
 msgstr "T‘Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer Radio bellach"
 
@@ -1163,6 +1238,7 @@ msgstr "Mae’n ddrwg gennym, does dim argymhellion ar gyfer y rhaglen yma."
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".
+#. Priority for: Programmes
 msgid "related_links"
 msgid_plural "related_links %count%"
 msgstr[0] "Dolenni Perthnasol"
@@ -1170,6 +1246,7 @@ msgstr[1] "Dolen Perthnasol"
 msgstr[2] "Dolenni Perthnasol"
 
 #. English: "Release date: %1".
+#. Priority for: Programmes
 msgid "release_date"
 msgstr "Dyddiad Rhyddhau: %1"
 
@@ -1187,20 +1264,24 @@ msgstr[1] "Ailddarllediad"
 msgstr[2] "Ailddarllediad"
 
 #. English: "Schedule begins on %1".
+#. Priority for: Schedules
 msgid "schedule_begins_on"
 msgstr "Amserlen yn dechrau ar %1"
 
 #. English: "Schedule ended on %1".
+#. Priority for: Schedules
 msgid "schedule_ended_on"
 msgstr "Amserlen wedi gorffen ar %1"
 
 #. English: "%1 schedule".
+#. Priority for: Schedules
 msgid "schedule_title"
 msgstr "%1 amserlen"
 
 #. English (no items): "Schedules".
 #. English (one item): "Schedule".
 #. English (2+ items): "Schedules".
+#. Priority for: Schedules
 msgid "schedules"
 msgid_plural "schedules %count%"
 msgstr[0] "Amserlen"
@@ -1212,10 +1293,12 @@ msgid "schedules_boxing_day"
 msgstr "Gŵyl San Steffan"
 
 #. English: "Calendar".
+#. Priority for: Schedules
 msgid "schedules_calendar"
 msgstr "Calendr"
 
 #. English: "Please choose a day from the calendar".
+#. Priority for: Schedules
 msgid "schedules_calendar_note"
 msgstr "Dewiswch ddiwrnod o'r calendr"
 
@@ -1244,22 +1327,27 @@ msgid "schedules_no_result"
 msgstr "Nid oes amserlen ar gyfer heddiw. Dewiswch ddiwrnod arall o'r calendr"
 
 #. English: "Afternoon".
+#. Priority for: Schedules
 msgid "schedules_period_afternoon"
 msgstr "Prynhawn"
 
 #. English: "Early".
+#. Priority for: Schedules
 msgid "schedules_period_early"
 msgstr "Cynnar"
 
 #. English: "Evening".
+#. Priority for: Schedules
 msgid "schedules_period_evening"
 msgstr "Hwyr"
 
 #. English: "Late".
+#. Priority for: Schedules
 msgid "schedules_period_late"
 msgstr "Nos"
 
 #. English: "Morning".
+#. Priority for: Schedules
 msgid "schedules_period_morning"
 msgstr "Bore"
 
@@ -1276,30 +1364,37 @@ msgid "schedules_regional_changeto"
 msgstr "Newid i %1"
 
 #. English: "Please choose a region for the appropriate schedule".
+#. Priority for: Schedules
 msgid "schedules_regional_note"
 msgstr "Dewiswch ranbarth ar gyfer yr amserlen berthnasol"
 
 #. English: "Please choose the appropriate schedule".
+#. Priority for: Schedules
 msgid "schedules_regional_note_radio"
 msgstr "Dewiswch yr amserlen berthnasol"
 
 #. English: "Regional variations for %1".
+#. Priority for: Schedules
 msgid "schedules_regional_title"
 msgstr "Amrywiadau rhanbarthol ar gyfer %1"
 
 #. English: "Schedule variations for %1".
+#. Priority for: Schedules
 msgid "schedules_regional_title_radio"
 msgstr "Amrywiadau i’r amserlen ar gyfer %1"
 
 #. English: "This week".
+#. Priority for: Schedules
 msgid "schedules_this_week"
 msgstr "Yr wythnos hon"
 
 #. English: "This year".
+#. Priority for: Schedules
 msgid "schedules_this_year"
 msgstr "Eleni"
 
 #. English: "Today".
+#. Priority for: Schedules
 msgid "schedules_today"
 msgstr "Heddiw"
 
@@ -1308,22 +1403,27 @@ msgid "schedules_tomorrow"
 msgstr "Yfory"
 
 #. English: "not ideal for small screens".
+#. Priority for: Schedules
 msgid "schedules_week_disclaimer"
 msgstr "Ddim yn addas ar gyfer sgriniau bach"
 
 #. English: "Show full week".
+#. Priority for: Schedules
 msgid "schedules_week_show"
 msgstr "Dangos wythnos lawn"
 
 #. English: "Yesterday".
+#. Priority for: Schedules
 msgid "schedules_yesterday"
 msgstr "Ddoe"
 
 #. English: "See all %1 episodes available on BBC iPlayer".
+#. Priority for: Programmes
 msgid "see_all_available_from"
 msgstr "Gweld holl benodau %1 sydd ar gael ar BBC iPlayer"
 
 #. English: "See all %1 episodes available".
+#. Priority for: Programmes
 msgid "see_all_available_from_radio"
 msgstr "Gweld holl benodau %1 sydd ar gael ar BBC iPlayer Radio"
 
@@ -1340,6 +1440,7 @@ msgid "see_all_credits_for"
 msgstr "Gweld yr holl cydnabyddiaeth ar gyfer %1"
 
 #. English: "See all episodes from %1".
+#. Priority for: Programmes
 msgid "see_all_episodes_from"
 msgstr "Gweld holl benodau %1"
 
@@ -1368,10 +1469,12 @@ msgid "see_all_podcasts_from"
 msgstr ""
 
 #. English: "See all previous episodes from %1".
+#. Priority for: Programmes
 msgid "see_all_previous_episodes_from"
 msgstr "Gweld cyn benodau %1"
 
 #. English: "See all upcoming broadcasts of %1".
+#. Priority for: Programmes
 msgid "see_all_upcoming_of"
 msgstr "Gweld holl darllediadau o %1 sydd i ddod"
 
@@ -1407,14 +1510,17 @@ msgid "show_more"
 msgstr "Mwy"
 
 #. English: "Signed".
+#. Priority for: Programmes
 msgid "signed"
 msgstr "Iaith Arwyddion"
 
 #. English: "Similar programmes".
+#. Priority for: Programmes
 msgid "similar_programmes"
 msgstr "Rhaglenni tebyg"
 
 #. English: "Skip to".
+#. Priority for: Schedules
 msgid "skip_to"
 msgstr "Neidio i"
 
@@ -1546,6 +1652,7 @@ msgstr "Gweld penodau"
 #. English (no items): "No more".
 #. English (one item): "1 more".
 #. English (2+ items): "%count% more".
+#. Priority for: Programmes
 msgid "x_more"
 msgid_plural "x_more %count%"
 msgstr[0] "%count% mwy"
@@ -1558,6 +1665,7 @@ msgstr[2] "%count% mwy"
 #. %count% is a variable, which may contain the value: "3".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d .
 #. Type: Body text
+#. Priority for: Programmes
 msgid "x_new"
 msgid_plural "x_new %count%"
 msgstr[0] "%count% newydd"
@@ -1567,6 +1675,7 @@ msgstr[2] "%count% newydd"
 #. English (no items): "%1 new and no repeats".
 #. English (one item): "%1 new and 1 repeat".
 #. English (2+ items): "%1 new and %count% repeats".
+#. Priority for: Programmes
 msgid "x_new_and_repeats"
 msgid_plural "x_new_and_repeats %count%"
 msgstr[0] "%1 newydd a dim ailddarllediad"
@@ -1576,6 +1685,7 @@ msgstr[2] "%1 newydd a %count% ailddarllediad"
 #. English (no items): "None total".
 #. English (one item): "1 total".
 #. English (2+ items): "%1 total".
+#. Priority for: Programmes
 msgid "x_total"
 msgid_plural "x_total %count%"
 msgstr[0] "0 ar gael"
