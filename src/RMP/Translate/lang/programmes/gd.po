@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: rmp\translate programmes v1.0"
+"Project-Id-Version: rmp\translate programmes v1.0\n"
 "Language: gd_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,6 +12,7 @@ msgid "all"
 msgstr "Uile"
 
 #. English: "All episodes".
+#. Priority: High
 msgid "all_episodes"
 msgstr ""
 

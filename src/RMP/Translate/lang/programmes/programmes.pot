@@ -10,6 +10,7 @@ msgid "all"
 msgstr ""
 
 #. English: "All episodes".
+#. Priority: High
 msgid "all_episodes"
 msgstr ""
 
@@ -72,7 +73,6 @@ msgstr ""
 #. Example URL: http://www.bbc.co.uk/bbcone/programmes/a-z/by/thisisnotarealword .
 #. %1 is a variable, which may contain the value: "thisisnotarealword".
 #. Type: Title
-
 msgid "atoz_search_title"
 msgstr ""
 
@@ -102,6 +102,7 @@ msgstr ""
 #. %count% is a variable, which may contain the value: "3".
 #. Example URL: http://www.bbc.co.uk/programmes/b007wds5/episodes/player .
 #. Type: Body text
+
 msgid "available_count"
 msgid_plural "available_count %count%"
 msgstr[0] ""
