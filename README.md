@@ -169,3 +169,48 @@ Currently the logger will be notified in the event of missing translations or fa
 
 ### Unit Tests
 There is a full suite of unit tests. Simply run PHPUnit in the project root. 
+
+### PO File Format
+(this needs tiding up)
+In order to allow the use of the custom rmp-translate-tool PO file editor, we have created certain extenstions to the PO file format. Basically, we whack in some specially formatted comments (#. "extracted comments" to be precise). These are perfectly valid standard .po comments, but have a special meaning to our app. 
+
+You can safely ignore this if you do not plan to use rmp-translate-tool
+
+Current comments that have special meaning and are highlighted to the user with specific presentation are shown below:
+
+For singular form:
+```
+#. English: "{The singular form of the English translation of placeholder_string}".
+#. Example URL: {http://your-link-here} .
+#. Type: {Body text|Heading}
+msgid "placeholder_string"
+msgstr "Foreign Language Translation here"
+```
+Plural form:
+```
+#. English (no items): "{English translation with 0 items}".
+#. English (one item): "{English translation with 1 item}".
+#. English (2+ items): "{English translation with 2+ items}".
+msgid "available_items_count"
+msgid_plural "available_items_count %count%"
+msgstr[0] "Relevant foreign language translation..."
+msgstr[1] "Relevant foreign language translation..."
+msgstr[2] "Relevant foreign language translation..."
+```
+Substitutions:
+```
+#. %1 is a variable, which may contain the value: "{example value from /progs}".
+msgid "something_with_substitutions"
+msgstr "blah blah blah"
+```
+Priority (filtering)
+
+Replace the curly braces and their contents with some (hopefully relevant and informative) text and 
+you're good to go. Any other comments will be displayed as plain text above the language entry somewhere.
+```
+#. Priority: {name of priority type, e.g. "schedules pages"}
+msgid "something to prioritise"
+msgstr "blah"
+```
+Replace the curly braces and their contents with some (hopefully relevant and informative) text and 
+you're good to go. Any other comments will be displayed as plain text above the language entry somewhere.
