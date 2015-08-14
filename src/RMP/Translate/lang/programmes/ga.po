@@ -382,7 +382,8 @@ msgid "credits_none"
 msgstr "Níl teidil chreidiúna leis an chlár seo"
 
 #. English: "%1s".
-#. English: "e.g. "1990s" or "2000s"".
+#. e.g. 1990s, 2000s
+#. %1 is a variable, which may contain the value: "1990".
 msgid "decade"
 msgstr ""
 

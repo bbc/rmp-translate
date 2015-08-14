@@ -383,7 +383,8 @@ msgid "credits_none"
 msgstr "Nid oes gan y rhaglen yma restr cyfranwyr"
 
 #. English: "%1s".
-#. English: "e.g. "1990s" or "2000s"".
+#. e.g. 1990s, 2000s
+#. %1 is a variable, which may contain the value: "1990".
 msgid "decade"
 msgstr "%1au"
 
