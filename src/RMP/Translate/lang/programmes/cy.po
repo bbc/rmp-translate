@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: rmp\translate programmes v1.0\n"
+"Project-Id-Version: rmp\\translate programmes v1.0\n"
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -54,7 +54,7 @@ msgstr "Mae'n ddrwg gennym ond does dim rhaglenni yn y categori yma."
 
 #. English: "Sorry, there are no programmes with titles containing %1".
 #. Example URL: http://www.bbc.co.uk/bbcone/programmes/a-z/by/thisisnotarealword .
-#. %1 is a variable, which may contain the value: "thisisnotarealword".
+#. %1 is a variable, which may contain the value: "eastenders".
 #. Type: Body text
 msgid "atoz_nocontaining"
 msgstr "Mae’n ddrwg gennym ond does dim rhaglenni gyda theitlau yn cynnwys %1"
@@ -78,7 +78,7 @@ msgstr "Chwilio"
 
 #. English: "Search results for '%1'".
 #. Example URL: http://www.bbc.co.uk/bbcone/programmes/a-z/by/thisisnotarealword .
-#. %1 is a variable, which may contain the value: "thisisnotarealword".
+#. %1 is a variable, which may contain the value: "eastenders".
 #. Type: Title
 msgid "atoz_search_title"
 msgstr "Canlyniadau chwilio ar gyfer '%1'"
@@ -107,7 +107,6 @@ msgstr "Sain-Ddisgrifio"
 #. English (no items): "There are currently no available episodes".
 #. English (one item): "There is currently %count% available episode".
 #. English (2+ items): "There are currently %count% available episodes".
-#. %count% is a variable, which may contain the value: "3".
 #. Example URL: http://www.bbc.co.uk/programmes/b007wds5/episodes/player .
 #. Type: Body text
 msgid "available_count"
@@ -1662,7 +1661,6 @@ msgstr[2] "%count% mwy"
 #. English (no items): "%count% new".
 #. English (one item): "1 new".
 #. English (2+ items): "%count% new".
-#. %count% is a variable, which may contain the value: "3".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d .
 #. Type: Body text
 #. Priority for: Programmes
