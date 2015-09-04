@@ -1687,3 +1687,36 @@ msgstr[2] ""
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "Is féidir go mbeidh dúil agat i"
+
+#. English "Now playing".
+#. Priority for: Rich Tracks
+msgid "now_playing"
+msgstr "Ag seinm anois"
+
+#. English "%1s ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "seconds_ago_short"
+msgstr "%1s ó shin"
+
+#. English "%1m ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "minutes_ago_short"
+msgstr "%1n ó shin"
+
+#. English "%1h ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "hours_ago_short"
+msgstr "%1u ó shin"
+
+#. English "Track title".
+#. Priority for: Rich Tracks
+msgid "track_title"
+msgstr "Teideal traic"
+
+#. English "Artist name".
+#. Priority for: Rich Tracks
+msgid "artist_name"
+msgstr "Ainm cheoltóra"
