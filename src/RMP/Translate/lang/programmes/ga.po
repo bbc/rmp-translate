@@ -1693,20 +1693,23 @@ msgstr "Is féidir go mbeidh dúil agat i"
 msgid "now_playing"
 msgstr "Ag seinm anois"
 
-#. English "s ago".
+#. English "%1s ago".
+#. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "seconds_ago_short"
-msgstr "%i%s ó shin"
+msgstr "%1s ó shin"
 
-#. English "m ago".
+#. English "%1m ago".
+#. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "minutes_ago_short"
-msgstr "%i%n ó shin"
+msgstr "%1n ó shin"
 
-#. English "h ago".
+#. English "%1h ago".
+#. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "hours_ago_short"
-msgstr "%i%u ó shin"
+msgstr "%1u ó shin"
 
 #. English "Track title".
 #. Priority for: Rich Tracks

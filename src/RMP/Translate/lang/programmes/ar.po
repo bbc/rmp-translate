@@ -1689,17 +1689,20 @@ msgstr "ربما يعجبك أيضا"
 msgid "now_playing"
 msgstr ""
 
-#. English "s ago".
+#. English "%1s ago".
+#. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "seconds_ago_short"
 msgstr ""
 
-#. English "m ago".
+#. English "%1m ago".
+#. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "minutes_ago_short"
 msgstr ""
 
-#. English "h ago".
+#. English "%1h ago".
+#. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "hours_ago_short"
 msgstr ""

@@ -1683,20 +1683,23 @@ msgstr ""
 msgid "now_playing"
 msgstr "A' cluich an-dràsta"
 
-#. English "s ago".
+#. English "%1s ago".
+#. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "seconds_ago_short"
-msgstr "bho chionn %i%d"
+msgstr "bho chionn %1d"
 
-#. English "m ago".
+#. English "%1m ago".
+#. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "minutes_ago_short"
-msgstr "bho chionn %i%m"
+msgstr "bho chionn %1m"
 
-#. English "h ago".
+#. English "%1h ago".
+#. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "hours_ago_short"
-msgstr "bho chionn %i%u"
+msgstr "bho chionn %1u"
 
 #. English "Track title".
 #. Priority for: Rich Tracks
