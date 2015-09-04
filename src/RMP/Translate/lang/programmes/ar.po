@@ -1683,3 +1683,33 @@ msgstr[2] "%1 مجموع"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "ربما يعجبك أيضا"
+
+#. English "Now playing".
+#. Priority for: Rich Tracks
+msgid "now_playing"
+msgstr ""
+
+#. English "s ago".
+#. Priority for: Rich Tracks
+msgid "seconds_ago_short"
+msgstr ""
+
+#. English "m ago".
+#. Priority for: Rich Tracks
+msgid "minutes_ago_short"
+msgstr ""
+
+#. English "h ago".
+#. Priority for: Rich Tracks
+msgid "hours_ago_short"
+msgstr ""
+
+#. English "Track title".
+#. Priority for: Rich Tracks
+msgid "track_title"
+msgstr ""
+
+#. English "Artist name".
+#. Priority for: Rich Tracks
+msgid "artist_name"
+msgstr ""
