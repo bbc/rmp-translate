@@ -1687,3 +1687,33 @@ msgstr[2] ""
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "Is féidir go mbeidh dúil agat i"
+
+#. English "Now playing".
+#. Priority for: Rich Tracks
+msgid "now_playing"
+msgstr "Ag seinm anois"
+
+#. English "s ago".
+#. Priority for: Rich Tracks
+msgid "seconds_ago_short"
+msgstr "%i%s ó shin"
+
+#. English "m ago".
+#. Priority for: Rich Tracks
+msgid "minutes_ago_short"
+msgstr "%i%n ó shin"
+
+#. English "h ago".
+#. Priority for: Rich Tracks
+msgid "hours_ago_short"
+msgstr "%i%u ó shin"
+
+#. English "Track title".
+#. Priority for: Rich Tracks
+msgid "track_title"
+msgstr "Teideal traic"
+
+#. English "Artist name".
+#. Priority for: Rich Tracks
+msgid "artist_name"
+msgstr "Ainm cheoltóra"

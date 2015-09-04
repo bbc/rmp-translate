@@ -1686,3 +1686,33 @@ msgstr[2] "%1 total"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "You may also like"
+
+#. English "Now playing".
+#. Priority for: Rich Tracks
+msgid "now_playing"
+msgstr "Now Playing"
+
+#. English "s ago".
+#. Priority for: Rich Tracks
+msgid "seconds_ago_short"
+msgstr "%i%s ago"
+
+#. English "m ago".
+#. Priority for: Rich Tracks
+msgid "minutes_ago_short"
+msgstr "%i%m ago"
+
+#. English "h ago".
+#. Priority for: Rich Tracks
+msgid "hours_ago_short"
+msgstr "%i%h ago"
+
+#. English "Track title".
+#. Priority for: Rich Tracks
+msgid "track_title"
+msgstr "Track title"
+
+#. English "Artist name".
+#. Priority for: Rich Tracks
+msgid "artist_name"
+msgstr "Artist name"

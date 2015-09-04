@@ -1694,3 +1694,33 @@ msgstr[2] "%1 ar gael"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "Mwy o raglenni i chi"
+
+#. English "Now playing".
+#. Priority for: Rich Tracks
+msgid "now_playing"
+msgstr "Nawr yn chwarae"
+
+#. English "s ago".
+#. Priority for: Rich Tracks
+msgid "seconds_ago_short"
+msgstr "%i% eiliad yn ôl"
+
+#. English "m ago".
+#. Priority for: Rich Tracks
+msgid "minutes_ago_short"
+msgstr "%i% mun yn ôl"
+
+#. English "h ago".
+#. Priority for: Rich Tracks
+msgid "hours_ago_short"
+msgstr "%i% awr yn ôl"
+
+#. English "Track title".
+#. Priority for: Rich Tracks
+msgid "track_title"
+msgstr "Enw’r trac"
+
+#. English "Artist name".
+#. Priority for: Rich Tracks
+msgid "artist_name"
+msgstr "Enw’r artist"
