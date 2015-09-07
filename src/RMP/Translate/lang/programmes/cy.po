@@ -1801,35 +1801,35 @@ msgstr[2] "%1 ar gael"
 msgid "you_might_also_like"
 msgstr "Mwy o raglenni i chi"
 
-#. English "Now playing".
+#. English: "Now playing".
 #. Priority for: Rich Tracks
 msgid "now_playing"
 msgstr "Nawr yn chwarae"
 
-#. English "%1s ago".
+#. English: "%1s ago".
 #. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "seconds_ago_short"
 msgstr "%1 eiliad yn ôl"
 
-#. English "%1m ago".
+#. English: "%1m ago".
 #. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "minutes_ago_short"
 msgstr "%1 mun yn ôl"
 
-#. English "%1h ago".
+#. English: "%1h ago".
 #. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "hours_ago_short"
 msgstr "%1 awr yn ôl"
 
-#. English "Track title".
+#. English: "Track title".
 #. Priority for: Rich Tracks
 msgid "track_title"
 msgstr "Enw’r trac"
 
-#. English "Artist name".
+#. English: "Artist name".
 #. Priority for: Rich Tracks
 msgid "artist_name"
 msgstr "Enw’r artist"

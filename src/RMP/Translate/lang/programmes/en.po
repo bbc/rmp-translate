@@ -1793,35 +1793,35 @@ msgstr[2] "%1 total"
 msgid "you_might_also_like"
 msgstr "You may also like"
 
-#. English "Now playing".
+#. English: "Now playing".
 #. Priority for: Rich Tracks
 msgid "now_playing"
 msgstr "Now Playing"
 
-#. English "%1s ago".
+#. English: "%1s ago".
 #. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "seconds_ago_short"
 msgstr "%1s ago"
 
-#. English "%1m ago".
+#. English: "%1m ago".
 #. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "minutes_ago_short"
 msgstr "%1m ago"
 
-#. English "%1h ago".
+#. English: "%1h ago".
 #. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks
 msgid "hours_ago_short"
 msgstr "%1h ago"
 
-#. English "Track title".
+#. English: "Track title".
 #. Priority for: Rich Tracks
 msgid "track_title"
 msgstr "Track title"
 
-#. English "Artist name".
+#. English: "Artist name".
 #. Priority for: Rich Tracks
 msgid "artist_name"
 msgstr "Artist name"
