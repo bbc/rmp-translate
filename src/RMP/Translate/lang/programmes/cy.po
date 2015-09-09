@@ -13,6 +13,7 @@ msgid "all"
 msgstr "Pob un"
 
 #. English: "All episodes".
+#. Example URL: http://www.test.bbc.co.uk/programmes/b00cyj3f .
 #. Priority for: Programmes
 msgid "all_episodes"
 msgstr "Pob pennod"
@@ -150,6 +151,7 @@ msgid "available_on_iplayer"
 msgstr "Ar gael ar BBC iPlayer"
 
 #. English: "On iPlayer".
+#. Example URL: http://www.bbc.co.uk/programmes/b006m86d .
 #. Priority for: Programmes
 msgid "available_on_iplayer_short"
 msgstr "Ar iPlayer"
@@ -209,7 +211,7 @@ msgstr "Dim darllediadau cyntaf i ddod"
 
 #. English: "Series and episodes available from online suppliers".
 #. Priority for: Programmes
-#. Example URL: .bbc.co.uk/programmes/b006qpgr .
+#. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
 msgid "buy_desc"
 msgstr "Cyfresi a phenodau sydd ar gael gan werthwyr ar-lein"
 
@@ -290,7 +292,7 @@ msgid "clip_availability_past"
 msgstr "Mae’n ddrwg gennym, ‘dyw’r clip yma ddim ar gael bellach"
 
 #. English: "This clip is from".
-#. Example URL: www.bbc.co.uk/programmes/p030sqjj .
+#. Example URL: http://www.bbc.co.uk/programmes/p030sqjj .
 #. Priority for: Programmes
 msgid "clip_context"
 msgstr "Daw'r clip hwn o"
@@ -1038,6 +1040,7 @@ msgid "more_on_radio"
 msgstr "Mwy ar y Radio"
 
 #. English: "More on TV".
+#. Example URL: http://www.bbc.co.uk/bbcone/programmes/genres/drama/all .
 #. Priority for: Programmes
 msgid "more_on_tv"
 msgstr "Mwy ar y Teledu"
@@ -1059,11 +1062,13 @@ msgid "nations_radio"
 msgstr "Radio’r Cenhedloedd"
 
 #. English: "New series".
+#. Example URL: http://www.bbc.co.uk/programmes/b006vq92 (visible at the time of writing, note that this text is only shown on new series)
 #. Priority for: Programmes
 msgid "new_series"
 msgstr "cyfres newydd"
 
 #. English: "Next".
+#. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
 #. Priority for: Programmes
 msgid "next"
 msgstr "Nesaf"
@@ -1270,7 +1275,7 @@ msgid "programmes_resume_at"
 msgstr "Rhaglenni yn ailddechrau am %1"
 
 #. English: "QR code".
-#. Example URL: "http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
+#. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_code"
 msgstr "Côd QR"
 
@@ -1368,6 +1373,7 @@ msgid "schedules_boxing_day"
 msgstr "Gŵyl San Steffan"
 
 #. English: "Calendar".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/schedules/fm .
 #. Priority for: Schedules
 msgid "schedules_calendar"
 msgstr "Calendr"

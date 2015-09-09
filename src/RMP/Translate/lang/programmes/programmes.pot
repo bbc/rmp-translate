@@ -11,6 +11,7 @@ msgid "all"
 msgstr ""
 
 #. English: "All episodes".
+#. Example URL: http://www.test.bbc.co.uk/programmes/b00cyj3f .
 #. Priority for: Programmes
 msgid "all_episodes"
 msgstr ""
@@ -147,6 +148,7 @@ msgid "available_on_iplayer"
 msgstr ""
 
 #. English: "On iPlayer".
+#. Example URL: http://www.bbc.co.uk/programmes/b006m86d .
 #. Priority for: Programmes
 msgid "available_on_iplayer_short"
 msgstr ""
@@ -206,7 +208,7 @@ msgstr ""
 
 #. English: "Series and episodes available from online suppliers".
 #. Priority for: Programmes
-#. Example URL: .bbc.co.uk/programmes/b006qpgr .
+#. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
 msgid "buy_desc"
 msgstr ""
 
@@ -287,7 +289,7 @@ msgid "clip_availability_past"
 msgstr ""
 
 #. English: "This clip is from".
-#. Example URL: www.bbc.co.uk/programmes/p030sqjj .
+#. Example URL: http://www.bbc.co.uk/programmes/p030sqjj .
 #. Priority for: Programmes
 msgid "clip_context"
 msgstr ""
@@ -1029,6 +1031,7 @@ msgid "more_on_radio"
 msgstr ""
 
 #. English: "More on TV".
+#. Example URL: http://www.bbc.co.uk/bbcone/programmes/genres/drama/all .
 #. Priority for: Programmes
 msgid "more_on_tv"
 msgstr ""
@@ -1050,11 +1053,13 @@ msgid "nations_radio"
 msgstr ""
 
 #. English: "New series".
+#. Example URL: http://www.bbc.co.uk/programmes/b006vq92 (visible at the time of writing, note that this text is only shown on new series)
 #. Priority for: Programmes
 msgid "new_series"
 msgstr ""
 
 #. English: "Next".
+#. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
 #. Priority for: Programmes
 msgid "next"
 msgstr ""
@@ -1261,7 +1266,7 @@ msgid "programmes_resume_at"
 msgstr ""
 
 #. English: "QR code".
-#. Example URL: "http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
+#. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_code"
 msgstr ""
 
@@ -1355,6 +1360,7 @@ msgid "schedules_boxing_day"
 msgstr ""
 
 #. English: "Calendar".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/schedules/fm .
 #. Priority for: Schedules
 msgid "schedules_calendar"
 msgstr ""

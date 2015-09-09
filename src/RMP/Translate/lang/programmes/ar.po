@@ -12,6 +12,7 @@ msgid "all"
 msgstr "كل"
 
 #. English: "All episodes".
+#. Example URL: http://www.test.bbc.co.uk/programmes/b00cyj3f .
 #. Priority for: Programmes
 msgid "all_episodes"
 msgstr "جميع الحلقات"
@@ -148,6 +149,7 @@ msgid "available_on_iplayer"
 msgstr "متوفر في  BBC iPlayer"
 
 #. English: "On iPlayer".
+#. Example URL: http://www.bbc.co.uk/programmes/b006m86d .
 #. Priority for: Programmes
 msgid "available_on_iplayer_short"
 msgstr "على iPlayer"
@@ -207,7 +209,7 @@ msgstr "There are no upcoming debut broadcasts"
 
 #. English: "Series and episodes available from online suppliers".
 #. Priority for: Programmes
-#. Example URL: .bbc.co.uk/programmes/b006qpgr .
+#. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
 msgid "buy_desc"
 msgstr "المسلسل والحلقات متاحة من الموزع المعتمد على الانترنت"
 
@@ -288,7 +290,7 @@ msgid "clip_availability_past"
 msgstr "عفوا، الكليب ليس متوفرا"
 
 #. English: "This clip is from".
-#. Example URL: www.bbc.co.uk/programmes/p030sqjj .
+#. Example URL: http://www.bbc.co.uk/programmes/p030sqjj .
 #. Priority for: Programmes
 msgid "clip_context"
 msgstr "هذا الكليب من"
@@ -1031,6 +1033,7 @@ msgid "more_on_radio"
 msgstr "المزيد من الراديو"
 
 #. English: "More on TV".
+#. Example URL: http://www.bbc.co.uk/bbcone/programmes/genres/drama/all .
 #. Priority for: Programmes
 msgid "more_on_tv"
 msgstr "المزيد على التلفاز"
@@ -1052,11 +1055,13 @@ msgid "nations_radio"
 msgstr "Nations Radio"
 
 #. English: "New series".
+#. Example URL: http://www.bbc.co.uk/programmes/b006vq92 (visible at the time of writing, note that this text is only shown on new series)
 #. Priority for: Programmes
 msgid "new_series"
 msgstr "سلسلة جديدة "
 
 #. English: "Next".
+#. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
 #. Priority for: Programmes
 msgid "next"
 msgstr "التالي"
@@ -1263,7 +1268,7 @@ msgid "programmes_resume_at"
 msgstr "Programmes will resume at %1"
 
 #. English: "QR code".
-#. Example URL: "http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
+#. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_code"
 msgstr "QR code"
 
@@ -1361,6 +1366,7 @@ msgid "schedules_boxing_day"
 msgstr "Boxing Day"
 
 #. English: "Calendar".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/schedules/fm .
 #. Priority for: Schedules
 msgid "schedules_calendar"
 msgstr "التقويم"
