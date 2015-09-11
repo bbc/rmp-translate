@@ -1,6 +1,5 @@
 {
   "name": "bbc-rmp/translate",
-  "version": "1.0.0",
   "description": "Small PHP library and translation files for translations in programmes/amen",
   "licence": "proprietary",
   "type": "library",
