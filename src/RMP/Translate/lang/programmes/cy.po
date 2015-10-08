@@ -42,6 +42,11 @@ msgstr "Pob pennod blaenorol"
 msgid "all_upcoming"
 msgstr "Popeth i ddod"
 
+#. English: "Artist name".
+#. Priority for: Rich Tracks
+msgid "artist_name"
+msgstr "Enw’r artist"
+
 #. English: "All Programmes".
 msgid "atoz_all"
 msgstr "Pob Rhaglen"
@@ -595,6 +600,12 @@ msgstr "Cuddio’r penodau sydd ar gael"
 msgid "home"
 msgstr "Hafan"
 
+#. English: "%1h ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "hours_ago_short"
+msgstr "%1 awr yn ôl"
+
 #. English: "Listen from start".
 msgid "iplayer_listen_from_start"
 msgstr "Gwrando o’r dechrau"
@@ -946,6 +957,15 @@ msgstr[2] "Mae yna %count% eitem ar gael"
 msgid "javascript_required"
 msgstr "Rhaid i chi alluogi JavaScript er mwyn chwarae’r cynnwys"
 
+#. English: "Just now".
+msgid "just_now"
+msgstr ""
+
+#. English: "Just played".
+#. Priority for: Rich Tracks
+msgid "just_played"
+msgstr "Newydd chwarae"
+
 #. English: "en-GB".
 msgid "language_barlesque"
 msgstr "cy-GB"
@@ -1012,6 +1032,12 @@ msgstr "Mae hwn yn dod o"
 #. English: "Local Radio".
 msgid "local_radio"
 msgstr "Radio Lleol"
+
+#. English: "%1m ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "minutes_ago_short"
+msgstr "%1 mun yn ôl"
 
 #. English: "More".
 #. Example URL: http://www.bbc.co.uk/programmes/b01s6xyk .
@@ -1087,6 +1113,11 @@ msgstr "Yn anffodus, nid oes unrhyw wybodaeth"
 msgid "now_and_next"
 msgstr "Nawr a nesaf"
 
+#. English: "Now playing".
+#. Priority for: Rich Tracks
+msgid "now_playing"
+msgstr "Nawr yn chwarae"
+
 #. English: "Off air".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/schedules/1980/04/18 .
 #. Priority for: Programmes
@@ -1136,6 +1167,21 @@ msgstr[0] "Sianeli/Gorsafoedd"
 msgstr[1] "Sianel/Gorsaf"
 msgstr[2] "Sianeli/Gorsafoedd"
 
+#. English: "Over %1h ago".
+#. Priority for: Rich Tracks
+msgid "over_hours_ago_short"
+msgstr "Dros %1 awr yn ôl"
+
+#. English: "Over %1m ago".
+#. Priority for: Rich Tracks
+msgid "over_minutes_ago_short"
+msgstr "Dros %1 mun yn ôl"
+
+#. English: "Over %1s ago".
+#. Priority for: Rich Tracks
+msgid "over_seconds_ago_short"
+msgstr "Dros %1 eiliad yn ôl"
+
 #. English: "Page not found".
 msgid "page_not_found"
 msgstr "Methu dod o hyd i'r dudalen"
@@ -1155,6 +1201,11 @@ msgstr ""
 #. English: "Page %1 of %2".
 msgid "pagination_page"
 msgstr ""
+
+#. English: "Played:".
+#. Priority for: Rich Tracks
+msgid "played:"
+msgstr "Chwaraewyd:"
 
 #. English: "Add music you love and enjoy it with %1".
 msgid "playlister_tagline"
@@ -1514,6 +1565,12 @@ msgstr "Dangos wythnos lawn"
 msgid "schedules_yesterday"
 msgstr "Ddoe"
 
+#. English: "%1s ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "seconds_ago_short"
+msgstr "%1 eiliad yn ôl"
+
 #. English: "See all %1 episodes available on BBC iPlayer".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d/episodes/player.inc .
 #. %1 is a variable, which may contain the value: "eastenders".
@@ -1721,6 +1778,11 @@ msgstr[0] "Pynciau"
 msgstr[1] "Pwnc"
 msgstr[2] "Pynciau"
 
+#. English: "Track title".
+#. Priority for: Rich Tracks
+msgid "track_title"
+msgstr "Enw’r trac"
+
 #. English: "Updated:".
 msgid "updated"
 msgstr "Diweddarwyd:"
@@ -1806,36 +1868,3 @@ msgstr[2] "%1 ar gael"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "Mwy o raglenni i chi"
-
-#. English: "Now playing".
-#. Priority for: Rich Tracks
-msgid "now_playing"
-msgstr "Nawr yn chwarae"
-
-#. English: "%1s ago".
-#. %1 is a variable, which may contain the value: "1".
-#. Priority for: Rich Tracks
-msgid "seconds_ago_short"
-msgstr "%1 eiliad yn ôl"
-
-#. English: "%1m ago".
-#. %1 is a variable, which may contain the value: "1".
-#. Priority for: Rich Tracks
-msgid "minutes_ago_short"
-msgstr "%1 mun yn ôl"
-
-#. English: "%1h ago".
-#. %1 is a variable, which may contain the value: "1".
-#. Priority for: Rich Tracks
-msgid "hours_ago_short"
-msgstr "%1 awr yn ôl"
-
-#. English: "Track title".
-#. Priority for: Rich Tracks
-msgid "track_title"
-msgstr "Enw’r trac"
-
-#. English: "Artist name".
-#. Priority for: Rich Tracks
-msgid "artist_name"
-msgstr "Enw’r artist"

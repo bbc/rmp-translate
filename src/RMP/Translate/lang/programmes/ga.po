@@ -42,6 +42,11 @@ msgstr "Gach eagrán roimhe seo"
 msgid "all_upcoming"
 msgstr "Gach eagrán roimhe seo"
 
+#. English: "Artist name".
+#. Priority for: Rich Tracks
+msgid "artist_name"
+msgstr "Ainm cheoltóra"
+
 #. English: "All Programmes".
 msgid "atoz_all"
 msgstr ""
@@ -590,6 +595,12 @@ msgstr ""
 msgid "home"
 msgstr "Baile"
 
+#. English: "%1h ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "hours_ago_short"
+msgstr "%1u ó shin"
+
 #. English: "Listen from start".
 msgid "iplayer_listen_from_start"
 msgstr ""
@@ -941,6 +952,15 @@ msgstr[2] ""
 msgid "javascript_required"
 msgstr "Caithfidh tú JavaScript a chumasú le hábhar a sheinm"
 
+#. English: "Just now".
+msgid "just_now"
+msgstr ""
+
+#. English: "Just played".
+#. Priority for: Rich Tracks
+msgid "just_played"
+msgstr "Seinnte Díreach Anois"
+
 #. English: "en-GB".
 msgid "language_barlesque"
 msgstr "ga"
@@ -1007,6 +1027,12 @@ msgstr ""
 #. English: "Local Radio".
 msgid "local_radio"
 msgstr "Raidió Áitiúil"
+
+#. English: "%1m ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "minutes_ago_short"
+msgstr "%1n ó shin"
 
 #. English: "More".
 #. Example URL: http://www.bbc.co.uk/programmes/b01s6xyk .
@@ -1082,6 +1108,11 @@ msgstr "Níl aon eolas ann faoi láthair"
 msgid "now_and_next"
 msgstr "Anois agus ag teacht aníos"
 
+#. English: "Now playing".
+#. Priority for: Rich Tracks
+msgid "now_playing"
+msgstr "Ag seinm anois"
+
 #. English: "Off air".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/schedules/1980/04/18 .
 #. Priority for: Programmes
@@ -1131,6 +1162,21 @@ msgstr[0] "Asraon"
 msgstr[1] "Asraon"
 msgstr[2] "Asraon"
 
+#. English: "Over %1h ago".
+#. Priority for: Rich Tracks
+msgid "over_hours_ago_short"
+msgstr "Níos mó ná %1u ó shin"
+
+#. English: "Over %1m ago".
+#. Priority for: Rich Tracks
+msgid "over_minutes_ago_short"
+msgstr "Níos mó ná %1n ó shin"
+
+#. English: "Over %1s ago".
+#. Priority for: Rich Tracks
+msgid "over_seconds_ago_short"
+msgstr "Níos mó ná %1s ó shin"
+
 #. English: "Page not found".
 msgid "page_not_found"
 msgstr "Níor aimsíodh an leathanach sin"
@@ -1150,6 +1196,11 @@ msgstr ""
 #. English: "Page %1 of %2".
 msgid "pagination_page"
 msgstr ""
+
+#. English: "Played:".
+#. Priority for: Rich Tracks
+msgid "played:"
+msgstr "Seinnte:"
 
 #. English: "Add music you love and enjoy it with %1".
 msgid "playlister_tagline"
@@ -1510,6 +1561,12 @@ msgstr ""
 msgid "schedules_yesterday"
 msgstr "Inné"
 
+#. English: "%1s ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "seconds_ago_short"
+msgstr "%1s ó shin"
+
 #. English: "See all %1 episodes available on BBC iPlayer".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d/episodes/player.inc .
 #. %1 is a variable, which may contain the value: "eastenders".
@@ -1714,6 +1771,11 @@ msgstr[0] "Toipicí"
 msgstr[1] "Toipic"
 msgstr[2] "Toipicí"
 
+#. English: "Track title".
+#. Priority for: Rich Tracks
+msgid "track_title"
+msgstr "Teideal traic"
+
 #. English: "Updated:".
 msgid "updated"
 msgstr ""
@@ -1799,36 +1861,3 @@ msgstr[2] ""
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "Is féidir go mbeidh dúil agat i"
-
-#. English: "Now playing".
-#. Priority for: Rich Tracks
-msgid "now_playing"
-msgstr "Ag seinm anois"
-
-#. English: "%1s ago".
-#. %1 is a variable, which may contain the value: "1".
-#. Priority for: Rich Tracks
-msgid "seconds_ago_short"
-msgstr "%1s ó shin"
-
-#. English: "%1m ago".
-#. %1 is a variable, which may contain the value: "1".
-#. Priority for: Rich Tracks
-msgid "minutes_ago_short"
-msgstr "%1n ó shin"
-
-#. English: "%1h ago".
-#. %1 is a variable, which may contain the value: "1".
-#. Priority for: Rich Tracks
-msgid "hours_ago_short"
-msgstr "%1u ó shin"
-
-#. English: "Track title".
-#. Priority for: Rich Tracks
-msgid "track_title"
-msgstr "Teideal traic"
-
-#. English: "Artist name".
-#. Priority for: Rich Tracks
-msgid "artist_name"
-msgstr "Ainm cheoltóra"
