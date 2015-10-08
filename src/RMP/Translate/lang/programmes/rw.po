@@ -42,6 +42,11 @@ msgstr ""
 msgid "all_upcoming"
 msgstr ""
 
+#. English: "Artist name".
+#. Priority for: Rich Tracks
+msgid "artist_name"
+msgstr ""
+
 #. English: "All Programmes".
 msgid "atoz_all"
 msgstr ""
@@ -588,6 +593,12 @@ msgstr ""
 msgid "home"
 msgstr ""
 
+#. English: "%1h ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "hours_ago_short"
+msgstr ""
+
 #. English: "Listen from start".
 msgid "iplayer_listen_from_start"
 msgstr ""
@@ -939,6 +950,15 @@ msgstr[2] ""
 msgid "javascript_required"
 msgstr ""
 
+#. English: "Just now".
+msgid "just_now"
+msgstr ""
+
+#. English: "Just played".
+#. Priority for: Rich Tracks
+msgid "just_played"
+msgstr ""
+
 #. English: "en-GB".
 msgid "language_barlesque"
 msgstr "rw-RW"
@@ -1004,6 +1024,12 @@ msgstr ""
 
 #. English: "Local Radio".
 msgid "local_radio"
+msgstr ""
+
+#. English: "%1m ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "minutes_ago_short"
 msgstr ""
 
 #. English: "More".
@@ -1080,6 +1106,11 @@ msgstr ""
 msgid "now_and_next"
 msgstr ""
 
+#. English: "Now playing".
+#. Priority for: Rich Tracks
+msgid "now_playing"
+msgstr ""
+
 #. English: "Off air".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/schedules/1980/04/18 .
 #. Priority for: Programmes
@@ -1118,6 +1149,22 @@ msgstr ""
 msgid "on_tv"
 msgstr ""
 
+
+#. English: "Over %1h ago".
+#. Priority for: Rich Tracks
+msgid "over_hours_ago_short"
+msgstr ""
+
+#. English: "Over %1m ago".
+#. Priority for: Rich Tracks
+msgid "over_minutes_ago_short"
+msgstr ""
+
+#. English: "Over %1s ago".
+#. Priority for: Rich Tracks
+msgid "over_seconds_ago_short"
+msgstr ""
+
 #. English (no items): "Outlets".
 #. English (one item): "Outlet".
 #. English (2+ items): "Outlets".
@@ -1147,6 +1194,11 @@ msgstr ""
 
 #. English: "Page %1 of %2".
 msgid "pagination_page"
+msgstr ""
+
+#. English: "Played:".
+#. Priority for: Rich Tracks
+msgid "played:"
 msgstr ""
 
 #. English: "Add music you love and enjoy it with %1".
@@ -1503,6 +1555,12 @@ msgstr ""
 msgid "schedules_yesterday"
 msgstr ""
 
+#. English: "%1s ago".
+#. %1 is a variable, which may contain the value: "1".
+#. Priority for: Rich Tracks
+msgid "seconds_ago_short"
+msgstr ""
+
 #. English: "See all %1 episodes available on BBC iPlayer".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d/episodes/player.inc .
 #. %1 is a variable, which may contain the value: "eastenders".
@@ -1704,6 +1762,11 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
+#. English: "Track title".
+#. Priority for: Rich Tracks
+msgid "track_title"
+msgstr ""
+
 #. English: "Updated:".
 msgid "updated"
 msgstr ""
@@ -1788,37 +1851,4 @@ msgstr[2] ""
 
 #. English: "You may also like".
 msgid "you_might_also_like"
-msgstr ""
-
-#. English: "Now playing".
-#. Priority for: Rich Tracks
-msgid "now_playing"
-msgstr ""
-
-#. English: "%1s ago".
-#. %1 is a variable, which may contain the value: "1".
-#. Priority for: Rich Tracks
-msgid "seconds_ago_short"
-msgstr ""
-
-#. English: "%1m ago".
-#. %1 is a variable, which may contain the value: "1".
-#. Priority for: Rich Tracks
-msgid "minutes_ago_short"
-msgstr ""
-
-#. English: "%1h ago".
-#. %1 is a variable, which may contain the value: "1".
-#. Priority for: Rich Tracks
-msgid "hours_ago_short"
-msgstr ""
-
-#. English: "Track title".
-#. Priority for: Rich Tracks
-msgid "track_title"
-msgstr ""
-
-#. English: "Artist name".
-#. Priority for: Rich Tracks
-msgid "artist_name"
 msgstr ""
