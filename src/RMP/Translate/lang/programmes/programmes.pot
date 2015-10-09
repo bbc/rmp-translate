@@ -589,6 +589,7 @@ msgstr ""
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
 msgid "home"
+msgstr ""
 
 #. English: "%1h ago".
 #. %1 is a variable, which may contain the value: "1".
