@@ -679,6 +679,14 @@ msgstr[2] ""
 msgid "iplayer_listen_remaining_years"
 msgstr ""
 
+#. English: "Play episode".
+msgid "iplayer_play_clip"
+msgstr ""
+
+#. English: "Play episode".
+msgid "iplayer_play_episode"
+msgstr ""
+
 #. English: "Play from start".
 msgid "iplayer_play_from_start"
 msgstr ""
@@ -689,14 +697,6 @@ msgstr ""
 
 #. English: "Play now".
 msgid "iplayer_play_now"
-msgstr ""
-
-#. English: "Play episode".
-msgid "iplayer_play_episode"
-msgstr ""
-
-#. English: "Play episode".
-msgid "iplayer_play_clip"
 msgstr ""
 
 #. English (no items): "0 days left to play".
@@ -1002,7 +1002,7 @@ msgid "latest"
 msgstr ""
 
 #. English: "Listen in pop-out player".
-#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) . 
+#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) .
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr ""
@@ -1147,6 +1147,17 @@ msgstr ""
 msgid "on_tv"
 msgstr ""
 
+#. English (no items): "Outlets".
+#. English (one item): "Outlet".
+#. English (2+ items): "Outlets".
+#. Example URL: http://www.bbc.co.uk/worldnews/programmes/schedules (see tab title)
+#. Priority for: Schedules
+msgid "outlets"
+msgid_plural "outlets %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #. English: "Over %1h ago".
 #. Priority for: Rich Tracks
 msgid "over_hours_ago_short"
@@ -1161,17 +1172,6 @@ msgstr ""
 #. Priority for: Rich Tracks
 msgid "over_seconds_ago_short"
 msgstr ""
-
-#. English (no items): "Outlets".
-#. English (one item): "Outlet".
-#. English (2+ items): "Outlets".
-#. Example URL: http://www.bbc.co.uk/worldnews/programmes/schedules (see tab title)
-#. Priority for: Schedules
-msgid "outlets"
-msgid_plural "outlets %count%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #. English: "Page not found".
 msgid "page_not_found"
@@ -1567,7 +1567,7 @@ msgstr ""
 
 #. English: "See all %1 episodes available".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player.inc .
- #. %1 is a variable, which may contain the value: "The Archers".
+#. %1 is a variable, which may contain the value: "The Archers".
 #. Priority for: Programmes
 msgid "see_all_available_from_radio"
 msgstr ""
@@ -1640,11 +1640,6 @@ msgstr[2] ""
 msgid "service_introduction"
 msgstr ""
 
-#. English: "Sort by".
-#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
-msgid "sort_by"
-msgstr ""
-
 #. English: "Show available episodes".
 msgid "show_available_episodes"
 msgstr ""
@@ -1675,6 +1670,11 @@ msgstr ""
 msgid "skip_to"
 msgstr ""
 
+#. English: "Sort by".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
+msgid "sort_by"
+msgstr ""
+
 #. English: "Stations".
 msgid "stations"
 msgstr ""
@@ -1700,15 +1700,6 @@ msgstr[2] ""
 msgid "television_abbr"
 msgstr ""
 
-#. English: "Timings (where shown) are the time of the day".
-msgid "timings_start_of_day"
-msgstr ""
-
-#. English: "%1h".
-#. e.g. "2h" for 2 hours.
-msgid "time_hours_short"
-msgstr ""
-
 #. English (no items): "0 hours".
 #. English (one item): "1 hour".
 #. English (2+ items): "2 hours".
@@ -1718,9 +1709,9 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#. English: "%1m".
-#. English: "e.g. "17m" for 17 minutes".
-msgid "time_minutes_short"
+#. English: "%1h".
+#. e.g. "2h" for 2 hours.
+msgid "time_hours_short"
 msgstr ""
 
 #. English (no items): "0 minutes".
@@ -1732,9 +1723,9 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#. English: "%1s".
-#. English: "e.g. "12s" for 12 seconds".
-msgid "time_seconds_short"
+#. English: "%1m".
+#. English: "e.g. "17m" for 17 minutes".
+msgid "time_minutes_short"
 msgstr ""
 
 #. English (no items): "0 seconds".
@@ -1745,6 +1736,15 @@ msgid_plural "time_seconds_long %count%"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+#. English: "%1s".
+#. English: "e.g. "12s" for 12 seconds".
+msgid "time_seconds_short"
+msgstr ""
+
+#. English: "Timings (where shown) are the time of the day".
+msgid "timings_start_of_day"
+msgstr ""
 
 #. English: "Timings (where shown) are from the start of the programme in hours and minutes".
 msgid "timings_start_of_programme"

@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
-"Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: cy_GB\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 "X-Loco-Target-Locale: cy_GB\n"
 
@@ -688,6 +688,14 @@ msgstr[2] "%count% wythnos ar ôl i wrando"
 msgid "iplayer_listen_remaining_years"
 msgstr "Dros flwyddyn ar ôl i wrando"
 
+#. English: "Play episode".
+msgid "iplayer_play_clip"
+msgstr ""
+
+#. English: "Play episode".
+msgid "iplayer_play_episode"
+msgstr ""
+
 #. English: "Play from start".
 msgid "iplayer_play_from_start"
 msgstr "Chwarae o’r dechrau"
@@ -699,14 +707,6 @@ msgstr "Chwarae’n fyw"
 #. English: "Play now".
 msgid "iplayer_play_now"
 msgstr "Chwarae nawr"
-
-#. English: "Play episode".
-msgid "iplayer_play_episode"
-msgstr ""
-
-#. English: "Play episode".
-msgid "iplayer_play_clip"
-msgstr ""
 
 #. English (no items): "0 days left to play".
 #. English (one item): "1 day left to play".
@@ -1011,7 +1011,7 @@ msgid "latest"
 msgstr "Diweddaraf"
 
 #. English: "Listen in pop-out player".
-#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) . 
+#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) .
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr "Chwaraewr mewn ffenest fach"
@@ -1654,11 +1654,6 @@ msgid "service_introduction"
 msgstr ""
 "Dilynwch y dolenni isod i ddod o hyd i raglenni %1 sydd o ddiddordeb i chi"
 
-#. English: "Sort by".
-#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
-msgid "sort_by"
-msgstr "Trefnu yn ôl"
-
 #. English: "Show available episodes".
 msgid "show_available_episodes"
 msgstr "Dangos y penodau sydd ar gael"
@@ -1689,6 +1684,11 @@ msgstr "Rhaglenni tebyg"
 msgid "skip_to"
 msgstr "Neidio i"
 
+#. English: "Sort by".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
+msgid "sort_by"
+msgstr "Trefnu yn ôl"
+
 #. English: "Stations".
 msgid "stations"
 msgstr "Gorsafoedd"
@@ -1714,16 +1714,6 @@ msgstr[2] "Mae yna %count% o benodau ar gael %1"
 msgid "television_abbr"
 msgstr "Teledu"
 
-#. English: "Timings (where shown) are the time of the day".
-msgid "timings_start_of_day"
-msgstr "Yr amseroedd (os yw’n ymddangos) yw amser y dydd"
-
-# There is no convention for abbreviating this in Welsh
-#. English: "%1h".
-#. e.g. "2h" for 2 hours.
-msgid "time_hours_short"
-msgstr "%1 awr"
-
 #. English (no items): "0 hours".
 #. English (one item): "1 hour".
 #. English (2+ items): "2 hours".
@@ -1734,10 +1724,10 @@ msgstr[1] "%1 awr"
 msgstr[2] "%1 awr"
 
 # There is no convention for abbreviating this in Welsh
-#. English: "%1m".
-#. English: "e.g. "17m" for 17 minutes".
-msgid "time_minutes_short"
-msgstr "%1 mun"
+#. English: "%1h".
+#. e.g. "2h" for 2 hours.
+msgid "time_hours_short"
+msgstr "%1 awr"
 
 #. English (no items): "0 minutes".
 #. English (one item): "1 minute".
@@ -1749,10 +1739,10 @@ msgstr[1] "%1 munud"
 msgstr[2] "%1 munud"
 
 # There is no convention for abbreviating this in Welsh
-#. English: "%1s".
-#. English: "e.g. "12s" for 12 seconds".
-msgid "time_seconds_short"
-msgstr "%1 eiliad"
+#. English: "%1m".
+#. English: "e.g. "17m" for 17 minutes".
+msgid "time_minutes_short"
+msgstr "%1 mun"
 
 #. English (no items): "0 seconds".
 #. English (one item): "1 second".
@@ -1762,6 +1752,16 @@ msgid_plural "time_seconds_long %count%"
 msgstr[0] "%1 eiliad"
 msgstr[1] "%1 eiliad"
 msgstr[2] "%1 eiliad"
+
+# There is no convention for abbreviating this in Welsh
+#. English: "%1s".
+#. English: "e.g. "12s" for 12 seconds".
+msgid "time_seconds_short"
+msgstr "%1 eiliad"
+
+#. English: "Timings (where shown) are the time of the day".
+msgid "timings_start_of_day"
+msgstr "Yr amseroedd (os yw’n ymddangos) yw amser y dydd"
 
 #. English: "Timings (where shown) are from the start of the programme in hours and minutes".
 msgid "timings_start_of_programme"

@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
-"Language: en_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 "X-Loco-Target-Locale: cy_GB\n"
 
@@ -683,6 +683,14 @@ msgstr[2] "%count% weeks left to listen"
 msgid "iplayer_listen_remaining_years"
 msgstr "over a year left to listen"
 
+#. English: "Play episode".
+msgid "iplayer_play_clip"
+msgstr "Play clip"
+
+#. English: "Play episode".
+msgid "iplayer_play_episode"
+msgstr "Play episode"
+
 #. English: "Play from start".
 msgid "iplayer_play_from_start"
 msgstr "Play from start"
@@ -694,14 +702,6 @@ msgstr "Play live"
 #. English: "Play now".
 msgid "iplayer_play_now"
 msgstr "Play now"
-
-#. English: "Play episode".
-msgid "iplayer_play_episode"
-msgstr "Play episode"
-
-#. English: "Play episode".
-msgid "iplayer_play_clip"
-msgstr "Play clip"
 
 #. English (no items): "0 days left to play".
 #. English (one item): "1 day left to play".
@@ -1006,7 +1006,7 @@ msgid "latest"
 msgstr "Latest"
 
 #. English: "Listen in pop-out player".
-#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) . 
+#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) .
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr "Listen in pop-out player"
@@ -1649,11 +1649,6 @@ msgstr[2] "Series"
 msgid "service_introduction"
 msgstr "Explore the links below to find %1 programmes you're interested in"
 
-#. English: "Sort by".
-#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
-msgid "sort_by"
-msgstr "Sort by"
-
 #. English: "Show available episodes".
 msgid "show_available_episodes"
 msgstr "Show available episodes"
@@ -1684,6 +1679,11 @@ msgstr "Similar programmes"
 msgid "skip_to"
 msgstr "Skip to"
 
+#. English: "Sort by".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
+msgid "sort_by"
+msgstr "Sort by"
+
 #. English: "Stations".
 msgid "stations"
 msgstr "Stations"
@@ -1709,15 +1709,6 @@ msgstr[2] "There are currently %count% available episodes tagged with %1"
 msgid "television_abbr"
 msgstr "TV"
 
-#. English: "Timings (where shown) are the time of the day".
-msgid "timings_start_of_day"
-msgstr "Timings (where shown) are the time of the day"
-
-#. English: "%1h".
-#. e.g. "2h" for 2 hours.
-msgid "time_hours_short"
-msgstr "%1h"
-
 #. English (no items): "0 hours".
 #. English (one item): "1 hour".
 #. English (2+ items): "2 hours".
@@ -1727,10 +1718,10 @@ msgstr[0] "%1 hours"
 msgstr[1] "%1 hour"
 msgstr[2] "%1 hours"
 
-#. English: "%1m".
-#. English: "e.g. "17m" for 17 minutes".
-msgid "time_minutes_short"
-msgstr "%1m"
+#. English: "%1h".
+#. e.g. "2h" for 2 hours.
+msgid "time_hours_short"
+msgstr "%1h"
 
 #. English (no items): "0 minutes".
 #. English (one item): "1 minute".
@@ -1741,10 +1732,10 @@ msgstr[0] "%1 minutes"
 msgstr[1] "%1 minute"
 msgstr[2] "%1 minutes"
 
-#. English: "%1s".
-#. English: "e.g. "12s" for 12 seconds".
-msgid "time_seconds_short"
-msgstr "%1s"
+#. English: "%1m".
+#. English: "e.g. "17m" for 17 minutes".
+msgid "time_minutes_short"
+msgstr "%1m"
 
 #. English (no items): "0 seconds".
 #. English (one item): "1 second".
@@ -1754,6 +1745,15 @@ msgid_plural "time_seconds_long %count%"
 msgstr[0] "%1 seconds"
 msgstr[1] "%1 second"
 msgstr[2] "%1 seconds"
+
+#. English: "%1s".
+#. English: "e.g. "12s" for 12 seconds".
+msgid "time_seconds_short"
+msgstr "%1s"
+
+#. English: "Timings (where shown) are the time of the day".
+msgid "timings_start_of_day"
+msgstr "Timings (where shown) are the time of the day"
 
 #. English: "Timings (where shown) are from the start of the programme in hours and minutes".
 msgid "timings_start_of_programme"
@@ -1860,4 +1860,3 @@ msgstr[2] "%1 total"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "You may also like"
-
