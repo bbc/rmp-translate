@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
-"Language: ga_IE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ga_IE\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 "X-Loco-Target-Locale: cy_GB\n"
 
@@ -683,6 +683,14 @@ msgstr[2] "%count% sheachtaine fágtha leis an chlár seo a sheinm"
 msgid "iplayer_listen_remaining_years"
 msgstr "níos mó na bliain fágtha leis an chlár seo a sheinm"
 
+#. English: "Play episode".
+msgid "iplayer_play_clip"
+msgstr ""
+
+#. English: "Play episode".
+msgid "iplayer_play_episode"
+msgstr ""
+
 #. English: "Play from start".
 msgid "iplayer_play_from_start"
 msgstr ""
@@ -694,14 +702,6 @@ msgstr "Seinn beo"
 #. English: "Play now".
 msgid "iplayer_play_now"
 msgstr "Seinn anois"
-
-#. English: "Play episode".
-msgid "iplayer_play_episode"
-msgstr ""
-
-#. English: "Play episode".
-msgid "iplayer_play_clip"
-msgstr ""
 
 #. English (no items): "0 days left to play".
 #. English (one item): "1 day left to play".
@@ -1006,7 +1006,7 @@ msgid "latest"
 msgstr "Is déanaí"
 
 #. English: "Listen in pop-out player".
-#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) . 
+#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) .
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr "Éist i bhfuinneog eile"
@@ -1650,11 +1650,6 @@ msgid "service_introduction"
 msgstr ""
 "Taiscéal na naisc thíos le cláir %1 a bhfuil speis agat iontu a aimsiú."
 
-#. English: "Sort by".
-#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
-msgid "sort_by"
-msgstr ""
-
 #. English: "Show available episodes".
 msgid "show_available_episodes"
 msgstr ""
@@ -1685,6 +1680,11 @@ msgstr "Cláir den chineál seo"
 msgid "skip_to"
 msgstr "Scipeáil chuig"
 
+#. English: "Sort by".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
+msgid "sort_by"
+msgstr ""
+
 #. English: "Stations".
 msgid "stations"
 msgstr "Stáisiúin"
@@ -1710,15 +1710,6 @@ msgstr[2] "Tá %count% eagrán  atá clibeáilte le %1 ar fáil faoi láthair"
 msgid "television_abbr"
 msgstr "Teilifís"
 
-#. English: "Timings (where shown) are the time of the day".
-msgid "timings_start_of_day"
-msgstr "Tá na hamanna (nuair a léirítear iad) de réir uaireanta an lae."
-
-#. English: "%1h".
-#. e.g. "2h" for 2 hours.
-msgid "time_hours_short"
-msgstr ""
-
 #. English (no items): "0 hours".
 #. English (one item): "1 hour".
 #. English (2+ items): "2 hours".
@@ -1728,9 +1719,9 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#. English: "%1m".
-#. English: "e.g. "17m" for 17 minutes".
-msgid "time_minutes_short"
+#. English: "%1h".
+#. e.g. "2h" for 2 hours.
+msgid "time_hours_short"
 msgstr ""
 
 #. English (no items): "0 minutes".
@@ -1742,9 +1733,9 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#. English: "%1s".
-#. English: "e.g. "12s" for 12 seconds".
-msgid "time_seconds_short"
+#. English: "%1m".
+#. English: "e.g. "17m" for 17 minutes".
+msgid "time_minutes_short"
 msgstr ""
 
 #. English (no items): "0 seconds".
@@ -1755,6 +1746,15 @@ msgid_plural "time_seconds_long %count%"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+#. English: "%1s".
+#. English: "e.g. "12s" for 12 seconds".
+msgid "time_seconds_short"
+msgstr ""
+
+#. English: "Timings (where shown) are the time of the day".
+msgid "timings_start_of_day"
+msgstr "Tá na hamanna (nuair a léirítear iad) de réir uaireanta an lae."
 
 #. English: "Timings (where shown) are from the start of the programme in hours and minutes".
 msgid "timings_start_of_programme"

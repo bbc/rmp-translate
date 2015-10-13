@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Language: ar_SA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ar_SA\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 "X-Loco-Target-Locale: cy_GB\n"
 
@@ -681,6 +681,14 @@ msgstr[2] "%count% اسبوع متبقي للاستماع"
 msgid "iplayer_listen_remaining_years"
 msgstr "over a year left to listen"
 
+#. English: "Play episode".
+msgid "iplayer_play_clip"
+msgstr "تشغيل الكليب"
+
+#. English: "Play episode".
+msgid "iplayer_play_episode"
+msgstr "تشغيل الحلقة"
+
 #. English: "Play from start".
 msgid "iplayer_play_from_start"
 msgstr "تشغيل من البداية"
@@ -692,14 +700,6 @@ msgstr "تشغيل حي"
 #. English: "Play now".
 msgid "iplayer_play_now"
 msgstr "تشغيل الآن"
-
-#. English: "Play episode".
-msgid "iplayer_play_episode"
-msgstr "تشغيل الحلقة"
-
-#. English: "Play episode".
-msgid "iplayer_play_clip"
-msgstr "تشغيل الكليب"
 
 #. English (no items): "0 days left to play".
 #. English (one item): "1 day left to play".
@@ -1004,7 +1004,7 @@ msgid "latest"
 msgstr "الأخير"
 
 #. English: "Listen in pop-out player".
-#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) . 
+#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) .
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr "Listen in pop-out player"
@@ -1646,11 +1646,6 @@ msgstr[2] "سلسلة"
 msgid "service_introduction"
 msgstr "تصفح الروابط بالأسفل للبحث عن %1 البرامج التي ترغب بها"
 
-#. English: "Sort by".
-#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
-msgid "sort_by"
-msgstr "تصنيف حسب "
-
 #. English: "Show available episodes".
 msgid "show_available_episodes"
 msgstr "عرض الحلقات المتاحة"
@@ -1681,6 +1676,11 @@ msgstr "Similar programmes"
 msgid "skip_to"
 msgstr "تجاهل إلى"
 
+#. English: "Sort by".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
+msgid "sort_by"
+msgstr "تصنيف حسب "
+
 #. English: "Stations".
 msgid "stations"
 msgstr "Stations"
@@ -1706,15 +1706,6 @@ msgstr[2] "يوجد حاليا %count% حلقات متاحة مرتبطة مع%1
 msgid "television_abbr"
 msgstr "تلفاز"
 
-#. English: "Timings (where shown) are the time of the day".
-msgid "timings_start_of_day"
-msgstr "Timings (where shown) are the time of the day"
-
-#. English: "%1h".
-#. e.g. "2h" for 2 hours.
-msgid "time_hours_short"
-msgstr "%1h"
-
 #. English (no items): "0 hours".
 #. English (one item): "1 hour".
 #. English (2+ items): "2 hours".
@@ -1724,10 +1715,10 @@ msgstr[0] "%1 ساعات"
 msgstr[1] "%1 ساعة"
 msgstr[2] "%1 ساعات"
 
-#. English: "%1m".
-#. English: "e.g. "17m" for 17 minutes".
-msgid "time_minutes_short"
-msgstr "%1m"
+#. English: "%1h".
+#. e.g. "2h" for 2 hours.
+msgid "time_hours_short"
+msgstr "%1h"
 
 #. English (no items): "0 minutes".
 #. English (one item): "1 minute".
@@ -1738,10 +1729,10 @@ msgstr[0] "%1 دقائق"
 msgstr[1] "%1 دقيقة"
 msgstr[2] "%1 دقائق"
 
-#. English: "%1s".
-#. English: "e.g. "12s" for 12 seconds".
-msgid "time_seconds_short"
-msgstr "%1s"
+#. English: "%1m".
+#. English: "e.g. "17m" for 17 minutes".
+msgid "time_minutes_short"
+msgstr "%1m"
 
 #. English (no items): "0 seconds".
 #. English (one item): "1 second".
@@ -1751,6 +1742,15 @@ msgid_plural "time_seconds_long %count%"
 msgstr[0] "%1 ثواني"
 msgstr[1] "%1 ثانية"
 msgstr[2] "%1 ثواني"
+
+#. English: "%1s".
+#. English: "e.g. "12s" for 12 seconds".
+msgid "time_seconds_short"
+msgstr "%1s"
+
+#. English: "Timings (where shown) are the time of the day".
+msgid "timings_start_of_day"
+msgstr "Timings (where shown) are the time of the day"
 
 #. English: "Timings (where shown) are from the start of the programme in hours and minutes".
 msgid "timings_start_of_programme"

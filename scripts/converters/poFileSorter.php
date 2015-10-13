@@ -18,12 +18,6 @@ if ($inputHandle === false) {
     exit(1);
 }
 
-$outputHandle = fopen($outputFileName, 'w');
-if ($outputHandle === false) {
-    echo "Error could not open file $outputFileName for writing\n";
-    exit(1);
-}
-
 $headers = array();
 $headerEnded = false;
 $messages = array();
@@ -57,19 +51,26 @@ usort($messages, function ($a, $b) {
     return strcmp($a["key"], $b["key"]);
 });
 
+$outputHandle = fopen($outputFileName, 'w');
+if ($outputHandle === false) {
+    echo "Error could not open file $outputFileName for writing\n";
+    exit(1);
+}
+
 // Print headers
 foreach ($headers as $line) {
     fputs($outputHandle, $line."\n");
 }
 fputs($outputHandle, "\n");
 
-foreach ($messages as $item) {
-    if (empty($item['key'])) {
-        continue;
-    }
-    foreach ($item['lines'] as $line) {
-        fputs($outputHandle, $line."\n");
-    }
-    fputs($outputHandle, "\n");
-}
+$renderableMessages = array_filter($messages, function($item){
+    return !empty($item['key']);
+});
+
+$renderableMessagesLines = array_map(function($item){
+    return implode("\n", $item['lines']);
+}, $renderableMessages);
+
+fputs($outputHandle, implode("\n\n", $renderableMessagesLines) . "\n");
+
 fclose($outputHandle);
