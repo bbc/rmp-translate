@@ -501,7 +501,7 @@ msgstr[2] "Penodau"
 
 #. English: "Episodes available:".
 msgid "episodes_available"
-msgstr "Penodau sydd ar gael:"
+msgstr "Ar gael:"
 
 #. English: "There will be %1 episodes. More information coming soon".
 msgid "episodes_more_soon"
@@ -1785,7 +1785,7 @@ msgstr "Enw’r trac"
 
 #. English: "Updated:".
 msgid "updated"
-msgstr "Diweddarwyd:"
+msgstr "Diweddaru:"
 
 #. English: "daily".
 msgid "updated_daily"
