@@ -37,8 +37,8 @@ msgid "all_previous_episodes"
 msgstr ""
 
 #. English: "All upcoming".
-#. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
+#. Priority for: Programmes
 msgid "all_upcoming"
 msgstr ""
 
@@ -166,8 +166,9 @@ msgid "available_shortly"
 msgstr ""
 
 #. English: "Back to top".
-#. Priority for: Schedules
 #. Example URL: http://www.bbc.co.uk/radio3/programmes/schedules .
+#. Priority for: Programmes
+#. Priority for: Schedules
 msgid "back_to_top_of_page"
 msgstr ""
 
@@ -186,6 +187,8 @@ msgstr ""
 #. English (no items): "Broadcasts".
 #. English (one item): "Broadcast".
 #. English (2+ items): "Broadcasts".
+#. Example URL: http://www.bbc.co.uk/programmes/p004t1s0/broadcasts .
+#. Priority for: Programmes
 msgid "broadcasts"
 msgid_plural "broadcasts %count%"
 msgstr[0] ""
@@ -236,14 +239,14 @@ msgid "by_date"
 msgstr ""
 
 #. English: "By format".
-#. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qj8q/galleries .
+#. Priority for: Programmes
 msgid "by_format"
 msgstr ""
 
 #. English: "By genre".
-#. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qj8q/galleries .
+#. Priority for: Programmes
 msgid "by_genre"
 msgstr ""
 
@@ -1043,8 +1046,8 @@ msgid "more_clips_from"
 msgstr ""
 
 #. English: "More episodes".
-#. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006m8dq/episodes/guide (click series 12 link)
+#. Priority for: Programmes
 msgid "more_episodes"
 msgstr "Tuilleadh phrògraman"
 
@@ -1315,6 +1318,7 @@ msgid "programmes_homepage"
 msgstr ""
 
 #. English: "Programmes will resume at %1".
+#. Priority for: Programmes
 msgid "programmes_resume_at"
 msgstr ""
 
@@ -1534,6 +1538,8 @@ msgid "schedules_today"
 msgstr "An-diugh"
 
 #. English: "Tomorrow".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/schedules/fm/tomorrow .
+#. Priority for: Programmes
 msgid "schedules_tomorrow"
 msgstr "A-màireach"
 

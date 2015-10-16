@@ -37,8 +37,8 @@ msgid "all_previous_episodes"
 msgstr "Pob pennod blaenorol"
 
 #. English: "All upcoming".
-#. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
+#. Priority for: Programmes
 msgid "all_upcoming"
 msgstr "Popeth i ddod"
 
@@ -167,8 +167,9 @@ msgid "available_shortly"
 msgstr "Bydd y rhaglen yma ar gael yn fuan ar ôl cael ei darlledu"
 
 #. English: "Back to top".
-#. Priority for: Schedules
 #. Example URL: http://www.bbc.co.uk/radio3/programmes/schedules .
+#. Priority for: Programmes
+#. Priority for: Schedules
 msgid "back_to_top_of_page"
 msgstr "Yn ôl i’r brig"
 
@@ -187,6 +188,8 @@ msgstr "dim ond ar %1"
 #. English (no items): "Broadcasts".
 #. English (one item): "Broadcast".
 #. English (2+ items): "Broadcasts".
+#. Example URL: http://www.bbc.co.uk/programmes/p004t1s0/broadcasts .
+#. Priority for: Programmes
 msgid "broadcasts"
 msgid_plural "broadcasts %count%"
 msgstr[0] "Darllediadau"
@@ -237,14 +240,14 @@ msgid "by_date"
 msgstr "Yn ôl dyddiad"
 
 #. English: "By format".
-#. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qj8q/galleries .
+#. Priority for: Programmes
 msgid "by_format"
 msgstr "Yn ôl fformat"
 
 #. English: "By genre".
-#. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qj8q/galleries .
+#. Priority for: Programmes
 msgid "by_genre"
 msgstr "Yn ôl genre"
 
@@ -1050,8 +1053,8 @@ msgid "more_clips_from"
 msgstr "Mwy o glipiau %1"
 
 #. English: "More episodes".
-#. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006m8dq/episodes/guide (click series 12 link)
+#. Priority for: Programmes
 msgid "more_episodes"
 msgstr "Rhagor o benodau"
 
@@ -1322,6 +1325,7 @@ msgid "programmes_homepage"
 msgstr "Hafan Rhaglenni’r BBC"
 
 #. English: "Programmes will resume at %1".
+#. Priority for: Programmes
 msgid "programmes_resume_at"
 msgstr "Rhaglenni yn ailddechrau am %1"
 
@@ -1545,6 +1549,8 @@ msgid "schedules_today"
 msgstr "Heddiw"
 
 #. English: "Tomorrow".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/schedules/fm/tomorrow .
+#. Priority for: Programmes
 msgid "schedules_tomorrow"
 msgstr "Yfory"
 
