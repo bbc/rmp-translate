@@ -40,7 +40,7 @@ msgstr ""
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
 msgid "all_upcoming"
-msgstr ""
+msgstr "Wadanda ke tafe"
 
 #. English: "Artist name".
 #. Priority for: Rich Tracks
@@ -169,7 +169,7 @@ msgstr "Za a samu wannan shirin jim kadan bayan an watsa shi"
 #. Priority for: Schedules
 #. Example URL: http://www.bbc.co.uk/radio3/programmes/schedules .
 msgid "back_to_top_of_page"
-msgstr ""
+msgstr "Koma saman shafin"
 
 #. English: "Back up to:".
 msgid "back_up_to"
@@ -188,9 +188,9 @@ msgstr ""
 #. English (2+ items): "Broadcasts".
 msgid "broadcasts"
 msgid_plural "broadcasts %count%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Watsa labarai"
+msgstr[1] "Watsa labarai"
+msgstr[2] "Watsa labarai"
 
 #. English: "There are no broadcasts".
 #. Priority for: Programmes
@@ -239,13 +239,13 @@ msgstr ""
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qj8q/galleries .
 msgid "by_format"
-msgstr ""
+msgstr "Ta salo"
 
 #. English: "By genre".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qj8q/galleries .
 msgid "by_genre"
-msgstr ""
+msgstr "Ta jigo"
 
 #. English (no items): "Categories".
 #. English (one item): "Category".
@@ -681,6 +681,14 @@ msgstr[2] ""
 msgid "iplayer_listen_remaining_years"
 msgstr ""
 
+#. English: "Play episode".
+msgid "iplayer_play_clip"
+msgstr ""
+
+#. English: "Play episode".
+msgid "iplayer_play_episode"
+msgstr ""
+
 #. English: "Play from start".
 msgid "iplayer_play_from_start"
 msgstr ""
@@ -691,14 +699,6 @@ msgstr ""
 
 #. English: "Play now".
 msgid "iplayer_play_now"
-msgstr ""
-
-#. English: "Play episode".
-msgid "iplayer_play_episode"
-msgstr ""
-
-#. English: "Play episode".
-msgid "iplayer_play_clip"
 msgstr ""
 
 #. English (no items): "0 days left to play".
@@ -1004,7 +1004,7 @@ msgid "latest"
 msgstr ""
 
 #. English: "Listen in pop-out player".
-#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) . 
+#. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) .
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr "Saurara a makunni na daban"
@@ -1046,7 +1046,7 @@ msgstr ""
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006m8dq/episodes/guide (click series 12 link)
 msgid "more_episodes"
-msgstr ""
+msgstr "Karin shirye-shirye"
 
 #. English: "More results for %1 from across the BBC".
 msgid "more_from_bbc"
@@ -1149,6 +1149,17 @@ msgstr "A rediyo"
 msgid "on_tv"
 msgstr "A talabijin"
 
+#. English (no items): "Outlets".
+#. English (one item): "Outlet".
+#. English (2+ items): "Outlets".
+#. Example URL: http://www.bbc.co.uk/worldnews/programmes/schedules (see tab title)
+#. Priority for: Schedules
+msgid "outlets"
+msgid_plural "outlets %count%"
+msgstr[0] "Kafofi"
+msgstr[1] "Kafa"
+msgstr[2] "Kafofi"
+
 #. English: "Over %1h ago".
 #. Priority for: Rich Tracks
 msgid "over_hours_ago_short"
@@ -1163,17 +1174,6 @@ msgstr ""
 #. Priority for: Rich Tracks
 msgid "over_seconds_ago_short"
 msgstr ""
-
-#. English (no items): "Outlets".
-#. English (one item): "Outlet".
-#. English (2+ items): "Outlets".
-#. Example URL: http://www.bbc.co.uk/worldnews/programmes/schedules (see tab title)
-#. Priority for: Schedules
-msgid "outlets"
-msgid_plural "outlets %count%"
-msgstr[0] "Kafofi"
-msgstr[1] "Kafa"
-msgstr[2] "Kafofi"
 
 #. English: "Page not found".
 msgid "page_not_found"
@@ -1316,7 +1316,7 @@ msgstr ""
 
 #. English: "Programmes will resume at %1".
 msgid "programmes_resume_at"
-msgstr ""
+msgstr "Za mu ci gaba da shirye-shiryen da %1"
 
 #. English: "QR code".
 #. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
@@ -1535,7 +1535,7 @@ msgstr "Yau"
 
 #. English: "Tomorrow".
 msgid "schedules_tomorrow"
-msgstr ""
+msgstr "Gobe"
 
 #. English: "not ideal for small screens".
 #. Example URL: http://bbc.github.io/viewporter/index.html?width=320&url=http://www.bbc.co.uk/radio4/programmes/schedules/fm/this_week
@@ -1642,11 +1642,6 @@ msgstr[2] ""
 msgid "service_introduction"
 msgstr ""
 
-#. English: "Sort by".
-#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
-msgid "sort_by"
-msgstr ""
-
 #. English: "Show available episodes".
 msgid "show_available_episodes"
 msgstr ""
@@ -1677,6 +1672,11 @@ msgstr "Shirye-shirye masu alaka"
 msgid "skip_to"
 msgstr "Wuce"
 
+#. English: "Sort by".
+#. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
+msgid "sort_by"
+msgstr ""
+
 #. English: "Stations".
 msgid "stations"
 msgstr ""
@@ -1702,15 +1702,6 @@ msgstr[2] ""
 msgid "television_abbr"
 msgstr ""
 
-#. English: "Timings (where shown) are the time of the day".
-msgid "timings_start_of_day"
-msgstr ""
-
-#. English: "%1h".
-#. e.g. "2h" for 2 hours.
-msgid "time_hours_short"
-msgstr ""
-
 #. English (no items): "0 hours".
 #. English (one item): "1 hour".
 #. English (2+ items): "2 hours".
@@ -1720,9 +1711,9 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#. English: "%1m".
-#. English: "e.g. "17m" for 17 minutes".
-msgid "time_minutes_short"
+#. English: "%1h".
+#. e.g. "2h" for 2 hours.
+msgid "time_hours_short"
 msgstr ""
 
 #. English (no items): "0 minutes".
@@ -1730,23 +1721,32 @@ msgstr ""
 #. English (2+ items): "2 minutes".
 msgid "time_minutes_long"
 msgid_plural "time_minutes_long %count%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "mintuna"
+msgstr[1] "minti"
+msgstr[2] "mintuna"
 
-#. English: "%1s".
-#. English: "e.g. "12s" for 12 seconds".
-msgid "time_seconds_short"
-msgstr ""
+#. English: "%1m".
+#. English: "e.g. "17m" for 17 minutes".
+msgid "time_minutes_short"
+msgstr "m"
 
 #. English (no items): "0 seconds".
 #. English (one item): "1 second".
 #. English (2+ items): "2 seconds".
 msgid "time_seconds_long"
 msgid_plural "time_seconds_long %count%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "dakikoki"
+msgstr[1] "dakika"
+msgstr[2] "dakikoki"
+
+#. English: "%1s".
+#. English: "e.g. "12s" for 12 seconds".
+msgid "time_seconds_short"
+msgstr "s"
+
+#. English: "Timings (where shown) are the time of the day".
+msgid "timings_start_of_day"
+msgstr ""
 
 #. English: "Timings (where shown) are from the start of the programme in hours and minutes".
 msgid "timings_start_of_programme"
