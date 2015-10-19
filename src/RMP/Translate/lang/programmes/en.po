@@ -1719,9 +1719,9 @@ msgstr[2] "There are currently %count% available episodes tagged with %1"
 msgid "television_abbr"
 msgstr "TV"
 
-#. English (no items): "0 hours".
-#. English (one item): "1 hour".
-#. English (2+ items): "2 hours".
+#. English (no items): "%1 hours".
+#. English (one item): "%1 hour".
+#. English (2+ items): "%1 hours".
 msgid "time_hours_long"
 msgid_plural "time_hours_long %count%"
 msgstr[0] "%1 hours"
@@ -1733,9 +1733,9 @@ msgstr[2] "%1 hours"
 msgid "time_hours_short"
 msgstr "%1h"
 
-#. English (no items): "0 minutes".
-#. English (one item): "1 minute".
-#. English (2+ items): "2 minutes".
+#. English (no items): "%1 minutes".
+#. English (one item): "%1 minute".
+#. English (2+ items): "%1 minutes".
 msgid "time_minutes_long"
 msgid_plural "time_minutes_long %count%"
 msgstr[0] "%1 minutes"
@@ -1747,9 +1747,9 @@ msgstr[2] "%1 minutes"
 msgid "time_minutes_short"
 msgstr "%1m"
 
-#. English (no items): "0 seconds".
-#. English (one item): "1 second".
-#. English (2+ items): "2 seconds".
+#. English (no items): "%1 seconds".
+#. English (one item): "%1 second".
+#. English (2+ items): "%1 seconds".
 msgid "time_seconds_long"
 msgid_plural "time_seconds_long %count%"
 msgstr[0] "%1 seconds"
