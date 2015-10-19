@@ -810,9 +810,9 @@ msgstr[2] ""
 #. Priority for: Programmes
 msgid "iplayer_time_minutes"
 msgid_plural "iplayer_time_minutes %count%"
-msgstr[0] "mintuna"
-msgstr[1] "minti"
-msgstr[2] "mintuna"
+msgstr[0] "%count% mintuna"
+msgstr[1] "%count% minti"
+msgstr[2] "%count% mintuna"
 
 #. English (no items): "0 months".
 #. English (one item): "1 month".
@@ -830,9 +830,9 @@ msgstr[2] ""
 #. Priority for: Programmes
 msgid "iplayer_time_seconds"
 msgid_plural "iplayer_time_seconds %count%"
-msgstr[0] "dakikoki"
-msgstr[1] "dakika"
-msgstr[2] "dakikoki"
+msgstr[0] "%count% dakikoki"
+msgstr[1] "%count% dakika"
+msgstr[2] "%count% dakikoki"
 
 #. English (no items): "0 secs".
 #. English (one item): "1 sec".
@@ -1731,9 +1731,9 @@ msgstr ""
 #. English (2+ items): "%1 minutes".
 msgid "time_minutes_long"
 msgid_plural "time_minutes_long %count%"
-msgstr[0] "mintuna"
-msgstr[1] "minti"
-msgstr[2] "mintuna"
+msgstr[0] "%1 mintuna"
+msgstr[1] "%1 minti"
+msgstr[2] "%1 mintuna"
 
 #. English: "%1m".
 #. English: "e.g. "17m" for 17 minutes".
@@ -1745,9 +1745,9 @@ msgstr "m"
 #. English (2+ items): "%1 seconds".
 msgid "time_seconds_long"
 msgid_plural "time_seconds_long %count%"
-msgstr[0] "dakikoki"
-msgstr[1] "dakika"
-msgstr[2] "dakikoki"
+msgstr[0] "%1 dakikoki"
+msgstr[1] "%1 dakika"
+msgstr[2] "%1 dakikoki"
 
 #. English: "%1s".
 #. English: "e.g. "12s" for 12 seconds".
