@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
+"Language: ga_IE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ga_IE\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 "X-Loco-Target-Locale: cy_GB\n"
 
@@ -786,6 +786,7 @@ msgstr[2] "%count% lá"
 #. English (no items): "0 hours".
 #. English (one item): "1 hour".
 #. English (2+ items): "%count% hours".
+#. Priority for: Programmes
 msgid "iplayer_time_hours"
 msgid_plural "iplayer_time_hours %count%"
 msgstr[0] "0 uair"
@@ -808,6 +809,7 @@ msgstr[2] "%count% nóim"
 #. English (no items): "0 minutes".
 #. English (one item): "1 minute".
 #. English (2+ items): "%count% minutes".
+#. Priority for: Programmes
 msgid "iplayer_time_minutes"
 msgid_plural "iplayer_time_minutes %count%"
 msgstr[0] "0 nóiméad"
@@ -817,6 +819,7 @@ msgstr[2] "%count% nóiméad"
 #. English (no items): "0 months".
 #. English (one item): "1 month".
 #. English (2+ items): "%count% months".
+#. Priority for: Programmes
 msgid "iplayer_time_months"
 msgid_plural "iplayer_time_months %count%"
 msgstr[0] "0 mí"
@@ -826,6 +829,7 @@ msgstr[2] "%count% mí"
 #. English (no items): "0 seconds".
 #. English (one item): "1 second".
 #. English (2+ items): "%count% seconds".
+#. Priority for: Programmes
 msgid "iplayer_time_seconds"
 msgid_plural "iplayer_time_seconds %count%"
 msgstr[0] "0 soicind"
