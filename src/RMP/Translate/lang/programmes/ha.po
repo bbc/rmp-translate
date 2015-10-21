@@ -10,7 +10,7 @@ msgstr ""
 #. English: "All".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/a-z/by/%40/current .
 msgid "all"
-msgstr ""
+msgstr "Duka"
 
 #. English: "All episodes".
 #. Example URL: http://www.test.bbc.co.uk/programmes/b00cyj3f .
@@ -34,7 +34,7 @@ msgstr ""
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b00srz5b .
 msgid "all_previous_episodes"
-msgstr ""
+msgstr "Duka sauran shirye-shirye"
 
 #. English: "All upcoming".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
@@ -148,7 +148,7 @@ msgstr[2] ""
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb .
 msgid "available_now"
-msgstr ""
+msgstr "Akwai shi a yanzu"
 
 #. English: "Available on BBC iPlayer".
 msgid "available_on_iplayer"
@@ -209,7 +209,7 @@ msgstr ""
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/p02rt545/broadcasts/upcoming .
 msgid "broadcasts_none_upcoming"
-msgstr ""
+msgstr "Babu sauran wannan shirin da aka watsa"
 
 #. English: "There are no upcoming debut broadcasts".
 #. Example URL: http://www.bbc.co.uk/programmes/p02rt545/broadcasts/upcoming/debut .
@@ -236,7 +236,7 @@ msgstr ""
 
 #. English: "By date".
 msgid "by_date"
-msgstr ""
+msgstr "A kwanan wata"
 
 #. English: "By format".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qj8q/galleries .
@@ -1843,8 +1843,8 @@ msgstr[2] "Sabbobi %count%"
 msgid "x_new_and_repeats"
 msgid_plural "x_new_and_repeats %count%"
 msgstr[0] "Sabo %1 kuma babu maimaici"
-msgstr[1] "Sabbobi %1 da maimaici 1"
-msgstr[2] "Sabbobi %1 da maimaici %count%"
+msgstr[1] "Sabbobi %1 da 1 maimaici"
+msgstr[2] "Sabbobi %1 da %count% maimaici"
 
 #. English (no items): "None total".
 #. English (one item): "1 total".
