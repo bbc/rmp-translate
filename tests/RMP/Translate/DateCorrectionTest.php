@@ -15,7 +15,10 @@ class DateCorrectionTest extends \PHPUnit_Framework_TestCase
 
     public function testUntouched()
     {
-        $this->assertEquals('This is something or nothing', 'This is something or nothing');
+        $this->assertEquals(
+            'This is something or nothing',
+            $this->helper->fixSpelling('This is something or nothing','en')
+        );
     }
 
     /**
@@ -25,7 +28,7 @@ class DateCorrectionTest extends \PHPUnit_Framework_TestCase
      */
     public function testFixedExamples($input, $expected)
     {
-        $this->assertEquals($expected, $this->helper->fixSpelling($input));
+        $this->assertEquals($expected, $this->helper->fixSpelling($input, 'cy'));
     }
 
     public function testExampleProvider()

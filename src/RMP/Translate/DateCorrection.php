@@ -18,8 +18,17 @@ namespace RMP\Translate;
  */
 class DateCorrection
 {
-    public function fixSpelling($string)
+    /**
+     * @param $string
+     * @param $locale
+     * @return string
+     */
+    public function fixSpelling($string, $locale)
     {
+        // for now, this is a simple string replace
+        // $locale is required in case this solution doesn't hold up
+        // to real world scenarios and has to be made smarter
+
         $corrections = array(
 
             // bn (Bengali)
