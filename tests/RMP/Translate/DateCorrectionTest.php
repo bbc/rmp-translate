@@ -26,9 +26,9 @@ class DateCorrectionTest extends \PHPUnit_Framework_TestCase
      * @param $input
      * @param $expected
      */
-    public function testFixedExamples($input, $expected)
+    public function testFixedExamples($language, $input, $expected)
     {
-        $this->assertEquals($expected, $this->helper->fixSpelling($input, 'cy'));
+        $this->assertEquals($expected, $this->helper->fixSpelling($input, $language));
     }
 
     public function testExampleProvider()
@@ -36,15 +36,22 @@ class DateCorrectionTest extends \PHPUnit_Framework_TestCase
         return array(
 
             // latin script
-            array('ABCDEFGGorffenafEFGH', 'ABCDEFGGorffennafEFGH'),
-            array('B Gorffenaf A Gorffenaf C', 'B Gorffennaf A Gorffennaf C'),
+            array('cy', 'ABCDEFGGorffenafEFGH', 'ABCDEFGGorffennafEFGH'),
+            array('cy', 'B Gorffenaf A Gorffenaf C', 'B Gorffennaf A Gorffennaf C'),
+            array('cy-GB', 'B Gorffenaf A Gorffenaf C', 'B Gorffennaf A Gorffennaf C'),
+            array('cy_GB', 'B Gorffenaf A Gorffenaf C', 'B Gorffennaf A Gorffennaf C'),
 
             // UTF8 Script
-            array('सितम्बर', 'सितंबर'),
-            array('RRRRसितम्बरRRRR', 'RRRRसितंबरRRRR'),
-            array('म्सितम्बरम्', 'म्सितंबरम्'),
-            array('පෙබරවාර', 'පෙබරවාරි'),
-            array('مار چ', 'مارچ'),
+            array('hi', 'सितम्बर', 'सितंबर'),
+            array('hi', 'RRRRसितम्बरRRRR', 'RRRRसितंबरRRRR'),
+            array('hi', 'म्सितम्बरम्', 'म्सितंबरम्'),
+            array('si', 'පෙබරවාර', 'පෙබරවාරි'),
+            array('ur', 'مار چ', 'مارچ'),
+
+            // non PHP supported language, change from English
+            array('rw', 'Monday', 'Kuwa mbere'),
+            array('rw', 'Mon', 'mbe.'),
+
         );
     }
 }

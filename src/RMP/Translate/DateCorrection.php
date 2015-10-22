@@ -9,7 +9,7 @@ namespace RMP\Translate;
  * Generally Spelling mistakes. Use after you have created
  * your date strings
  * $dateHelper = new \RMP\Translate\DateCorrection();
- * $string = $dateHelper->fixSpelling($string);
+ * $string = $dateHelper->fixSpelling($string, $locale);
  *
  * Original source of corrections:
  * https://docs.google.com/spreadsheets/d/10F58jZ73Mdq5Ej8-rzc1Rq-ZT4oiAnW_3hQpVFISLB8/edit#gid=0
@@ -25,54 +25,112 @@ class DateCorrection
      */
     public function fixSpelling($string, $locale)
     {
-        // for now, this is a simple string replace
-        // $locale is required in case this solution doesn't hold up
-        // to real world scenarios and has to be made smarter
+        // standardise to the dash separated locale
+        $locale = str_replace('_','-', $locale);
 
-        $corrections = array(
+        // if the full match can't be found, reduce to the language code
+        if (!array_key_exists($locale, $this->corrections)) {
+            $locale = substr($locale, 0, 2);
+        }
 
-            // bn (Bengali)
+        // re-check if it exists
+        if (array_key_exists($locale, $this->corrections)) {
+            $string = strtr($string, $this->corrections[$locale]);
+        }
+
+        return $string;
+    }
+
+    private $corrections = array(
+
+        // bn (Bengali)
+        'bn' => array(
             'জানুয়ারী' => 'জানুয়ারি', // January
             'ফেব্রুয়ারী' => 'ফেব্রুয়ারি', // February
             'আগস্ট' => 'অগাস্ট', // August
+        ),
 
-            // cy (Welsh)
+        // cy (Welsh)
+        'cy' => array(
             'Gorffenaf' => 'Gorffennaf', // July
+        ),
 
-            // ha (Housa)
+        // ha (Housa)
+        'ha' => array(
             'Afrilu' => 'Aprilu', // April
             'Augusta' => 'Agusta', // August
+        ),
 
-            // hi (Hindi)
-            'सितम्बर'=>'सितंबर', // September
-            'नवम्बर'=>'नवंबर', // November
-            'दिसम्बर'=>'दिसंबर', // December
+        // hi (Hindi)
+        'hi' => array(
+            'सितम्बर' => 'सितंबर', // September
+            'नवम्बर' => 'नवंबर', // November
+            'दिसम्बर' => 'दिसंबर', // December
+        ),
 
-            // ne (Nepali)
-            'अप्रिल'=> 'एप्रिल', // April
-            'अगस्त'=> 'अगस्ट', // August
+        // ne (Nepali)
+        'ne' => array(
+            'अप्रिल' => 'एप्रिल', // April
+            'अगस्त' => 'अगस्ट', // August
+        ),
 
-            // rw_RW (Gahuza)
-            'Mutarama' => 'Ukwa mbere', // January
-            'Gashyantare' => 'Ukwa kabiri', // February
-            'Werurwe' => 'Ukwa gatatu', // March
-            'Mata' => 'Ukwa kane', // April
-            'Gicuransi' => 'Ukwa gatanu', // May
-            'Kamena' => 'Ukwa gatandatu', // June
-            'Nyakanga' => 'Ukw’indwi', // July
-            'Kanama' => 'Ukw’umunani', // August
-            'Nzeli' => 'Ukw’icenda', // September
-            'Ukwakira' => 'Ukw’icumi', // October
-            'Ugushyingo' => 'Ukw’icumi na rimwe', // November
-            'Ukuboza' => 'Ukw’icumi na kabiri', // December
+        // rw-RW (Gahuza)
+        // not available in PHP, so must use the English keys
+        // which is limited to short month support
+        'rw' => array(
+            'January' => 'mut.', // January
+            'February' => 'gas.', // February
+            'March' => 'wer.', // March
+            'April' => 'mat.', // April
+            'May' => 'gic.', // May
+            'June' => 'kam.', // June
+            'July' => 'nya.', // July
+            'August' => 'kan.', // August
+            'September' => 'nze.', // September
+            'October' => 'ukw.', // October
+            'November' => 'ugu.', // November
+            'December' => 'uku.', // December,
 
-            // si (Sinhala)
+            'Jan' => 'mut.', // January
+            'Feb' => 'gas.', // February
+            'Mar' => 'wer.', // March
+            'Apr' => 'mat.', // April
+            // May already covered above
+            'Jun' => 'kam.', // June
+            'Jul' => 'nya.', // July
+            'Aug' => 'kan.', // August
+            'Sep' => 'nze.', // September
+            'Oct' => 'ukw.', // October
+            'Nov' => 'ugu.', // November
+            'Decr' => 'uku.', // December
+
+            'Monday' => 'Kuwa mbere', // Monday
+            'Tuesday' => 'Kuwa kabiri', // Tuesday
+            'Wednesday' => 'Kuwa gatatu', // Wednesday
+            'Thursday' => 'Kuwa kane', // Thursday
+            'Friday' => 'Kuwa gatanu', // Friday
+            'Saturday' => 'Kuwa gatandatu', // Saturday
+            'Sunday' => 'Ku cyumweru', // Sunday
+
+            'Mon' => 'mbe.', // Monday
+            'Tue' => 'kab.', // Tuesday
+            'Wed' => 'gtu.', // Wednesday
+            'Thu' => 'kan.', // Thursday
+            'Fri' => 'gnu.', // Friday
+            'Sat' => 'gnd.', // Saturday
+            'Sun' => 'cyu.' // Sunday
+        ),
+
+        // si (Sinhala)
+        'si' => array(
             'ජනවාර' => 'ජනවාරි', // January
             'පෙබරවාර' => 'පෙබරවාරි', // February
             'මාර්ත' => 'මාර්තු', // March
             'ජූන' => 'ජුනි ', // June
+        ),
 
-            // so (Somali)
+        // so (Somali)
+        'so' => array(
             'Bisha Koobaad' => 'Jannaayo', // January
             'Bisha Labaad' => 'Febraayo', // February
             'Bisha Saddexaad' => 'Maarso', // March
@@ -85,14 +143,22 @@ class DateCorrection
             'Bisha Tobnaad' => 'Oktoobar', // October
             'Bisha Kow iyo Tobnaad' => 'Nofembar', // November
             'Bisha Laba iyo Tobnaad' => 'Disembar', // December
+        ),
 
-            // sw (Swahili)
+        // sw (Swahili)
+        'sw' => array(
             'Desemba' => 'Disemba', // December
+        ),
 
-            // ur (Urdu)
+        // ur (Urdu)
+        // note right-to-left language so the display order of key => value
+        // may differ or be unusual depending on your editor
+        'ur' => array(
             'مار چ' => 'مارچ', // March
+        ),
 
-            // uz (Uzbek)
+        // uz (Uzbek)
+        'uz' => array(
             'Муҳаррам' => 'Январ', // January
             'Сафар' => 'Феврал', // February
             'Рабиул-аввал' => 'Март', // March
@@ -105,8 +171,10 @@ class DateCorrection
             'Шаввол' => 'Октябр', // October
             'Зил-қаъда' => 'Ноябр', // November
             'Зил-ҳижжа' => 'Декабр', // December
+        ),
 
-            // vi (Vietnamese)
+        // vi (Vietnamese)
+        'vi' => array(
             'tháng một' => 'tháng 1',  // January
             'tháng hai' => 'tháng 2', // February
             'tháng ba' => 'tháng 3', // March
@@ -119,11 +187,6 @@ class DateCorrection
             'tháng mười' => 'tháng 10', // October
             'tháng mười một' => 'tháng 11', // November
             'tháng mười hai' => 'tháng 12', // December
-
-        );
-
-        // replace any found keys with values
-        // hence using strtr, so that the corrections array is readable
-        return strtr($string, $corrections);
-    }
+        )
+    );
 }
