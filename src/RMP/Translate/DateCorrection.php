@@ -29,19 +29,19 @@ class DateCorrection
         $locale = str_replace('_','-', $locale);
 
         // if the full match can't be found, reduce to the language code
-        if (!array_key_exists($locale, $this->corrections)) {
+        if (!array_key_exists($locale, self::$corrections)) {
             $locale = substr($locale, 0, 2);
         }
 
         // re-check if it exists
-        if (array_key_exists($locale, $this->corrections)) {
-            $string = strtr($string, $this->corrections[$locale]);
+        if (array_key_exists($locale, self::$corrections)) {
+            $string = strtr($string, self::$corrections[$locale]);
         }
 
         return $string;
     }
 
-    private $corrections = array(
+    private static $corrections = array(
 
         // bn (Bengali)
         'bn' => array(
