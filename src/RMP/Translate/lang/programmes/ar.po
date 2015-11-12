@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Language: ar_SA\n"
+"Project-Id-Version: rmp\\translate programmes v1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ar_SA\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
-"X-Loco-Target-Locale: cy_GB\n"
 
 #. English: "All".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/a-z/by/%40/current .
@@ -968,27 +968,27 @@ msgstr ""
 
 #. English: "en-GB".
 msgid "language_barlesque"
-msgstr "en-GB"
+msgstr "ar-SA"
 
 #. English: "false".
 msgid "language_barlesque_ws"
-msgstr "خاطئ"
+msgstr "true"
 
 #. English: "en".
 msgid "language_code"
-msgstr "en-GB"
+msgstr "ar"
 
 #. English: "ltr".
 msgid "language_direction"
-msgstr "ltr"
+msgstr "rtl"
 
 #. English: "en_GB".
 msgid "language_locale"
-msgstr "en_GB"
+msgstr "ar_SA"
 
 #. English: "English (UK)".
 msgid "language_name"
-msgstr "English (UK)"
+msgstr "Arabic"
 
 #. English: "Last".
 msgid "last"
