@@ -1723,7 +1723,7 @@ msgstr[2] ""
 #. English: "%1h".
 #. e.g. "2h" for 2 hours.
 msgid "time_hours_short"
-msgstr ""
+msgstr "%1h"
 
 #. English (no items): "%1 minutes".
 #. English (one item): "%1 minute".
@@ -1737,7 +1737,7 @@ msgstr[2] ""
 #. English: "%1m".
 #. English: "e.g. "17m" for 17 minutes".
 msgid "time_minutes_short"
-msgstr ""
+msgstr "%1m"
 
 #. English (no items): "%1 seconds".
 #. English (one item): "%1 second".
