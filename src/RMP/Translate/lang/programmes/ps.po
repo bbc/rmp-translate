@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
+"Language: ps_AF\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ps_AF\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
