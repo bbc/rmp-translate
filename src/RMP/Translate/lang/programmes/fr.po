@@ -41,12 +41,6 @@ msgstr "Tous les épisodes précédents"
 msgid "all_upcoming"
 msgstr "Prochainement"
 
-#. English: "Local time".
-#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
-#. Priority for: Programmes
-msgid "local_time"
-msgstr ""
-
 #. English: "Artist name".
 #. Priority for: Rich Tracks
 msgid "artist_name"
@@ -1043,6 +1037,12 @@ msgstr "Cela vient de"
 #. English: "Local Radio".
 msgid "local_radio"
 msgstr "Radio Locale"
+
+#. English: "Local time".
+#. Example URL: http://www.bbc.co.uk/programmes/p0385z3rs
+#. Priority for: Programmes
+msgid "local_time"
+msgstr ""
 
 #. English: "%1m ago".
 #. %1 is a variable, which may contain the value: "1".

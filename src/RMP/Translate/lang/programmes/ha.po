@@ -42,12 +42,6 @@ msgstr "Duka sauran shirye-shirye"
 msgid "all_upcoming"
 msgstr "Wadanda ke tafe"
 
-#. English: "Local time".
-#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
-#. Priority for: Programmes
-msgid "local_time"
-msgstr ""
-
 #. English: "Artist name".
 #. Priority for: Rich Tracks
 msgid "artist_name"
@@ -1037,6 +1031,12 @@ msgstr ""
 
 #. English: "Local Radio".
 msgid "local_radio"
+msgstr ""
+
+#. English: "Local time".
+#. Example URL: http://www.bbc.co.uk/programmes/p0385z3rs
+#. Priority for: Programmes
+msgid "local_time"
 msgstr ""
 
 #. English: "%1m ago".
