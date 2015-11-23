@@ -1035,7 +1035,7 @@ msgid "local_radio"
 msgstr "Local Radio"
 
 #. English: "Local time".
-#. Example URL: http://www.bbc.co.uk/programmes/p0385z3rs
+#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
 #. Priority for: Programmes
 msgid "local_time"
 msgstr ""
