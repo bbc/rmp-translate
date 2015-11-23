@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
-"Language: ar_SA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ar_SA\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -40,6 +40,12 @@ msgstr "جميع الحلقات السابقة"
 #. Priority for: Programmes
 msgid "all_upcoming"
 msgstr "جميع الحلقات القادمة"
+
+#. English: "Local time".
+#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
+#. Priority for: Programmes
+msgid "local_time"
+msgstr ""
 
 #. English: "Artist name".
 #. Priority for: Rich Tracks

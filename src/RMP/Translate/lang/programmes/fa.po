@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Language: fa_IR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -39,6 +39,12 @@ msgstr "همه قسمت‌های قبلی"
 #. Priority for: Programmes
 msgid "all_upcoming"
 msgstr "همه  قسمت‌های بعدی"
+
+#. English: "Local time".
+#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
+#. Priority for: Programmes
+msgid "local_time"
+msgstr ""
 
 #. English: "Artist name".
 #. Priority for: Rich Tracks
