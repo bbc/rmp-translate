@@ -1781,6 +1781,10 @@ msgstr[2] ""
 msgid "track_title"
 msgstr ""
 
+#. English: "UK Only".
+msgid "uk_only"
+msgstr ""
+
 #. English: "Updated:".
 msgid "updated"
 msgstr ""

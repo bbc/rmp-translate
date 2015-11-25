@@ -1798,6 +1798,10 @@ msgstr[2] "Pynciau"
 msgid "track_title"
 msgstr "Enw’r trac"
 
+#. English: "UK Only".
+msgid "uk_only"
+msgstr ""
+
 #. English: "Updated:".
 msgid "updated"
 msgstr "Diweddaru:"

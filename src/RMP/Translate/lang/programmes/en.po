@@ -1790,6 +1790,10 @@ msgstr[2] "Topics"
 msgid "track_title"
 msgstr "Track title"
 
+#. English: "UK Only".
+msgid "uk_only"
+msgstr "UK Only"
+
 #. English: "Updated:".
 msgid "updated"
 msgstr "Updated:"

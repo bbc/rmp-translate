@@ -1799,6 +1799,10 @@ msgstr[2] "Thèmes"
 msgid "track_title"
 msgstr "Titre du morceau"
 
+#. English: "UK Only".
+msgid "uk_only"
+msgstr ""
+
 #. English: "Updated:".
 msgid "updated"
 msgstr "Mis à jour:"

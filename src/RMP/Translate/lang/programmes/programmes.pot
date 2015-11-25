@@ -40,7 +40,6 @@ msgstr ""
 msgid "all_upcoming"
 msgstr ""
 
-
 #. English: "Artist name".
 #. Priority for: Rich Tracks
 msgid "artist_name"
@@ -1779,6 +1778,10 @@ msgstr[2] ""
 #. English: "Track title".
 #. Priority for: Rich Tracks
 msgid "track_title"
+msgstr ""
+
+#. English: "UK Only".
+msgid "uk_only"
 msgstr ""
 
 #. English: "Updated:".

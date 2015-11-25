@@ -1787,6 +1787,10 @@ msgstr[2] "موضوعات"
 msgid "track_title"
 msgstr "عنوان فایل صوتی"
 
+#. English: "UK Only".
+msgid "uk_only"
+msgstr ""
+
 #. English: "Updated:".
 msgid "updated"
 msgstr "به روز شده:"
