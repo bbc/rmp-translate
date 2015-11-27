@@ -146,7 +146,7 @@ msgstr[2] "%count% مورد موجود است"
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb .
 msgid "available_now"
-msgstr "هم اکنون موجود است"
+msgstr "هم اکنون موجود"
 
 #. English: "Available on BBC iPlayer".
 msgid "available_on_iplayer"
@@ -1004,7 +1004,7 @@ msgstr "شما در آخرین قسمت برنامه هستید"
 #. Example URL: http://www.bbc.co.uk/programmes/b008l210 .
 #. Priority for: Programmes
 msgid "last_on"
-msgstr "آخرین بار"
+msgstr "آخرین برنامه"
 
 #. English: "Latest".
 msgid "latest"
@@ -1330,7 +1330,7 @@ msgstr "صفحه اصلی برنامه‌های بی بی سی"
 #. English: "Programmes will resume at %1".
 #. Priority for: Programmes
 msgid "programmes_resume_at"
-msgstr "برنامه ها در از سر گرفته خواهد شد %1"
+msgstr "برنامه ها در  %1 از سر گرفته خواهد شد"
 
 #. English: "QR code".
 #. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
@@ -1497,11 +1497,11 @@ msgstr "صبح"
 
 #. English: "See other regional %1 variations".
 msgid "schedules_regional"
-msgstr ""
+msgstr "See other regional %1 variations"
 
 #. English: "View %1 schedule variations".
 msgid "schedules_regional_change"
-msgstr ""
+msgstr "View %1 schedule variations"
 
 #. English: "View %1".
 msgid "schedules_regional_changeto"
@@ -1523,14 +1523,14 @@ msgstr "زمان پخش مرتبط را انتخاب کنید"
 #. Example URL: http://www.bbc.co.uk/worldnews/programmes/schedules .
 #. Priority for: Schedules
 msgid "schedules_regional_title"
-msgstr ""
+msgstr "Regional variations for %1"
 
 #. English: "Schedule variations for %1".
 #. Example URL: http://www.bbc.co.uk/radioscotland/programmes/schedules .
 #. %1 is a variable, which may contain the value: "BBC Radio Scotland"
 #. Priority for: Schedules
 msgid "schedules_regional_title_radio"
-msgstr ""
+msgstr "Schedule variations for %1"
 
 #. English: "This week".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/schedules/fm/today .
@@ -1634,7 +1634,7 @@ msgstr "همه پادکست‌ها برای %1"
 
 #. English: "See all podcasts from %1".
 msgid "see_all_podcasts_from"
-msgstr "همه پادکست‌ها از %1%"
+msgstr "همه پادکست‌ها از %1"
 
 #. English: "See all previous episodes from %1".
 #. Priority for: Programmes
