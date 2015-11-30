@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
+"Language: ky_KG\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ky_KG\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -1354,6 +1354,15 @@ msgstr ""
 #. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_link"
 msgstr ""
+
+#. English (no items): "Recipes".
+#. English (one item): "Recipe".
+#. English (2+ items): "Recipes".
+msgid "recipes"
+msgid_plural "recipes %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #. English: "Sorry, there are no recommendations for this programme.".
 msgid "recommendations_noresults"

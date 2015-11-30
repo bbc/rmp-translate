@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
+"Language: fa_IR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fa_IR\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -1357,6 +1357,15 @@ msgstr "شما می توانید این تصویر را ذخیره، چاپ یا
 #. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_link"
 msgstr "این کد با استفاده از کد خوان کیو آر صفحه اینترنتی %1 را باز خواهد کرد."
+
+#. English (no items): "Recipes".
+#. English (one item): "Recipe".
+#. English (2+ items): "Recipes".
+msgid "recipes"
+msgid_plural "recipes %count%"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #. English: "Sorry, there are no recommendations for this programme.".
 msgid "recommendations_noresults"
