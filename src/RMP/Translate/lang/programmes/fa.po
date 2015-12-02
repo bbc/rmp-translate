@@ -586,6 +586,11 @@ msgstr[2] "ژانرها"
 msgid "genres_note"
 msgstr "یک ژانر را انتخاب کنید تا %1 برنامه را ببینید"
 
+#. English: "GMT".
+#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
+msgid "gmt"
+msgstr "گرینویچ"
+
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr "پنهان کردن قسمت‌های موجود برنامه"
@@ -1038,11 +1043,6 @@ msgstr "رادیو محلی"
 #. Priority for: Programmes
 msgid "local_time"
 msgstr "به وقت محلی شما"
-
-#. English: "GMT".
-#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
-msgid "gmt"
-msgstr "گرینویچ"
 
 #. English: "%1m ago".
 #. %1 is a variable, which may contain the value: "1".

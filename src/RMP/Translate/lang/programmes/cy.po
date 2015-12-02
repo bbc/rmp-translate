@@ -592,6 +592,11 @@ msgstr[2] "Genre"
 msgid "genres_note"
 msgstr "Dewiswch genre i weld rhaglenni %1"
 
+#. English: "GMT".
+#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
+msgid "gmt"
+msgstr ""
+
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr "Cuddio’r penodau sydd ar gael"
@@ -1043,11 +1048,6 @@ msgstr "Radio Lleol"
 #. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
 #. Priority for: Programmes
 msgid "local_time"
-msgstr ""
-
-#. English: "GMT".
-#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
-msgid "gmt"
 msgstr ""
 
 #. English: "%1m ago".

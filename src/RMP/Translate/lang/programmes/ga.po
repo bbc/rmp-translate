@@ -587,6 +587,11 @@ msgstr[2] "Seánraí"
 msgid "genres_note"
 msgstr "Roghnaigh seánra le %1 chlár a fheiceáil"
 
+#. English: "GMT".
+#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
+msgid "gmt"
+msgstr ""
+
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr ""
@@ -1038,11 +1043,6 @@ msgstr "Raidió Áitiúil"
 #. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
 #. Priority for: Programmes
 msgid "local_time"
-msgstr ""
-
-#. English: "GMT".
-#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
-msgid "gmt"
 msgstr ""
 
 #. English: "%1m ago".
