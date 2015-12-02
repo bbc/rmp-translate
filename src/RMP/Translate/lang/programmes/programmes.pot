@@ -1037,6 +1037,11 @@ msgstr ""
 msgid "local_time"
 msgstr ""
 
+#. English: "GMT".
+#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
+msgid "gmt"
+msgstr ""
+
 #. English: "%1m ago".
 #. %1 is a variable, which may contain the value: "1".
 #. Priority for: Rich Tracks

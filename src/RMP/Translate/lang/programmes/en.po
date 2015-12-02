@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
-"Language: en_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -1039,6 +1039,11 @@ msgstr "Local Radio"
 #. Priority for: Programmes
 msgid "local_time"
 msgstr "Local time"
+
+#. English: "GMT".
+#. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
+msgid "gmt"
+msgstr "GMT"
 
 #. English: "%1m ago".
 #. %1 is a variable, which may contain the value: "1".
