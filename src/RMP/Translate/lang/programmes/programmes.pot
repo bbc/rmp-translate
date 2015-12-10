@@ -1650,6 +1650,10 @@ msgstr ""
 msgid "see_all_previous_episodes_from"
 msgstr ""
 
+#. English: "See all recipes from %1".
+msgid "see_all_recipes_from"
+msgstr ""
+
 #. English: "See all upcoming broadcasts of %1".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d (Mouse over "All upcoming" text)
 #. %1 is a variable, which may contain the value: "Eastenders".
