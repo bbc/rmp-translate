@@ -1856,6 +1856,10 @@ msgstr "Yn gynharach heddiw"
 msgid "view_episodes"
 msgstr "Gweld penodau"
 
+#. English: "View full schedule".
+msgid "view_full_schedule"
+msgstr "Gweld yr amserlen lawn"
+
 #. English (no items): "No more".
 #. English (one item): "1 more".
 #. English (2+ items): "%count% more".

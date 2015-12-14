@@ -1841,6 +1841,10 @@ msgstr "आज प्रसारित हुए कार्यक्रम �
 msgid "view_episodes"
 msgstr "एपिसोड्स देखिए"
 
+#. English: "View full schedule".
+msgid "view_full_schedule"
+msgstr ""
+
 #. English (no items): "No more".
 #. English (one item): "1 more".
 #. English (2+ items): "%count% more".

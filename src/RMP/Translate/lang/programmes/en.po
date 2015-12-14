@@ -1848,6 +1848,10 @@ msgstr "View earlier today"
 msgid "view_episodes"
 msgstr "View episodes"
 
+#. English: "View full schedule".
+msgid "view_full_schedule"
+msgstr "View full schedule"
+
 #. English (no items): "No more".
 #. English (one item): "1 more".
 #. English (2+ items): "%count% more".
