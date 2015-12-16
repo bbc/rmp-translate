@@ -102,8 +102,10 @@ msgstr ""
 
 The comment should contain the full english translation and is needed as guidance for translators in other languages.
 
-Entries in the template file should be in alphabetical order. You must either
-add your entries in the correct order, or add them all at the bottom, then run
+Entries in the template file **should be in alphabetical order**. This is so
+that we can reduce the potential for merge noise, allowing us to focus on
+specific changes rather than automatic re-ordering. You must either add your
+entries in the correct order, or add them all at the bottom, then run
 `script/alphabetiseAllTranslations.sh` to move them into the correct ordering.
 
 After saving the template file, run `scripts/updateTranslationsFromTemplate.sh`
@@ -119,7 +121,7 @@ Finally commit and run a composer update in your target application.
 
 #### To remove an entry:
 
-Simply remove the entry from the programmes.pot template and run  scripts/updateTranslationsFromTemplate.sh
+Remove the entry from the programmes.pot template and run `scripts/updateTranslationsFromTemplate.sh`
 
 ### Updating translation files with new translations (supplied by a translator in .po format)
 There's a script that does most of this for you "updateLanguageFromSuppliedPO.sh".
