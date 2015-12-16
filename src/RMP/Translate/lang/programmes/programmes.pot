@@ -1009,6 +1009,10 @@ msgstr ""
 msgid "last_on"
 msgstr ""
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr ""

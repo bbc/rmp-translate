@@ -1011,6 +1011,10 @@ msgstr "أنت في آخر حلقة"
 msgid "last_on"
 msgstr "Last on"
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr "الأخير"

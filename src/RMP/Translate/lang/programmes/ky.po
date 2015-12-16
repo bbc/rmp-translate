@@ -1011,6 +1011,10 @@ msgstr "Сиз акыркы эпизоддосуз"
 msgid "last_on"
 msgstr "Акыркысында"
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr ""

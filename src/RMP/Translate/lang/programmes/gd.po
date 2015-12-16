@@ -1010,6 +1010,10 @@ msgstr "Prògram as ùire"
 msgid "last_on"
 msgstr "Air a chraoladh"
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr ""

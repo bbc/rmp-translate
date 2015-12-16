@@ -1011,6 +1011,10 @@ msgstr "شما در آخرین قسمت برنامه هستید"
 msgid "last_on"
 msgstr "آخرین برنامه"
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr "تازه ترین"

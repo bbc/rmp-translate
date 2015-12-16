@@ -1012,6 +1012,10 @@ msgstr "Tá tú ag an eagrán deireanach"
 msgid "last_on"
 msgstr "An craoladh is déanaí"
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr "Is déanaí"

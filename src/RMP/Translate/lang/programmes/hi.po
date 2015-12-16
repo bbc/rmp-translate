@@ -1010,6 +1010,10 @@ msgstr "आप अंतिम एपिसोड पर हैं"
 msgid "last_on"
 msgstr "अंतििम"
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr "ताज़ा"
