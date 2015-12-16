@@ -1016,6 +1016,10 @@ msgstr "Vous êtes au dernier épisode"
 msgid "last_on"
 msgstr "Dernièrement"
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr "Plus récent"

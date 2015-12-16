@@ -1017,6 +1017,10 @@ msgstr "Dyma'r rhifyn diwethaf"
 msgid "last_on"
 msgstr "Darllediad diwethaf"
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr "Diweddaraf"

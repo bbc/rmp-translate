@@ -1012,6 +1012,10 @@ msgstr "Umo kwenye makala ya mwisho"
 msgid "last_on"
 msgstr "Awali"
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr ""
