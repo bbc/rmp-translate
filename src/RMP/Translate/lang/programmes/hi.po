@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
+"Language: hi_IN\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hi_IN\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -1010,6 +1010,10 @@ msgstr "आप अंतिम एपिसोड पर हैं"
 msgid "last_on"
 msgstr "अंतिम"
 
+#. English: "Last played".
+msgid "last_played"
+msgstr ""
+
 #. English: "Latest".
 msgid "latest"
 msgstr "ताज़ा"
@@ -1360,6 +1364,10 @@ msgstr "इस इमेज को आप सेव, प्रिंट या �
 #. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_link"
 msgstr "क्यूआर कोड रीडर का इस्तेमाल करके पढ़े जाने पर ये कोड %1 के लिए बने पेज पर ले जाएगा"
+
+#. English: "Recently played".
+msgid "recently_played"
+msgstr ""
 
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".

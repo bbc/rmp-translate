@@ -1375,6 +1375,10 @@ msgstr ""
 "Ce code vous amènera à la page de %1 lorsqu'il sera lu avec un lecteur de "
 "code QR."
 
+#. English: "Recently played".
+msgid "recently_played"
+msgstr ""
+
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".
 #. English (2+ items): "Recipes".

@@ -1374,6 +1374,10 @@ msgid "qr_link"
 msgstr ""
 "Bydd y côd yn cysylltu â thudalen %1 trwy ddefnyddio darllenydd côd QR."
 
+#. English: "Recently played".
+msgid "recently_played"
+msgstr ""
+
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".
 #. English (2+ items): "Recipes".

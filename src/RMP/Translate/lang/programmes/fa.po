@@ -1367,6 +1367,10 @@ msgstr "شما می توانید این تصویر را ذخیره، چاپ یا
 msgid "qr_link"
 msgstr "این کد با استفاده از کد خوان کیو آر صفحه اینترنتی %1 را باز خواهد کرد."
 
+#. English: "Recently played".
+msgid "recently_played"
+msgstr ""
+
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".
 #. English (2+ items): "Recipes".

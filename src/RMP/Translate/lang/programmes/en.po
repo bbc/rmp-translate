@@ -1369,6 +1369,10 @@ msgid "qr_link"
 msgstr ""
 "This code will link to the page for %1 when read using a QR code reader."
 
+#. English: "Recently played".
+msgid "recently_played"
+msgstr "Recently played"
+
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".
 #. English (2+ items): "Recipes".

@@ -1365,6 +1365,10 @@ msgstr ""
 msgid "qr_link"
 msgstr ""
 
+#. English: "Recently played".
+msgid "recently_played"
+msgstr ""
+
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".
 #. English (2+ items): "Recipes".
