@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
-"Language: ar_SA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ar_SA\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -1789,6 +1789,10 @@ msgstr[2] "%1 ثواني"
 #. English: "e.g. "12s" for 12 seconds".
 msgid "time_seconds_short"
 msgstr "%1s"
+
+#. English: "All times stated are UK"
+msgid "times_are_uk"
+msgstr ""
 
 #. English: "Timings (where shown) are the time of the day".
 msgid "timings_start_of_day"

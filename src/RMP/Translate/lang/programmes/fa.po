@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Language: fa_IR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -1787,6 +1787,10 @@ msgstr[2] "%1 ثانیه"
 #. English: "%1s".
 #. English: "e.g. "12s" for 12 seconds".
 msgid "time_seconds_short"
+msgstr ""
+
+#. English: "All times stated are UK"
+msgid "times_are_uk"
 msgstr ""
 
 #. English: "Timings (where shown) are the time of the day".

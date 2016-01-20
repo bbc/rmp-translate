@@ -1784,6 +1784,10 @@ msgstr[2] ""
 msgid "time_seconds_short"
 msgstr ""
 
+#. English: "All times stated are UK"
+msgid "times_are_uk"
+msgstr ""
+
 #. English: "Timings (where shown) are the time of the day".
 msgid "timings_start_of_day"
 msgstr ""
