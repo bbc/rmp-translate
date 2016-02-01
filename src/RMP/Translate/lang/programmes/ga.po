@@ -1418,14 +1418,14 @@ msgstr[0] "Athchraoladh"
 msgstr[1] "Athchraoladh"
 msgstr[2] "Athchraoltaí"
 
-#. English: "Schedule begins on %1".
+#. English: "Broadcast schedule begins on %1".
 #. Example URL: http://www.bbc.co.uk/bbcone/programmes/schedules/london/1492/01/01 .
 #. %1 is a variable, which may contain the value: "Monday 1 October 2001"
 #. Priority for: Schedules
 msgid "schedule_begins_on"
 msgstr "Tosaíonn sceideal ar %1"
 
-#. English: "Schedule ended on %1".
+#. English: "Broadcast schedule ended on %1".
 #. Example URL: http://www.bbc.co.uk/radio7/programmes/schedules/2015/09/01 .
 #. %1 is a variable, which may contain the value: "Saturday 2 April 2011"
 #. Priority for: Schedules
