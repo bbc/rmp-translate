@@ -1748,42 +1748,42 @@ msgstr ""
 #. English (2+ items): "%1 hours".
 msgid "time_hours_long"
 msgid_plural "time_hours_long %count%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%1 uairean"
+msgstr[1] "%1 uair"
+msgstr[2] "%1 uairean"
 
 #. English: "%1h".
 #. e.g. "2h" for 2 hours.
 msgid "time_hours_short"
-msgstr ""
+msgstr "%1u"
 
 #. English (no items): "%1 minutes".
 #. English (one item): "%1 minute".
 #. English (2+ items): "%1 minutes".
 msgid "time_minutes_long"
 msgid_plural "time_minutes_long %count%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%1 mionaidean"
+msgstr[1] "%1 mhionaid"
+msgstr[2] "%1 mionaidean"
 
 #. English: "%1m".
 #. English: "e.g. "17m" for 17 minutes".
 msgid "time_minutes_short"
-msgstr ""
+msgstr "%1m"
 
 #. English (no items): "%1 seconds".
 #. English (one item): "%1 second".
 #. English (2+ items): "%1 seconds".
 msgid "time_seconds_long"
 msgid_plural "time_seconds_long %count%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%1 diogan"
+msgstr[1] "%1 diog"
+msgstr[2] "%1 diogan"
 
 #. English: "%1s".
 #. English: "e.g. "12s" for 12 seconds".
 msgid "time_seconds_short"
-msgstr ""
+msgstr "%1d"
 
 #. English: "All times stated are UK"
 msgid "times_are_uk"
@@ -1841,7 +1841,7 @@ msgstr ""
 
 #. English: "View all".
 msgid "view_all"
-msgstr ""
+msgstr "Uile"
 
 #. English: "View earlier today".
 msgid "view_earlier_today"
