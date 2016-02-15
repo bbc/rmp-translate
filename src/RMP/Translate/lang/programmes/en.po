@@ -1223,7 +1223,7 @@ msgstr "Page %1 of %2"
 msgid "played:"
 msgstr "Played:"
 
-#. English: "Add music you love and enjoy it with %1".
+#. English: "Add your favourite music to %1".
 msgid "playlister_tagline"
 msgstr "Add music you love and enjoy it with %1"
 
