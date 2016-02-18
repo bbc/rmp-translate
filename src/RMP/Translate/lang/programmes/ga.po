@@ -1372,7 +1372,7 @@ msgstr ""
 
 #. English: "Recently played".
 msgid "recently_played"
-msgstr ""
+msgstr "Seinnte le gairid"
 
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".

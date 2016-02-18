@@ -1365,7 +1365,7 @@ msgstr "Ceanglaidh an còd air an taobh chlì ri duilleag %1 le còd QR."
 
 #. English: "Recently played".
 msgid "recently_played"
-msgstr ""
+msgstr "Air a chluich o chionn gohirid"
 
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".

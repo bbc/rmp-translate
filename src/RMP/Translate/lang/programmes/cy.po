@@ -1376,7 +1376,7 @@ msgstr ""
 
 #. English: "Recently played".
 msgid "recently_played"
-msgstr ""
+msgstr "Chwaraewyd yn ddiweddar"
 
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".
