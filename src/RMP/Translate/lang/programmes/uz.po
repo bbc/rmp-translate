@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
+"Language: uz_UZ\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: uz_UZ\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -162,6 +162,11 @@ msgstr ""
 #. English: "This programme will be available shortly after broadcast".
 #. Priority for: Programmes
 msgid "available_shortly"
+msgstr ""
+
+#. English: "Back to iPlayer Radio".
+#. Priority for: Favourites
+msgid "back_to_iplayer_radio"
 msgstr ""
 
 #. English: "Back to top".
@@ -493,6 +498,11 @@ msgid_plural "episodes %count%"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+#. English: "Episodes and clips".
+#. Priority for: Favourites
+msgid "episodes_and_clips"
+msgstr ""
 
 #. English: "Episodes available:".
 msgid "episodes_available"
@@ -1119,6 +1129,11 @@ msgstr ""
 msgid "next_on"
 msgstr ""
 
+#. English: "No".
+#. Priority for: Favourites
+msgid "no"
+msgstr ""
+
 #. English: "Sorry there is currently no information".
 msgid "no_information"
 msgstr ""
@@ -1396,6 +1411,16 @@ msgstr[2] ""
 #. Example URL: http://www.bbc.co.uk/programmes/p027q949 (Hidden text for visually imapred users behind "1 October 2014")
 #. Priority for: Programmes
 msgid "release_date"
+msgstr ""
+
+#. English: "Remove".
+#. Priority for: Favourites
+msgid "remove"
+msgstr ""
+
+#. English: "Remove?".
+#. Priority for: Favourites
+msgid "remove?"
 msgstr ""
 
 #. English: "R".
@@ -1695,6 +1720,16 @@ msgstr ""
 msgid "show_more"
 msgstr ""
 
+#. English: "Show more added episodes and clips".
+#. Priority for: Favourites
+msgid "show_more_added_episodes_and_clips"
+msgstr ""
+
+#. English: "Show more added programmes".
+#. Priority for: Favourites
+msgid "show_more_added_programmes"
+msgstr ""
+
 #. English: "Signed".
 #. i.e. a broadcast in a sign language version
 #. Priority for: Programmes
@@ -1711,6 +1746,11 @@ msgstr ""
 #. Example URL: http://www.bbc.co.uk/radiobristol/programmes/schedules .
 #. Priority for: Schedules
 msgid "skip_to"
+msgstr ""
+
+#. English: "Sorry, something's gone wrong".
+#. Priority for: Favourites
+msgid "sorry_somethings_gone_wrong"
 msgstr ""
 
 #. English: "Sort by".
@@ -1851,6 +1891,12 @@ msgstr ""
 msgid "view_episodes"
 msgstr ""
 
+#. English: "%1 added".
+#. %1 is a variable, which may contain the value: "3".
+#. Priority for: Favourites
+msgid "x_added"
+msgstr ""
+
 #. English (no items): "No more".
 #. English (one item): "1 more".
 #. English (2+ items): "%count% more".
@@ -1896,6 +1942,11 @@ msgid_plural "x_total %count%"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+#. English: "Yes".
+#. Priority for: Favourites
+msgid "yes"
+msgstr ""
 
 #. English: "You may also like".
 msgid "you_might_also_like"

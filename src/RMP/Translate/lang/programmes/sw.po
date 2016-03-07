@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rmp\\translate programmes v1.0\n"
+"Language: sw_KE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sw_KE\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -163,6 +163,11 @@ msgstr "Katika iPlayer"
 #. Priority for: Programmes
 msgid "available_shortly"
 msgstr "Kipindi hiki kitapatikana punde tu baada ya kupeperushwa"
+
+#. English: "Back to iPlayer Radio".
+#. Priority for: Favourites
+msgid "back_to_iplayer_radio"
+msgstr ""
 
 #. English: "Back to top".
 #. Example URL: http://www.bbc.co.uk/radio3/programmes/schedules .
@@ -493,6 +498,11 @@ msgid_plural "episodes %count%"
 msgstr[0] "Makala"
 msgstr[1] "Makala"
 msgstr[2] "Makala"
+
+#. English: "Episodes and clips".
+#. Priority for: Favourites
+msgid "episodes_and_clips"
+msgstr ""
 
 #. English: "Episodes available:".
 msgid "episodes_available"
@@ -1121,6 +1131,11 @@ msgstr "Inayofuata"
 msgid "next_on"
 msgstr "Inayofuata katika"
 
+#. English: "No".
+#. Priority for: Favourites
+msgid "no"
+msgstr ""
+
 #. English: "Sorry there is currently no information".
 msgid "no_information"
 msgstr ""
@@ -1399,6 +1414,16 @@ msgstr[2] "Viunganishi vinavyohusiana"
 #. Priority for: Programmes
 msgid "release_date"
 msgstr "Tarehe ya kutolewa: %1"
+
+#. English: "Remove".
+#. Priority for: Favourites
+msgid "remove"
+msgstr ""
+
+#. English: "Remove?".
+#. Priority for: Favourites
+msgid "remove?"
+msgstr ""
 
 #. English: "R".
 msgid "repeat_abbr"
@@ -1697,6 +1722,16 @@ msgstr ""
 msgid "show_more"
 msgstr ""
 
+#. English: "Show more added episodes and clips".
+#. Priority for: Favourites
+msgid "show_more_added_episodes_and_clips"
+msgstr ""
+
+#. English: "Show more added programmes".
+#. Priority for: Favourites
+msgid "show_more_added_programmes"
+msgstr ""
+
 #. English: "Signed".
 #. i.e. a broadcast in a sign language version
 #. Priority for: Programmes
@@ -1714,6 +1749,11 @@ msgstr "Vipindi vinavyokaribiana"
 #. Priority for: Schedules
 msgid "skip_to"
 msgstr "Ruka hadi"
+
+#. English: "Sorry, something's gone wrong".
+#. Priority for: Favourites
+msgid "sorry_somethings_gone_wrong"
+msgstr ""
 
 #. English: "Sort by".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
@@ -1853,6 +1893,12 @@ msgstr ""
 msgid "view_episodes"
 msgstr ""
 
+#. English: "%1 added".
+#. %1 is a variable, which may contain the value: "3".
+#. Priority for: Favourites
+msgid "x_added"
+msgstr ""
+
 #. English (no items): "No more".
 #. English (one item): "1 more".
 #. English (2+ items): "%count% more".
@@ -1898,6 +1944,11 @@ msgid_plural "x_total %count%"
 msgstr[0] "Hakuna jumla"
 msgstr[1] "1 jumla"
 msgstr[2] "%1 jumla"
+
+#. English: "Yes".
+#. Priority for: Favourites
+msgid "yes"
+msgstr ""
 
 #. English: "You may also like".
 msgid "you_might_also_like"

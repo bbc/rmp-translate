@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
+"Language: fa_IR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fa_IR\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
 #. English: "All".
@@ -162,6 +162,11 @@ msgstr "در آی‌پلیر"
 #. Priority for: Programmes
 msgid "available_shortly"
 msgstr "این برنامه مدت کوتاهی بعد از پخس قابل دسترسی خواهد بود"
+
+#. English: "Back to iPlayer Radio".
+#. Priority for: Favourites
+msgid "back_to_iplayer_radio"
+msgstr ""
 
 #. English: "Back to top".
 #. Example URL: http://www.bbc.co.uk/radio3/programmes/schedules .
@@ -492,6 +497,11 @@ msgid_plural "episodes %count%"
 msgstr[0] "قسمت‌ها"
 msgstr[1] "قسمت"
 msgstr[2] "قسمت‌ها"
+
+#. English: "Episodes and clips".
+#. Priority for: Favourites
+msgid "episodes_and_clips"
+msgstr ""
 
 #. English: "Episodes available:".
 msgid "episodes_available"
@@ -1120,6 +1130,11 @@ msgstr "بعدی"
 msgid "next_on"
 msgstr "بعدی"
 
+#. English: "No".
+#. Priority for: Favourites
+msgid "no"
+msgstr ""
+
 #. English: "Sorry there is currently no information".
 msgid "no_information"
 msgstr "متأسفانه فعلا اطلاعاتی موجود نیست"
@@ -1401,6 +1416,16 @@ msgstr[2] "لینک‌های مرتبط"
 #. Priority for: Programmes
 msgid "release_date"
 msgstr "تاریخ انتشار: %1"
+
+#. English: "Remove".
+#. Priority for: Favourites
+msgid "remove"
+msgstr ""
+
+#. English: "Remove?".
+#. Priority for: Favourites
+msgid "remove?"
+msgstr ""
 
 #. English: "R".
 msgid "repeat_abbr"
@@ -1699,6 +1724,16 @@ msgstr "کمتر"
 msgid "show_more"
 msgstr "بیشتر"
 
+#. English: "Show more added episodes and clips".
+#. Priority for: Favourites
+msgid "show_more_added_episodes_and_clips"
+msgstr ""
+
+#. English: "Show more added programmes".
+#. Priority for: Favourites
+msgid "show_more_added_programmes"
+msgstr ""
+
 #. English: "Signed".
 #. i.e. a broadcast in a sign language version
 #. Priority for: Programmes
@@ -1716,6 +1751,11 @@ msgstr "برنامه‌های مشابه"
 #. Priority for: Schedules
 msgid "skip_to"
 msgstr "رفتن به"
+
+#. English: "Sorry, something's gone wrong".
+#. Priority for: Favourites
+msgid "sorry_somethings_gone_wrong"
+msgstr ""
 
 #. English: "Sort by".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
@@ -1857,6 +1897,12 @@ msgstr "مشاهده برنامه‌های قبلی امروز"
 msgid "view_episodes"
 msgstr "مشاهده قسمت‌های برنامه"
 
+#. English: "%1 added".
+#. %1 is a variable, which may contain the value: "3".
+#. Priority for: Favourites
+msgid "x_added"
+msgstr ""
+
 #. English (no items): "No more".
 #. English (one item): "1 more".
 #. English (2+ items): "%count% more".
@@ -1902,6 +1948,11 @@ msgid_plural "x_total %count%"
 msgstr[0] "مجموعا ۰ برنامه"
 msgstr[1] "مجموعا یک برنامه"
 msgstr[2] "مجموعا %1 برنامه"
+
+#. English: "Yes".
+#. Priority for: Favourites
+msgid "yes"
+msgstr ""
 
 #. English: "You may also like".
 msgid "you_might_also_like"
