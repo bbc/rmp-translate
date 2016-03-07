@@ -1905,7 +1905,7 @@ msgstr "Féach eagráin"
 #. %1 is a variable, which may contain the value: "3".
 #. Priority for: Favourites
 msgid "x_added"
-msgstr "%i Curtha Leis"
+msgstr "%1 Curtha Leis"
 
 #. English (no items): "No more".
 #. English (one item): "1 more".
