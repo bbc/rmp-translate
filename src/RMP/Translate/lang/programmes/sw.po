@@ -481,6 +481,10 @@ msgstr "Samahani, makala hii haipatikani tena katika BBC iPlayer Radio"
 msgid "episode_guide"
 msgstr ""
 
+#. English: "This episode is related to %1".
+msgid "episode_is_related_to"
+msgstr ""
+
 #. English: "Episode %1 of %2".
 #. Example URL: http://www.bbc.co.uk/programmes/b04nv6kr .
 #. %1 is a variable, which may contain the value: "3".

@@ -482,6 +482,10 @@ msgstr "عذرا، هذه الحلقة لم تعد متاحة على BBC iPlayer
 msgid "episode_guide"
 msgstr "مرشد الحلقات"
 
+#. English: "This episode is related to %1".
+msgid "episode_is_related_to"
+msgstr ""
+
 #. English: "Episode %1 of %2".
 #. Example URL: http://www.bbc.co.uk/programmes/b04nv6kr .
 #. %1 is a variable, which may contain the value: "3".
