@@ -102,6 +102,9 @@ msgstr ""
 
 The comment should contain the full english translation and is needed as guidance for translators in other languages.
 
+**msgid can only contain the characters [A-Za-z0-9_:-].** This is a limitation of our translate-tool app and not the PO file
+format itself.
+
 Entries in the template file **should be in alphabetical order**. This is so
 that we can reduce the potential for merge noise, allowing us to focus on
 specific changes rather than automatic re-ordering. You must either add your
