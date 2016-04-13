@@ -106,7 +106,7 @@ Entries in the template file **should be in alphabetical order**. This is so
 that we can reduce the potential for merge noise, allowing us to focus on
 specific changes rather than automatic re-ordering. You must either add your
 entries in the correct order, or add them all at the bottom, then run
-`script/alphabetiseAllTranslations.sh` to move them into the correct ordering.
+`scripts/alphabetiseAllTranslations.sh` to move them into the correct ordering.
 
 After saving the template file, run `scripts/updateTranslationsFromTemplate.sh`
 to add the new entries to all translation files.

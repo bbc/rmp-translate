@@ -108,6 +108,11 @@ msgstr "%1सभी%2 देखिए"
 msgid "atoz_trycurrent"
 msgstr "%1मौजूदा%2 देखिए"
 
+#. English: "Audio"
+#. Example URL: http://www.bbc.co.uk/programmes/topics/Political_philosophy .
+msgid "audio"
+msgstr ""
+
 #. English: "Audio described".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b0693y9r .
@@ -253,6 +258,11 @@ msgstr "फ़ॉर्मेट के अनुसार"
 #. Priority for: Programmes
 msgid "by_genre"
 msgstr "शैली के अनुसार"
+
+#. English: "By topic"
+#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/episodes/topics .
+msgid "by_topic"
+msgstr ""
 
 #. English (no items): "Categories".
 #. English (one item): "Category".
@@ -1408,6 +1418,11 @@ msgstr[0] "संबंधित लिंक्स"
 msgstr[1] "संबंधित लिंक्स"
 msgstr[2] "संबंधित लिंक्स"
 
+#. English: "Related topics"
+#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
+msgid "related_topics"
+msgstr ""
+
 #. English: "Release date: %1".
 #. %1 is a variable, which may contain the value: "1 October 2014"
 #. Example URL: http://www.bbc.co.uk/programmes/p027q949 (Hidden text for visually imapred users behind "1 October 2014")
@@ -1690,6 +1705,11 @@ msgstr "%1 के सभी पूर्वप्रसारित एपिस
 msgid "see_all_recipes_from"
 msgstr ""
 
+#. English: "See all topics for %1".
+#. Example URL: http://www.bbc.co.uk/programmes/b006qykl .
+msgid "see_all_topics_for"
+msgstr ""
+
 #. English: "See all upcoming broadcasts of %1".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d (Mouse over "All upcoming" text)
 #. %1 is a variable, which may contain the value: "Eastenders".
@@ -1772,6 +1792,11 @@ msgstr "सब्सक्राइब"
 msgid "subscribe_to_podcast"
 msgstr "पॉडकास्ट के लिए सब्सक्राइब करें"
 
+#. English: "Suggested episodes"
+#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
+msgid "suggested_episodes"
+msgstr ""
+
 #. English (no items): "There are currently no available episodes tagged with %1".
 #. English (one item): "There is currently 1 available episode tagged with %1".
 #. English (2+ items): "There are currently %count% available episodes tagged with %1".
@@ -1839,6 +1864,11 @@ msgstr "समय (जहाँ दर्शाया गया हो) अभ�
 msgid "timings_start_of_programme"
 msgstr "समय (जहाँ दर्शाया गया हो) कार्यक्रम की शुरुआत से घंटे और मिनट में है"
 
+#. English: "Top topics for this programme"
+#. Example URL: http://www.bbc.co.uk/programmes/b006qykl .
+msgid "top_topics"
+msgstr ""
+
 #. English (no items): "Topics".
 #. English (one item): "Topic".
 #. English (2+ items): "Topics".
@@ -1880,6 +1910,11 @@ msgstr "अभी अँग्रेज़ी अनुवाद उपलब्
 #. English: "weekly".
 msgid "updated_weekly"
 msgstr "साप्ताहिक"
+
+#. English: "Video"
+#. Example URL: http://www.bbc.co.uk/programmes/topics/Political_philosophy .
+msgid "video"
+msgstr ""
 
 #. English: "View all".
 msgid "view_all"
