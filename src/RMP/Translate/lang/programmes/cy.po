@@ -1049,7 +1049,7 @@ msgstr ""
 msgid "latest"
 msgstr "Diweddaraf"
 
-#. English: "Latest Episode".
+#. English: "Latest episode".
 msgid "latest_episode"
 msgstr "Pennod Ddiweddaraf"
 

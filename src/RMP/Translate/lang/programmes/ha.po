@@ -1043,7 +1043,7 @@ msgstr ""
 msgid "latest"
 msgstr ""
 
-#. English: "Latest Episode".
+#. English: "Latest episode".
 msgid "latest_episode"
 msgstr ""
 

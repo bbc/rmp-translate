@@ -1048,7 +1048,7 @@ msgstr ""
 msgid "latest"
 msgstr "Plus récent"
 
-#. English: "Latest Episode".
+#. English: "Latest episode".
 msgid "latest_episode"
 msgstr ""
 
