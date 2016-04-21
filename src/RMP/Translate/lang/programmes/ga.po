@@ -1044,7 +1044,7 @@ msgstr ""
 msgid "latest"
 msgstr "Is déanaí"
 
-#. English: "Latest Episode".
+#. English: "Latest episode".
 msgid "latest_episode"
 msgstr "Eagrán is déanaí"
 
