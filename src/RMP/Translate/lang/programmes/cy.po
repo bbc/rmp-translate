@@ -1049,6 +1049,10 @@ msgstr ""
 msgid "latest"
 msgstr "Diweddaraf"
 
+#. English: "Latest episode".
+msgid "latest_episode"
+msgstr "Pennod ddiweddaraf"
+
 #. English: "Listen in pop-out player".
 #. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) .
 #. Priority for: Programmes
