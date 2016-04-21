@@ -1042,6 +1042,10 @@ msgstr ""
 msgid "latest"
 msgstr ""
 
+#. English: "Latest Episode".
+msgid "latest_episode"
+msgstr "Prògram as ùire"
+
 #. English: "Listen in pop-out player".
 #. Example URL: http://www.bbc.co.uk/programmes/b04t0vqb (mouse over the icon underneath the episode title to see the text) .
 #. Priority for: Programmes
