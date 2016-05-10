@@ -1176,7 +1176,7 @@ msgstr ""
 #. Priority for: Programmes
 #. Priority for: Schedules
 msgid "on_air"
-msgstr ""
+msgstr "Air an-dràsta"
 
 #. English: "On demand".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
