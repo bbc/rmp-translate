@@ -572,7 +572,7 @@ msgstr ""
 
 #. English: "Full schedule".
 msgid "full_schedule"
-msgstr ""
+msgstr "Clàr Slàn"
 
 #. English (no items): "Galleries".
 #. English (one item): "Gallery".
@@ -639,7 +639,7 @@ msgstr ""
 #. Priority for: Programmes
 #. Priority for: Schedules
 msgid "iplayer_listen_live"
-msgstr ""
+msgstr "Èist Beò"
 
 #. English: "Listen now".
 #. Priority for: Programmes
