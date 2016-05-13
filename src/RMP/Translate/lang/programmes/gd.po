@@ -1441,11 +1441,6 @@ msgstr ""
 msgid "remove"
 msgstr "Dubh às"
 
-#. English: "Remove?".
-#. Priority for: Favourites
-msgid "remove?"
-msgstr "Dubh às?"
-
 #. English: "R".
 msgid "repeat_abbr"
 msgstr ""

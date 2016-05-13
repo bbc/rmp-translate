@@ -1447,11 +1447,6 @@ msgstr "Release date: %1"
 msgid "remove"
 msgstr "Remove"
 
-#. English: "Remove?".
-#. Priority for: Favourites
-msgid "remove?"
-msgstr "Remove?"
-
 #. English: "R".
 msgid "repeat_abbr"
 msgstr "R"
