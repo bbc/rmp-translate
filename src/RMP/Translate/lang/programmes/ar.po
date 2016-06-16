@@ -1418,6 +1418,11 @@ msgstr[2] ""
 msgid "recommendations_noresults"
 msgstr "عذرا، لا يوجد توصيات على هذا البرنامج."
 
+#. English: "Related episodes"
+#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
+msgid "related_episodes"
+msgstr ""
+
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".
@@ -1797,11 +1802,6 @@ msgstr "اشتراك"
 #. English: "Subscribe to podcast".
 msgid "subscribe_to_podcast"
 msgstr "Subscribe to podcast"
-
-#. English: "Suggested episodes"
-#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
-msgid "suggested_episodes"
-msgstr ""
 
 #. English (no items): "There are currently no available episodes tagged with %1".
 #. English (one item): "There is currently 1 available episode tagged with %1".
