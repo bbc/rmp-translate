@@ -260,11 +260,6 @@ msgstr "Ta salo"
 msgid "by_genre"
 msgstr "Ta jigo"
 
-#. English: "By topic"
-#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/episodes/topics .
-msgid "by_topic"
-msgstr ""
-
 #. English (no items): "Categories".
 #. English (one item): "Category".
 #. English (2+ items): "Categories".
@@ -1414,11 +1409,6 @@ msgstr[2] ""
 msgid "recommendations_noresults"
 msgstr ""
 
-#. English: "Related episodes"
-#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
-msgid "related_episodes"
-msgstr ""
-
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".
@@ -1429,6 +1419,11 @@ msgid_plural "related_links %count%"
 msgstr[0] "Shirye-shirye masu alaka"
 msgstr[1] "Shiri mai alaka"
 msgstr[2] "Shirye-shirye masu alaka"
+
+#. English: "Related programmes"
+#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
+msgid "related_programmes"
+msgstr ""
 
 #. English: "Related topics"
 #. Example URL: http://www.bbc.co.uk/programmes/p0054631 .

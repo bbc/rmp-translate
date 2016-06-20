@@ -259,11 +259,6 @@ msgstr "De réir formáide"
 msgid "by_genre"
 msgstr "De réir seánra"
 
-#. English: "By topic"
-#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/episodes/topics .
-msgid "by_topic"
-msgstr ""
-
 #. English (no items): "Categories".
 #. English (one item): "Category".
 #. English (2+ items): "Categories".
@@ -1420,11 +1415,6 @@ msgstr[2] ""
 msgid "recommendations_noresults"
 msgstr ""
 
-#. English: "Related episodes"
-#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
-msgid "related_episodes"
-msgstr ""
-
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".
@@ -1435,6 +1425,11 @@ msgid_plural "related_links %count%"
 msgstr[0] "Naisc ghaolmhara"
 msgstr[1] "Nasc gaolmhar"
 msgstr[2] "Nasc gaolmhar"
+
+#. English: "Related programmes"
+#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
+msgid "related_programmes"
+msgstr ""
 
 #. English: "Related topics"
 #. Example URL: http://www.bbc.co.uk/programmes/p0054631 .

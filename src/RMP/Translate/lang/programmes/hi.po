@@ -259,11 +259,6 @@ msgstr "फ़ॉर्मेट के अनुसार"
 msgid "by_genre"
 msgstr "शैली के अनुसार"
 
-#. English: "By topic"
-#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/episodes/topics .
-msgid "by_topic"
-msgstr ""
-
 #. English (no items): "Categories".
 #. English (one item): "Category".
 #. English (2+ items): "Categories".
@@ -1415,11 +1410,6 @@ msgstr[2] ""
 msgid "recommendations_noresults"
 msgstr "क्षमा कीजिए, इस कार्यक्रम के लिए कोई सुझाव नहीं है"
 
-#. English: "Related episodes"
-#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
-msgid "related_episodes"
-msgstr ""
-
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".
@@ -1430,6 +1420,11 @@ msgid_plural "related_links %count%"
 msgstr[0] "संबंधित लिंक्स"
 msgstr[1] "संबंधित लिंक्स"
 msgstr[2] "संबंधित लिंक्स"
+
+#. English: "Related programmes"
+#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
+msgid "related_programmes"
+msgstr ""
 
 #. English: "Related topics"
 #. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
