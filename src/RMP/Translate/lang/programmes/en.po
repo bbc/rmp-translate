@@ -259,11 +259,6 @@ msgstr "By format"
 msgid "by_genre"
 msgstr "By genre"
 
-#. English: "By topic"
-#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/episodes/topics .
-msgid "by_topic"
-msgstr "By topic"
-
 #. English (no items): "Categories".
 #. English (one item): "Category".
 #. English (2+ items): "Categories".
@@ -1419,11 +1414,6 @@ msgstr[2] "Recipes"
 msgid "recommendations_noresults"
 msgstr "Sorry, there are no recommendations for this programme."
 
-#. English: "Related episodes"
-#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
-msgid "related_episodes"
-msgstr "Related episodes"
-
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".
@@ -1434,6 +1424,11 @@ msgid_plural "related_links %count%"
 msgstr[0] "Related Links"
 msgstr[1] "Related Link"
 msgstr[2] "Related Links"
+
+#. English: "Related programmes"
+#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
+msgid "related_programmes"
+msgstr "Related programmes"
 
 #. English: "Related topics"
 #. Example URL: http://www.bbc.co.uk/programmes/p0054631 .

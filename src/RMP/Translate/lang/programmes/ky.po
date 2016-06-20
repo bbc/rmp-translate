@@ -259,11 +259,6 @@ msgstr "Формат боюнча"
 msgid "by_genre"
 msgstr "Жанр боюнча"
 
-#. English: "By topic"
-#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/episodes/topics .
-msgid "by_topic"
-msgstr ""
-
 #. English (no items): "Categories".
 #. English (one item): "Category".
 #. English (2+ items): "Categories".
@@ -1414,11 +1409,6 @@ msgstr[2] ""
 msgid "recommendations_noresults"
 msgstr ""
 
-#. English: "Related episodes"
-#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
-msgid "related_episodes"
-msgstr ""
-
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".
@@ -1429,6 +1419,11 @@ msgid_plural "related_links %count%"
 msgstr[0] "Тектеш шилтемелер"
 msgstr[1] "Тектеш шилтемелер"
 msgstr[2] "Тектеш шилтемелер"
+
+#. English: "Related programmes"
+#. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
+msgid "related_programmes"
+msgstr ""
 
 #. English: "Related topics"
 #. Example URL: http://www.bbc.co.uk/programmes/p0054631 .
