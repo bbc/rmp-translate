@@ -10,8 +10,15 @@ fi
 
 SCRIPTPATH=$( cd $(dirname $0) ; pwd -P )
 
-TRPATH="${SCRIPTPATH}/../src/RMP/Translate/lang/programmes"
+DOMAINS=("programmes" "music")
 
-for i in `ls "$TRPATH"/*.po`; do
-    msgmerge -N --backup=none -U $i "${TRPATH}/programmes.pot"
+for DOMAIN in "${DOMAINS[@]}"
+do
+
+    TRPATH="${SCRIPTPATH}/../src/RMP/Translate/lang/${DOMAIN}"
+
+    for i in `ls "$TRPATH"/*.po`; do
+        msgmerge -N --backup=none -U $i "${TRPATH}/${DOMAIN}.pot"
+    done
+
 done

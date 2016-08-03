@@ -2,7 +2,14 @@
 
 SCRIPTPATH=$( cd $(dirname $0) ; pwd -P )
 
-TRPATH="${SCRIPTPATH}/../src/RMP/Translate/lang/programmes"
+DOMAINS=("programmes" "music")
 
-$SCRIPTPATH/converters/poFileSorter.php "${TRPATH}/programmes.pot" "${TRPATH}/programmes.pot"
-$SCRIPTPATH/updateTranslationsFromTemplate.sh
+for DOMAIN in "${DOMAINS[@]}"
+do
+
+    TRPATH="${SCRIPTPATH}/../src/RMP/Translate/lang/${DOMAIN}"
+
+    $SCRIPTPATH/converters/poFileSorter.php "${TRPATH}/${DOMAIN}.pot" "${TRPATH}/${DOMAIN}.pot"
+    $SCRIPTPATH/updateTranslationsFromTemplate.sh
+
+done

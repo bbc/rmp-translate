@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rmp\\translate music v1.0\n"
+"Language: en_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
+
+#. English: "Added".
+msgid "added"
+msgstr "Added"
+
+#. English: "Because you added".
+msgid "because_you_added"
+msgstr "Because you added"
+
+#. English: "by".
+msgid "by"
+msgstr "by"
+
+#. English (no items): "%count% times this week".
+#. English (one item): "%count% time this week".
+#. English (2+ items): "%count% times this week".
+msgid "times_this_week"
+msgid_plural "times_this_week %count%"
+msgstr[0] "times this week"
+msgstr[1] "time this week"
+msgstr[2] "times this week"
