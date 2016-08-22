@@ -109,9 +109,9 @@ Entries in the template file **should be in alphabetical order**. This is so
 that we can reduce the potential for merge noise, allowing us to focus on
 specific changes rather than automatic re-ordering. You must either add your
 entries in the correct order, or add them all at the bottom, then run
-`scripts/alphabetiseAllTranslations.sh` to move them into the correct ordering.
+`scripts/alphabetiseAllTranslations.sh programmes` to move them into the correct ordering.
 
-After saving the template file, run `scripts/updateTranslationsFromTemplate.sh`
+After saving the template file, run `scripts/updateTranslationsFromTemplate.sh programmes`
 to add the new entries to all translation files.
 Then edit the en.po file and Add your english translation
 ```
@@ -124,14 +124,14 @@ Finally commit and run a composer update in your target application.
 
 #### To remove an entry:
 
-Remove the entry from the programmes.pot template and run `scripts/updateTranslationsFromTemplate.sh`
+Remove the entry from the programmes.pot template and run `scripts/updateTranslationsFromTemplate.sh programmes`
 
 ### Updating translation files with new translations (supplied by a translator in .po format)
 There's a script that does most of this for you "updateLanguageFromSuppliedPO.sh".
 For example, to update the Welsh translation file (language code "cy") from a new file supplied
 by a translator, you would run
 ```
-./scripts/updateLanguageFromSuppliedPO.sh ~/Downloads/new-translations-cy_GB.po cy
+./scripts/updateLanguageFromSuppliedPO.sh ~/Downloads/new-translations-cy_GB.po programmes cy
 ```
 
 Once you've done that, you'll probably want to run a diff to check everything's OK and remove any superfluous
