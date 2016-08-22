@@ -8,17 +8,15 @@ if [ -z "$MSGMERGE" ]; then
     exit 1
 fi
 
+if [ -z "$1" ]; then
+    echo "Usage: updateTranslationsFromTemplate.sh programmes"
+    exit
+fi
+
 SCRIPTPATH=$( cd $(dirname $0) ; pwd -P )
 
-DOMAINS=("programmes" "music")
+TRPATH="${SCRIPTPATH}/../src/RMP/Translate/lang/${1}"
 
-for DOMAIN in "${DOMAINS[@]}"
-do
-
-    TRPATH="${SCRIPTPATH}/../src/RMP/Translate/lang/${DOMAIN}"
-
-    for i in `ls "$TRPATH"/*.po`; do
-        msgmerge -N --backup=none -U $i "${TRPATH}/${DOMAIN}.pot"
-    done
-
+for i in `ls "$TRPATH"/*.po`; do
+    msgmerge -N --backup=none -U $i "${TRPATH}/${1}.pot"
 done

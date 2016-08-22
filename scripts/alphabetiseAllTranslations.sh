@@ -1,15 +1,13 @@
 #!/bin/bash
 
+if [ -z "$1" ]; then
+    echo "Usage: alphabetiseAllTranslations.sh programmes"
+    exit
+fi
+
 SCRIPTPATH=$( cd $(dirname $0) ; pwd -P )
 
-DOMAINS=("programmes" "music")
+TRPATH="${SCRIPTPATH}/../src/RMP/Translate/lang/${1}"
 
-for DOMAIN in "${DOMAINS[@]}"
-do
-
-    TRPATH="${SCRIPTPATH}/../src/RMP/Translate/lang/${DOMAIN}"
-
-    $SCRIPTPATH/converters/poFileSorter.php "${TRPATH}/${DOMAIN}.pot" "${TRPATH}/${DOMAIN}.pot"
-    $SCRIPTPATH/updateTranslationsFromTemplate.sh
-
-done
+$SCRIPTPATH/converters/poFileSorter.php "${TRPATH}/${1}.pot" "${TRPATH}/${1}.pot"
+$SCRIPTPATH/updateTranslationsFromTemplate.sh "${1}"
