@@ -6,6 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
+#. English: "Added".
+#. Used by: NHP -> MyRadioHeader
+msgid "added"
+msgstr "Ychwanegwyd"
+
 #. English: "All".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/a-z/by/%40/current .
 msgid "all"
@@ -559,6 +564,11 @@ msgstr "Hidlo yn ôl"
 msgid "first_episode"
 msgstr "Dyma'r rhifyn cyntaf"
 
+#. English: "Following".
+#. Used by: NHP -> MyRadioHeader
+msgid "following"
+msgstr "Yn Dilyn"
+
 #. English (no items): "Formats".
 #. English (one item): "Format".
 #. English (2+ items): "Formats".
@@ -1024,6 +1034,11 @@ msgstr "Welsh"
 msgid "last"
 msgstr "Diwethaf"
 
+#. English: "Last Chance".
+#. Used by: NHP -> MyRadioHeader
+msgid "last_chance"
+msgstr "Cyfle Olaf"
+
 #. English: "You are at the last episode".
 #. Example URL: http://www.bbc.co.uk/programmes/b04ph4cn
 #. Priority for: Programmes
@@ -1053,6 +1068,11 @@ msgstr "Pennod ddiweddaraf"
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr "Chwaraewr mewn ffenest fach"
+
+#. English: "Listen List".
+#. Used by: NHP -> MyRadioHeader
+msgid "listen_list"
+msgstr "Rhestr Wrando"
 
 #. English: "Live".
 #. Example URL: http://www.bbc.co.uk/programmes/b01s8mnj/live .
@@ -1230,6 +1250,11 @@ msgstr "Dros %1 mun yn ôl"
 #. Priority for: Rich Tracks
 msgid "over_seconds_ago_short"
 msgstr "Dros %1 eiliad yn ôl"
+
+#. English: "Overview".
+#. Used by: NHP -> MyRadioHeader
+msgid "overview"
+msgstr "Trosolwg"
 
 #. English: "Page not found".
 msgid "page_not_found"

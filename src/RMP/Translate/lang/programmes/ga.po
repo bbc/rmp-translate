@@ -6,6 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
+#. English: "Added".
+#. Used by: NHP -> MyRadioHeader
+msgid "added"
+msgstr "Curtha Leis"
+
 #. English: "All".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/a-z/by/%40/current .
 msgid "all"
@@ -554,6 +559,11 @@ msgstr ""
 msgid "first_episode"
 msgstr "Seo an chéad eagrán"
 
+#. English: "Following".
+#. Used by: NHP -> MyRadioHeader
+msgid "following"
+msgstr "Á Leanúint Agat"
+
 #. English (no items): "Formats".
 #. English (one item): "Format".
 #. English (2+ items): "Formats".
@@ -1019,6 +1029,11 @@ msgstr "Irish Gaelic"
 msgid "last"
 msgstr "Deireanach"
 
+#. English: "Last Chance".
+#. Used by: NHP -> MyRadioHeader
+msgid "last_chance"
+msgstr "Deis Dheireanach"
+
 #. English: "You are at the last episode".
 #. Example URL: http://www.bbc.co.uk/programmes/b04ph4cn
 #. Priority for: Programmes
@@ -1048,6 +1063,11 @@ msgstr "Eagrán is déanaí"
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr "Éist i bhfuinneog eile"
+
+#. English: "Listen List".
+#. Used by: NHP -> MyRadioHeader
+msgid "listen_list"
+msgstr "Liosta Éisteachta"
 
 #. English: "Live".
 #. Example URL: http://www.bbc.co.uk/programmes/b01s8mnj/live .
@@ -1225,6 +1245,11 @@ msgstr "Níos mó ná %1n ó shin"
 #. Priority for: Rich Tracks
 msgid "over_seconds_ago_short"
 msgstr "Níos mó ná %1s ó shin"
+
+#. English: "Overview".
+#. Used by: NHP -> MyRadioHeader
+msgid "overview"
+msgstr "Forléargas"
 
 #. English: "Page not found".
 msgid "page_not_found"
