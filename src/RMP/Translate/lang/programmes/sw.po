@@ -6,6 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
+#. English: "Added".
+#. Used by: NHP -> MyRadioHeader
+msgid "added"
+msgstr ""
+
 #. English: "All".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/a-z/by/%40/current .
 msgid "all"
@@ -554,6 +559,11 @@ msgstr ""
 msgid "first_episode"
 msgstr "Umo kwenye makala ya kwanza"
 
+#. English: "Following".
+#. Used by: NHP -> MyRadioHeader
+msgid "following"
+msgstr ""
+
 #. English (no items): "Formats".
 #. English (one item): "Format".
 #. English (2+ items): "Formats".
@@ -1019,6 +1029,11 @@ msgstr "Swahili"
 msgid "last"
 msgstr ""
 
+#. English: "Last Chance".
+#. Used by: NHP -> MyRadioHeader
+msgid "last_chance"
+msgstr ""
+
 #. English: "You are at the last episode".
 #. Example URL: http://www.bbc.co.uk/programmes/b04ph4cn
 #. Priority for: Programmes
@@ -1036,6 +1051,7 @@ msgid "last_played"
 msgstr ""
 
 #. English: "Latest".
+#. Used by: NHP -> MyRadioHeader
 msgid "latest"
 msgstr ""
 
@@ -1048,6 +1064,11 @@ msgstr ""
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr "Sikiliza katika kicheza sauti kinachochomoza"
+
+#. English: "Listen List".
+#. Used by: NHP -> MyRadioHeader
+msgid "listen_list"
+msgstr ""
 
 #. English: "Live".
 #. Example URL: http://www.bbc.co.uk/programmes/b01s8mnj/live .
@@ -1225,6 +1246,11 @@ msgstr "Zaidi ya dakika %1 zilizopita"
 #. Priority for: Rich Tracks
 msgid "over_seconds_ago_short"
 msgstr "Zaidi ya sekunde %1 zilizopita"
+
+#. English: "Overview".
+#. Used by: NHP -> MyRadioHeader
+msgid "overview"
+msgstr ""
 
 #. English: "Page not found".
 msgid "page_not_found"

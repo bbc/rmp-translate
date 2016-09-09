@@ -1049,6 +1049,7 @@ msgid "last_played"
 msgstr ""
 
 #. English: "Latest".
+#. Used by: NHP -> MyRadioHeader
 msgid "latest"
 msgstr "As ùire"
 
