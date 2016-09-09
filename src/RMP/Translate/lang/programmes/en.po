@@ -6,6 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
+#. English: "Added".
+#. Used by: NHP -> MyRadioHeader
+msgid "added"
+msgstr ""
+
 #. English: "All".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/a-z/by/%40/current .
 msgid "all"
@@ -554,6 +559,11 @@ msgstr "Filter by"
 msgid "first_episode"
 msgstr "You are at the first episode"
 
+#. English: "Following".
+#. Used by: NHP -> MyRadioHeader
+msgid "following"
+msgstr ""
+
 #. English (no items): "Formats".
 #. English (one item): "Format".
 #. English (2+ items): "Formats".
@@ -1019,6 +1029,11 @@ msgstr "English (UK)"
 msgid "last"
 msgstr "Last"
 
+#. English: "Last Chance".
+#. Used by: NHP -> MyRadioHeader
+msgid "last_chance"
+msgstr ""
+
 #. English: "You are at the last episode".
 #. Example URL: http://www.bbc.co.uk/programmes/b04ph4cn
 #. Priority for: Programmes
@@ -1036,6 +1051,7 @@ msgid "last_played"
 msgstr "Last Played"
 
 #. English: "Latest".
+#. Used by: NHP -> MyRadioHeader
 msgid "latest"
 msgstr "Latest"
 
@@ -1048,6 +1064,11 @@ msgstr "Latest episode"
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr "Listen in pop-out player"
+
+#. English: "Listen List".
+#. Used by: NHP -> MyRadioHeader
+msgid "listen_list"
+msgstr ""
 
 #. English: "Live".
 #. Example URL: http://www.bbc.co.uk/programmes/b01s8mnj/live .
@@ -1225,6 +1246,11 @@ msgstr "Over %1m ago"
 #. Priority for: Rich Tracks
 msgid "over_seconds_ago_short"
 msgstr "Over %1s ago"
+
+#. English: "Overview".
+#. Used by: NHP -> MyRadioHeader
+msgid "overview"
+msgstr ""
 
 #. English: "Page not found".
 msgid "page_not_found"

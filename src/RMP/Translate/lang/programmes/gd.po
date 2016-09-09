@@ -6,6 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
+#. English: "Added".
+#. Used by: NHP -> MyRadioHeader
+msgid "added"
+msgstr "Air a chur ris"
+
 #. English: "All".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/a-z/by/%40/current .
 msgid "all"
@@ -552,6 +557,11 @@ msgstr ""
 msgid "first_episode"
 msgstr "Tha thu aig a' chiad phrògram"
 
+#. English: "Following".
+#. Used by: NHP -> MyRadioHeader
+msgid "following"
+msgstr "A’ leantainn"
+
 #. English (no items): "Formats".
 #. English (one item): "Format".
 #. English (2+ items): "Formats".
@@ -1017,6 +1027,11 @@ msgstr "Gaelic (Scottish)"
 msgid "last"
 msgstr "Deireannach"
 
+#. English: "Last Chance".
+#. Used by: NHP -> MyRadioHeader
+msgid "last_chance"
+msgstr "Cothrom mu dheireadh"
+
 #. English: "You are at the last episode".
 #. Example URL: http://www.bbc.co.uk/programmes/b04ph4cn
 #. Priority for: Programmes
@@ -1034,8 +1049,9 @@ msgid "last_played"
 msgstr ""
 
 #. English: "Latest".
+#. Used by: NHP -> MyRadioHeader
 msgid "latest"
-msgstr ""
+msgstr "As ùire"
 
 #. English: "Latest episode".
 msgid "latest_episode"
@@ -1046,6 +1062,11 @@ msgstr "Prògram as ùire"
 #. Priority for: Programmes
 msgid "listen_in_popout_player"
 msgstr ""
+
+#. English: "Listen List".
+#. Used by: NHP -> MyRadioHeader
+msgid "listen_list"
+msgstr "Liosta Èisteachd"
 
 #. English: "Live".
 #. Example URL: http://www.bbc.co.uk/programmes/b01s8mnj/live .
@@ -1223,6 +1244,11 @@ msgstr "Bho chionn còrr is %1m"
 #. Priority for: Rich Tracks
 msgid "over_seconds_ago_short"
 msgstr "Bho chionn còrr is %1d"
+
+#. English: "Overview".
+#. Used by: NHP -> MyRadioHeader
+msgid "overview"
+msgstr "Tar-shealladh"
 
 #. English: "Page not found".
 msgid "page_not_found"
