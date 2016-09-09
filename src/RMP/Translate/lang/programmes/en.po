@@ -9,7 +9,7 @@ msgstr ""
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
 msgid "added"
-msgstr ""
+msgstr "Added"
 
 #. English: "All".
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/a-z/by/%40/current .
@@ -562,7 +562,7 @@ msgstr "You are at the first episode"
 #. English: "Following".
 #. Used by: NHP -> MyRadioHeader
 msgid "following"
-msgstr ""
+msgstr "Following"
 
 #. English (no items): "Formats".
 #. English (one item): "Format".
@@ -1032,7 +1032,7 @@ msgstr "Last"
 #. English: "Last Chance".
 #. Used by: NHP -> MyRadioHeader
 msgid "last_chance"
-msgstr ""
+msgstr "Last Chance"
 
 #. English: "You are at the last episode".
 #. Example URL: http://www.bbc.co.uk/programmes/b04ph4cn
@@ -1068,7 +1068,7 @@ msgstr "Listen in pop-out player"
 #. English: "Listen List".
 #. Used by: NHP -> MyRadioHeader
 msgid "listen_list"
-msgstr ""
+msgstr "Listen List"
 
 #. English: "Live".
 #. Example URL: http://www.bbc.co.uk/programmes/b01s8mnj/live .
@@ -1250,7 +1250,7 @@ msgstr "Over %1s ago"
 #. English: "Overview".
 #. Used by: NHP -> MyRadioHeader
 msgid "overview"
-msgstr ""
+msgstr "Overview"
 
 #. English: "Page not found".
 msgid "page_not_found"
