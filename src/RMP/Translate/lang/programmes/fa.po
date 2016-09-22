@@ -44,6 +44,11 @@ msgstr "همه قسمت‎‌‌های قابل دسترسی در آی‌پلی�
 msgid "all_previous_episodes"
 msgstr "همه قسمت‌های قبلی"
 
+#. English: "All programmes beginning with".
+#. Used by: RadioNav
+msgid "all_programmes_beginning_with"
+msgstr ""
+
 #. English: "All upcoming".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
 #. Priority for: Programmes
@@ -1361,6 +1366,11 @@ msgstr "قسمت‌های برنامه برای دانلود"
 msgid "podcasts_more"
 msgstr "قسمت‌های بیشتر"
 
+#. English: "Search".
+#. Used by: RadioNav
+msgid "podcasts_search"
+msgstr ""
+
 #. English: "Other podcasts you may like".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads (you need to disable JavaScript to see this text)
 msgid "podcasts_suggestions"
@@ -1480,6 +1490,11 @@ msgstr "شما می توانید این تصویر را ذخیره، چاپ یا
 #. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_link"
 msgstr "این کد با استفاده از کد خوان کیو آر صفحه اینترنتی %1 را باز خواهد کرد."
+
+#. English: "Programmes".
+#. Used by: RadioNav
+msgid "radionav_programmes"
+msgstr ""
 
 #. English: "Readings".
 #. Used by: RadioNav -> Categories
@@ -1737,6 +1752,11 @@ msgstr "دیروز"
 #. English: "Science & Nature".
 #. Used by: RadioNav -> Categories
 msgid "science_and_nature"
+msgstr ""
+
+#. English: "Search iPlayer Radio".
+#. Used by: RadioNav
+msgid "search_iplayer_radio"
 msgstr ""
 
 #. English: "%1s ago".

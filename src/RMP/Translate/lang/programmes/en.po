@@ -45,6 +45,11 @@ msgstr "All episodes available on BBC iPlayer Radio"
 msgid "all_previous_episodes"
 msgstr "All previous episodes"
 
+#. English: "All programmes beginning with".
+#. Used by: RadioNav
+msgid "all_programmes_beginning_with"
+msgstr "All programmes beginning with"
+
 #. English: "All upcoming".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
 #. Priority for: Programmes
@@ -1362,6 +1367,11 @@ msgstr "Episodes to download"
 msgid "podcasts_more"
 msgstr "More podcasts"
 
+#. English: "Search".
+#. Used by: RadioNav
+msgid "podcasts_search"
+msgstr "Search"
+
 #. English: "Other podcasts you may like".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads (you need to disable JavaScript to see this text)
 msgid "podcasts_suggestions"
@@ -1482,6 +1492,11 @@ msgstr "You may save, print or share the image."
 msgid "qr_link"
 msgstr ""
 "This code will link to the page for %1 when read using a QR code reader."
+
+#. English: "Programmes".
+#. Used by: RadioNav
+msgid "radionav_programmes"
+msgstr "Programmes"
 
 #. English: "Readings".
 #. Used by: RadioNav -> Categories
@@ -1741,6 +1756,11 @@ msgstr "Yesterday"
 #. Used by: RadioNav -> Categories
 msgid "science_and_nature"
 msgstr "Science &amp; Nature"
+
+#. English: "Search iPlayer Radio".
+#. Used by: RadioNav
+msgid "search_iplayer_radio"
+msgstr "Search iPlayer Radio"
 
 #. English: "%1s ago".
 #. %1 is a variable, which may contain the value: "1".

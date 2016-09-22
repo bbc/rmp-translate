@@ -45,6 +45,11 @@ msgstr "सभी अंक बीबीसी आइप्लेयर रे�
 msgid "all_previous_episodes"
 msgstr "सभी पूर्व प्रसारित अंक"
 
+#. English: "All programmes beginning with".
+#. Used by: RadioNav
+msgid "all_programmes_beginning_with"
+msgstr ""
+
 #. English: "All upcoming".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
 #. Priority for: Programmes
@@ -1360,6 +1365,11 @@ msgstr "डाउनलोड करने के लिए कार्यक�
 msgid "podcasts_more"
 msgstr "और अधिक पॉडकास्ट"
 
+#. English: "Search".
+#. Used by: RadioNav
+msgid "podcasts_search"
+msgstr ""
+
 #. English: "Other podcasts you may like".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads (you need to disable JavaScript to see this text)
 msgid "podcasts_suggestions"
@@ -1478,6 +1488,11 @@ msgstr "इस इमेज को आप सेव, प्रिंट या �
 #. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_link"
 msgstr "क्यूआर कोड रीडर का इस्तेमाल करके पढ़े जाने पर ये कोड %1 के लिए बने पेज पर ले जाएगा"
+
+#. English: "Programmes".
+#. Used by: RadioNav
+msgid "radionav_programmes"
+msgstr ""
 
 #. English: "Readings".
 #. Used by: RadioNav -> Categories
@@ -1735,6 +1750,11 @@ msgstr "कल"
 #. English: "Science & Nature".
 #. Used by: RadioNav -> Categories
 msgid "science_and_nature"
+msgstr ""
+
+#. English: "Search iPlayer Radio".
+#. Used by: RadioNav
+msgid "search_iplayer_radio"
 msgstr ""
 
 #. English: "%1s ago".

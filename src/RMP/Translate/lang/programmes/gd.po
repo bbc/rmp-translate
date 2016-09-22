@@ -45,6 +45,11 @@ msgstr ""
 msgid "all_previous_episodes"
 msgstr ""
 
+#. English: "All programmes beginning with".
+#. Used by: RadioNav
+msgid "all_programmes_beginning_with"
+msgstr "Prògraman a' tòiseachadh le"
+
 #. English: "All upcoming".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
 #. Priority for: Programmes
@@ -1360,6 +1365,11 @@ msgstr ""
 msgid "podcasts_more"
 msgstr ""
 
+#. English: "Search".
+#. Used by: RadioNav
+msgid "podcasts_search"
+msgstr "Lorg"
+
 #. English: "Other podcasts you may like".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads (you need to disable JavaScript to see this text)
 msgid "podcasts_suggestions"
@@ -1476,6 +1486,11 @@ msgstr ""
 #. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_link"
 msgstr "Ceanglaidh an còd air an taobh chlì ri duilleag %1 le còd QR."
+
+#. English: "Programmes".
+#. Used by: RadioNav
+msgid "radionav_programmes"
+msgstr "Prògraman"
 
 #. English: "Readings".
 #. Used by: RadioNav -> Categories
@@ -1734,6 +1749,11 @@ msgstr "An-dè"
 #. Used by: RadioNav -> Categories
 msgid "science_and_nature"
 msgstr "Saidheans &amp; Nàdar"
+
+#. English: "Search iPlayer Radio".
+#. Used by: RadioNav
+msgid "search_iplayer_radio"
+msgstr "Lorg air iPlayer Radio"
 
 #. English: "%1s ago".
 #. %1 is a variable, which may contain the value: "1".

@@ -45,6 +45,11 @@ msgstr "Pob pennod sydd ar gael ar BBC iPlayer Radio"
 msgid "all_previous_episodes"
 msgstr "Pob pennod blaenorol"
 
+#. English: "All programmes beginning with".
+#. Used by: RadioNav
+msgid "all_programmes_beginning_with"
+msgstr "Rhaglenni yn dechrau gyda"
+
 #. English: "All upcoming".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
 #. Priority for: Programmes
@@ -1367,6 +1372,11 @@ msgstr "Penodau i’w lawrlwytho"
 msgid "podcasts_more"
 msgstr ""
 
+#. English: "Search".
+#. Used by: RadioNav
+msgid "podcasts_search"
+msgstr "Chwilio"
+
 #. English: "Other podcasts you may like".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads (you need to disable JavaScript to see this text)
 msgid "podcasts_suggestions"
@@ -1487,6 +1497,11 @@ msgstr "Gallwch arbed, argraffu neu rannu'r llun."
 msgid "qr_link"
 msgstr ""
 "Bydd y côd yn cysylltu â thudalen %1 trwy ddefnyddio darllenydd côd QR."
+
+#. English: "Programmes".
+#. Used by: RadioNav
+msgid "radionav_programmes"
+msgstr "Rhaglenni"
 
 #. English: "Readings".
 #. Used by: RadioNav -> Categories
@@ -1745,6 +1760,11 @@ msgstr "Ddoe"
 #. Used by: RadioNav -> Categories
 msgid "science_and_nature"
 msgstr "Gwyddoniaeth a Natur"
+
+#. English: "Search iPlayer Radio".
+#. Used by: RadioNav
+msgid "search_iplayer_radio"
+msgstr "Chwilio yn iPlayer Radio"
 
 #. English: "%1s ago".
 #. %1 is a variable, which may contain the value: "1".

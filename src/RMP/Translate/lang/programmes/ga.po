@@ -45,6 +45,11 @@ msgstr "Níl an clár seo ar fáil ar BBC iPlayer Radio faoi láthair"
 msgid "all_previous_episodes"
 msgstr "Gach eagrán roimhe seo"
 
+#. English: "All programmes beginning with".
+#. Used by: RadioNav
+msgid "all_programmes_beginning_with"
+msgstr "Gach clár dar tús"
+
 #. English: "All upcoming".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
 #. Priority for: Programmes
@@ -1362,6 +1367,11 @@ msgstr "Eagráin le híoslódáil"
 msgid "podcasts_more"
 msgstr ""
 
+#. English: "Search".
+#. Used by: RadioNav
+msgid "podcasts_search"
+msgstr "Cuardaigh"
+
 #. English: "Other podcasts you may like".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads (you need to disable JavaScript to see this text)
 msgid "podcasts_suggestions"
@@ -1483,6 +1493,11 @@ msgid "qr_link"
 msgstr ""
 "Déanfaidh an cód seo nasc chuig an leathanach do %1 má bhíonn léitheoir cód "
 "QR cumasithe."
+
+#. English: "Programmes".
+#. Used by: RadioNav
+msgid "radionav_programmes"
+msgstr "Cláir"
 
 #. English: "Readings".
 #. Used by: RadioNav -> Categories
@@ -1741,6 +1756,11 @@ msgstr "Inné"
 #. Used by: RadioNav -> Categories
 msgid "science_and_nature"
 msgstr "Eolaíocht &amp; Nádúr"
+
+#. English: "Search iPlayer Radio".
+#. Used by: RadioNav
+msgid "search_iplayer_radio"
+msgstr "Cuardaigh iPlayer Radio"
 
 #. English: "%1s ago".
 #. %1 is a variable, which may contain the value: "1".
