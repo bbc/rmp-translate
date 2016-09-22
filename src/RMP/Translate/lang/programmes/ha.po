@@ -17,6 +17,11 @@ msgstr ""
 msgid "all"
 msgstr "Duka"
 
+#. English: "All Categories".
+#. Used by: RadioNav -> Categories
+msgid "all_categories"
+msgstr ""
+
 #. English: "All episodes".
 #. Example URL: http://www.test.bbc.co.uk/programmes/b00cyj3f .
 #. Priority for: Programmes
@@ -41,6 +46,11 @@ msgstr ""
 msgid "all_previous_episodes"
 msgstr "Duka sauran shirye-shirye"
 
+#. English: "All programmes beginning with".
+#. Used by: RadioNav
+msgid "all_programmes_beginning_with"
+msgstr ""
+
 #. English: "All upcoming".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
 #. Priority for: Programmes
@@ -51,6 +61,11 @@ msgstr "Wadanda ke tafe"
 #. Priority for: Rich Tracks
 msgid "artist_name"
 msgstr "Sunan mawaki"
+
+#. English: "Arts, Culture & the Media".
+#. Used by: RadioNav -> Categories
+msgid "arts_culture_and_the_media"
+msgstr ""
 
 #. English: "All Programmes".
 msgid "atoz_all"
@@ -361,6 +376,11 @@ msgstr "Za a samu a"
 msgid "colon_from_suppliers"
 msgstr "Daga masu samarwa"
 
+#. English: "Comedy".
+#. Used by: RadioNav -> Categories
+msgid "comedy"
+msgstr ""
+
 #. English: "Coming soon".
 #. Priority for: Programmes
 msgid "coming_soon"
@@ -436,6 +456,11 @@ msgstr ""
 msgid "decade"
 msgstr ""
 
+#. English: "Documentaries".
+#. Used by: RadioNav -> Categories
+msgid "documentaries"
+msgstr ""
+
 #. English (no items): "Downloads".
 #. English (one item): "Download".
 #. English (2+ items): "Downloads".
@@ -447,8 +472,18 @@ msgstr[0] "Sauko"
 msgstr[1] "Sauko"
 msgstr[2] "Sauko"
 
+#. English: "Drama".
+#. Used by: RadioNav -> Categories
+msgid "drama"
+msgstr ""
+
 #. English: "Duration: %1".
 msgid "duration"
+msgstr ""
+
+#. English: "Entertainment".
+#. Used by: RadioNav -> Categories
+msgid "entertainment"
 msgstr ""
 
 #. English: "This episode will be available soon".
@@ -529,6 +564,11 @@ msgstr ""
 
 #. English: "There are no episodes".
 msgid "episodes_none"
+msgstr ""
+
+#. English: "Factual".
+#. Used by: RadioNav -> Categories
+msgid "factual"
 msgstr ""
 
 #. English: "Sorry, we couldn't access this information. Please refresh to try again.".
@@ -622,6 +662,11 @@ msgstr ""
 
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
+msgstr ""
+
+#. English: "History".
+#. Used by: RadioNav -> Categories
+msgid "history"
 msgstr ""
 
 #. English: "Home".
@@ -1130,6 +1175,11 @@ msgstr "Sauran a rediyo"
 msgid "more_on_tv"
 msgstr "sauran a talabijin"
 
+#. English: "Music".
+#. Used by: RadioNav -> Categories
+msgid "music"
+msgstr ""
+
 #. English: "Music and featured items".
 msgid "music_and_featured"
 msgstr ""
@@ -1151,6 +1201,11 @@ msgstr ""
 #. Priority for: Programmes
 msgid "new_series"
 msgstr "Sababbin shirye-shirye"
+
+#. English: "News".
+#. Used by: RadioNav -> Categories
+msgid "news"
+msgstr ""
 
 #. English: "Next".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
@@ -1271,6 +1326,11 @@ msgstr ""
 msgid "pagination_page"
 msgstr ""
 
+#. English: "Performances & Events".
+#. Used by: RadioNav -> Categories
+msgid "performances_and_events"
+msgstr ""
+
 #. English: "Played:".
 #. Priority for: Rich Tracks
 msgid "played:"
@@ -1306,9 +1366,19 @@ msgstr "shirye-shiryen da aka sauke"
 msgid "podcasts_more"
 msgstr ""
 
+#. English: "Search".
+#. Used by: RadioNav
+msgid "podcasts_search"
+msgstr ""
+
 #. English: "Other podcasts you may like".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads (you need to disable JavaScript to see this text)
 msgid "podcasts_suggestions"
+msgstr ""
+
+#. English: "Politics".
+#. Used by: RadioNav -> Categories
+msgid "politics"
 msgstr ""
 
 #. English: "Previous".
@@ -1418,6 +1488,16 @@ msgstr ""
 msgid "qr_link"
 msgstr ""
 
+#. English: "Programmes".
+#. Used by: RadioNav
+msgid "radionav_programmes"
+msgstr ""
+
+#. English: "Readings".
+#. Used by: RadioNav -> Categories
+msgid "readings"
+msgstr ""
+
 #. English: "Recently played".
 msgid "recently_played"
 msgstr ""
@@ -1462,6 +1542,11 @@ msgstr ""
 #. Priority for: Programmes
 msgid "release_date"
 msgstr "Ranar da za a saki %1"
+
+#. English: "Religion & Ethics".
+#. Used by: RadioNav -> Categories
+msgid "religion_and_ethics"
+msgstr ""
 
 #. English: "Remove".
 #. Priority for: Favourites
@@ -1660,6 +1745,16 @@ msgstr "Nuna mako baki daya"
 #. Priority for: Schedules
 msgid "schedules_yesterday"
 msgstr "Jiya"
+
+#. English: "Science & Nature".
+#. Used by: RadioNav -> Categories
+msgid "science_and_nature"
+msgstr ""
+
+#. English: "Search iPlayer Radio".
+#. Used by: RadioNav
+msgid "search_iplayer_radio"
+msgstr ""
 
 #. English: "%1s ago".
 #. %1 is a variable, which may contain the value: "1".

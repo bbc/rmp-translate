@@ -15,6 +15,11 @@ msgstr ""
 msgid "all"
 msgstr "همه"
 
+#. English: "All Categories".
+#. Used by: RadioNav -> Categories
+msgid "all_categories"
+msgstr ""
+
 #. English: "All episodes".
 #. Example URL: http://www.test.bbc.co.uk/programmes/b00cyj3f .
 #. Priority for: Programmes
@@ -39,6 +44,11 @@ msgstr "همه قسمت‎‌‌های قابل دسترسی در آی‌پلی�
 msgid "all_previous_episodes"
 msgstr "همه قسمت‌های قبلی"
 
+#. English: "All programmes beginning with".
+#. Used by: RadioNav
+msgid "all_programmes_beginning_with"
+msgstr ""
+
 #. English: "All upcoming".
 #. Example URL: http://www.bbc.co.uk/programmes/b006m86d
 #. Priority for: Programmes
@@ -49,6 +59,11 @@ msgstr "همه  قسمت‌های بعدی"
 #. Priority for: Rich Tracks
 msgid "artist_name"
 msgstr "نام هنرمند"
+
+#. English: "Arts, Culture & the Media".
+#. Used by: RadioNav -> Categories
+msgid "arts_culture_and_the_media"
+msgstr ""
 
 #. English: "All Programmes".
 msgid "atoz_all"
@@ -359,6 +374,11 @@ msgstr "قابل دسترسی از"
 msgid "colon_from_suppliers"
 msgstr "از عرضه‌کنندگان"
 
+#. English: "Comedy".
+#. Used by: RadioNav -> Categories
+msgid "comedy"
+msgstr ""
+
 #. English: "Coming soon".
 #. Priority for: Programmes
 msgid "coming_soon"
@@ -434,6 +454,11 @@ msgstr "این برنامه تیتراژ پایانی ندارد"
 msgid "decade"
 msgstr "%1"
 
+#. English: "Documentaries".
+#. Used by: RadioNav -> Categories
+msgid "documentaries"
+msgstr ""
+
 #. English (no items): "Downloads".
 #. English (one item): "Download".
 #. English (2+ items): "Downloads".
@@ -445,9 +470,19 @@ msgstr[0] "دانلودها"
 msgstr[1] "دانلود"
 msgstr[2] "دانلودها"
 
+#. English: "Drama".
+#. Used by: RadioNav -> Categories
+msgid "drama"
+msgstr ""
+
 #. English: "Duration: %1".
 msgid "duration"
 msgstr "مدت:  %1"
+
+#. English: "Entertainment".
+#. Used by: RadioNav -> Categories
+msgid "entertainment"
+msgstr ""
 
 #. English: "This episode will be available soon".
 #. Priority for: Programmes
@@ -528,6 +563,11 @@ msgstr "%1 قسمت برنامه موجود خواهد بود. اطلاعات ب
 #. English: "There are no episodes".
 msgid "episodes_none"
 msgstr "هیچ قسمتی از برنامه موجود نیست."
+
+#. English: "Factual".
+#. Used by: RadioNav -> Categories
+msgid "factual"
+msgstr ""
 
 #. English: "Sorry, we couldn't access this information. Please refresh to try again.".
 #. Priority for: Programmes
@@ -623,6 +663,11 @@ msgstr "گرینویچ"
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr "پنهان کردن قسمت‌های موجود برنامه"
+
+#. English: "History".
+#. Used by: RadioNav -> Categories
+msgid "history"
+msgstr ""
 
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
@@ -1130,6 +1175,11 @@ msgstr "بیشتر از رادیو"
 msgid "more_on_tv"
 msgstr "بیشتر از تلویزیون"
 
+#. English: "Music".
+#. Used by: RadioNav -> Categories
+msgid "music"
+msgstr ""
+
 #. English: "Music and featured items".
 msgid "music_and_featured"
 msgstr "برنامه‌های موسیقی و برگزیده"
@@ -1151,6 +1201,11 @@ msgstr "؟؟"
 #. Priority for: Programmes
 msgid "new_series"
 msgstr "مجموعه‌های تازه"
+
+#. English: "News".
+#. Used by: RadioNav -> Categories
+msgid "news"
+msgstr ""
 
 #. English: "Next".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
@@ -1271,6 +1326,11 @@ msgstr "صفحه %1"
 msgid "pagination_page"
 msgstr "صفحه %1 از  %2"
 
+#. English: "Performances & Events".
+#. Used by: RadioNav -> Categories
+msgid "performances_and_events"
+msgstr ""
+
 #. English: "Played:".
 #. Priority for: Rich Tracks
 msgid "played:"
@@ -1306,10 +1366,20 @@ msgstr "قسمت‌های برنامه برای دانلود"
 msgid "podcasts_more"
 msgstr "قسمت‌های بیشتر"
 
+#. English: "Search".
+#. Used by: RadioNav
+msgid "podcasts_search"
+msgstr ""
+
 #. English: "Other podcasts you may like".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads (you need to disable JavaScript to see this text)
 msgid "podcasts_suggestions"
 msgstr "سایر پادکست‌هایی که ممکن است علاقمند باشید"
+
+#. English: "Politics".
+#. Used by: RadioNav -> Categories
+msgid "politics"
+msgstr ""
 
 #. English: "Previous".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
@@ -1421,6 +1491,16 @@ msgstr "شما می توانید این تصویر را ذخیره، چاپ یا
 msgid "qr_link"
 msgstr "این کد با استفاده از کد خوان کیو آر صفحه اینترنتی %1 را باز خواهد کرد."
 
+#. English: "Programmes".
+#. Used by: RadioNav
+msgid "radionav_programmes"
+msgstr ""
+
+#. English: "Readings".
+#. Used by: RadioNav -> Categories
+msgid "readings"
+msgstr ""
+
 #. English: "Recently played".
 msgid "recently_played"
 msgstr ""
@@ -1465,6 +1545,11 @@ msgstr ""
 #. Priority for: Programmes
 msgid "release_date"
 msgstr "تاریخ انتشار: %1"
+
+#. English: "Religion & Ethics".
+#. Used by: RadioNav -> Categories
+msgid "religion_and_ethics"
+msgstr ""
 
 #. English: "Remove".
 #. Priority for: Favourites
@@ -1663,6 +1748,16 @@ msgstr "نشان دادن تمام هفته"
 #. Priority for: Schedules
 msgid "schedules_yesterday"
 msgstr "دیروز"
+
+#. English: "Science & Nature".
+#. Used by: RadioNav -> Categories
+msgid "science_and_nature"
+msgstr ""
+
+#. English: "Search iPlayer Radio".
+#. Used by: RadioNav
+msgid "search_iplayer_radio"
+msgstr ""
 
 #. English: "%1s ago".
 #. %1 is a variable, which may contain the value: "1".
