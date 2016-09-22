@@ -16,6 +16,11 @@ msgstr ""
 msgid "all"
 msgstr "كل"
 
+#. English: "All Categories".
+#. Used by: RadioNav -> Categories
+msgid "all_categories"
+msgstr ""
+
 #. English: "All episodes".
 #. Example URL: http://www.test.bbc.co.uk/programmes/b00cyj3f .
 #. Priority for: Programmes
@@ -49,6 +54,11 @@ msgstr "جميع الحلقات القادمة"
 #. English: "Artist name".
 #. Priority for: Rich Tracks
 msgid "artist_name"
+msgstr ""
+
+#. English: "Arts, Culture & the Media".
+#. Used by: RadioNav -> Categories
+msgid "arts_culture_and_the_media"
 msgstr ""
 
 #. English: "All Programmes".
@@ -360,6 +370,11 @@ msgstr "متاحة على"
 msgid "colon_from_suppliers"
 msgstr "من الموزع"
 
+#. English: "Comedy".
+#. Used by: RadioNav -> Categories
+msgid "comedy"
+msgstr ""
+
 #. English: "Coming soon".
 #. Priority for: Programmes
 msgid "coming_soon"
@@ -436,6 +451,11 @@ msgstr "هذا البرنامج ليس لديه رصيد"
 msgid "decade"
 msgstr "%1s"
 
+#. English: "Documentaries".
+#. Used by: RadioNav -> Categories
+msgid "documentaries"
+msgstr ""
+
 #. English (no items): "Downloads".
 #. English (one item): "Download".
 #. English (2+ items): "Downloads".
@@ -447,9 +467,19 @@ msgstr[0] "تنزيلات"
 msgstr[1] "تنزيل"
 msgstr[2] "تنزيلات"
 
+#. English: "Drama".
+#. Used by: RadioNav -> Categories
+msgid "drama"
+msgstr ""
+
 #. English: "Duration: %1".
 msgid "duration"
 msgstr "Duration: %1"
+
+#. English: "Entertainment".
+#. Used by: RadioNav -> Categories
+msgid "entertainment"
+msgstr ""
 
 #. English: "This episode will be available soon".
 #. Priority for: Programmes
@@ -530,6 +560,11 @@ msgstr "سوف يكون %1 حلقة. المعلومات سوف تتوفر قري
 #. English: "There are no episodes".
 msgid "episodes_none"
 msgstr "لا يوجد أي حلقة"
+
+#. English: "Factual".
+#. Used by: RadioNav -> Categories
+msgid "factual"
+msgstr ""
 
 #. English: "Sorry, we couldn't access this information. Please refresh to try again.".
 #. Priority for: Programmes
@@ -623,6 +658,11 @@ msgstr ""
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr "Hide available episodes"
+
+#. English: "History".
+#. Used by: RadioNav -> Categories
+msgid "history"
+msgstr ""
 
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
@@ -1130,6 +1170,11 @@ msgstr "المزيد من الراديو"
 msgid "more_on_tv"
 msgstr "المزيد على التلفاز"
 
+#. English: "Music".
+#. Used by: RadioNav -> Categories
+msgid "music"
+msgstr ""
+
 #. English: "Music and featured items".
 msgid "music_and_featured"
 msgstr "Music and featured items"
@@ -1151,6 +1196,11 @@ msgstr "Nations Radio"
 #. Priority for: Programmes
 msgid "new_series"
 msgstr "سلسلة جديدة "
+
+#. English: "News".
+#. Used by: RadioNav -> Categories
+msgid "news"
+msgstr ""
 
 #. English: "Next".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
@@ -1271,6 +1321,11 @@ msgstr "صفحة %1"
 msgid "pagination_page"
 msgstr "صفحة %1 من %2"
 
+#. English: "Performances & Events".
+#. Used by: RadioNav -> Categories
+msgid "performances_and_events"
+msgstr ""
+
 #. English: "Played:".
 #. Priority for: Rich Tracks
 msgid "played:"
@@ -1310,6 +1365,11 @@ msgstr "More podcasts"
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads (you need to disable JavaScript to see this text)
 msgid "podcasts_suggestions"
 msgstr "Other podcasts you may like"
+
+#. English: "Politics".
+#. Used by: RadioNav -> Categories
+msgid "politics"
+msgstr ""
 
 #. English: "Previous".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
@@ -1422,6 +1482,11 @@ msgid "qr_link"
 msgstr ""
 "This code will link to the page for %1 when read using a QR code reader."
 
+#. English: "Readings".
+#. Used by: RadioNav -> Categories
+msgid "readings"
+msgstr ""
+
 #. English: "Recently played".
 msgid "recently_played"
 msgstr ""
@@ -1466,6 +1531,11 @@ msgstr ""
 #. Priority for: Programmes
 msgid "release_date"
 msgstr "Release date: %1"
+
+#. English: "Religion & Ethics".
+#. Used by: RadioNav -> Categories
+msgid "religion_and_ethics"
+msgstr ""
 
 #. English: "Remove".
 #. Priority for: Favourites
@@ -1664,6 +1734,11 @@ msgstr "مشاهدة الاسبوع كاملا"
 #. Priority for: Schedules
 msgid "schedules_yesterday"
 msgstr "أمس"
+
+#. English: "Science & Nature".
+#. Used by: RadioNav -> Categories
+msgid "science_and_nature"
+msgstr ""
 
 #. English: "%1s ago".
 #. %1 is a variable, which may contain the value: "1".

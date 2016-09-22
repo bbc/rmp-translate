@@ -16,6 +16,11 @@ msgstr "Ychwanegwyd"
 msgid "all"
 msgstr "Pob un"
 
+#. English: "All Categories".
+#. Used by: RadioNav -> Categories
+msgid "all_categories"
+msgstr "Pob Categori"
+
 #. English: "All episodes".
 #. Example URL: http://www.test.bbc.co.uk/programmes/b00cyj3f .
 #. Priority for: Programmes
@@ -50,6 +55,11 @@ msgstr "Popeth i ddod"
 #. Priority for: Rich Tracks
 msgid "artist_name"
 msgstr "Enw’r artist"
+
+#. English: "Arts, Culture & the Media".
+#. Used by: RadioNav -> Categories
+msgid "arts_culture_and_the_media"
+msgstr "Celfyddydau, Diwylliant a'r Cyfryngau"
 
 #. English: "All Programmes".
 msgid "atoz_all"
@@ -361,6 +371,11 @@ msgstr "Ar gael ar"
 msgid "colon_from_suppliers"
 msgstr "Gan werthwyr"
 
+#. English: "Comedy".
+#. Used by: RadioNav -> Categories
+msgid "comedy"
+msgstr "Comedi"
+
 #. English: "Coming soon".
 #. Priority for: Programmes
 msgid "coming_soon"
@@ -438,6 +453,11 @@ msgstr "Nid oes gan y rhaglen yma restr cyfranwyr"
 msgid "decade"
 msgstr "%1au"
 
+#. English: "Documentaries".
+#. Used by: RadioNav -> Categories
+msgid "documentaries"
+msgstr "Rhaglenni Dogfen"
+
 #. English (no items): "Downloads".
 #. English (one item): "Download".
 #. English (2+ items): "Downloads".
@@ -449,9 +469,19 @@ msgstr[0] "Lawrlwythiad"
 msgstr[1] "Lawrlwythiad"
 msgstr[2] "Lawrlwythiad"
 
+#. English: "Drama".
+#. Used by: RadioNav -> Categories
+msgid "drama"
+msgstr "Drama"
+
 #. English: "Duration: %1".
 msgid "duration"
 msgstr "Hyd: %1"
+
+#. English: "Entertainment".
+#. Used by: RadioNav -> Categories
+msgid "entertainment"
+msgstr "Adloniant"
 
 #. English: "This episode will be available soon".
 #. Priority for: Programmes
@@ -536,6 +566,11 @@ msgstr "Bydd yna %1 o benodau. Rhagor o wybodaeth i ddod yn fuan"
 #. English: "There are no episodes".
 msgid "episodes_none"
 msgstr "Does dim penodau"
+
+#. English: "Factual".
+#. Used by: RadioNav -> Categories
+msgid "factual"
+msgstr "Ffeithiol"
 
 #. English: "Sorry, we couldn't access this information. Please refresh to try again.".
 #. Priority for: Programmes
@@ -629,6 +664,11 @@ msgstr ""
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr "Cuddio’r penodau sydd ar gael"
+
+#. English: "History".
+#. Used by: RadioNav -> Categories
+msgid "history"
+msgstr "Hanes"
 
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
@@ -1136,6 +1176,11 @@ msgstr "Mwy ar y Radio"
 msgid "more_on_tv"
 msgstr "Mwy ar y Teledu"
 
+#. English: "Music".
+#. Used by: RadioNav -> Categories
+msgid "music"
+msgstr "Cerddoriaeth"
+
 #. English: "Music and featured items".
 msgid "music_and_featured"
 msgstr "Cerddoriaeth ac eitemau dan sylw"
@@ -1157,6 +1202,11 @@ msgstr "Radio’r Cenhedloedd"
 #. Priority for: Programmes
 msgid "new_series"
 msgstr "cyfres newydd"
+
+#. English: "News".
+#. Used by: RadioNav -> Categories
+msgid "news"
+msgstr "Newyddion"
 
 #. English: "Next".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
@@ -1277,6 +1327,11 @@ msgstr ""
 msgid "pagination_page"
 msgstr ""
 
+#. English: "Performances & Events".
+#. Used by: RadioNav -> Categories
+msgid "performances_and_events"
+msgstr "Perfformiadau a Digwyddiadau"
+
 #. English: "Played:".
 #. Priority for: Rich Tracks
 msgid "played:"
@@ -1316,6 +1371,11 @@ msgstr ""
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads (you need to disable JavaScript to see this text)
 msgid "podcasts_suggestions"
 msgstr ""
+
+#. English: "Politics".
+#. Used by: RadioNav -> Categories
+msgid "politics"
+msgstr "Gwleidyddiaeth"
 
 #. English: "Previous".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
@@ -1428,6 +1488,11 @@ msgid "qr_link"
 msgstr ""
 "Bydd y côd yn cysylltu â thudalen %1 trwy ddefnyddio darllenydd côd QR."
 
+#. English: "Readings".
+#. Used by: RadioNav -> Categories
+msgid "readings"
+msgstr "Darlleniadau"
+
 #. English: "Recently played".
 msgid "recently_played"
 msgstr "Chwaraewyd yn ddiweddar"
@@ -1472,6 +1537,11 @@ msgstr ""
 #. Priority for: Programmes
 msgid "release_date"
 msgstr "Dyddiad Rhyddhau: %1"
+
+#. English: "Religion & Ethics".
+#. Used by: RadioNav -> Categories
+msgid "religion_and_ethics"
+msgstr "Crefydd a Moeseg"
 
 #. English: "Remove".
 #. Priority for: Favourites
@@ -1670,6 +1740,11 @@ msgstr "Dangos wythnos lawn"
 #. Priority for: Schedules
 msgid "schedules_yesterday"
 msgstr "Ddoe"
+
+#. English: "Science & Nature".
+#. Used by: RadioNav -> Categories
+msgid "science_and_nature"
+msgstr "Gwyddoniaeth a Natur"
 
 #. English: "%1s ago".
 #. %1 is a variable, which may contain the value: "1".
