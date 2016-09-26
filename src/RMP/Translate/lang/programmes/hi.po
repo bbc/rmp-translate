@@ -1134,7 +1134,7 @@ msgstr "लोकल रेडियो"
 #. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
 #. Priority for: Programmes
 msgid "local_time"
-msgstr ""
+msgstr "स्थानीय समय"
 
 #. English: "%1m ago".
 #. %1 is a variable, which may contain the value: "1".
