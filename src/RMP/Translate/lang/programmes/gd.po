@@ -1517,7 +1517,9 @@ msgstr ""
 #. English: "Based on things you've listened to and added. The more you listen, the better they'll get.".
 #. Used by: NHP Service -> Personalisation -> Recommendations
 msgid "recommendations_package_intro"
-msgstr "Stèidhichte air rudan ris a bheil thu air èisteachd agus air a chur ris.  Mar as trice a dh'èisteas tu, 's ann as fheàrr a bhios iad."
+msgstr ""
+"Stèidhichte air rudan ris a bheil thu air èisteachd agus air a chur ris.  "
+"Mar as trice a dh'èisteas tu, 's ann as fheàrr a bhios iad."
 
 #. English: "iPlayer Radio recommendations for you".
 #. Used by: NHP Service -> Personalisation -> Recommendations
@@ -2004,6 +2006,11 @@ msgid_plural "topics %count%"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+#. English: "%1 in all BBC programmes".
+#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/topics/Social_philosophy .
+msgid "topic_in_all_programmes"
+msgstr ""
 
 #. English: "Track title".
 #. Priority for: Rich Tracks

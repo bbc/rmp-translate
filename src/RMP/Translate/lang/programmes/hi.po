@@ -2007,6 +2007,11 @@ msgstr[0] "टॉपिक्स"
 msgstr[1] "टॉपिक्स"
 msgstr[2] "टॉपिक्स"
 
+#. English: "%1 in all BBC programmes".
+#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/topics/Social_philosophy .
+msgid "topic_in_all_programmes"
+msgstr ""
+
 #. English: "Track title".
 #. Priority for: Rich Tracks
 msgid "track_title"
