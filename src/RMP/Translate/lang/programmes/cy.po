@@ -1525,6 +1525,16 @@ msgstr[2] ""
 msgid "recommendations_noresults"
 msgstr "Mae’n ddrwg gennym, does dim argymhellion ar gyfer y rhaglen yma."
 
+#. English: "Based on things you've listened to and added. The more you listen, the better they'll get.".
+#. Used by: NHP Service -> Personalisation -> Recommendations
+msgid "recommendations_package_intro"
+msgstr "Wedi eu seilio ar bethau rydych chi wedi gwrando arnyn nhw a’u hychwanegu. Byddan nhw’n gwella, y mwyaf rydych chi’n gwrando."
+
+#. English: "iPlayer Radio recommendations for you".
+#. Used by: NHP Service -> Personalisation -> Recommendations
+msgid "recommendations_package_title"
+msgstr "Argymhellion iPlayer Radio ar eich cyfer chi"
+
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".

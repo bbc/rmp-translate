@@ -1521,6 +1521,16 @@ msgstr[2] ""
 msgid "recommendations_noresults"
 msgstr ""
 
+#. English: "Based on things you've listened to and added. The more you listen, the better they'll get.".
+#. Used by: NHP Service -> Personalisation -> Recommendations
+msgid "recommendations_package_intro"
+msgstr "Bunaithe ar rudaí a chuir tú leis agus ar rudaí ar éist tú leo. Dá mhéad a éisteann tú, is ea is fearr a bheidh siad."
+
+#. English: "iPlayer Radio recommendations for you".
+#. Used by: NHP Service -> Personalisation -> Recommendations
+msgid "recommendations_package_title"
+msgstr "Moltaí iPlayer Radio duitse"
+
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".

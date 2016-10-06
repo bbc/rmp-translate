@@ -1520,6 +1520,16 @@ msgstr[2] "Recipes"
 msgid "recommendations_noresults"
 msgstr "Sorry, there are no recommendations for this programme."
 
+#. English: "Based on things you've listened to and added. The more you listen, the better they'll get.".
+#. Used by: NHP Service -> Personalisation -> Recommendations
+msgid "recommendations_package_intro"
+msgstr "Based on things you've listened to and added. The more you listen, the better they'll get."
+
+#. English: "iPlayer Radio recommendations for you".
+#. Used by: NHP Service -> Personalisation -> Recommendations
+msgid "recommendations_package_title"
+msgstr "iPlayer Radio recommendations for you"
+
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
 #. English (2+ items): "Related Links".
