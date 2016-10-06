@@ -1523,7 +1523,9 @@ msgstr "Sorry, there are no recommendations for this programme."
 #. English: "Based on things you've listened to and added. The more you listen, the better they'll get.".
 #. Used by: NHP Service -> Personalisation -> Recommendations
 msgid "recommendations_package_intro"
-msgstr "Based on things you've listened to and added. The more you listen, the better they'll get."
+msgstr ""
+"Based on things you've listened to and added. The more you listen, the "
+"better they'll get."
 
 #. English: "iPlayer Radio recommendations for you".
 #. Used by: NHP Service -> Personalisation -> Recommendations
@@ -2013,6 +2015,11 @@ msgid_plural "topics %count%"
 msgstr[0] "Topics"
 msgstr[1] "Topic"
 msgstr[2] "Topics"
+
+#. English: "%1 in all BBC programmes".
+#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/topics/Social_philosophy .
+msgid "topic_in_all_programmes"
+msgstr "%1 in all BBC programmes"
 
 #. English: "Track title".
 #. Priority for: Rich Tracks
