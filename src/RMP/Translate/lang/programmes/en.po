@@ -593,6 +593,11 @@ msgstr "Features"
 msgid "filter_by"
 msgstr "Filter by"
 
+#. English: "Find out more".
+#. Used by: NHP -> Personalisation -> Recommendations
+msgid "find_out_more"
+msgstr "Find out more"
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -1110,10 +1115,11 @@ msgstr "Latest episode"
 msgid "listen_in_popout_player"
 msgstr "Listen in pop-out player"
 
-#. English: "Listen List".
-#. Used by: NHP -> MyRadioHeader
-msgid "listen_list"
-msgstr "Listen List"
+#. English: "Listen Later".
+#. Used by: NHP -> Personalisation -> Favourites
+#. Used by: RadioNav Service
+msgid "listen_later"
+msgstr "Listen Later"
 
 #. English: "Live".
 #. Example URL: http://www.bbc.co.uk/programmes/b01s8mnj/live .
@@ -1527,10 +1533,10 @@ msgstr ""
 "Based on things you've listened to and added. The more you listen, the "
 "better they'll get."
 
-#. English: "iPlayer Radio recommendations for you".
+#. English: "Recommendations for you".
 #. Used by: NHP Service -> Personalisation -> Recommendations
 msgid "recommendations_package_title"
-msgstr "iPlayer Radio recommendations for you"
+msgstr "Recommendations for you"
 
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
@@ -2007,6 +2013,11 @@ msgstr ""
 msgid "top_topics"
 msgstr "Top topics for this programme"
 
+#. English: "%1 in all BBC programmes".
+#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/topics/Social_philosophy .
+msgid "topic_in_all_programmes"
+msgstr "%1 in all BBC programmes"
+
 #. English (no items): "Topics".
 #. English (one item): "Topic".
 #. English (2+ items): "Topics".
@@ -2015,11 +2026,6 @@ msgid_plural "topics %count%"
 msgstr[0] "Topics"
 msgstr[1] "Topic"
 msgstr[2] "Topics"
-
-#. English: "%1 in all BBC programmes".
-#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/topics/Social_philosophy .
-msgid "topic_in_all_programmes"
-msgstr "%1 in all BBC programmes"
 
 #. English: "Track title".
 #. Priority for: Rich Tracks

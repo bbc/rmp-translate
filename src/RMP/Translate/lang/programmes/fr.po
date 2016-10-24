@@ -597,6 +597,11 @@ msgstr "Éléments"
 msgid "filter_by"
 msgstr "Filtrer par"
 
+#. English: "Find out more".
+#. Used by: NHP -> Personalisation -> Recommendations
+msgid "find_out_more"
+msgstr ""
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -1114,9 +1119,10 @@ msgstr ""
 msgid "listen_in_popout_player"
 msgstr "Écouter dans une fenêtre pop-out"
 
-#. English: "Listen List".
-#. Used by: NHP -> MyRadioHeader
-msgid "listen_list"
+#. English: "Listen Later".
+#. Used by: NHP -> Personalisation -> Favourites
+#. Used by: RadioNav Service
+msgid "listen_later"
 msgstr ""
 
 #. English: "Live".
@@ -1531,7 +1537,7 @@ msgstr "Désolé, il n'y a pas de recommandations pour ce programme."
 msgid "recommendations_package_intro"
 msgstr ""
 
-#. English: "iPlayer Radio recommendations for you".
+#. English: "Recommendations for you".
 #. Used by: NHP Service -> Personalisation -> Recommendations
 msgid "recommendations_package_title"
 msgstr ""
@@ -2014,6 +2020,11 @@ msgstr ""
 msgid "top_topics"
 msgstr ""
 
+#. English: "%1 in all BBC programmes".
+#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/topics/Social_philosophy .
+msgid "topic_in_all_programmes"
+msgstr ""
+
 #. English (no items): "Topics".
 #. English (one item): "Topic".
 #. English (2+ items): "Topics".
@@ -2022,11 +2033,6 @@ msgid_plural "topics %count%"
 msgstr[0] "Thèmes"
 msgstr[1] "Thème"
 msgstr[2] "Thèmes"
-
-#. English: "%1 in all BBC programmes".
-#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/topics/Social_philosophy .
-msgid "topic_in_all_programmes"
-msgstr ""
 
 #. English: "Track title".
 #. Priority for: Rich Tracks
