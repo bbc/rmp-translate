@@ -593,6 +593,11 @@ msgstr "Faoi thrácht"
 msgid "filter_by"
 msgstr ""
 
+#. English: "Find out more".
+#. Used by: NHP -> Personalisation -> Recommendations
+msgid "find_out_more"
+msgstr "Tuilleadh eolais"
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -1110,10 +1115,11 @@ msgstr "Eagrán is déanaí"
 msgid "listen_in_popout_player"
 msgstr "Éist i bhfuinneog eile"
 
-#. English: "Listen List".
-#. Used by: NHP -> MyRadioHeader
-msgid "listen_list"
-msgstr "Liosta Éisteachta"
+#. English: "Listen Later".
+#. Used by: NHP -> Personalisation -> Favourites
+#. Used by: RadioNav Service
+msgid "listen_later"
+msgstr "Éist amach anseo"
 
 #. English: "Live".
 #. Example URL: http://www.bbc.co.uk/programmes/b01s8mnj/live .
@@ -1528,10 +1534,10 @@ msgstr ""
 "Bunaithe ar rudaí a chuir tú leis agus ar rudaí ar éist tú leo. Dá mhéad a "
 "éisteann tú, is ea is fearr a bheidh siad."
 
-#. English: "iPlayer Radio recommendations for you".
+#. English: "Recommendations for you".
 #. Used by: NHP Service -> Personalisation -> Recommendations
 msgid "recommendations_package_title"
-msgstr "Moltaí iPlayer Radio duitse"
+msgstr "Moltaí duitse"
 
 #. English (no items): "Related Links".
 #. English (one item): "Related Link".
@@ -2008,6 +2014,11 @@ msgstr ""
 msgid "top_topics"
 msgstr ""
 
+#. English: "%1 in all BBC programmes".
+#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/topics/Social_philosophy .
+msgid "topic_in_all_programmes"
+msgstr ""
+
 #. English (no items): "Topics".
 #. English (one item): "Topic".
 #. English (2+ items): "Topics".
@@ -2016,11 +2027,6 @@ msgid_plural "topics %count%"
 msgstr[0] "Toipicí"
 msgstr[1] "Toipic"
 msgstr[2] "Toipicí"
-
-#. English: "%1 in all BBC programmes".
-#. Example URL: http://www.bbc.co.uk/programmes/b006qykl/topics/Social_philosophy .
-msgid "topic_in_all_programmes"
-msgstr ""
 
 #. English: "Track title".
 #. Priority for: Rich Tracks
