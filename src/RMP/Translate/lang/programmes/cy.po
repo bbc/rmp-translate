@@ -312,6 +312,12 @@ msgstr[0] "Penodau"
 msgstr[1] "Pennod"
 msgstr[2] "Penodau"
 
+#. English: "Choose your file"
+#. Example URL: "http://www.bbc.co.uk/programmes/p02nrsfl/episodes/downloads"
+#. Click one of the Download buttons and look at the heading of the popup
+msgid "choose_your_file"
+msgstr ""
+
 #. English: "This clip will be available soon".
 #. Priority for: Programmes
 msgid "clip_availability_future"
@@ -1351,6 +1357,18 @@ msgstr "Chwaraewyd:"
 #. English: "Add music you love and enjoy it with %1".
 msgid "playlister_tagline"
 msgstr "Ychwanegwch eich hoff gerddoriaeth a’i fwynhau gyda %1"
+
+#. English: "Higher quality (128kbps)"
+#. Example URL: "http://www.bbc.co.uk/programmes/p02nrsfl/episodes/downloads"
+#. Click one of the Download buttons and look at the items of the popup
+msgid "podcast_128kbps_quality"
+msgstr ""
+
+#. English: "Lower quality (64kbps)"
+#. Example URL: "http://www.bbc.co.uk/programmes/p02nrsfl/episodes/downloads"
+#. Click one of the Download buttons and look at the items of the popup
+msgid "podcast_64kbps_quality"
+msgstr ""
 
 #. English: "This podcast belongs to".
 msgid "podcast_belongs"
