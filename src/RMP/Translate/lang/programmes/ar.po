@@ -311,6 +311,12 @@ msgstr[0] "فصول"
 msgstr[1] "فصل"
 msgstr[2] "فصول"
 
+#. English: "Choose your file"
+#. Example URL: "http://www.bbc.co.uk/programmes/p02nrsfl/episodes/downloads"
+#. Click one of the Download buttons and look at the heading of the popup
+msgid "choose_your_file"
+msgstr ""
+
 #. English: "This clip will be available soon".
 #. Priority for: Programmes
 msgid "clip_availability_future"
@@ -1345,6 +1351,18 @@ msgstr ""
 #. English: "Add music you love and enjoy it with %1".
 msgid "playlister_tagline"
 msgstr " إضافة أغنية يمكنك الاستمتاع بها مع %1"
+
+#. English: "Higher quality (128kbps)"
+#. Example URL: "http://www.bbc.co.uk/programmes/p02nrsfl/episodes/downloads"
+#. Click one of the Download buttons and look at the items of the popup
+msgid "podcast_128kbps_quality"
+msgstr ""
+
+#. English: "Lower quality (64kbps)"
+#. Example URL: "http://www.bbc.co.uk/programmes/p02nrsfl/episodes/downloads"
+#. Click one of the Download buttons and look at the items of the popup
+msgid "podcast_64kbps_quality"
+msgstr ""
 
 #. English: "This podcast belongs to".
 msgid "podcast_belongs"
