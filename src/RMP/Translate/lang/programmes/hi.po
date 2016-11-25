@@ -1527,6 +1527,10 @@ msgstr ""
 msgid "recently_played"
 msgstr ""
 
+#. English: "Recently visited".
+msgid "recently_visited"
+msgstr ""
+
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".
 #. English (2+ items): "Recipes".
