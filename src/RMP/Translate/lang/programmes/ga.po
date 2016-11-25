@@ -1532,6 +1532,10 @@ msgstr "Léamha"
 msgid "recently_played"
 msgstr "Seinnte le gairid"
 
+#. English: "Recently visited".
+msgid "recently_visited"
+msgstr "Gwelwyd yn ddiweddar"
+
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".
 #. English (2+ items): "Recipes".

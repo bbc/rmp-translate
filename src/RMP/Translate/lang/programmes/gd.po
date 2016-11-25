@@ -284,9 +284,9 @@ msgstr ""
 #. English (2+ items): "Categories".
 msgid "categories"
 msgid_plural "categories %count%"
-msgstr[0] ""
+msgstr[0] "Roinnean"
 msgstr[1] ""
-msgstr[2] ""
+msgstr[2] "Roinnean"
 
 #. English: "This category can be found on the stations highlighted below".
 msgid "category_stations_note"
@@ -550,9 +550,9 @@ msgstr[2] ""
 #. Priority for: Programmes
 msgid "episodes"
 msgid_plural "episodes %count%"
-msgstr[0] ""
+msgstr[0] "Prògraman"
 msgstr[1] ""
-msgstr[2] ""
+msgstr[2] "Prògraman"
 
 #. English: "Episodes and clips".
 #. Priority for: Favourites
@@ -1466,9 +1466,9 @@ msgstr ""
 #. English (2+ items): "Programmes".
 msgid "programmes"
 msgid_plural "programmes %count%"
-msgstr[0] ""
+msgstr[0] "Prògraman"
 msgstr[1] ""
-msgstr[2] ""
+msgstr[2] "Prògraman"
 
 #. English (no items): "No programmes".
 #. English (one item): "1 programme".
@@ -1524,6 +1524,10 @@ msgstr "Leughaidhean"
 #. English: "Recently played".
 msgid "recently_played"
 msgstr "Air a chluich o chionn ghoirid"
+
+#. English: "Recently visited".
+msgid "recently_visited"
+msgstr "Air na thadhail thu"
 
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".
@@ -1629,9 +1633,9 @@ msgstr ""
 #. Priority for: Schedules
 msgid "schedules"
 msgid_plural "schedules %count%"
-msgstr[0] ""
+msgstr[0] "Clàran"
 msgstr[1] ""
-msgstr[2] ""
+msgstr[2] "Clàran"
 
 #. English: "Boxing Day".
 msgid "schedules_boxing_day"
@@ -1940,7 +1944,7 @@ msgstr ""
 
 #. English: "Stations".
 msgid "stations"
-msgstr ""
+msgstr "Stèiseanan"
 
 #. English: "Subscribe".
 msgid "subscribe"

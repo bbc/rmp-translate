@@ -1536,6 +1536,10 @@ msgstr "Darlleniadau"
 msgid "recently_played"
 msgstr "Chwaraewyd yn ddiweddar"
 
+#. English: "Recently visited".
+msgid "recently_visited"
+msgstr "Gwelwyd yn ddiweddar"
+
 #. English (no items): "Recipes".
 #. English (one item): "Recipe".
 #. English (2+ items): "Recipes".
