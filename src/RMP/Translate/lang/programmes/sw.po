@@ -6,6 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
+#. English: "About BBC Radio".
+#. Used by: Radio Nightingale
+msgid "about_bbc_radio"
+msgstr ""
+
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
 msgid "added"
@@ -593,6 +598,11 @@ msgstr ""
 
 #. English: "Features".
 msgid "features"
+msgstr ""
+
+#. English: "Feedback".
+#. Used by: Radio Nightingale
+msgid "feedback"
 msgstr ""
 
 #. English: "Filter by".
@@ -1472,6 +1482,11 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
+#. English: "Programmes A-Z".
+#. Used by: Radio Nightingale
+msgid "programmes_a_z"
+msgstr ""
+
 #. English (no items): "No programmes".
 #. English (one item): "1 programme".
 #. English (2+ items): "%1 programmes".
@@ -1511,6 +1526,16 @@ msgstr ""
 #. %1 is a variable, which may contain the value: "Doctor Who"
 #. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_link"
+msgstr ""
+
+#. English: "Radio Blog".
+#. Used by: Radio Nightingale
+msgid "radio_blog"
+msgstr ""
+
+#. English: "iPlayer Radio Help".
+#. Used by: Radio Nightingale
+msgid "radio_help"
 msgstr ""
 
 #. English: "Programmes".
@@ -2044,6 +2069,11 @@ msgstr[2] ""
 #. Priority for: Rich Tracks
 msgid "track_title"
 msgstr "Jina la kanda"
+
+#. English: "Twitter".
+#. Used by: Radio Nightingale
+msgid "twitter"
+msgstr ""
 
 #. English: "UK Only".
 msgid "uk_only"

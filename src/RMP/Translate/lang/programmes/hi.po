@@ -6,6 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
+#. English: "About BBC Radio".
+#. Used by: Radio Nightingale
+msgid "about_bbc_radio"
+msgstr ""
+
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
 msgid "added"
@@ -592,6 +597,11 @@ msgstr "फ़ीचर्ड है"
 #. English: "Features".
 msgid "features"
 msgstr "फ़ीचर्स"
+
+#. English: "Feedback".
+#. Used by: Radio Nightingale
+msgid "feedback"
+msgstr ""
 
 #. English: "Filter by".
 msgid "filter_by"
@@ -1470,6 +1480,11 @@ msgstr[0] "कार्यक्रम"
 msgstr[1] "कार्यक्रम"
 msgstr[2] "कार्यक्रम"
 
+#. English: "Programmes A-Z".
+#. Used by: Radio Nightingale
+msgid "programmes_a_z"
+msgstr ""
+
 #. English (no items): "No programmes".
 #. English (one item): "1 programme".
 #. English (2+ items): "%1 programmes".
@@ -1512,6 +1527,16 @@ msgstr "इस इमेज को आप सेव, प्रिंट या �
 #. Example URL: http://www.bbc.co.uk/programmes/b006q2x0/qrcode .
 msgid "qr_link"
 msgstr "क्यूआर कोड रीडर का इस्तेमाल करके पढ़े जाने पर ये कोड %1 के लिए बने पेज पर ले जाएगा"
+
+#. English: "Radio Blog".
+#. Used by: Radio Nightingale
+msgid "radio_blog"
+msgstr ""
+
+#. English: "iPlayer Radio Help".
+#. Used by: Radio Nightingale
+msgid "radio_help"
+msgstr ""
 
 #. English: "Programmes".
 #. Used by: RadioNav
@@ -2044,6 +2069,11 @@ msgstr[2] "टॉपिक्स"
 #. Priority for: Rich Tracks
 msgid "track_title"
 msgstr "ट्रैक टाइटल"
+
+#. English: "Twitter".
+#. Used by: Radio Nightingale
+msgid "twitter"
+msgstr ""
 
 #. English: "UK Only".
 msgid "uk_only"
