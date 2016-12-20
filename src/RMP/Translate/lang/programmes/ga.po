@@ -9,7 +9,7 @@ msgstr ""
 #. English: "About BBC Radio".
 #. Used by: Radio Nightingale
 msgid "about_bbc_radio"
-msgstr ""
+msgstr "Faoi BBC Raidió"
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -603,7 +603,7 @@ msgstr "Faoi thrácht"
 #. English: "Feedback".
 #. Used by: Radio Nightingale
 msgid "feedback"
-msgstr ""
+msgstr "Aischothú"
 
 #. English: "Filter by".
 msgid "filter_by"
@@ -1485,7 +1485,7 @@ msgstr[2] "Chlár"
 #. English: "Programmes A-Z".
 #. Used by: Radio Nightingale
 msgid "programmes_a_z"
-msgstr ""
+msgstr "Cláir A-Z"
 
 #. English (no items): "No programmes".
 #. English (one item): "1 programme".
@@ -1536,12 +1536,12 @@ msgstr ""
 #. English: "Radio Blog".
 #. Used by: Radio Nightingale
 msgid "radio_blog"
-msgstr ""
+msgstr "Blag Raidió"
 
 #. English: "iPlayer Radio Help".
 #. Used by: Radio Nightingale
 msgid "radio_help"
-msgstr ""
+msgstr "Cuidiú le Raidió ar iPlayer"
 
 #. English: "Programmes".
 #. Used by: RadioNav
@@ -2083,7 +2083,7 @@ msgstr "Teideal traic"
 #. English: "Twitter".
 #. Used by: Radio Nightingale
 msgid "twitter"
-msgstr ""
+msgstr "Twitter"
 
 #. English: "UK Only".
 msgid "uk_only"
