@@ -9,7 +9,7 @@ msgstr ""
 #. English: "About BBC Radio".
 #. Used by: Radio Nightingale
 msgid "about_bbc_radio"
-msgstr ""
+msgstr "Mu BBC Radio"
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -601,7 +601,7 @@ msgstr ""
 #. English: "Feedback".
 #. Used by: Radio Nightingale
 msgid "feedback"
-msgstr ""
+msgstr "Beachdan"
 
 #. English: "Filter by".
 msgid "filter_by"
@@ -1483,7 +1483,7 @@ msgstr[2] "Prògraman"
 #. English: "Programmes A-Z".
 #. Used by: Radio Nightingale
 msgid "programmes_a_z"
-msgstr ""
+msgstr "Prògraman Rèidio A-Z"
 
 #. English (no items): "No programmes".
 #. English (one item): "1 programme".
@@ -1529,12 +1529,12 @@ msgstr "Ceanglaidh an còd air an taobh chlì ri duilleag %1 le còd QR."
 #. English: "Radio Blog".
 #. Used by: Radio Nightingale
 msgid "radio_blog"
-msgstr ""
+msgstr "Blog Rèidio"
 
 #. English: "iPlayer Radio Help".
 #. Used by: Radio Nightingale
 msgid "radio_help"
-msgstr ""
+msgstr "Taic iPlayer Radio"
 
 #. English: "Programmes".
 #. Used by: RadioNav
@@ -2073,7 +2073,7 @@ msgstr "Tiotal"
 #. English: "Twitter".
 #. Used by: Radio Nightingale
 msgid "twitter"
-msgstr ""
+msgstr "Twitter"
 
 #. English: "UK Only".
 msgid "uk_only"
