@@ -6,6 +6,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n==1 ? 1 : 2)\n"
 
+#. English: "About BBC Radio".
+#. Used by: Radio Nightingale
+msgid "about_bbc_radio"
+msgstr ""
+
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
 msgid "added"
@@ -593,6 +598,11 @@ msgstr "الخاصية في ..."
 #. English: "Features".
 msgid "features"
 msgstr "خواص"
+
+#. English: "Feedback".
+#. Used by: Radio Nightingale
+msgid "feedback"
+msgstr ""
 
 #. English: "Filter by".
 msgid "filter_by"
@@ -1471,6 +1481,11 @@ msgstr[0] "البرامج"
 msgstr[1] "البرنامج"
 msgstr[2] "البرامج"
 
+#. English: "Programmes A-Z".
+#. Used by: Radio Nightingale
+msgid "programmes_a_z"
+msgstr ""
+
 #. English (no items): "No programmes".
 #. English (one item): "1 programme".
 #. English (2+ items): "%1 programmes".
@@ -1515,6 +1530,16 @@ msgstr "يمكنك حفظ، طباعة ومشاركة الصورة"
 msgid "qr_link"
 msgstr ""
 "This code will link to the page for %1 when read using a QR code reader."
+
+#. English: "Radio Blog".
+#. Used by: Radio Nightingale
+msgid "radio_blog"
+msgstr ""
+
+#. English: "iPlayer Radio Help".
+#. Used by: Radio Nightingale
+msgid "radio_help"
+msgstr ""
 
 #. English: "Programmes".
 #. Used by: RadioNav
