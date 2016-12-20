@@ -44,6 +44,10 @@ msgstr "Pob pennod sydd ar gael ar BBC iPlayer"
 msgid "all_episodes_iplayer_radio"
 msgstr "Pob pennod sydd ar gael ar BBC iPlayer Radio"
 
+#. English: "All podcasts".
+msgid "all_podcasts"
+msgstr "Podlediadau"
+
 #. English: "All previous episodes".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b00srz5b .
@@ -323,6 +327,10 @@ msgstr[2] "Penodau"
 msgid "choose_your_file"
 msgstr ""
 
+#. English: "Clear selection".
+msgid "clear_selection"
+msgstr "Clirio'r dewisiadau"
+
 #. English: "This clip will be available soon".
 #. Priority for: Programmes
 msgid "clip_availability_future"
@@ -446,6 +454,10 @@ msgstr "Rhaid cynnwys y manylion isod yn eich neges:"
 #. English: "Contact us".
 msgid "contact_us"
 msgstr "Cysylltu â ni"
+
+#. English: "%1 Podcasts".
+msgid "context_podcasts"
+msgstr "%1 Podlediadau"
 
 #. English (no items): "Credits".
 #. English (one item): "Credit".
@@ -618,6 +630,10 @@ msgstr "Hidlo yn ôl"
 #. Used by: NHP -> Personalisation -> Recommendations
 msgid "find_out_more"
 msgstr "Dysgu mwy"
+
+#. English: "Find podcasts".
+msgid "find_podcasts"
+msgstr "Dod o hyd i bodlediad"
 
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
@@ -2192,4 +2208,3 @@ msgstr "Le"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "Mwy o raglenni i chi"
-

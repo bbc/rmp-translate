@@ -44,6 +44,10 @@ msgstr "Tous les épisodes disponibles sur BBC iPlayer"
 msgid "all_episodes_iplayer_radio"
 msgstr "Tous les épisodes disponibles sur BBC iPlayer Radio"
 
+#. English: "All podcasts".
+msgid "all_podcasts"
+msgstr ""
+
 #. English: "All previous episodes".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b00srz5b .
@@ -323,6 +327,10 @@ msgstr[2] "Épisodes"
 msgid "choose_your_file"
 msgstr ""
 
+#. English: "Clear selection".
+msgid "clear_selection"
+msgstr ""
+
 #. English: "This clip will be available soon".
 #. Priority for: Programmes
 msgid "clip_availability_future"
@@ -446,6 +454,10 @@ msgstr "Inclure les détails suivants dans votre message:"
 #. English: "Contact us".
 msgid "contact_us"
 msgstr "Contactez-nous"
+
+#. English: "%1 Podcasts".
+msgid "context_podcasts"
+msgstr ""
 
 #. English (no items): "Credits".
 #. English (one item): "Credit".
@@ -616,6 +628,10 @@ msgstr "Filtrer par"
 #. English: "Find out more".
 #. Used by: NHP -> Personalisation -> Recommendations
 msgid "find_out_more"
+msgstr ""
+
+#. English: "Find podcasts".
+msgid "find_podcasts"
 msgstr ""
 
 #. English: "You are at the first episode".
