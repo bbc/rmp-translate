@@ -9,7 +9,7 @@ msgstr ""
 #. English: "About BBC Radio".
 #. Used by: Radio Nightingale
 msgid "about_bbc_radio"
-msgstr ""
+msgstr "Am BBC Radio"
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -608,7 +608,7 @@ msgstr "Dan Sylw"
 #. English: "Feedback".
 #. Used by: Radio Nightingale
 msgid "feedback"
-msgstr ""
+msgstr "Adborth"
 
 #. English: "Filter by".
 msgid "filter_by"
@@ -1490,7 +1490,7 @@ msgstr[2] "Rhaglenni"
 #. English: "Programmes A-Z".
 #. Used by: Radio Nightingale
 msgid "programmes_a_z"
-msgstr ""
+msgstr "A-Z Rhaglenni Radio"
 
 #. English (no items): "No programmes".
 #. English (one item): "1 programme".
@@ -1540,12 +1540,12 @@ msgstr ""
 #. English: "Radio Blog".
 #. Used by: Radio Nightingale
 msgid "radio_blog"
-msgstr ""
+msgstr "Blog Radio"
 
 #. English: "iPlayer Radio Help".
 #. Used by: Radio Nightingale
 msgid "radio_help"
-msgstr ""
+msgstr "Help iPlayer Radio"
 
 #. English: "Programmes".
 #. Used by: RadioNav
@@ -2090,7 +2090,7 @@ msgstr "Enw’r trac"
 #. English: "Twitter".
 #. Used by: Radio Nightingale
 msgid "twitter"
-msgstr ""
+msgstr "Twitter"
 
 #. English: "UK Only".
 msgid "uk_only"
