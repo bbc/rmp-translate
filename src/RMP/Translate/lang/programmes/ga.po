@@ -2080,11 +2080,6 @@ msgstr[2] "Toipicí"
 msgid "track_title"
 msgstr "Teideal traic"
 
-#. English: "Twitter".
-#. Used by: Radio Nightingale
-msgid "twitter"
-msgstr "Twitter"
-
 #. English: "UK Only".
 msgid "uk_only"
 msgstr ""

@@ -2086,11 +2086,6 @@ msgstr[2] "Thèmes"
 msgid "track_title"
 msgstr "Titre du morceau"
 
-#. English: "Twitter".
-#. Used by: Radio Nightingale
-msgid "twitter"
-msgstr ""
-
 #. English: "UK Only".
 msgid "uk_only"
 msgstr ""

@@ -2070,11 +2070,6 @@ msgstr[2] ""
 msgid "track_title"
 msgstr "Jina la kanda"
 
-#. English: "Twitter".
-#. Used by: Radio Nightingale
-msgid "twitter"
-msgstr ""
-
 #. English: "UK Only".
 msgid "uk_only"
 msgstr ""

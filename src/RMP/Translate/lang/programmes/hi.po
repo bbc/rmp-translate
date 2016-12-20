@@ -2070,11 +2070,6 @@ msgstr[2] "टॉपिक्स"
 msgid "track_title"
 msgstr "ट्रैक टाइटल"
 
-#. English: "Twitter".
-#. Used by: Radio Nightingale
-msgid "twitter"
-msgstr ""
-
 #. English: "UK Only".
 msgid "uk_only"
 msgstr ""

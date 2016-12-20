@@ -2087,11 +2087,6 @@ msgstr[2] "Pynciau"
 msgid "track_title"
 msgstr "Enw’r trac"
 
-#. English: "Twitter".
-#. Used by: Radio Nightingale
-msgid "twitter"
-msgstr "Twitter"
-
 #. English: "UK Only".
 msgid "uk_only"
 msgstr ""
@@ -2197,3 +2192,4 @@ msgstr "Le"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "Mwy o raglenni i chi"
+

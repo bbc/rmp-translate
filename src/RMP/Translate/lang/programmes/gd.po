@@ -2070,11 +2070,6 @@ msgstr[2] ""
 msgid "track_title"
 msgstr "Tiotal"
 
-#. English: "Twitter".
-#. Used by: Radio Nightingale
-msgid "twitter"
-msgstr "Twitter"
-
 #. English: "UK Only".
 msgid "uk_only"
 msgstr ""
@@ -2180,3 +2175,4 @@ msgstr "Lean ort"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr ""
+
