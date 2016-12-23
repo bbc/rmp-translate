@@ -43,6 +43,10 @@ msgstr "همه قسمت‌‌های قابل دسترسی در آی‌پلیر �
 msgid "all_episodes_iplayer_radio"
 msgstr "همه قسمت‎‌‌های قابل دسترسی در آی‌پلیر رادیو بی‌بی‌سی"
 
+#. English: "All podcasts".
+msgid "all_podcasts"
+msgstr ""
+
 #. English: "All previous episodes".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b00srz5b .
@@ -321,6 +325,10 @@ msgstr[2] "بخش‌ها"
 msgid "choose_your_file"
 msgstr ""
 
+#. English: "Clear selection".
+msgid "clear_selection"
+msgstr ""
+
 #. English: "This clip will be available soon".
 #. Priority for: Programmes
 msgid "clip_availability_future"
@@ -442,6 +450,10 @@ msgstr "لطفا موارد زیر را در پیام خود بگنجانید."
 #. English: "Contact us".
 msgid "contact_us"
 msgstr "تماس با ما"
+
+#. English: "%1 Podcasts".
+msgid "context_podcasts"
+msgstr ""
 
 #. English (no items): "Credits".
 #. English (one item): "Credit".
@@ -613,6 +625,10 @@ msgstr "ترتیب بر حسب"
 msgid "find_out_more"
 msgstr ""
 
+#. English: "Find podcasts".
+msgid "find_podcasts"
+msgstr ""
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -688,6 +704,10 @@ msgstr "پنهان کردن قسمت‌های موجود برنامه"
 #. English: "History".
 #. Used by: RadioNav -> Categories
 msgid "history"
+msgstr ""
+
+#. English: "Help".
+msgid "help"
 msgstr ""
 
 #. English: "Home".

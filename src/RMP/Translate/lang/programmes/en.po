@@ -44,6 +44,10 @@ msgstr "All episodes available on BBC iPlayer"
 msgid "all_episodes_iplayer_radio"
 msgstr "All episodes available on BBC iPlayer Radio"
 
+#. English: "All podcasts".
+msgid "all_podcasts"
+msgstr "All podcasts"
+
 #. English: "All previous episodes".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b00srz5b .
@@ -322,6 +326,10 @@ msgstr[2] "Chapters"
 msgid "choose_your_file"
 msgstr "Choose your file"
 
+#. English: "Clear selection".
+msgid "clear_selection"
+msgstr "Clear selection"
+
 #. English: "This clip will be available soon".
 #. Priority for: Programmes
 msgid "clip_availability_future"
@@ -444,6 +452,10 @@ msgstr "Please include the following details on your message:"
 #. English: "Contact us".
 msgid "contact_us"
 msgstr "Contact us"
+
+#. English: "%1 Podcasts".
+msgid "context_podcasts"
+msgstr "%1 Podcasts"
 
 #. English (no items): "Credits".
 #. English (one item): "Credit".
@@ -614,6 +626,10 @@ msgstr "Filter by"
 msgid "find_out_more"
 msgstr "Find out more"
 
+#. English: "Find podcasts".
+msgid "find_podcasts"
+msgstr "Find podcasts"
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -690,6 +706,10 @@ msgstr "Hide available episodes"
 #. Used by: RadioNav -> Categories
 msgid "history"
 msgstr "History"
+
+#. English: "Help".
+msgid "help"
+msgstr "Help"
 
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
@@ -2184,4 +2204,3 @@ msgstr "Yes"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "You may also like"
-

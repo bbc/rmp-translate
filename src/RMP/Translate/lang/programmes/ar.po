@@ -44,6 +44,10 @@ msgstr "جميع الحلقات متاحة على بي بي سي أي بلير"
 msgid "all_episodes_iplayer_radio"
 msgstr "جميع الحلقات متاحة على راديو بي بي سي أي بلير"
 
+#. English: "All podcasts".
+msgid "all_podcasts"
+msgstr ""
+
 #. English: "All previous episodes".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b00srz5b .
@@ -322,6 +326,10 @@ msgstr[2] "فصول"
 msgid "choose_your_file"
 msgstr ""
 
+#. English: "Clear selection".
+msgid "clear_selection"
+msgstr ""
+
 #. English: "This clip will be available soon".
 #. Priority for: Programmes
 msgid "clip_availability_future"
@@ -444,6 +452,10 @@ msgstr "يرحى إضافة هذه المعلومات عند إرسال الرس
 #. English: "Contact us".
 msgid "contact_us"
 msgstr "تواصل معنا"
+
+#. English: "%1 Podcasts".
+msgid "context_podcasts"
+msgstr ""
 
 #. English (no items): "Credits".
 #. English (one item): "Credit".
@@ -613,6 +625,10 @@ msgstr "تصنيف حسب"
 msgid "find_out_more"
 msgstr ""
 
+#. English: "Find podcasts".
+msgid "find_podcasts"
+msgstr ""
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -688,6 +704,10 @@ msgstr "Hide available episodes"
 #. English: "History".
 #. Used by: RadioNav -> Categories
 msgid "history"
+msgstr ""
+
+#. English: "Help".
+msgid "help"
 msgstr ""
 
 #. English: "Home".

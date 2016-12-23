@@ -44,6 +44,10 @@ msgstr "Gach eagrán ar fáil ar BBC iPlayer"
 msgid "all_episodes_iplayer_radio"
 msgstr "Níl an clár seo ar fáil ar BBC iPlayer Radio faoi láthair"
 
+#. English: "All podcasts".
+msgid "all_podcasts"
+msgstr "Podchraoltaí"
+
 #. English: "All previous episodes".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b00srz5b .
@@ -322,6 +326,10 @@ msgstr[2] "Caibidlí"
 msgid "choose_your_file"
 msgstr ""
 
+#. English: "Clear selection".
+msgid "clear_selection"
+msgstr "Glan Rogha"
+
 #. English: "This clip will be available soon".
 #. Priority for: Programmes
 msgid "clip_availability_future"
@@ -445,6 +453,10 @@ msgstr "Cuir isteach na sonraí seo a leanas ar do theachtaireacht le do thoil:"
 #. English: "Contact us".
 msgid "contact_us"
 msgstr "Déan teagmháil linn"
+
+#. English: "%1 Podcasts".
+msgid "context_podcasts"
+msgstr "%1 Podchraoltaí"
 
 #. English (no items): "Credits".
 #. English (one item): "Credit".
@@ -614,6 +626,10 @@ msgstr ""
 msgid "find_out_more"
 msgstr "Tuilleadh eolais"
 
+#. English: "Find podcasts".
+msgid "find_podcasts"
+msgstr "Aimsgh podchraoladh"
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -690,6 +706,10 @@ msgstr ""
 #. Used by: RadioNav -> Categories
 msgid "history"
 msgstr "Stair"
+
+#. English: "Help".
+msgid "help"
+msgstr "Cuidiú"
 
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
