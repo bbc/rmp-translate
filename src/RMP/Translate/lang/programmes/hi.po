@@ -705,6 +705,10 @@ msgstr "उपलब्ध अंकों को छिपाएँ"
 msgid "history"
 msgstr ""
 
+#. English: "Help".
+msgid "help"
+msgstr ""
+
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes

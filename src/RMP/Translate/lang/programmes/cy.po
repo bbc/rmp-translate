@@ -712,6 +712,10 @@ msgstr "Cuddio’r penodau sydd ar gael"
 msgid "history"
 msgstr "Hanes"
 
+#. English: "Help".
+msgid "help"
+msgstr "Help"
+
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes

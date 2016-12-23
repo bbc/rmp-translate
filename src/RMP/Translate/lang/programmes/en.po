@@ -707,6 +707,10 @@ msgstr "Hide available episodes"
 msgid "history"
 msgstr "History"
 
+#. English: "Help".
+msgid "help"
+msgstr "Help"
+
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes

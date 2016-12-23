@@ -707,6 +707,10 @@ msgstr ""
 msgid "history"
 msgstr "Stair"
 
+#. English: "Help".
+msgid "help"
+msgstr "Cuidiú"
+
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
