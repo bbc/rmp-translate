@@ -39,10 +39,14 @@ class TranslateFactoryTest extends PHPUnit_Framework_TestCase
             'basepath' => __DIR__ . DIRECTORY_SEPARATOR . 'lang',
             'domains' => array('messages'),
         );
-        $poFilePath = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'en.po';
-        $this->translator->expects($this->once())
+        $poFilePath = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'en_GB.po';
+        $poFileFallbackPath = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'en.po';
+        $this->translator->expects($this->exactly(2))
             ->method('addResource')
-            ->with($this->isType('string'), $this->equalTo($poFilePath), $this->stringContains('en'));
+            ->withConsecutive(
+                array($this->isType('string'), $this->equalTo($poFilePath), $this->stringContains('en')),
+                array($this->isType('string'), $this->equalTo($poFileFallbackPath), $this->stringContains('en'))
+            );
 
         $translate = $this->translateFactory->create('en-GB', $options);
         $this->assertInstanceOf('RMP\Translate\Translate', $translate);
@@ -55,13 +59,17 @@ class TranslateFactoryTest extends PHPUnit_Framework_TestCase
             'domains' => array('messages'),
             'fallback_locale' => 'en-GB'
         );
-        $poFilePath1 = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'ru.po';
-        $poFilePath2 = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'en.po';
-        $this->translator->expects($this->exactly(2))
+        $poFilePath1 = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'ru_RU.po';
+        $poFilePath1FB = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'ru.po';
+        $poFilePath2 = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'en_GB.po';
+        $poFilePath2FB = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'en.po';
+        $this->translator->expects($this->exactly(4))
             ->method('addResource')
             ->withConsecutive(
                 array($this->isType('string'), $this->equalTo($poFilePath1), $this->stringContains('ru')),
-                array($this->isType('string'), $this->equalTo($poFilePath2), $this->stringContains('en'))
+                array($this->isType('string'), $this->equalTo($poFilePath1FB), $this->stringContains('ru')),
+                array($this->isType('string'), $this->equalTo($poFilePath2), $this->stringContains('en')),
+                array($this->isType('string'), $this->equalTo($poFilePath2FB), $this->stringContains('en'))
             );
 
         $translate = $this->translateFactory->create('ru-RU', $options);
@@ -74,7 +82,7 @@ class TranslateFactoryTest extends PHPUnit_Framework_TestCase
             'basepath' => __DIR__ . DIRECTORY_SEPARATOR . 'lang',
             'default_domain' => 'otherdomain',
             'domains' => array('otherdomain'),
-            'fallback_locale' => 'en-GB'
+            'fallback_locale' => 'en'
         );
 
         $poFilePath = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'otherdomain' . DIRECTORY_SEPARATOR . 'en.po';
@@ -82,7 +90,7 @@ class TranslateFactoryTest extends PHPUnit_Framework_TestCase
             ->method('addResource')
             ->with($this->isType('string'), $this->equalTo($poFilePath), $this->stringContains('en'));
 
-        $translate = $this->translateFactory->create('en_GB', $options);
+        $translate = $this->translateFactory->create('en', $options);
         $this->assertInstanceOf('RMP\Translate\Translate', $translate);
     }
 
@@ -92,14 +100,18 @@ class TranslateFactoryTest extends PHPUnit_Framework_TestCase
             'basepath' => __DIR__ . DIRECTORY_SEPARATOR . 'lang',
             'domains' => array('messages', 'otherdomain')
         );
-        $poFilePath1 = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'ru.po';
-        $poFilePath2 = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'otherdomain' . DIRECTORY_SEPARATOR . 'ru.po';
+        $poFilePath1 = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'ru_RU.po';
+        $poFilePath1FB = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'messages' . DIRECTORY_SEPARATOR . 'ru.po';
+        $poFilePath2 = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'otherdomain' . DIRECTORY_SEPARATOR . 'ru_RU.po';
+        $poFilePath2FB = __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . 'otherdomain' . DIRECTORY_SEPARATOR . 'ru.po';
 
-        $this->translator->expects($this->exactly(2))
+        $this->translator->expects($this->exactly(4))
             ->method('addResource')
             ->withConsecutive(
                 array($this->isType('string'), $this->equalTo($poFilePath1), $this->stringContains('ru')),
-                array($this->isType('string'), $this->equalTo($poFilePath2), $this->stringContains('ru'))
+                array($this->isType('string'), $this->equalTo($poFilePath1FB), $this->stringContains('ru')),
+                array($this->isType('string'), $this->equalTo($poFilePath2), $this->stringContains('ru')),
+                array($this->isType('string'), $this->equalTo($poFilePath2FB), $this->stringContains('ru'))
             );
 
         $translate = $this->translateFactory->create('ru-RU', $options);
