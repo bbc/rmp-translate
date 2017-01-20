@@ -21,6 +21,11 @@ msgstr "Ychwanegwyd"
 msgid "all"
 msgstr "Pob un"
 
+#. English: "All available episodes".
+#. Priority for: Programmes
+msgid "all_available_episodes"
+msgstr "Pob pennod sydd ar gael"
+
 #. English: "All Categories".
 #. Used by: RadioNav -> Categories
 msgid "all_categories"
@@ -635,6 +640,11 @@ msgstr "Dysgu mwy"
 msgid "find_podcasts"
 msgstr "Dod o hyd i bodlediad"
 
+#. English: "Find us at".
+#. Priority for: Programmes
+msgid "find_us_at"
+msgstr "Dewch o hyd i ni ar"
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -703,6 +713,10 @@ msgstr "Dewiswch genre i weld rhaglenni %1"
 msgid "gmt"
 msgstr ""
 
+#. English: "Help".
+msgid "help"
+msgstr "Help"
+
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr "Cuddio’r penodau sydd ar gael"
@@ -711,10 +725,6 @@ msgstr "Cuddio’r penodau sydd ar gael"
 #. Used by: RadioNav -> Categories
 msgid "history"
 msgstr "Hanes"
-
-#. English: "Help".
-msgid "help"
-msgstr "Help"
 
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
