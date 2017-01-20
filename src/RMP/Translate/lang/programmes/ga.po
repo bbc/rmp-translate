@@ -21,6 +21,8 @@ msgstr "Curtha Leis"
 msgid "all"
 msgstr "Uile"
 
+#. English: "All available episodes".
+#. Priority for: Programmes
 msgid "all_available_episodes"
 msgstr ""
 
@@ -633,6 +635,8 @@ msgstr "Tuilleadh eolais"
 msgid "find_podcasts"
 msgstr "Aimsgh podchraoladh"
 
+#. English: "Find us at".
+#. Priority for: Programmes
 msgid "find_us_at"
 msgstr ""
 

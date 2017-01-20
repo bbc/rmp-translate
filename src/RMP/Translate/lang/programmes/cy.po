@@ -21,6 +21,8 @@ msgstr "Ychwanegwyd"
 msgid "all"
 msgstr "Pob un"
 
+#. English: "All available episodes".
+#. Priority for: Programmes
 msgid "all_available_episodes"
 msgstr "Pob pennod sydd ar gael"
 
@@ -638,6 +640,8 @@ msgstr "Dysgu mwy"
 msgid "find_podcasts"
 msgstr "Dod o hyd i bodlediad"
 
+#. English: "Find us at".
+#. Priority for: Programmes
 msgid "find_us_at"
 msgstr "Dewch o hyd i ni ar"
 

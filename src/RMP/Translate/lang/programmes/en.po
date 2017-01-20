@@ -21,6 +21,8 @@ msgstr "Added"
 msgid "all"
 msgstr "All"
 
+#. English: "All available episodes".
+#. Priority for: Programmes
 msgid "all_available_episodes"
 msgstr "All available episodes"
 
@@ -633,6 +635,8 @@ msgstr "Find out more"
 msgid "find_podcasts"
 msgstr "Find podcasts"
 
+#. English: "Find us at".
+#. Priority for: Programmes
 msgid "find_us_at"
 msgstr "Find us at"
 
