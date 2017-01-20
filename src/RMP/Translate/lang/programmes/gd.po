@@ -21,6 +21,9 @@ msgstr "Air a chur ris"
 msgid "all"
 msgstr "Uile"
 
+msgid "all_available_episodes"
+msgstr ""
+
 #. English: "All Categories".
 #. Used by: RadioNav -> Categories
 msgid "all_categories"
@@ -628,6 +631,9 @@ msgstr "Faigh a-mach tuilleadh"
 msgid "find_podcasts"
 msgstr "Lorg Podcast"
 
+msgid "find_us_at"
+msgstr ""
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -696,6 +702,10 @@ msgstr ""
 msgid "gmt"
 msgstr ""
 
+#. English: "Help".
+msgid "help"
+msgstr "Taic"
+
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr ""
@@ -704,10 +714,6 @@ msgstr ""
 #. Used by: RadioNav -> Categories
 msgid "history"
 msgstr "Eachdraidh"
-
-#. English: "Help".
-msgid "help"
-msgstr "Taic"
 
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .

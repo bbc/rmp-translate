@@ -21,6 +21,9 @@ msgstr "Curtha Leis"
 msgid "all"
 msgstr "Uile"
 
+msgid "all_available_episodes"
+msgstr ""
+
 #. English: "All Categories".
 #. Used by: RadioNav -> Categories
 msgid "all_categories"
@@ -630,6 +633,9 @@ msgstr "Tuilleadh eolais"
 msgid "find_podcasts"
 msgstr "Aimsgh podchraoladh"
 
+msgid "find_us_at"
+msgstr ""
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -698,6 +704,10 @@ msgstr "Roghnaigh seánra le %1 chlár a fheiceáil"
 msgid "gmt"
 msgstr ""
 
+#. English: "Help".
+msgid "help"
+msgstr "Cuidiú"
+
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr ""
@@ -706,10 +716,6 @@ msgstr ""
 #. Used by: RadioNav -> Categories
 msgid "history"
 msgstr "Stair"
-
-#. English: "Help".
-msgid "help"
-msgstr "Cuidiú"
 
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .

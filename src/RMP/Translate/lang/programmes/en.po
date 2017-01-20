@@ -21,6 +21,9 @@ msgstr "Added"
 msgid "all"
 msgstr "All"
 
+msgid "all_available_episodes"
+msgstr "All available episodes"
+
 #. English: "All Categories".
 #. Used by: RadioNav -> Categories
 msgid "all_categories"
@@ -630,6 +633,9 @@ msgstr "Find out more"
 msgid "find_podcasts"
 msgstr "Find podcasts"
 
+msgid "find_us_at"
+msgstr "Find us at"
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -698,6 +704,10 @@ msgstr "Pick a genre to see %1 programmes"
 msgid "gmt"
 msgstr "GMT"
 
+#. English: "Help".
+msgid "help"
+msgstr "Help"
+
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr "Hide available episodes"
@@ -706,10 +716,6 @@ msgstr "Hide available episodes"
 #. Used by: RadioNav -> Categories
 msgid "history"
 msgstr "History"
-
-#. English: "Help".
-msgid "help"
-msgstr "Help"
 
 #. English: "Home".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .

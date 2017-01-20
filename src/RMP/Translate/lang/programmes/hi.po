@@ -21,6 +21,9 @@ msgstr ""
 msgid "all"
 msgstr "सभी"
 
+msgid "all_available_episodes"
+msgstr ""
+
 #. English: "All Categories".
 #. Used by: RadioNav -> Categories
 msgid "all_categories"
@@ -628,6 +631,9 @@ msgstr ""
 msgid "find_podcasts"
 msgstr ""
 
+msgid "find_us_at"
+msgstr ""
+
 #. English: "You are at the first episode".
 #. Example URL: http://www.bbc.co.uk/programmes/p023w9fy .
 #. Priority for: Programmes
@@ -696,6 +702,10 @@ msgstr "कार्यक्रम %1 देखने के लिए श्�
 msgid "gmt"
 msgstr ""
 
+#. English: "Help".
+msgid "help"
+msgstr ""
+
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
 msgstr "उपलब्ध अंकों को छिपाएँ"
@@ -703,10 +713,6 @@ msgstr "उपलब्ध अंकों को छिपाएँ"
 #. English: "History".
 #. Used by: RadioNav -> Categories
 msgid "history"
-msgstr ""
-
-#. English: "Help".
-msgid "help"
 msgstr ""
 
 #. English: "Home".
