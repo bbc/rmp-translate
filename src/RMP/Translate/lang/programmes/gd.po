@@ -1180,7 +1180,7 @@ msgstr ""
 
 #. English: "Local Radio".
 msgid "local_radio"
-msgstr ""
+msgstr "Rèidio Ionadail"
 
 #. English: "Local time".
 #. Example URL: http://www.bbc.co.uk/programmes/p0385z3r
