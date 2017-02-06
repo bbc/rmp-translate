@@ -1248,6 +1248,11 @@ msgstr "National Radio"
 msgid "nations_radio"
 msgstr "Nations Radio"
 
+#. English: "Radio 2 New Music Playlist".
+#. Used by: Radio v1
+msgid "new_music_playlist"
+msgstr ""
+
 #. English: "New series".
 #. Example URL: http://www.bbc.co.uk/programmes/b006vq92 (visible at the time of writing, note that this text is only shown on new series)
 #. Priority for: Programmes
