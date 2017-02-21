@@ -1886,6 +1886,11 @@ msgstr "Féach gach eagrán de %1 atá ar fáil ar BBC iPlayer Ráidió"
 msgid "see_all_broadcasts_of"
 msgstr "Féach gach craoladh de %1"
 
+#. English: "See all clips".
+#. Priority for: Programmes
+msgid "see_all_clips"
+msgstr ""
+
 #. English: "See all clips from %1".
 msgid "see_all_clips_from"
 msgstr "Féach gach gearrthóg ó %1"
@@ -1904,6 +1909,11 @@ msgstr "Féach gach eagrán de %1"
 #. English: "See all from %1".
 msgid "see_all_from"
 msgstr "Féach gach rud ó %1"
+
+#. English: "See all galleries".
+#. Priority for: Programmes
+msgid "see_all_galleries"
+msgstr ""
 
 #. English: "See all galleries from %1".
 msgid "see_all_galleries_from"

@@ -1881,6 +1881,11 @@ msgstr "همه قسمت‌های %1 را که قابل دسترس است"
 msgid "see_all_broadcasts_of"
 msgstr "همه موارد پخش شده %1"
 
+#. English: "See all clips".
+#. Priority for: Programmes
+msgid "see_all_clips"
+msgstr ""
+
 #. English: "See all clips from %1".
 msgid "see_all_clips_from"
 msgstr "همه ویدیو ها از %1"
@@ -1899,6 +1904,11 @@ msgstr "همه قسمت‌های %1"
 #. English: "See all from %1".
 msgid "see_all_from"
 msgstr "همه موارد موجود از %1"
+
+#. English: "See all galleries".
+#. Priority for: Programmes
+msgid "see_all_galleries"
+msgstr ""
 
 #. English: "See all galleries from %1".
 msgid "see_all_galleries_from"

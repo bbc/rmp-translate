@@ -1878,6 +1878,11 @@ msgstr "Даяр эпизоддордун баарын көрүү: %1"
 msgid "see_all_broadcasts_of"
 msgstr ""
 
+#. English: "See all clips".
+#. Priority for: Programmes
+msgid "see_all_clips"
+msgstr ""
+
 #. English: "See all clips from %1".
 msgid "see_all_clips_from"
 msgstr ""
@@ -1895,6 +1900,11 @@ msgstr "%1 бардык эпизоддорун көрүү"
 
 #. English: "See all from %1".
 msgid "see_all_from"
+msgstr ""
+
+#. English: "See all galleries".
+#. Priority for: Programmes
+msgid "see_all_galleries"
 msgstr ""
 
 #. English: "See all galleries from %1".

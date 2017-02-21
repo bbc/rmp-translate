@@ -1882,6 +1882,11 @@ msgstr "شاهد جميع %1 الحلقات المتاحة"
 msgid "see_all_broadcasts_of"
 msgstr "See all broadcasts of %1"
 
+#. English: "See all clips".
+#. Priority for: Programmes
+msgid "see_all_clips"
+msgstr "See all clips"
+
 #. English: "See all clips from %1".
 msgid "see_all_clips_from"
 msgstr "شاهد جميع الكليبات %1"
@@ -1900,6 +1905,11 @@ msgstr "شاهد جميع الحلقات من %1"
 #. English: "See all from %1".
 msgid "see_all_from"
 msgstr "شاهد الكل من %1"
+
+#. English: "See all galleries".
+#. Priority for: Programmes
+msgid "see_all_galleries"
+msgstr "See all galleries"
 
 #. English: "See all galleries from %1".
 msgid "see_all_galleries_from"
