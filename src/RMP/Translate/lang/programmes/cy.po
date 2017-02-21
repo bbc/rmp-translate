@@ -1890,6 +1890,11 @@ msgstr "Gweld holl benodau %1 sydd ar gael ar BBC iPlayer Radio"
 msgid "see_all_broadcasts_of"
 msgstr "Gweld holl ddarllediadau %1"
 
+#. English: "See all clips".
+#. Priority for: Programmes
+msgid "see_all_clips"
+msgstr "Gweld pob clip"
+
 #. English: "See all clips from %1".
 msgid "see_all_clips_from"
 msgstr "Gweld holl glipiau %1"
@@ -1908,6 +1913,11 @@ msgstr "Gweld holl benodau %1"
 #. English: "See all from %1".
 msgid "see_all_from"
 msgstr "Gweld popeth %1"
+
+#. English: "See all galleries".
+#. Priority for: Programmes
+msgid "see_all_galleries"
+msgstr "Gweld pob oriel"
 
 #. English: "See all galleries from %1".
 msgid "see_all_galleries_from"
