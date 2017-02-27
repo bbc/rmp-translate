@@ -2128,6 +2128,11 @@ msgstr "Track title"
 msgid "uk_only"
 msgstr "UK Only"
 
+#. English: "Upcoming episodes".
+#. Used by: Programmes
+msgid "upcoming_episodes"
+msgstr "Upcoming episodes"
+
 #. English: "Updated:".
 msgid "updated"
 msgstr "Updated:"

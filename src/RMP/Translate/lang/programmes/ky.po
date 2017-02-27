@@ -2118,6 +2118,11 @@ msgstr "Атын издөө"
 msgid "uk_only"
 msgstr ""
 
+#. English: "Upcoming episodes".
+#. Used by: Programmes
+msgid "upcoming_episodes"
+msgstr ""
+
 #. English: "Updated:".
 msgid "updated"
 msgstr ""
