@@ -2136,6 +2136,11 @@ msgstr "Enw’r trac"
 msgid "uk_only"
 msgstr ""
 
+#. English: "Upcoming episodes".
+#. Used by: Programmes
+msgid "upcoming_episodes"
+msgstr "Popeth i ddod"
+
 #. English: "Updated:".
 msgid "updated"
 msgstr "Diweddaru:"
