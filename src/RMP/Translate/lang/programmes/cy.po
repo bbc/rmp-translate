@@ -1293,7 +1293,7 @@ msgstr "Yn anffodus, nid oes unrhyw wybodaeth"
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
-msgstr ""
+msgstr "Sori – wnaethom ni ddim dod o hyd i unrhyw bodlediadau i chi. Beth am roi cynnig ar orsaf neu genre wahanol?"
 
 #. English: "Now and next".
 msgid "now_and_next"
