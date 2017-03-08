@@ -1284,6 +1284,10 @@ msgstr ""
 msgid "no_information"
 msgstr "क्षमा कीजिए फ़िलहाल कोई सूचना उपलब्ध नहीं है"
 
+#. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
+msgid "no_podcast_items"
+msgstr ""
+
 #. English: "Now and next".
 msgid "now_and_next"
 msgstr "अभी और अगला"

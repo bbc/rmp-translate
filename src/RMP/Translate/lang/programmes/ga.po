@@ -1286,6 +1286,10 @@ msgstr "Níl"
 msgid "no_information"
 msgstr "Níl aon eolas ann faoi láthair"
 
+#. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
+msgid "no_podcast_items"
+msgstr ""
+
 #. English: "Now and next".
 msgid "now_and_next"
 msgstr "Anois agus ag teacht aníos"
