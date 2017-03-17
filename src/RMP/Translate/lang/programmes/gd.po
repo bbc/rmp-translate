@@ -51,7 +51,7 @@ msgstr ""
 
 #. English: "All podcasts".
 msgid "all_podcasts"
-msgstr ""
+msgstr "Podcastan"
 
 #. English: "All previous episodes".
 #. Priority for: Programmes
@@ -459,7 +459,7 @@ msgstr ""
 
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
-msgstr ""
+msgstr "%1 Podcastan"
 
 #. English (no items): "Credits".
 #. English (one item): "Credit".
@@ -1423,9 +1423,9 @@ msgstr ""
 #. Priority for: Programmes
 msgid "podcasts"
 msgid_plural "podcasts %count%"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Podcastan"
+msgstr[1] "Podcast"
+msgstr[2] "Podcastan"
 
 #. English: "Episodes to download".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/downloads .
