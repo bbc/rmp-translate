@@ -91,7 +91,7 @@ class Translate
         $result = $this->_translate($key, $substitutions, $pluralisation, $domain, $this->locale);
 
         // test if the locale is the 2 letter variant which is oftent taken from ckps_language
-        $gbLocales = ['en','cy','gd','ga'];
+        $gbLocales = array('en','cy','gd','ga');
         if ($result === '' && in_array($this->locale, $gbLocales)) {
             $result = $this->_translate($key, $substitutions, $pluralisation, $domain, $this->locale . '_GB');
         }
