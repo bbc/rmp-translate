@@ -90,6 +90,11 @@ class Translate
         }
         $result = $this->_translate($key, $substitutions, $pluralisation, $domain, $this->locale);
 
+        // test if the locale is the 2 letter variant which is oftent taken from ckps_language
+        if ($result === '' && strlen($this->locale) == 2) {
+            $result = $this->_translate($key, $substitutions, $pluralisation, $domain, $this->locale . '_GB');
+        }
+
         /**
          * We explicitly check the default and fallback locales rather than rely on Symfony's fallback
          * locale because it's PO file parsing is broken and therefore fallback locales
