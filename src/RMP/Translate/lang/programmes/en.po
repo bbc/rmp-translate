@@ -13,7 +13,9 @@ msgstr "About BBC Radio"
 
 #. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
 msgid "add_stuff_listen_later"
-msgstr "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device."
+msgstr ""
+"Add stuff to listen later. And follow your favourite shows to get updates "
+"and recommendations. All on any device."
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -1292,7 +1294,9 @@ msgstr "Sorry there is currently no information"
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
-msgstr "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
+msgstr ""
+"Sorry we haven't been able to find any podcasts for you, why not try a "
+"different station or genre?"
 
 #. English: "Now and next".
 msgid "now_and_next"
@@ -2026,6 +2030,10 @@ msgstr "Sorry, something's gone wrong"
 #. Example URL: http://www.bbc.co.uk/radio4/programmes/genres/entertainment/player .
 msgid "sort_by"
 msgstr "Sort by"
+
+#. English: "start using My Radio".
+msgid "start_using_my_radio"
+msgstr "start using My Radio"
 
 #. English: "Stations".
 msgid "stations"

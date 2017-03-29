@@ -2034,6 +2034,10 @@ msgstr ""
 msgid "sort_by"
 msgstr "Trier par"
 
+#. English: "start using My Radio".
+msgid "start_using_my_radio"
+msgstr ""
+
 #. English: "Stations".
 msgid "stations"
 msgstr "Stations"
