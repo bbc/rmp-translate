@@ -13,9 +13,7 @@ msgstr "Mu BBC Radio"
 
 #. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
 msgid "add_stuff_listen_later"
-msgstr ""
-"Cur ris airson èisteachd a-rithist. Lean na prògraman as fheàrr leat airson "
-"ùrachaidhean is molaidhean fhaighinn. Air inneal sam bith."
+msgstr "Cur ris airson èisteachd a-rithist. Lean na prògraman as fheàrr leat airson ùrachaidhean is molaidhean fhaighinn. Air inneal sam bith."
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -1292,9 +1290,7 @@ msgstr ""
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
-msgstr ""
-"Duilich ach cha do lorg sinn podcastan dhut, carson nach fheuch thu stèisean "
-"no roinn eile?"
+msgstr "Duilich ach cha do lorg sinn podcastan dhut, carson nach fheuch thu stèisean no roinn eile?"
 
 #. English: "Now and next".
 msgid "now_and_next"
