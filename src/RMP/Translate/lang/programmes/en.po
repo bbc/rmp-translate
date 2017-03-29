@@ -11,6 +11,10 @@ msgstr ""
 msgid "about_bbc_radio"
 msgstr "About BBC Radio"
 
+#. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
+msgid "add_stuff_listen_later"
+msgstr "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device."
+
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
 msgid "added"
@@ -2023,6 +2027,10 @@ msgstr "Sorry, something's gone wrong"
 msgid "sort_by"
 msgstr "Sort by"
 
+#. English: "start using My Radio".
+msgid "start_using_my_radio"
+msgstr "start using My Radio"
+
 #. English: "Stations".
 msgid "stations"
 msgstr "Stations"
@@ -2238,3 +2246,7 @@ msgstr "Yes"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "You may also like"
+
+#. English: "Your own personal radio station".
+msgid "your_personal_radio_station"
+msgstr "Your own personal radio station"

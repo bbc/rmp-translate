@@ -11,6 +11,10 @@ msgstr ""
 msgid "about_bbc_radio"
 msgstr "Am BBC Radio"
 
+#. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
+msgid "add_stuff_listen_later"
+msgstr "Ychwanegwch gynnwys er mwyn gwrando nes ymlaen. A dilynwch eich hoff raglenni i gael y wybodaeth a’r argymhellion diweddaraf. Pob dim ar unrhyw ddyfais."
+
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
 msgid "added"
@@ -2028,6 +2032,10 @@ msgstr "Mae rhywbeth wedi mynd o’i le"
 msgid "sort_by"
 msgstr "Trefnu yn ôl"
 
+#. English: "start using My Radio".
+msgid "start_using_my_radio"
+msgstr "ddechrau defnyddio My Radio"
+
 #. English: "Stations".
 msgid "stations"
 msgstr "Gorsafoedd"
@@ -2246,3 +2254,7 @@ msgstr "Le"
 #. English: "You may also like".
 msgid "you_might_also_like"
 msgstr "Mwy o raglenni i chi"
+
+#. English: "Your own personal radio station".
+msgid "your_personal_radio_station"
+msgstr "Eich gorsaf radio bersonol"
