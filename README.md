@@ -226,3 +226,10 @@ msgstr "blah"
 ```
 Replace the curly braces and their contents with some (hopefully relevant and informative) text and
 you're good to go. Any other comments will be displayed as plain text above the language entry somewhere.
+
+## License
+
+This repository is available under the terms of the Apache 2.0 license.
+View the LICENSE file in the for more information.
+
+Copyright (c) 2017 BBC
