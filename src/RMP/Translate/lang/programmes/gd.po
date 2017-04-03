@@ -1251,6 +1251,12 @@ msgstr ""
 msgid "nations_radio"
 msgstr ""
 
+#. English: "New".
+#. Example URL: http://www.bbc.co.uk/programmes/b006vq92 (visible at the time of writing, note that this text is only shown on new series)
+#. Priority for: Programmes
+msgid "new"
+msgstr ""
+
 #. English: "Radio 2 New Music Playlist".
 #. Used by: Radio v1
 msgid "new_music_playlist"
@@ -1290,7 +1296,9 @@ msgstr ""
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
-msgstr "Duilich ach cha do lorg sinn podcastan dhut, carson nach fheuch thu stèisean no roinn eile?"
+msgstr ""
+"Duilich ach cha do lorg sinn podcastan dhut, carson nach fheuch thu stèisean "
+"no roinn eile?"
 
 #. English: "Now and next".
 msgid "now_and_next"

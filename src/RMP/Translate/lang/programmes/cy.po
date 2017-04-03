@@ -13,7 +13,10 @@ msgstr "Am BBC Radio"
 
 #. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
 msgid "add_stuff_listen_later"
-msgstr "Ychwanegwch gynnwys er mwyn gwrando nes ymlaen. A dilynwch eich hoff raglenni i gael y wybodaeth a’r argymhellion diweddaraf. Pob dim ar unrhyw ddyfais."
+msgstr ""
+"Ychwanegwch gynnwys er mwyn gwrando nes ymlaen. A dilynwch eich hoff "
+"raglenni i gael y wybodaeth a’r argymhellion diweddaraf. Pob dim ar unrhyw "
+"ddyfais."
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -1257,6 +1260,12 @@ msgstr "Radio Cenedlaethol"
 #. English: "Nations Radio".
 msgid "nations_radio"
 msgstr "Radio’r Cenhedloedd"
+
+#. English: "New".
+#. Example URL: http://www.bbc.co.uk/programmes/b006vq92 (visible at the time of writing, note that this text is only shown on new series)
+#. Priority for: Programmes
+msgid "new"
+msgstr "Newydd"
 
 #. English: "Radio 2 New Music Playlist".
 #. Used by: Radio v1

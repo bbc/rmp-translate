@@ -13,7 +13,9 @@ msgstr "Faoi BBC Raidió"
 
 #. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
 msgid "add_stuff_listen_later"
-msgstr "Cuir leis le héisteacht leis ar ball. Agus lean na cláir is ansa leat le nuashonruithe agus moltaí breise a fháil. Ar fáil ar ghléas ar bith."
+msgstr ""
+"Cuir leis le héisteacht leis ar ball. Agus lean na cláir is ansa leat le "
+"nuashonruithe agus moltaí breise a fháil. Ar fáil ar ghléas ar bith."
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -1252,6 +1254,12 @@ msgstr "Ráidió Náisiúnta"
 #. English: "Nations Radio".
 msgid "nations_radio"
 msgstr "Ráidió na Náisiún"
+
+#. English: "New".
+#. Example URL: http://www.bbc.co.uk/programmes/b006vq92 (visible at the time of writing, note that this text is only shown on new series)
+#. Priority for: Programmes
+msgid "new"
+msgstr ""
 
 #. English: "Radio 2 New Music Playlist".
 #. Used by: Radio v1
