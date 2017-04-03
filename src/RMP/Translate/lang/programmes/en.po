@@ -13,9 +13,7 @@ msgstr "About BBC Radio"
 
 #. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
 msgid "add_stuff_listen_later"
-msgstr ""
-"Add stuff to listen later. And follow your favourite shows to get updates "
-"and recommendations. All on any device."
+msgstr "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device."
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
