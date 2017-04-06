@@ -307,6 +307,10 @@ msgstr[0] "Categorïau"
 msgstr[1] "Categori"
 msgstr[2] "Categorïau"
 
+#. English: "Pick a category to see BBC Radio programmes".
+msgid "categories_subheading"
+msgstr "Dewiswch gategori er mwyn gweld rhaglenni BBC Radio"
+
 #. English: "This category can be found on the stations highlighted below".
 msgid "category_stations_note"
 msgstr "Gallwch ddod o hyd i'r categori hwn ar y gorsafoedd isod"

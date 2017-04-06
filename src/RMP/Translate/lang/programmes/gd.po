@@ -306,6 +306,10 @@ msgstr[0] "Roinnean"
 msgstr[1] ""
 msgstr[2] "Roinnean"
 
+#. English: "Pick a category to see BBC Radio programmes".
+msgid "categories_subheading"
+msgstr "Tagh roinn airson prògraman BBC Radio fhaicinn"
+
 #. English: "This category can be found on the stations highlighted below".
 msgid "category_stations_note"
 msgstr ""
