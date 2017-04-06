@@ -1302,6 +1302,10 @@ msgstr "क्षमा कीजिए फ़िलहाल कोई सू�
 msgid "no_podcast_items"
 msgstr ""
 
+#. English: "Not available".
+msgid "not_available_iplayer"
+msgstr ""
+
 #. English: "Now and next".
 msgid "now_and_next"
 msgstr "अभी और अगला"

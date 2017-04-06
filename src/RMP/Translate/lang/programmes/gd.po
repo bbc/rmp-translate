@@ -1302,6 +1302,10 @@ msgstr ""
 msgid "no_podcast_items"
 msgstr "Duilich ach cha do lorg sinn podcastan dhut, carson nach fheuch thu stèisean no roinn eile?"
 
+#. English: "Not available".
+msgid "not_available_iplayer"
+msgstr ""
+
 #. English: "Now and next".
 msgid "now_and_next"
 msgstr ""
