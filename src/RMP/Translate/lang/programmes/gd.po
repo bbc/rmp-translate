@@ -303,7 +303,7 @@ msgstr ""
 msgid "categories"
 msgid_plural "categories %count%"
 msgstr[0] "Roinnean"
-msgstr[1] ""
+msgstr[1] "Roinnean"
 msgstr[2] "Roinnean"
 
 #. English: "Pick a category to see BBC Radio programmes".
