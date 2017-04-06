@@ -263,6 +263,11 @@ msgstr "Níl craoltaí ar bith den chlár seo ag teacht aníos"
 msgid "broadcasts_none_upcoming_debut"
 msgstr "Ní aon chéad chraoladh le theacht"
 
+#. English: "No upcoming broadcasts".
+#. Priority for: Programmes
+msgid "broadcasts_none_upcoming_short"
+msgstr ""
+
 #. English: "Series and episodes available from online suppliers".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .

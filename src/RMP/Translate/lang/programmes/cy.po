@@ -264,6 +264,11 @@ msgstr "Dim darllediadau i ddod"
 msgid "broadcasts_none_upcoming_debut"
 msgstr "Dim darllediadau cyntaf i ddod"
 
+#. English: "No upcoming broadcasts".
+#. Priority for: Programmes
+msgid "broadcasts_none_upcoming_short"
+msgstr "Dim darllediadau i ddod"
+
 #. English: "Series and episodes available from online suppliers".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
