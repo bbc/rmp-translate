@@ -306,6 +306,10 @@ msgstr[0] "Catagóir"
 msgstr[1] "Catagóir "
 msgstr[2] "Catagóirí"
 
+#. English: "Pick a category to see BBC Radio programmes".
+msgid "categories_subheading"
+msgstr "Roghnaigh catagóir le cláir BBC Radio a fheiceáil"
+
 #. English: "This category can be found on the stations highlighted below".
 msgid "category_stations_note"
 msgstr "Is féidir theacht ar an chatagóir seo ar na staisiúin aibhsithe thíos"

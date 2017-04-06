@@ -306,6 +306,10 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
+#. English: "Pick a category to see BBC Radio programmes".
+msgid "categories_subheading"
+msgstr ""
+
 #. English: "This category can be found on the stations highlighted below".
 msgid "category_stations_note"
 msgstr ""
