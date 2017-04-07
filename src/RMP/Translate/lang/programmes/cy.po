@@ -264,6 +264,11 @@ msgstr "Dim darllediadau i ddod"
 msgid "broadcasts_none_upcoming_debut"
 msgstr "Dim darllediadau cyntaf i ddod"
 
+#. English: "No upcoming broadcasts".
+#. Priority for: Programmes
+msgid "broadcasts_none_upcoming_short"
+msgstr "Dim darllediadau i ddod"
+
 #. English: "Series and episodes available from online suppliers".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
@@ -1308,6 +1313,10 @@ msgstr "Yn anffodus, nid oes unrhyw wybodaeth"
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
 msgstr "Sori – wnaethom ni ddim dod o hyd i unrhyw bodlediadau i chi. Beth am roi cynnig ar orsaf neu genre wahanol?"
+
+#. English: "Not available".
+msgid "not_available_iplayer"
+msgstr "’Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer ar hyn o bryd"
 
 #. English: "Now and next".
 msgid "now_and_next"

@@ -262,6 +262,11 @@ msgstr "قسمت دیگری از این برنامه فعلا پخش نخواه�
 msgid "broadcasts_none_upcoming_debut"
 msgstr "قسمت اول برنامه ها فعلا پخش نخواهد شد"
 
+#. English: "No upcoming broadcasts".
+#. Priority for: Programmes
+msgid "broadcasts_none_upcoming_short"
+msgstr ""
+
 #. English: "Series and episodes available from online suppliers".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
@@ -1301,6 +1306,10 @@ msgstr "متأسفانه فعلا اطلاعاتی موجود نیست"
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
+msgstr ""
+
+#. English: "Not available".
+msgid "not_available_iplayer"
 msgstr ""
 
 #. English: "Now and next".

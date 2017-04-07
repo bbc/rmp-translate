@@ -263,6 +263,11 @@ msgstr "फ़िलहाल इस कार्यक्रम का को�
 msgid "broadcasts_none_upcoming_debut"
 msgstr "कोई नया प्रसारण नहीं होने वाला है"
 
+#. English: "No upcoming broadcasts".
+#. Priority for: Programmes
+msgid "broadcasts_none_upcoming_short"
+msgstr ""
+
 #. English: "Series and episodes available from online suppliers".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
@@ -1300,6 +1305,10 @@ msgstr "क्षमा कीजिए फ़िलहाल कोई सू�
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
+msgstr ""
+
+#. English: "Not available".
+msgid "not_available_iplayer"
 msgstr ""
 
 #. English: "Now and next".
