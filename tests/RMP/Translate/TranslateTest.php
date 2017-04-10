@@ -36,19 +36,26 @@ class TranslateTest extends PHPUnit_Framework_TestCase
     {
         $domain = 'messages';
         $locale = 'en';
-        $this->translator->expects($this->once())
+        $secondLocale = 'zz';
+        $this->translator->expects($this->exactly(2))
             ->method('trans')
-            ->with('key', array(), $domain, $locale)
-            ->will($this->returnValue('teststring'));
+            ->withConsecutive(
+                array('key', array(), $domain, $locale),
+                array('key', array(), $domain, $secondLocale)
+            )
+            ->will($this->onConsecutiveCalls('en_result', 'zz_result'));
 
-        $this->catalogue->expects($this->once())
+        $this->catalogue->expects($this->exactly(2))
             ->method('defines')
             ->with('key')
             ->will($this->returnValue(true));
 
         $translate = new Translate($this->translator, $domain, $locale);
-        $value = $translate->translate('key');
-        $this->assertEquals('teststring', $value);
+        $this->assertEquals('en_result', $translate->translate('key'));
+
+        // Test setting the Locale changes it
+        $translate->setLocale('zz');
+        $this->assertEquals('zz_result', $translate->translate('key'));
     }
 
     public function testPluralTranslation()
