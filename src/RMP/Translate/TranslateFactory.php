@@ -15,6 +15,26 @@ use Symfony\Component\Translation\Translator;
  */
 class TranslateFactory
 {
+    private $defaultOptions = array(
+        // Base path for .po files. Can be specified relative to include path (e.g. BBC/Programmes/bundles)
+        'basepath' => null,
+        // Writable cache directory for Symfony. Please read the readme before setting
+        'cachepath' => null,
+        // Use (e.g.) english translations when translation not found
+        'fallback_locale' => '',
+        // Set to true to enable cache invalidation by Symfony
+        'debug' => false,
+        // List all domains (translation sets) you want to load
+        'default_domain' => 'programmes',
+        // List all domains (translation sets) you want to load
+        'domains' => array('programmes')
+    );
+
+    public function __construct(array $defaultOptions = array())
+    {
+        $this->defaultOptions = array_merge($this->defaultOptions, $defaultOptions);
+    }
+
     /**
      * @param string $locale
      * @param array $options
@@ -23,24 +43,7 @@ class TranslateFactory
      */
     public function create($locale, array $options = array())
     {
-        /**
-         * Default setup for this class
-         */
-        $defaultOptions = array(
-            // Base path for .po files. Can be specified relative to include path (e.g. BBC/Programmes/bundles)
-            'basepath' => null,
-            // Writable cache directory for Symfony. Please read the readme before setting
-            'cachepath' => null,
-            // Use (e.g.) english translations when translation not found
-            'fallback_locale' => '',
-            // Set to true to enable cache invalidation by Symfony
-            'debug' => false,
-            // List all domains (translation sets) you want to load
-            'default_domain' => 'programmes',
-            // List all domains (translation sets) you want to load
-            'domains' => array('programmes')
-        );
-        $options = array_merge($defaultOptions, $options);
+        $options = array_merge($this->defaultOptions, $options);
 
         $locale = $this->fixLocale($locale);
         $options['fallback_locale'] = $this->fixLocale($options['fallback_locale']);
