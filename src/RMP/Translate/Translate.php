@@ -164,6 +164,15 @@ class Translate
     }
 
     /**
+     * @param string $setLocale
+     */
+    public function setLocale($locale)
+    {
+        $this->locale = $locale;
+        PluralizationRules::set(array($this, 'pluralisationRule'), $this->locale);
+    }
+
+    /**
      * @return string
      */
     public function getDomain()
