@@ -266,7 +266,7 @@ msgstr ""
 #. English: "No upcoming broadcasts".
 #. Priority for: Programmes
 msgid "broadcasts_none_upcoming_short"
-msgstr ""
+msgstr "Chan eil craolaidhean ri thighinn"
 
 #. English: "Series and episodes available from online suppliers".
 #. Priority for: Programmes
@@ -1309,7 +1309,7 @@ msgstr "Duilich ach cha do lorg sinn podcastan dhut, carson nach fheuch thu stè
 
 #. English: "Not available".
 msgid "not_available_iplayer"
-msgstr ""
+msgstr "Chan eil seo ri fhaighinn"
 
 #. English: "Now and next".
 msgid "now_and_next"

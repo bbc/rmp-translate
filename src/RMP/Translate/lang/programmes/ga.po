@@ -266,7 +266,7 @@ msgstr "Ní aon chéad chraoladh le theacht"
 #. English: "No upcoming broadcasts".
 #. Priority for: Programmes
 msgid "broadcasts_none_upcoming_short"
-msgstr ""
+msgstr "Níl craoladh ar bith ag teacht aníos"
 
 #. English: "Series and episodes available from online suppliers".
 #. Priority for: Programmes
@@ -1311,7 +1311,7 @@ msgstr "Buartha, níor aimsigh muid podchraoladh ar bith duit. Bain triail as st
 
 #. English: "Not available".
 msgid "not_available_iplayer"
-msgstr ""
+msgstr "Níl sé seo ar fáil"
 
 #. English: "Now and next".
 msgid "now_and_next"
