@@ -1316,7 +1316,7 @@ msgstr "Sori – wnaethom ni ddim dod o hyd i unrhyw bodlediadau i chi. Beth am 
 
 #. English: "Not available".
 msgid "not_available_iplayer"
-msgstr "’Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer ar hyn o bryd"
+msgstr "Ddim ar gael"
 
 #. English: "Now and next".
 msgid "now_and_next"
