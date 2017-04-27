@@ -1476,6 +1476,10 @@ msgstr "अन्य पॉडकास्ट जो शायद आपको �
 msgid "politics"
 msgstr ""
 
+#. English: "Popular".
+msgid "popular"
+msgstr ""
+
 #. English: "Previous".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
 #. Priority for: Programmes

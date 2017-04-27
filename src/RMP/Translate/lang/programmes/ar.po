@@ -1477,6 +1477,10 @@ msgstr "Other podcasts you may like"
 msgid "politics"
 msgstr ""
 
+#. English: "Popular".
+msgid "popular"
+msgstr ""
+
 #. English: "Previous".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
 #. Priority for: Programmes
