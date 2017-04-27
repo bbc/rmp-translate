@@ -1483,6 +1483,10 @@ msgstr ""
 msgid "politics"
 msgstr "Gwleidyddiaeth"
 
+#. English: "Popular".
+msgid "popular"
+msgstr "Poblogaidd"
+
 #. English: "Previous".
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr/episodes/player (pagination)
 #. Priority for: Programmes
