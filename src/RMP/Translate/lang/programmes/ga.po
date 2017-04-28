@@ -1759,6 +1759,14 @@ msgstr "Lá Nollag"
 msgid "schedules_christmas_eve"
 msgstr "Oíche Nollag"
 
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr "Teagmhálaithe agus Eolas"
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
+msgstr "Cuidiú le síniú isteach"
+
 #. English: "Last %1".
 msgid "schedules_last_weekday"
 msgstr "%1 Seo chugainn"

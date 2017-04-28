@@ -1763,6 +1763,14 @@ msgstr "Dydd Nadolig"
 msgid "schedules_christmas_eve"
 msgstr "Noswyl Nadolig"
 
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr "Cysylltiadau a gwybodaeth"
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
+msgstr "Cymorth gyda mewngofnodi"
+
 #. English: "Last %1".
 msgid "schedules_last_weekday"
 msgstr "%1 Diwethaf"

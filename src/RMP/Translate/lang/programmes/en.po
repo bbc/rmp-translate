@@ -1758,6 +1758,14 @@ msgstr "Christmas Day"
 msgid "schedules_christmas_eve"
 msgstr "Christmas Eve"
 
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr "Contacts and Information"
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
+msgstr "Help with Signing In"
+
 #. English: "Last %1".
 msgid "schedules_last_weekday"
 msgstr "Last %1"
