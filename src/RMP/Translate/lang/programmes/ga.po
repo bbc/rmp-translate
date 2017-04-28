@@ -311,6 +311,10 @@ msgstr[0] "Catagóir"
 msgstr[1] "Catagóir "
 msgstr[2] "Catagóirí"
 
+#. English: "Sorry, there are no results for this category".
+msgid "categories_noresults"
+msgstr "Buartha, níl toradh ar bith don chatagóir seo"
+
 #. English: "Pick a category to see BBC Radio programmes".
 msgid "categories_subheading"
 msgstr "Roghnaigh catagóir le cláir BBC Radio a fheiceáil"

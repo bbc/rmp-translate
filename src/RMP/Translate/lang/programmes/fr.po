@@ -311,6 +311,10 @@ msgstr[0] "Catégories"
 msgstr[1] "Catégorie"
 msgstr[2] "Catégories"
 
+#. English: "Sorry, there are no results for this category".
+msgid "categories_noresults"
+msgstr ""
+
 #. English: "Pick a category to see BBC Radio programmes".
 msgid "categories_subheading"
 msgstr ""

@@ -312,6 +312,10 @@ msgstr[0] "Categorïau"
 msgstr[1] "Categori"
 msgstr[2] "Categorïau"
 
+#. English: "Sorry, there are no results for this category".
+msgid "categories_noresults"
+msgstr "Ymddiheuriadau ond does dim canlyniadau ar gyfer y categori hwn"
+
 #. English: "Pick a category to see BBC Radio programmes".
 msgid "categories_subheading"
 msgstr "Dewiswch gategori er mwyn gweld rhaglenni BBC Radio"

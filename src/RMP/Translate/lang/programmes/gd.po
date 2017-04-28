@@ -311,6 +311,10 @@ msgstr[0] "Roinnean"
 msgstr[1] "Roinnean"
 msgstr[2] "Roinnean"
 
+#. English: "Sorry, there are no results for this category".
+msgid "categories_noresults"
+msgstr "Duilich, chan eil toraidhean ann airson an roinn seo"
+
 #. English: "Pick a category to see BBC Radio programmes".
 msgid "categories_subheading"
 msgstr "Tagh roinn airson prògraman BBC Radio fhaicinn"
