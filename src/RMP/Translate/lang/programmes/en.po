@@ -13,7 +13,9 @@ msgstr "About BBC Radio"
 
 #. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
 msgid "add_stuff_listen_later"
-msgstr "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device."
+msgstr ""
+"Add stuff to listen later. And follow your favourite shows to get updates "
+"and recommendations. All on any device."
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -310,6 +312,10 @@ msgid_plural "categories %count%"
 msgstr[0] "Categories"
 msgstr[1] "Category"
 msgstr[2] "Categories"
+
+#. English: "Sorry, there are no results for this category".
+msgid "categories_noresults"
+msgstr "Sorry, there are no results for this category"
 
 #. English: "Pick a category to see BBC Radio programmes".
 msgid "categories_subheading"
@@ -1307,7 +1313,9 @@ msgstr "Sorry there is currently no information"
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
-msgstr "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
+msgstr ""
+"Sorry we haven't been able to find any podcasts for you, why not try a "
+"different station or genre?"
 
 #. English: "Not available".
 msgid "not_available_iplayer"

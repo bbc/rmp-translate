@@ -311,6 +311,10 @@ msgstr[0] "श्रेणी"
 msgstr[1] "श्रेणी"
 msgstr[2] "श्रेणी"
 
+#. English: "Sorry, there are no results for this category".
+msgid "categories_noresults"
+msgstr ""
+
 #. English: "Pick a category to see BBC Radio programmes".
 msgid "categories_subheading"
 msgstr ""
