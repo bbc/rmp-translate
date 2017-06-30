@@ -1420,6 +1420,10 @@ msgstr "Page %1 of %2"
 msgid "performances_and_events"
 msgstr "Performances &amp; Events"
 
+#. English: "Play All".
+msgid "play_all"
+msgstr "Play All"
+
 #. English: "Played:".
 #. Priority for: Rich Tracks
 msgid "played:"
