@@ -1418,6 +1418,10 @@ msgstr ""
 msgid "performances_and_events"
 msgstr "Tachartasan"
 
+#. English: "Play All".
+msgid "play_all"
+msgstr "Cluich air fad"
+
 #. English: "Played:".
 #. Priority for: Rich Tracks
 msgid "played:"

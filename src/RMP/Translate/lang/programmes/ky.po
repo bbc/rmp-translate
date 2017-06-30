@@ -1419,6 +1419,10 @@ msgstr ""
 msgid "performances_and_events"
 msgstr ""
 
+#. English: "Play All".
+msgid "play_all"
+msgstr ""
+
 #. English: "Played:".
 #. Priority for: Rich Tracks
 msgid "played:"
