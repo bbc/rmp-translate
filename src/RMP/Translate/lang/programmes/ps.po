@@ -1422,6 +1422,10 @@ msgstr ""
 msgid "play_all"
 msgstr ""
 
+#. English: "Play All Audio".
+msgid "play_all_audio"
+msgstr ""
+
 #. English: "Played:".
 #. Priority for: Rich Tracks
 msgid "played:"
