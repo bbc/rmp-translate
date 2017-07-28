@@ -1422,6 +1422,10 @@ msgstr "Tachartasan"
 msgid "play_all"
 msgstr "Cluich air fad"
 
+#. English: "Play All Audio".
+msgid "play_all_audio"
+msgstr "Cluich air fad"
+
 #. English: "Played:".
 #. Priority for: Rich Tracks
 msgid "played:"

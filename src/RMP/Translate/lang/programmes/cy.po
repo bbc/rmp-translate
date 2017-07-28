@@ -1429,6 +1429,10 @@ msgstr "Perfformiadau a Digwyddiadau"
 msgid "play_all"
 msgstr "Chwarae popeth"
 
+#. English: "Play All Audio".
+msgid "play_all_audio"
+msgstr "Chwarae pob darn sain"
+
 #. English: "Played:".
 #. Priority for: Rich Tracks
 msgid "played:"
