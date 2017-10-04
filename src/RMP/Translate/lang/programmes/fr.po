@@ -427,6 +427,10 @@ msgstr ""
 msgid "coming_soon"
 msgstr "Prochainement"
 
+#. English: "Coming Up"
+msgid "coming_up"
+msgstr ""
+
 #. English (no items): "Comments".
 #. English (one item): "Comment".
 #. English (2+ items): "Comments".
@@ -476,6 +480,10 @@ msgstr "Inclure les détails suivants dans votre message:"
 #. English: "Contact us".
 msgid "contact_us"
 msgstr "Contactez-nous"
+
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr ""
 
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
@@ -731,6 +739,10 @@ msgstr ""
 
 #. English: "Help".
 msgid "help"
+msgstr ""
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
 msgstr ""
 
 #. English: "Hide available episodes".
@@ -1773,14 +1785,6 @@ msgstr "Jour de Noël"
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "Veille de Noël"
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr ""
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr ""
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"

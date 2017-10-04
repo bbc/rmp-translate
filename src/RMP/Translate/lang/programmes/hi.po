@@ -426,6 +426,10 @@ msgstr ""
 msgid "coming_soon"
 msgstr "जल्द आ रहा है"
 
+#. English: "Coming Up"
+msgid "coming_up"
+msgstr ""
+
 #. English (no items): "Comments".
 #. English (one item): "Comment".
 #. English (2+ items): "Comments".
@@ -472,6 +476,10 @@ msgstr "कृपया अपने संदेश में निम्न�
 
 #. English: "Contact us".
 msgid "contact_us"
+msgstr ""
+
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
 msgstr ""
 
 #. English: "%1 Podcasts".
@@ -725,6 +733,10 @@ msgstr ""
 
 #. English: "Help".
 msgid "help"
+msgstr ""
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
 msgstr ""
 
 #. English: "Hide available episodes".
@@ -1763,14 +1775,6 @@ msgstr "क्रिसमस का दिन"
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "क्रिसमस की शाम"
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr ""
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr ""
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"

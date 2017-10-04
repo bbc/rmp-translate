@@ -13,7 +13,9 @@ msgstr "Mu BBC Radio"
 
 #. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
 msgid "add_stuff_listen_later"
-msgstr "Cur ris airson èisteachd a-rithist. Lean na prògraman as fheàrr leat airson ùrachaidhean is molaidhean fhaighinn. Air inneal sam bith."
+msgstr ""
+"Cur ris airson èisteachd a-rithist. Lean na prògraman as fheàrr leat airson "
+"ùrachaidhean is molaidhean fhaighinn. Air inneal sam bith."
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -426,6 +428,10 @@ msgstr "Comadaidh"
 msgid "coming_soon"
 msgstr "Ri thighinn"
 
+#. English: "Coming Up"
+msgid "coming_up"
+msgstr ""
+
 #. English (no items): "Comments".
 #. English (one item): "Comment".
 #. English (2+ items): "Comments".
@@ -473,6 +479,10 @@ msgstr ""
 #. English: "Contact us".
 msgid "contact_us"
 msgstr ""
+
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr "Fiosrachadh"
 
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
@@ -726,6 +736,10 @@ msgstr ""
 #. English: "Help".
 msgid "help"
 msgstr "Taic"
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
+msgstr "Taic a’ logadh a-steach"
 
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
@@ -1309,7 +1323,9 @@ msgstr ""
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
-msgstr "Duilich ach cha do lorg sinn podcastan dhut, carson nach fheuch thu stèisean no roinn eile?"
+msgstr ""
+"Duilich ach cha do lorg sinn podcastan dhut, carson nach fheuch thu stèisean "
+"no roinn eile?"
 
 #. English: "Not available".
 msgid "not_available_iplayer"
@@ -1763,14 +1779,6 @@ msgstr ""
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr ""
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr "Fiosrachadh"
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr "Taic a’ logadh a-steach"
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"

@@ -13,7 +13,10 @@ msgstr "Am BBC Radio"
 
 #. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
 msgid "add_stuff_listen_later"
-msgstr "Ychwanegwch gynnwys er mwyn gwrando nes ymlaen. A dilynwch eich hoff raglenni i gael y wybodaeth a’r argymhellion diweddaraf. Pob dim ar unrhyw ddyfais."
+msgstr ""
+"Ychwanegwch gynnwys er mwyn gwrando nes ymlaen. A dilynwch eich hoff "
+"raglenni i gael y wybodaeth a’r argymhellion diweddaraf. Pob dim ar unrhyw "
+"ddyfais."
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -427,6 +430,10 @@ msgstr "Comedi"
 msgid "coming_soon"
 msgstr "Yn dod yn fuan"
 
+#. English: "Coming Up"
+msgid "coming_up"
+msgstr ""
+
 #. English (no items): "Comments".
 #. English (one item): "Comment".
 #. English (2+ items): "Comments".
@@ -476,6 +483,10 @@ msgstr "Rhaid cynnwys y manylion isod yn eich neges:"
 #. English: "Contact us".
 msgid "contact_us"
 msgstr "Cysylltu â ni"
+
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr "Cysylltiadau a gwybodaeth"
 
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
@@ -733,6 +744,10 @@ msgstr ""
 #. English: "Help".
 msgid "help"
 msgstr "Help"
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
+msgstr "Cymorth gyda mewngofnodi"
 
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
@@ -1316,7 +1331,9 @@ msgstr "Yn anffodus, nid oes unrhyw wybodaeth"
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
-msgstr "Sori – wnaethom ni ddim dod o hyd i unrhyw bodlediadau i chi. Beth am roi cynnig ar orsaf neu genre wahanol?"
+msgstr ""
+"Sori – wnaethom ni ddim dod o hyd i unrhyw bodlediadau i chi. Beth am roi "
+"cynnig ar orsaf neu genre wahanol?"
 
 #. English: "Not available".
 msgid "not_available_iplayer"
@@ -1774,14 +1791,6 @@ msgstr "Dydd Nadolig"
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "Noswyl Nadolig"
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr "Cysylltiadau a gwybodaeth"
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr "Cymorth gyda mewngofnodi"
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"

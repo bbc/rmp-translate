@@ -13,7 +13,9 @@ msgstr "About BBC Radio"
 
 #. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
 msgid "add_stuff_listen_later"
-msgstr "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device."
+msgstr ""
+"Add stuff to listen later. And follow your favourite shows to get updates "
+"and recommendations. All on any device."
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -426,6 +428,10 @@ msgstr "Comedy"
 msgid "coming_soon"
 msgstr "Coming soon"
 
+#. English: "Coming Up"
+msgid "coming_up"
+msgstr "Coming Up"
+
 #. English (no items): "Comments".
 #. English (one item): "Comment".
 #. English (2+ items): "Comments".
@@ -474,6 +480,10 @@ msgstr "Please include the following details on your message:"
 #. English: "Contact us".
 msgid "contact_us"
 msgstr "Contact us"
+
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr "Contacts and Information"
 
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
@@ -728,6 +738,10 @@ msgstr "GMT"
 #. English: "Help".
 msgid "help"
 msgstr "Help"
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
+msgstr "Help with Signing In"
 
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
@@ -1311,7 +1325,9 @@ msgstr "Sorry there is currently no information"
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
-msgstr "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
+msgstr ""
+"Sorry we haven't been able to find any podcasts for you, why not try a "
+"different station or genre?"
 
 #. English: "Not available".
 msgid "not_available_iplayer"
@@ -1769,14 +1785,6 @@ msgstr "Christmas Day"
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "Christmas Eve"
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr "Contacts and Information"
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr "Help with Signing In"
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"
