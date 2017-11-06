@@ -129,7 +129,7 @@ class Translate
             $result = $this->translator->transChoice($key, $pluralisation, $substitutions, $domain, $locale);
         }
         // We don't want to return the key when the translation is not found (which is GetText standard behaviour)
-        if (!$this->translator->getCatalogue($locale)->defines($key, $domain)) {
+        if (!$this->translator->getCatalogue($locale)->has($key, $domain)) {
             return '';
         }
         return $result;

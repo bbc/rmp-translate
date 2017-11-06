@@ -42,7 +42,7 @@ class TranslateTest extends PHPUnit_Framework_TestCase
             ->will($this->returnValue('teststring'));
 
         $this->catalogue->expects($this->once())
-            ->method('defines')
+            ->method('has')
             ->with('key')
             ->will($this->returnValue(true));
 
@@ -61,7 +61,7 @@ class TranslateTest extends PHPUnit_Framework_TestCase
             ->will($this->returnValue('teststring'));
 
         $this->catalogue->expects($this->once())
-            ->method('defines')
+            ->method('has')
             ->with('key %count%')
             ->will($this->returnValue(true));
 
@@ -83,7 +83,7 @@ class TranslateTest extends PHPUnit_Framework_TestCase
             )->will($this->onConsecutiveCalls('', 'fallbackstring'));
 
         $this->catalogue->expects($this->exactly(2))
-            ->method('defines')
+            ->method('has')
             ->with('keyname')
             ->will($this->returnValue(true));
 
@@ -105,7 +105,7 @@ class TranslateTest extends PHPUnit_Framework_TestCase
             )->will($this->onConsecutiveCalls('keyname', 'fallbackstring'));
 
         $this->catalogue->expects($this->exactly(2))
-            ->method('defines')
+            ->method('has')
             ->with('keyname')
             ->will($this->onConsecutiveCalls(false, true));
 

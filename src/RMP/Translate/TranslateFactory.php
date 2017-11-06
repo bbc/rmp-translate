@@ -45,8 +45,8 @@ class TranslateFactory
     {
         $options = array_merge($this->defaultOptions, $options);
 
-        $locale = $this->fixLocale($locale);
-        $options['fallback_locale'] = $this->fixLocale($options['fallback_locale']);
+        $locale = $this->fixDashes($locale);
+        $options['fallback_locale'] = $this->fixDashes($options['fallback_locale']);
 
         if (!in_array($options['default_domain'], $options['domains'])) {
             $options['default_domain'] = reset($options['domains']);
@@ -68,21 +68,17 @@ class TranslateFactory
             $options['basepath'] = __DIR__ . DIRECTORY_SEPARATOR . 'lang';
         }
 
-        $filesFound = false;
-
         $translator->addLoader('pofile', new PoFileLoader());
 
         // Allow multiple domains to be defined (e.g. 'radio' and 'programmes')
+        $fixedLocale = $this->stripUnderscores($locale);
         foreach ($options['domains'] as $domain) {
-            $path = $this->getFilePath($options['basepath'], $locale, $domain);
-            if ($path) {
-                $filesFound = true;
-                $translator->addResource(
-                    'pofile',
-                    $path,
-                    $locale,
-                    $domain
-                );
+            $this->addResource($translator, $options['basepath'], $locale, $domain);
+            if ($fixedLocale !== $locale) {
+                // We allow for translation files in the form en_GB.po (though we do not have any at present)
+                // and fallback to the version with the underscores stripped out.
+                // Symfony translate is smart enough to only blow up when neither is found
+                $this->addResource($translator, $options['basepath'], $fixedLocale, $domain);
             }
         }
 
@@ -92,17 +88,13 @@ class TranslateFactory
          * don't work properly. See https://github.com/symfony/symfony/issues/13483
          */
         if ($options['fallback_locale'] && $options['fallback_locale'] != $locale) {
+            $fixedLocale = $this->stripUnderscores($options['fallback_locale']);
             foreach ($options['domains'] as $domain) {
-                $path = $this->getFilePath($options['basepath'], $options['fallback_locale'], $domain);
-                if ($path) {
-                    $filesFound = true;
-                    $translator->addResource('pofile', $path, $options['fallback_locale'], $domain);
+                $this->addResource($translator, $options['basepath'], $options['fallback_locale'], $domain);
+                if ($fixedLocale !== $options['fallback_locale']) {
+                    $this->addResource($translator, $options['basepath'], $fixedLocale, $domain);
                 }
             }
-        }
-
-        if (!$filesFound) {
-            throw new TranslationFilesNotFoundException('No translation files found with basepath ' . $options['basepath']);
         }
 
         return new Translate($translator, $options['default_domain'], $locale, $options['fallback_locale']);
@@ -136,26 +128,29 @@ class TranslateFactory
      */
     protected function getFilePath($basePath, $locale, $domain)
     {
-        // Strip the _GB etc. bit off the locale for portability
-        if (strlen($locale) > 3) {
-            $locale = substr($locale, 0, -strlen(strrchr($locale, '_')));
-        }
+
+    }
+
+    protected function addResource($translator, $basePath, $locale, $domain)
+    {
         // Prevent anything nasty in the path
         $locale = preg_replace('/[^A-Za-z0-9_\-]/', '', $locale);
         $domain = preg_replace('/[^A-Za-z0-9_\-\.]/', '', $domain);
-        $temp = $basePath . DIRECTORY_SEPARATOR . $domain . DIRECTORY_SEPARATOR . $locale . '.po';
-        if (file_exists($temp)) {
-            return $temp;
+        $path = $basePath . DIRECTORY_SEPARATOR . $domain . DIRECTORY_SEPARATOR . $locale . '.po';
+        $translator->addResource(
+            'pofile',
+            $path,
+            $locale,
+            $domain
+        );
+    }
+
+    protected function stripUnderscores($locale)
+    {
+        if (strpos($locale, '_') !== false) {
+            return substr($locale, 0, -strlen(strstr($locale, '_')));
         }
-        // Search include paths
-        $paths = explode(':', get_include_path());
-        foreach ($paths as $path) {
-            $temp = $path . DIRECTORY_SEPARATOR . $basePath . DIRECTORY_SEPARATOR . $domain . DIRECTORY_SEPARATOR . $locale . '.po';
-            if (file_exists($temp)) {
-                return $temp;
-            }
-        }
-        return false;
+        return $locale;
     }
 
     /**
@@ -164,7 +159,7 @@ class TranslateFactory
      * @param string $locale
      * @return string
      */
-    protected function fixLocale($locale)
+    protected function fixDashes($locale)
     {
         return str_replace('-', '_', $locale);
     }
