@@ -138,7 +138,7 @@ class TranslateFactory
     {
         // Strip the _GB etc. bit off the locale for portability
         if (strlen($locale) > 3) {
-            $locale = substr($locale, 0, -strlen(strrchr($locale, '_')));
+            $locale = preg_replace('/_[^_]+$/', '', $locale);
         }
         // Prevent anything nasty in the path
         $locale = preg_replace('/[^A-Za-z0-9_\-]/', '', $locale);
