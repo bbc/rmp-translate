@@ -137,9 +137,10 @@ class TranslateFactory
     protected function getFilePath($basePath, $locale, $domain)
     {
         // Strip the _GB etc. bit off the locale for portability
-        if (strlen($locale) > 3) {
-            $locale = preg_replace('/_[^_]+$/', '', $locale);
+        if (strpos($locale, '_') !== false) {
+            $locale = substr($locale, 0, -strlen(strstr($locale, '_')));
         }
+
         // Prevent anything nasty in the path
         $locale = preg_replace('/[^A-Za-z0-9_\-]/', '', $locale);
         $domain = preg_replace('/[^A-Za-z0-9_\-\.]/', '', $domain);
