@@ -33,6 +33,7 @@ class LocaleTruncationTest extends PHPUnit_Framework_TestCase
     {
         return [
             'general' => ['en_GB', 'en'],
+            'multiple' => ['en_GB_GB', 'en'],
             'short' => ['en', 'en'],
             'noSuffix' => ['articles', 'articles'],
         ];
