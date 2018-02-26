@@ -137,9 +137,7 @@ class TranslateFactory
     protected function getFilePath($basePath, $locale, $domain)
     {
         // Strip the _GB etc. bit off the locale for portability
-        if (strpos($locale, '_') !== false) {
-            $locale = substr($locale, 0, -strlen(strstr($locale, '_')));
-        }
+        $locale = $this->truncateLocaleString($locale);
 
         // Prevent anything nasty in the path
         $locale = preg_replace('/[^A-Za-z0-9_\-]/', '', $locale);
@@ -168,5 +166,20 @@ class TranslateFactory
     protected function fixLocale($locale)
     {
         return str_replace('-', '_', $locale);
+    }
+
+    /**
+     * Strips everything after and including the first underscore in the string.
+     *
+     * @param string $locale
+     * @return string
+     */
+    protected function truncateLocaleString($locale)
+    {
+        if (strpos($locale, '_') !== false) {
+            $locale = substr($locale, 0, -strlen(strstr($locale, '_')));
+        }
+
+        return $locale;
     }
 }
