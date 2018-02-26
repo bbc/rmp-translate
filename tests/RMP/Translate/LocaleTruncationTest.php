@@ -18,7 +18,7 @@ class LocaleTruncationTest extends PHPUnit_Framework_TestCase
     /**
      * @dataProvider localeProvider
      */
-    public function testTruncateLocaleString($locale)
+    public function testTruncateLocaleString($locale, $expected)
     {
         $method = new ReflectionMethod('RMP\Translate\TranslateFactory', 'truncateLocaleString');
         $method->setAccessible(true);
@@ -26,14 +26,15 @@ class LocaleTruncationTest extends PHPUnit_Framework_TestCase
         $translateFactory = new TranslateFactory();
         $result = $method->invoke($translateFactory, $locale);
 
-        $this->assertEquals('en', $result);
+        $this->assertEquals($expected, $result);
     }
 
     public function localeProvider()
     {
         return [
-            'general' => ['en_GB'],
-            'noSuffix' => ['en'],
+            'general' => ['en_GB', 'en'],
+            'short' => ['en', 'en'],
+            'noSuffix' => ['articles', 'articles'],
         ];
     }
 }
