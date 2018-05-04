@@ -1255,6 +1255,10 @@ msgstr ""
 msgid "music_played"
 msgstr ""
 
+#. English: "My List".
+msgid "my_list"
+msgstr ""
+
 #. English: "National Radio".
 msgid "national_radio"
 msgstr ""

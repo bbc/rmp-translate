@@ -1262,6 +1262,10 @@ msgstr "Music et autres"
 msgid "music_played"
 msgstr "Musique Jouée"
 
+#. English: "My List".
+msgid "my_list"
+msgstr ""
+
 #. English: "National Radio".
 msgid "national_radio"
 msgstr "Radio Nationale"
