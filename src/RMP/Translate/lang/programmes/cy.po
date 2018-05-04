@@ -13,10 +13,7 @@ msgstr "Am BBC Radio"
 
 #. English: "Add stuff to listen later. And follow your favourite shows to get updates and recommendations. All on any device.".
 msgid "add_stuff_listen_later"
-msgstr ""
-"Ychwanegwch gynnwys er mwyn gwrando nes ymlaen. A dilynwch eich hoff "
-"raglenni i gael y wybodaeth a’r argymhellion diweddaraf. Pob dim ar unrhyw "
-"ddyfais."
+msgstr "Ychwanegwch gynnwys er mwyn gwrando nes ymlaen. A dilynwch eich hoff raglenni i gael y wybodaeth a’r argymhellion diweddaraf. Pob dim ar unrhyw ddyfais."
 
 #. English: "Added".
 #. Used by: NHP -> MyRadioHeader
@@ -1323,9 +1320,7 @@ msgstr "Yn anffodus, nid oes unrhyw wybodaeth"
 
 #. English: "Sorry we haven't been able to find any podcasts for you, why not try a different station or genre?"
 msgid "no_podcast_items"
-msgstr ""
-"Sori – wnaethom ni ddim dod o hyd i unrhyw bodlediadau i chi. Beth am roi "
-"cynnig ar orsaf neu genre wahanol?"
+msgstr "Sori – wnaethom ni ddim dod o hyd i unrhyw bodlediadau i chi. Beth am roi cynnig ar orsaf neu genre wahanol?"
 
 #. English: "Not available".
 msgid "not_available_iplayer"
