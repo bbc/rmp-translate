@@ -1260,7 +1260,7 @@ msgstr "Ceol Seinnte"
 
 #. English: "My List".
 msgid "my_list"
-msgstr ""
+msgstr "Mo Liosta"
 
 #. English: "National Radio".
 msgid "national_radio"
