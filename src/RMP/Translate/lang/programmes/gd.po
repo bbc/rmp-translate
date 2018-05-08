@@ -1256,6 +1256,10 @@ msgstr ""
 msgid "music_played"
 msgstr "Ceòl a chaidh a chluich"
 
+#. English: "My List".
+msgid "my_list"
+msgstr "Mo Liosta"
+
 #. English: "National Radio".
 msgid "national_radio"
 msgstr ""

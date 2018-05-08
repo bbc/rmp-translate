@@ -1256,6 +1256,10 @@ msgstr "संगीत और फ़ीचर आइटम"
 msgid "music_played"
 msgstr "चलाया गया संंगीत"
 
+#. English: "My List".
+msgid "my_list"
+msgstr ""
+
 #. English: "National Radio".
 msgid "national_radio"
 msgstr "राष्ट्रीय रेडियो"

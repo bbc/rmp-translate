@@ -1263,6 +1263,10 @@ msgstr "Cerddoriaeth ac eitemau dan sylw"
 msgid "music_played"
 msgstr "Cerddoriaeth a chwaraewyd"
 
+#. English: "My List".
+msgid "my_list"
+msgstr "Fy Rhestr"
+
 #. English: "National Radio".
 msgid "national_radio"
 msgstr "Radio Cenedlaethol"
