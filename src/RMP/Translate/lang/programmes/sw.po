@@ -545,7 +545,7 @@ msgstr "Makala hii itapatikana hivi karibuni"
 msgid "episode_availability_none"
 msgstr "Samahani, makala hii haipatikani kwa sasa"
 
-#. English: "Sorry, this episode is not currently available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b00hc2d9 .
 #. Priority for: Programmes
 msgid "episode_availability_none_radio"
@@ -556,7 +556,7 @@ msgstr "Samahani, makala hii haipatikani kwa sasa katika BBC iPlayer Radio"
 msgid "episode_availability_past"
 msgstr "Samahani, makala hii haipatikani tena"
 
-#. English: "Sorry, this episode is no longer available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is no longer available".
 #. Priority for: Programmes
 msgid "episode_availability_past_radio"
 msgstr "Samahani, makala hii haipatikani tena katika BBC iPlayer Radio"

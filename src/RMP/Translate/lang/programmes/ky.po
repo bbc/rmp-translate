@@ -545,7 +545,7 @@ msgstr "Бул эпизод бир аздан кийин коюлат"
 msgid "episode_availability_none"
 msgstr "Кечиресиз, бул эпизод азырынча ойнотулбайт"
 
-#. English: "Sorry, this episode is not currently available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b00hc2d9 .
 #. Priority for: Programmes
 msgid "episode_availability_none_radio"
@@ -556,7 +556,7 @@ msgstr "Кечиресиз, бул эпизод азырынча BBC iPlayer д�
 msgid "episode_availability_past"
 msgstr "Кечиресиз, бул эпизод өчүрүлгөн"
 
-#. English: "Sorry, this episode is no longer available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is no longer available".
 #. Priority for: Programmes
 msgid "episode_availability_past_radio"
 msgstr "Кечиресиз, бул эпизод BBC iPlayer радиосунан өчүрүлгөн"

@@ -545,7 +545,7 @@ msgstr "ये अंक जल्द मुहैया होगा"
 msgid "episode_availability_none"
 msgstr "माफ़ कीजिए, ये अंक फ़िलहाल उपलब्ध नहीं है"
 
-#. English: "Sorry, this episode is not currently available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b00hc2d9 .
 #. Priority for: Programmes
 msgid "episode_availability_none_radio"
@@ -556,7 +556,7 @@ msgstr "माफ़़ कीजिए, ये अंक फ़िलहाल 
 msgid "episode_availability_past"
 msgstr "माफ़ कीजिए, ये अंक अब उपलब्ध नहीं है"
 
-#. English: "Sorry, this episode is no longer available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is no longer available".
 #. Priority for: Programmes
 msgid "episode_availability_past_radio"
 msgstr "माफ़ कीजिए, ये अंक अब बीबीसी आइप्लेयर रेडिय पर अब उपलब्ध नहीं है"

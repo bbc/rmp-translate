@@ -547,7 +547,7 @@ msgstr "Beidh an t-eagrán seo ar fáil go luath"
 msgid "episode_availability_none"
 msgstr "Níl an t-eagrán seo ar fáil faoi láthair"
 
-#. English: "Sorry, this episode is not currently available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b00hc2d9 .
 #. Priority for: Programmes
 msgid "episode_availability_none_radio"
@@ -558,10 +558,10 @@ msgstr "Níl an t-eagrán seo ar fáil faoi láthair ar BBC iPlayer Radio"
 msgid "episode_availability_past"
 msgstr "Níl an t-eagrán seo ar fáil níos mó"
 
-#. English: "Sorry, this episode is no longer available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is no longer available".
 #. Priority for: Programmes
 msgid "episode_availability_past_radio"
-msgstr "Níl an t-eagrán seo ar fáil níos mó ar BBC iPlayer Radio"
+msgstr ""
 
 #. English: "Episode guide".
 msgid "episode_guide"
