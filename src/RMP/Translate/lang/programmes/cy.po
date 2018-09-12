@@ -47,11 +47,11 @@ msgstr "Pob pennod"
 msgid "all_episodes_iplayer"
 msgstr "Pob pennod sydd ar gael ar BBC iPlayer"
 
-#. English: "All episodes available on BBC iPlayer Radio".
+#. English: "All episodes available".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
 msgid "all_episodes_iplayer_radio"
-msgstr "Pob pennod sydd ar gael ar BBC iPlayer Radio"
+msgstr "Pob pennod ar gael"
 
 #. English: "All podcasts".
 msgid "all_podcasts"
@@ -477,6 +477,10 @@ msgstr "Rhaid cynnwys y manylion isod yn eich neges:"
 msgid "contact_us"
 msgstr "Cysylltu â ni"
 
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr "Cysylltiadau a gwybodaeth"
+
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
 msgstr "%1 Podlediadau"
@@ -733,6 +737,10 @@ msgstr ""
 #. English: "Help".
 msgid "help"
 msgstr "Help"
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
+msgstr "Cymorth gyda mewngofnodi"
 
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
@@ -1540,21 +1548,21 @@ msgstr "Mae’n ddrwg gennym ond does dim proffil ar gyfer %1"
 msgid "programme_availability_none"
 msgstr "’Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer ar hyn o bryd"
 
-#. English: "This programme is not currently available on BBC iPlayer Radio".
+#. English: "This programme is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b03kpkyz .
 #. Priority for: Programmes
 msgid "programme_availability_none_radio"
-msgstr "Nid yw’r rhaglen yma ar gael ar BBC iPlayer Radio ar hyn o bryd"
+msgstr "Dyw'r rhaglen yma ddim ar gael ar hyn o bryd"
 
 #. English: "This programme is no longer available on BBC iPlayer".
 #. Priority for: Programmes
 msgid "programme_availability_past"
 msgstr "’Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer bellach"
 
-#. English: "This programme is no longer available on BBC iPlayer Radio".
+#. English: "This programme is no longer available".
 #. Priority for: Programmes
 msgid "programme_availability_past_radio"
-msgstr "T‘Dyw’r rhaglen yma ddim ar gael ar BBC iPlayer Radio bellach"
+msgstr "Dyw'r rhaglen yma ddim ar gael bellach"
 
 #. English: "%1 homepage".
 msgid "programme_homepage"
@@ -1778,14 +1786,6 @@ msgstr "Dydd Nadolig"
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "Noswyl Nadolig"
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr "Cysylltiadau a gwybodaeth"
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr "Cymorth gyda mewngofnodi"
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"

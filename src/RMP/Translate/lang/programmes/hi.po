@@ -47,7 +47,7 @@ msgstr "सभी अंक"
 msgid "all_episodes_iplayer"
 msgstr "सभी अंंक बीबीसी आइप्लेयर पर मौजूद हैं"
 
-#. English: "All episodes available on BBC iPlayer Radio".
+#. English: "All episodes available".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
 msgid "all_episodes_iplayer_radio"
@@ -474,6 +474,10 @@ msgstr "कृपया अपने संदेश में निम्न�
 msgid "contact_us"
 msgstr ""
 
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr ""
+
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
 msgstr ""
@@ -725,6 +729,10 @@ msgstr ""
 
 #. English: "Help".
 msgid "help"
+msgstr ""
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
 msgstr ""
 
 #. English: "Hide available episodes".
@@ -1533,7 +1541,7 @@ msgstr "क्षमा कीजिए, %1 के प्रोफ़ाइल �
 msgid "programme_availability_none"
 msgstr "बीबीसी आईप्लेयर पर यह कार्यक्रम फिलहाल उपलब्ध नहीं है"
 
-#. English: "This programme is not currently available on BBC iPlayer Radio".
+#. English: "This programme is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b03kpkyz .
 #. Priority for: Programmes
 msgid "programme_availability_none_radio"
@@ -1544,7 +1552,7 @@ msgstr "बीबीसी आईप्लेयर रेडियो पर �
 msgid "programme_availability_past"
 msgstr "बीबीसी आईप्लेयर पर अब यह कार्यक्रम उपलब्ध नहीं है"
 
-#. English: "This programme is no longer available on BBC iPlayer Radio".
+#. English: "This programme is no longer available".
 #. Priority for: Programmes
 msgid "programme_availability_past_radio"
 msgstr "बीबीसी आईप्लेयर रेडियो पर अब यह कार्यक्रम उपलब्ध नहीं है"
@@ -1767,14 +1775,6 @@ msgstr "क्रिसमस का दिन"
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "क्रिसमस की शाम"
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr ""
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr ""
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"

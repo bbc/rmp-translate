@@ -46,7 +46,7 @@ msgstr "همه قسمت‌ها"
 msgid "all_episodes_iplayer"
 msgstr "همه قسمت‌‌های قابل دسترسی در آی‌پلیر بی‌بی‌سی"
 
-#. English: "All episodes available on BBC iPlayer Radio".
+#. English: "All episodes available".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
 msgid "all_episodes_iplayer_radio"
@@ -473,6 +473,10 @@ msgstr "لطفا موارد زیر را در پیام خود بگنجانید."
 msgid "contact_us"
 msgstr "تماس با ما"
 
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr ""
+
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
 msgstr ""
@@ -726,6 +730,10 @@ msgstr "گرینویچ"
 
 #. English: "Help".
 msgid "help"
+msgstr ""
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
 msgstr ""
 
 #. English: "Hide available episodes".
@@ -1534,7 +1542,7 @@ msgstr "متأسفانه شرحی برای %1 موجود نیست"
 msgid "programme_availability_none"
 msgstr "این برنامه هم اکنون در آی‌پلیر بی‌بی‌سی دردسترس نیست"
 
-#. English: "This programme is not currently available on BBC iPlayer Radio".
+#. English: "This programme is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b03kpkyz .
 #. Priority for: Programmes
 msgid "programme_availability_none_radio"
@@ -1545,7 +1553,7 @@ msgstr "این برنامه هم اکنون در آی‌پلیر رادیو بی
 msgid "programme_availability_past"
 msgstr "این برنامه دیگر در آی‌پلیر بی‌بی‌سی دردسترس نیست"
 
-#. English: "This programme is no longer available on BBC iPlayer Radio".
+#. English: "This programme is no longer available".
 #. Priority for: Programmes
 msgid "programme_availability_past_radio"
 msgstr "این برنامه دیگر در آی‌پلیر رادیو بی‌بی‌سی دردسترس نیست"
@@ -1769,14 +1777,6 @@ msgstr "روز کریسمس"
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "عید کریسمس"
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr ""
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr ""
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"

@@ -47,7 +47,7 @@ msgstr "Tous les épisodes"
 msgid "all_episodes_iplayer"
 msgstr "Tous les épisodes disponibles sur BBC iPlayer"
 
-#. English: "All episodes available on BBC iPlayer Radio".
+#. English: "All episodes available".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
 msgid "all_episodes_iplayer_radio"
@@ -477,6 +477,10 @@ msgstr "Inclure les détails suivants dans votre message:"
 msgid "contact_us"
 msgstr "Contactez-nous"
 
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr ""
+
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
 msgstr ""
@@ -731,6 +735,10 @@ msgstr ""
 
 #. English: "Help".
 msgid "help"
+msgstr ""
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
 msgstr ""
 
 #. English: "Hide available episodes".
@@ -1539,7 +1547,7 @@ msgstr "Désolé, il n'y a pas de profil pour %1"
 msgid "programme_availability_none"
 msgstr "Ce programme est actuellement indisponible sur BBC iPlayer"
 
-#. English: "This programme is not currently available on BBC iPlayer Radio".
+#. English: "This programme is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b03kpkyz .
 #. Priority for: Programmes
 msgid "programme_availability_none_radio"
@@ -1550,7 +1558,7 @@ msgstr "Ce programme est actuellement indisponible sur BBC iPlayer Radio"
 msgid "programme_availability_past"
 msgstr "Ce programme n'est plus disponible sur BBC iPlayer"
 
-#. English: "This programme is no longer available on BBC iPlayer Radio".
+#. English: "This programme is no longer available".
 #. Priority for: Programmes
 msgid "programme_availability_past_radio"
 msgstr "Ce programme n'est plus disponible sur BBC iPlayer Radio"
@@ -1777,14 +1785,6 @@ msgstr "Jour de Noël"
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "Veille de Noël"
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr ""
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr ""
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"

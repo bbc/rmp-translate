@@ -47,11 +47,11 @@ msgstr ""
 msgid "all_episodes_iplayer"
 msgstr "Gach eagrán ar fáil ar BBC iPlayer"
 
-#. English: "All episodes available on BBC iPlayer Radio".
+#. English: "All episodes available".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
 msgid "all_episodes_iplayer_radio"
-msgstr "Níl an clár seo ar fáil ar BBC iPlayer Radio faoi láthair"
+msgstr "Gach eagrán atá ar fáil"
 
 #. English: "All podcasts".
 msgid "all_podcasts"
@@ -476,6 +476,10 @@ msgstr "Cuir isteach na sonraí seo a leanas ar do theachtaireacht le do thoil:"
 msgid "contact_us"
 msgstr "Déan teagmháil linn"
 
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr "Teagmhálaithe agus Eolas"
+
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
 msgstr "%1 Podchraoltaí"
@@ -728,6 +732,10 @@ msgstr ""
 #. English: "Help".
 msgid "help"
 msgstr "Cuidiú"
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
+msgstr "Cuidiú le síniú isteach"
 
 #. English: "Hide available episodes".
 msgid "hide_available_episodes"
@@ -1535,21 +1543,21 @@ msgstr "Níl aon phróifíl ann do %1"
 msgid "programme_availability_none"
 msgstr ""
 
-#. English: "This programme is not currently available on BBC iPlayer Radio".
+#. English: "This programme is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b03kpkyz .
 #. Priority for: Programmes
 msgid "programme_availability_none_radio"
-msgstr "Níl an clár seo ar fáil ar BBC iPlayer Radio faoi láthair"
+msgstr "Níl an clár seo ar fáil faoi láthair"
 
 #. English: "This programme is no longer available on BBC iPlayer".
 #. Priority for: Programmes
 msgid "programme_availability_past"
 msgstr ""
 
-#. English: "This programme is no longer available on BBC iPlayer Radio".
+#. English: "This programme is no longer available".
 #. Priority for: Programmes
 msgid "programme_availability_past_radio"
-msgstr ""
+msgstr "Níl an clár seo ar fáil a thuilleadh"
 
 #. English: "%1 homepage".
 msgid "programme_homepage"
@@ -1774,14 +1782,6 @@ msgstr "Lá Nollag"
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "Oíche Nollag"
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr "Teagmhálaithe agus Eolas"
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr "Cuidiú le síniú isteach"
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"
