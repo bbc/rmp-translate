@@ -47,7 +47,7 @@ msgstr "Makala zote"
 msgid "all_episodes_iplayer"
 msgstr "Makala zote zinazopatikana katika BBC iPlayer"
 
-#. English: "All episodes available on BBC iPlayer Radio".
+#. English: "All episodes available".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
 msgid "all_episodes_iplayer_radio"
@@ -474,6 +474,10 @@ msgstr ""
 msgid "contact_us"
 msgstr ""
 
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr ""
+
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
 msgstr ""
@@ -541,7 +545,7 @@ msgstr "Makala hii itapatikana hivi karibuni"
 msgid "episode_availability_none"
 msgstr "Samahani, makala hii haipatikani kwa sasa"
 
-#. English: "Sorry, this episode is not currently available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b00hc2d9 .
 #. Priority for: Programmes
 msgid "episode_availability_none_radio"
@@ -552,7 +556,7 @@ msgstr "Samahani, makala hii haipatikani kwa sasa katika BBC iPlayer Radio"
 msgid "episode_availability_past"
 msgstr "Samahani, makala hii haipatikani tena"
 
-#. English: "Sorry, this episode is no longer available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is no longer available".
 #. Priority for: Programmes
 msgid "episode_availability_past_radio"
 msgstr "Samahani, makala hii haipatikani tena katika BBC iPlayer Radio"
@@ -727,6 +731,10 @@ msgstr ""
 
 #. English: "Help".
 msgid "help"
+msgstr ""
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
 msgstr ""
 
 #. English: "Hide available episodes".
@@ -1535,7 +1543,7 @@ msgstr ""
 msgid "programme_availability_none"
 msgstr "Kipindi hiki hakipatikani kwa sasa kwenye BBC iPlayer"
 
-#. English: "This programme is not currently available on BBC iPlayer Radio".
+#. English: "This programme is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b03kpkyz .
 #. Priority for: Programmes
 msgid "programme_availability_none_radio"
@@ -1546,7 +1554,7 @@ msgstr "Kipindi hiki hakipatikani kwa sasa kwenye BBC iPlayer Radio"
 msgid "programme_availability_past"
 msgstr "Kipindi hiki hakipatikani tena kwenye BBC iPlayer"
 
-#. English: "This programme is no longer available on BBC iPlayer Radio".
+#. English: "This programme is no longer available".
 #. Priority for: Programmes
 msgid "programme_availability_past_radio"
 msgstr "Kipindi hiki hakipatikani tena kwenye BBC iPlayer Radio"
@@ -1766,14 +1774,6 @@ msgstr ""
 
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
-msgstr ""
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr ""
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
 msgstr ""
 
 #. English: "Last %1".

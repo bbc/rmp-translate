@@ -47,7 +47,7 @@ msgstr "جميع الحلقات"
 msgid "all_episodes_iplayer"
 msgstr "جميع الحلقات متاحة على بي بي سي أي بلير"
 
-#. English: "All episodes available on BBC iPlayer Radio".
+#. English: "All episodes available".
 #. Priority for: Programmes
 #. Example URL: http://www.bbc.co.uk/programmes/b006qpgr .
 msgid "all_episodes_iplayer_radio"
@@ -475,6 +475,10 @@ msgstr "يرحى إضافة هذه المعلومات عند إرسال الرس
 msgid "contact_us"
 msgstr "تواصل معنا"
 
+#. English: "Contacts and Information"
+msgid "contacts_and_information"
+msgstr ""
+
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
 msgstr ""
@@ -542,7 +546,7 @@ msgstr "هذه الحلقة سوف تكون متوفرة قريبا"
 msgid "episode_availability_none"
 msgstr "عذرا، هذه الحلقة غير متاحة حاليا"
 
-#. English: "Sorry, this episode is not currently available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b00hc2d9 .
 #. Priority for: Programmes
 msgid "episode_availability_none_radio"
@@ -553,7 +557,7 @@ msgstr "عذرا، هذه الحلقة غير متاحة حاليا على BBC i
 msgid "episode_availability_past"
 msgstr "عذرا، هذه الحلقة لم تعد متاحة"
 
-#. English: "Sorry, this episode is no longer available on BBC iPlayer Radio".
+#. English: "Sorry, this episode is no longer available".
 #. Priority for: Programmes
 msgid "episode_availability_past_radio"
 msgstr "عذرا، هذه الحلقة لم تعد متاحة على BBC iPlayer Radio"
@@ -726,6 +730,10 @@ msgstr ""
 
 #. English: "Help".
 msgid "help"
+msgstr ""
+
+#. English: "Help with Signing In"
+msgid "help_with_signing_in"
 msgstr ""
 
 #. English: "Hide available episodes".
@@ -1534,7 +1542,7 @@ msgstr "Sorry there are no profiles for %1"
 msgid "programme_availability_none"
 msgstr "هذا البرنامج حاليا ليسا متاحا على BBC iPlayer"
 
-#. English: "This programme is not currently available on BBC iPlayer Radio".
+#. English: "This programme is not currently available".
 #. Example URL: http://www.bbc.co.uk/programmes/b03kpkyz .
 #. Priority for: Programmes
 msgid "programme_availability_none_radio"
@@ -1545,7 +1553,7 @@ msgstr "هذا البرنامج ليس متاحا حاليا على BBC iPlayer 
 msgid "programme_availability_past"
 msgstr "هذا البرنامج لم يعد متوفرا على BBC iPlayer"
 
-#. English: "This programme is no longer available on BBC iPlayer Radio".
+#. English: "This programme is no longer available".
 #. Priority for: Programmes
 msgid "programme_availability_past_radio"
 msgstr "هذا البرنامج لم يعد متوفرا على BBC iPlayer راديو"
@@ -1770,14 +1778,6 @@ msgstr "يوم الكريسمس"
 #. English: "Christmas Eve".
 msgid "schedules_christmas_eve"
 msgstr "Christmas Eve"
-
-#. English: "Contacts and Information"
-msgid "contacts_and_information"
-msgstr ""
-
-#. English: "Help with Signing In"
-msgid "help_with_signing_in"
-msgstr ""
 
 #. English: "Last %1".
 msgid "schedules_last_weekday"
