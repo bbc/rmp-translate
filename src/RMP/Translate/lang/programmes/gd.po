@@ -315,9 +315,9 @@ msgstr[2] "Roinnean"
 msgid "categories_noresults"
 msgstr "Duilich, chan eil toraidhean ann airson an roinn seo"
 
-#. English: "Pick a category to see BBC Radio programmes".
+#. English: "Select a category to browse radio shows, podcasts or music mixes".
 msgid "categories_subheading"
-msgstr "Tagh roinn airson prògraman BBC Radio fhaicinn"
+msgstr "Roghnaigh catagóir le brabhsáil a dhéanamh ar chláir raidió, podchroaltaí agus meascthaí ceoil"
 
 #. English: "This category can be found on the stations highlighted below".
 msgid "category_stations_note"

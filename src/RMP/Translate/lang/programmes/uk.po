@@ -315,7 +315,7 @@ msgstr[2] ""
 msgid "categories_noresults"
 msgstr ""
 
-#. English: "Pick a category to see BBC Radio programmes".
+#. English: "Select a category to browse radio shows, podcasts or music mixes".
 msgid "categories_subheading"
 msgstr ""
 

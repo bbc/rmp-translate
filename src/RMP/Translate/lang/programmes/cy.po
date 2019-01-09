@@ -316,9 +316,9 @@ msgstr[2] "Categorïau"
 msgid "categories_noresults"
 msgstr "Ymddiheuriadau ond does dim canlyniadau ar gyfer y categori hwn"
 
-#. English: "Pick a category to see BBC Radio programmes".
+#. English: "Select a category to browse radio shows, podcasts or music mixes".
 msgid "categories_subheading"
-msgstr "Dewiswch gategori er mwyn gweld rhaglenni BBC Radio"
+msgstr "Dewiswch gategori er mwyn chwilio drwy raglenni radio, podlediadau neu gymysgiadau cerddoriaeth"
 
 #. English: "This category can be found on the stations highlighted below".
 msgid "category_stations_note"
