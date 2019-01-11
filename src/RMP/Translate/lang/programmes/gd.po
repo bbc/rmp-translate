@@ -317,7 +317,7 @@ msgstr "Duilich, chan eil toraidhean ann airson an roinn seo"
 
 #. English: "Select a category to browse radio shows, podcasts or music mixes".
 msgid "categories_subheading"
-msgstr "Roghnaigh catagóir le brabhsáil a dhéanamh ar chláir raidió, podchroaltaí agus meascthaí ceoil"
+msgstr "Tagh roinn is lorg prògraman rèidio, podcastan no ceòl."
 
 #. English: "This category can be found on the stations highlighted below".
 msgid "category_stations_note"
