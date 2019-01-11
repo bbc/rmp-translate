@@ -315,9 +315,9 @@ msgstr[2] "Catagóirí"
 msgid "categories_noresults"
 msgstr "Buartha, níl toradh ar bith don chatagóir seo"
 
-#. English: "Pick a category to see BBC Radio programmes".
+#. English: "Select a category to browse radio shows, podcasts or music mixes".
 msgid "categories_subheading"
-msgstr "Roghnaigh catagóir le cláir BBC Radio a fheiceáil"
+msgstr "Tagh roinn is lorg prògraman rèidio, podcastan no ceòl."
 
 #. English: "This category can be found on the stations highlighted below".
 msgid "category_stations_note"
