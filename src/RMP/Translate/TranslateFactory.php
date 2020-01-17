@@ -27,7 +27,10 @@ class TranslateFactory
         // List all domains (translation sets) you want to load
         'default_domain' => 'programmes',
         // List all domains (translation sets) you want to load
-        'domains' => array('programmes')
+        'domains' => array('programmes'),
+        // Allow overriding PO file loader to fix broken behaviour introduced in
+        // https://github.com/symfony/symfony/pull/31266
+        'po_file_loader' => null,
     );
 
     public function __construct(array $defaultOptions = array())
@@ -70,9 +73,9 @@ class TranslateFactory
 
         $filesFound = false;
 
-        $translator->addLoader('pofile', new PoFileLoader());
-
+        $poFileLoader = is_object($options['po_file_loader']) ? $options['po_file_loader'] : new PoFileLoader();
         // Allow multiple domains to be defined (e.g. 'radio' and 'programmes')
+        $translator->addLoader('pofile', $poFileLoader);
         foreach ($options['domains'] as $domain) {
             $path = $this->getFilePath($options['basepath'], $locale, $domain);
             if ($path) {
