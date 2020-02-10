@@ -473,7 +473,7 @@ msgstr ""
 msgid "contact_us"
 msgstr ""
 
-#. English: "Contacts and Information"
+#. English: "Contacts, Privacy and Information"
 msgid "contacts_and_information"
 msgstr ""
 
