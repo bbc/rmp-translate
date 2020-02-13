@@ -475,9 +475,9 @@ msgstr "Please include the following details on your message:"
 msgid "contact_us"
 msgstr "Contact us"
 
-#. English: "Contacts and Information"
+#. English: "Contacts, Privacy and Information"
 msgid "contacts_and_information"
-msgstr "Contacts and Information"
+msgstr "Contacts, Privacy and Information"
 
 #. English: "%1 Podcasts".
 msgid "context_podcasts"
